@@ -1,0 +1,4086 @@
+{
+ "resumen": [
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "2024": 33,
+   "2025": 29,
+   "variacion": -12,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "2024": 2061,
+   "2025": 1941,
+   "variacion": -6,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "2024": 1658,
+   "2025": 1600,
+   "variacion": -3,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "2024": 1732,
+   "2025": 1618,
+   "variacion": -7,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "2024": 1767,
+   "2025": 1711,
+   "variacion": -3,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "2024": 5,
+   "2025": 10,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "2024": 1623,
+   "2025": 1662,
+   "variacion": 2,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "2024": 1694,
+   "2025": 2355,
+   "variacion": 39,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "2024": 84,
+   "2025": 74,
+   "variacion": -12,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "2024": 750,
+   "2025": 726,
+   "variacion": -3,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "2024": 137,
+   "2025": 145,
+   "variacion": 6,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "2024": 230,
+   "2025": 245,
+   "variacion": 7,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "2024": 131,
+   "2025": 146,
+   "variacion": 11,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "2024": 11,
+   "2025": 16,
+   "variacion": 45,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "2024": 106,
+   "2025": 107,
+   "variacion": 1,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "2024": 126,
+   "2025": 178,
+   "variacion": 41,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "2024": 634,
+   "2025": 423,
+   "variacion": -33,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "2024": 1323,
+   "2025": 1099,
+   "variacion": -17,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "2024": 1745,
+   "2025": 1621,
+   "variacion": -7,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "2024": 287,
+   "2025": 235,
+   "variacion": -18,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "2024": 165,
+   "2025": 152,
+   "variacion": -8,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Coquimbo"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 5,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 6,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 8,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 7,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 6,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 263,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 206,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 207,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 258,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 186,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 159,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 194,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 188,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 288,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 232,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 196,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 189,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 193,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 184,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 249,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 181,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 199,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 181,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 193,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 205,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 272,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 84,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 176,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 115,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 178,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 236,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 167,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 107,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 188,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 198,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 196,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 124,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 126,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 110,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 203,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 128,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 306,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 186,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 135,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 115,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 95,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 155,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 174,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 103,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 223,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 178,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 142,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 190,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 168,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 162,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 221,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 147,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 215,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 183,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 181,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 166,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 178,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 151,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 201,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 157,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 151,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 199,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 158,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 152,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 203,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 68,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 213,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 192,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 172,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 204,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 133,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 142,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 187,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 169,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 263,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 172,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 168,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 185,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 235,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 170,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 203,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 177,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 172,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 164,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 149,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 155,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 227,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 59,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 173,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 155,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 110,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 127,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 119,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 135,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 153,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 124,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 468,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 130,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 131,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 154,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 175,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 140,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 117,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 75,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 94,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 145,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 116,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 127,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 631,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 42,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 281,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 139,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 174,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 153,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 123,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 133,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 246,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 184,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 206,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 107,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 156,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 216,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 448,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 161,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 247,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 223,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 174,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 192,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 231,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 237,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 297,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 145,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 10,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 11,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 15,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 5,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 8,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 11,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 14,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 7,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 12,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 7,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 5,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 8,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 8,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 5,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 15,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 103,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 66,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 65,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 95,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 80,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 62,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 87,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 56,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 92,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 91,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 77,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 59,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 81,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 57,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 111,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 58,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 73,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 74,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 58,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 60,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 105,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 49,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 25,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 14,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 9,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 14,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 13,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 11,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 14,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 10,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 19,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 10,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 17,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 11,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 21,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 24,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 14,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 10,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 13,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 20,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 11,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 10,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 17,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 5,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 30,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 11,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 16,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 34,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 27,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 18,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 29,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 19,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 26,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 28,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 23,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 25,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 25,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 19,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 31,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 21,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 28,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 22,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 16,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 23,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 45,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 15,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 13,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 10,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 11,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 21,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 13,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 11,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 14,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 13,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 17,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 15,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 13,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 9,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 22,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 13,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 18,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 12,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 14,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 17,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 14,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 13,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 16,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 7,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 6,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 11,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 7,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 14,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 12,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 7,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 8,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 17,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 13,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 14,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 9,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 5,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 16,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 21,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 15,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 13,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 10,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 13,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 7,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 15,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 7,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 16,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 10,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 13,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 13,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 7,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 11,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 19,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 11,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 18,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 20,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 16,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 19,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 22,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 13,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 20,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 17,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 20,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 24,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 17,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 14,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 18,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 13,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 71,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 49,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 66,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 62,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 56,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 83,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 64,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 53,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 106,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 46,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 69,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 51,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 54,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 37,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 56,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 35,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 32,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 52,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 31,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 41,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 58,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 27,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 150,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 137,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 114,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 126,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 119,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 136,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 135,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 143,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 203,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 144,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 124,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 117,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 176,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 135,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 170,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 82,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 74,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 118,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 93,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 73,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 119,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 59,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 207,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 206,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 156,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 162,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 155,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 164,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 227,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 167,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 206,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 193,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 192,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 160,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 188,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 131,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 198,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 193,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 154,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 174,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 167,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 170,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 182,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 64,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 19,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 21,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 16,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 26,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 20,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 30,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 21,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 17,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 106,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 27,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 23,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 17,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 21,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 26,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 19,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 19,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 20,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 17,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 16,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 17,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 74,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 6,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 23,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 19,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 20,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 15,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 12,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 10,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 20,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 12,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 24,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 22,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 9,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 18,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 7,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 12,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 34,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 23,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 18,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 7,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 12,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 20,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 14,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 5,
+   "COMUNA": "Coquimbo"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 4102,
+   "delito": "AMENAZAS CON ARMAS",
+   "2023": 53,
+   "2024": 33,
+   "2025": 29,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4102,
+   "delito": "AMENAZAS Y RIÑAS",
+   "2023": 2012,
+   "2024": 2061,
+   "2025": 1941,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4102,
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "2023": 1355,
+   "2024": 1658,
+   "2025": 1600,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4102,
+   "delito": "DAÑOS",
+   "2023": 1723,
+   "2024": 1732,
+   "2025": 1618,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4102,
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "2023": 1867,
+   "2024": 1767,
+   "2025": 1711,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4102,
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "2023": 11,
+   "2024": 5,
+   "2025": 10,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4102,
+   "delito": "HURTOS",
+   "2023": 1353,
+   "2024": 1623,
+   "2025": 1662,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4102,
+   "delito": "INCIVILIDADES",
+   "2023": 1615,
+   "2024": 1694,
+   "2025": 2355,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4102,
+   "delito": "LESIONES GRAVES",
+   "2023": 69,
+   "2024": 84,
+   "2025": 74,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4102,
+   "delito": "LESIONES LEVES",
+   "2023": 766,
+   "2024": 750,
+   "2025": 726,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4102,
+   "delito": "LESIONES MENOS GRAVES",
+   "2023": 149,
+   "2024": 137,
+   "2025": 145,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4102,
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "2023": 196,
+   "2024": 230,
+   "2025": 245,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4102,
+   "delito": "LEY DE DROGAS",
+   "2023": 138,
+   "2024": 131,
+   "2025": 146,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4102,
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "2023": 14,
+   "2024": 11,
+   "2025": 16,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4102,
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "2023": 67,
+   "2024": 106,
+   "2025": 107,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4102,
+   "delito": "RECEPTACIÓN",
+   "2023": 139,
+   "2024": 126,
+   "2025": 178,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4102,
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "2023": 646,
+   "2024": 634,
+   "2025": 423,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4102,
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "2023": 1017,
+   "2024": 1323,
+   "2025": 1099,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4102,
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "2023": 1628,
+   "2024": 1745,
+   "2025": 1621,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4102,
+   "delito": "ROBOS POR SORPRESA",
+   "2023": 207,
+   "2024": 287,
+   "2025": 235,
+   "COMUNA": "Coquimbo"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4102,
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "2023": 202,
+   "2024": 165,
+   "2025": 152,
+   "COMUNA": "Coquimbo"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
+  "region": "Coquimbo"
+ }
+}
