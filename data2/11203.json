@@ -30,10 +30,10 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 11203,
-   "2024": 4,
+   "2024": 5,
    "2025": 4,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -20,
+   "situación": "Disminución de Casos",
    "COMUNA": "Guaitecas"
   },
   {
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 11203,
    "2024": 15,
-   "2025": 16,
-   "variacion": 7,
+   "2025": 17,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "Guaitecas"
   },
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 11203,
-   "2024": 5,
+   "2024": 6,
    "2025": 6,
-   "variacion": 20,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Guaitecas"
   },
   {
@@ -1588,7 +1588,7 @@
    "CODCOM": 11203,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Guaitecas"
   },
   {
@@ -3895,7 +3895,7 @@
    "informacion": "Casos",
    "CODCOM": 11203,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 155,
+   "2023": 159,
    "2024": 120,
    "2025": 37,
    "COMUNA": "Guaitecas"
@@ -3905,7 +3905,7 @@
    "CODCOM": 11203,
    "delito": "DAÑOS",
    "2023": 6,
-   "2024": 4,
+   "2024": 5,
    "2025": 4,
    "COMUNA": "Guaitecas"
   },
@@ -3942,7 +3942,7 @@
    "delito": "INCIVILIDADES",
    "2023": 21,
    "2024": 15,
-   "2025": 16,
+   "2025": 17,
    "COMUNA": "Guaitecas"
   },
   {
@@ -3959,7 +3959,7 @@
    "CODCOM": 11203,
    "delito": "LESIONES LEVES",
    "2023": 14,
-   "2024": 5,
+   "2024": 6,
    "2025": 6,
    "COMUNA": "Guaitecas"
   },
@@ -4064,7 +4064,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
+  "semana_id": "SEMANA 43/2025 (del 20/10/2025 al 26/10/2025)",
   "region": "Aysén"
  }
 }

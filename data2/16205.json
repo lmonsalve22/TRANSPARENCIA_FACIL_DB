@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16205,
-   "2024": 25,
+   "2024": 27,
    "2025": 17,
-   "variacion": -32,
+   "variacion": -37,
    "situación": "Disminución de Casos",
    "COMUNA": "Portezuelo"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 16205,
    "2024": 12,
-   "2025": 13,
-   "variacion": 8,
+   "2025": 15,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "Portezuelo"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16205,
    "2024": 9,
-   "2025": 12,
-   "variacion": 33,
+   "2025": 13,
+   "variacion": 44,
    "situación": "Aumento de Casos",
    "COMUNA": "Portezuelo"
   },
@@ -1412,7 +1412,7 @@
    "CODCOM": 16205,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Portezuelo"
   },
   {
@@ -3516,7 +3516,7 @@
    "CODCOM": 16205,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Portezuelo"
   },
   {
@@ -3905,7 +3905,7 @@
    "CODCOM": 16205,
    "delito": "DAÑOS",
    "2023": 26,
-   "2024": 25,
+   "2024": 27,
    "2025": 17,
    "COMUNA": "Portezuelo"
   },
@@ -3931,9 +3931,9 @@
    "informacion": "Casos",
    "CODCOM": 16205,
    "delito": "HURTOS",
-   "2023": 11,
+   "2023": 12,
    "2024": 12,
-   "2025": 13,
+   "2025": 15,
    "COMUNA": "Portezuelo"
   },
   {
@@ -3958,7 +3958,7 @@
    "informacion": "Casos",
    "CODCOM": 16205,
    "delito": "LESIONES LEVES",
-   "2023": 14,
+   "2023": 15,
    "2024": 7,
    "2025": 2,
    "COMUNA": "Portezuelo"
@@ -4041,7 +4041,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 20,
    "2024": 9,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "Portezuelo"
   },
   {
@@ -4064,7 +4064,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
+  "semana_id": "SEMANA 43/2025 (del 20/10/2025 al 26/10/2025)",
   "region": "Ñuble"
  }
 }

@@ -3,17 +3,17 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 5506,
-   "2024": 0,
+   "2024": 1,
    "2025": 2,
-   "variacion": 200,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Nogales"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5506,
-   "2024": 180,
-   "2025": 162,
+   "2024": 185,
+   "2025": 166,
    "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "Nogales"
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5506,
    "2024": 29,
-   "2025": 43,
-   "variacion": 48,
+   "2025": 44,
+   "variacion": 52,
    "situación": "Aumento de Casos",
    "COMUNA": "Nogales"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5506,
-   "2024": 103,
-   "2025": 91,
-   "variacion": -12,
+   "2024": 105,
+   "2025": 93,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "Nogales"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5506,
-   "2024": 95,
-   "2025": 113,
-   "variacion": 19,
+   "2024": 100,
+   "2025": 115,
+   "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "Nogales"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5506,
-   "2024": 56,
-   "2025": 58,
-   "variacion": 4,
+   "2024": 60,
+   "2025": 61,
+   "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "Nogales"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5506,
-   "2024": 49,
+   "2024": 50,
    "2025": 38,
-   "variacion": -22,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "Nogales"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5506,
    "2024": 52,
-   "2025": 47,
-   "variacion": -10,
+   "2025": 48,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "Nogales"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 5506,
    "2024": 72,
-   "2025": 39,
-   "variacion": -46,
+   "2025": 41,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "Nogales"
   },
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5506,
-   "2024": 30,
+   "2024": 32,
    "2025": 34,
-   "variacion": 13,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "Nogales"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5506,
-   "2024": 106,
-   "2025": 99,
-   "variacion": -7,
+   "2024": 110,
+   "2025": 105,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "Nogales"
   },
@@ -540,7 +540,7 @@
    "CODCOM": 5506,
    "anio": 2025,
    "mes": 10,
-   "casos": 11,
+   "casos": 15,
    "COMUNA": "Nogales"
   },
   {
@@ -716,7 +716,7 @@
    "CODCOM": 5506,
    "anio": 2025,
    "mes": 10,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Nogales"
   },
   {
@@ -892,7 +892,7 @@
    "CODCOM": 5506,
    "anio": 2025,
    "mes": 10,
-   "casos": 6,
+   "casos": 8,
    "COMUNA": "Nogales"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 5506,
    "anio": 2025,
    "mes": 10,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "Nogales"
   },
   {
@@ -1420,7 +1420,7 @@
    "CODCOM": 5506,
    "anio": 2025,
    "mes": 10,
-   "casos": 2,
+   "casos": 5,
    "COMUNA": "Nogales"
   },
   {
@@ -2300,7 +2300,7 @@
    "CODCOM": 5506,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Nogales"
   },
   {
@@ -2476,7 +2476,7 @@
    "CODCOM": 5506,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Nogales"
   },
   {
@@ -3532,7 +3532,7 @@
    "CODCOM": 5506,
    "anio": 2025,
    "mes": 10,
-   "casos": 4,
+   "casos": 10,
    "COMUNA": "Nogales"
   },
   {
@@ -3894,7 +3894,7 @@
    "CODCOM": 5506,
    "delito": "AMENAZAS CON ARMAS",
    "2023": 1,
-   "2024": 0,
+   "2024": 1,
    "2025": 2,
    "COMUNA": "Nogales"
   },
@@ -3902,27 +3902,27 @@
    "informacion": "Casos",
    "CODCOM": 5506,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 185,
-   "2024": 180,
-   "2025": 162,
+   "2023": 187,
+   "2024": 185,
+   "2025": 166,
    "COMUNA": "Nogales"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5506,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 113,
+   "2023": 118,
    "2024": 29,
-   "2025": 43,
+   "2025": 44,
    "COMUNA": "Nogales"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5506,
    "delito": "DAÑOS",
-   "2023": 108,
-   "2024": 103,
-   "2025": 91,
+   "2023": 110,
+   "2024": 105,
+   "2025": 93,
    "COMUNA": "Nogales"
   },
   {
@@ -3930,8 +3930,8 @@
    "CODCOM": 5506,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 91,
-   "2024": 95,
-   "2025": 113,
+   "2024": 100,
+   "2025": 115,
    "COMUNA": "Nogales"
   },
   {
@@ -3948,16 +3948,16 @@
    "CODCOM": 5506,
    "delito": "HURTOS",
    "2023": 31,
-   "2024": 56,
-   "2025": 58,
+   "2024": 60,
+   "2025": 61,
    "COMUNA": "Nogales"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5506,
    "delito": "INCIVILIDADES",
-   "2023": 44,
-   "2024": 49,
+   "2023": 45,
+   "2024": 50,
    "2025": 38,
    "COMUNA": "Nogales"
   },
@@ -3974,7 +3974,7 @@
    "informacion": "Casos",
    "CODCOM": 5506,
    "delito": "LESIONES LEVES",
-   "2023": 30,
+   "2023": 32,
    "2024": 36,
    "2025": 52,
    "COMUNA": "Nogales"
@@ -3992,18 +3992,18 @@
    "informacion": "Casos",
    "CODCOM": 5506,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 28,
+   "2023": 29,
    "2024": 52,
-   "2025": 47,
+   "2025": 48,
    "COMUNA": "Nogales"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5506,
    "delito": "LEY DE DROGAS",
-   "2023": 56,
+   "2023": 59,
    "2024": 72,
-   "2025": 39,
+   "2025": 41,
    "COMUNA": "Nogales"
   },
   {
@@ -4038,7 +4038,7 @@
    "CODCOM": 5506,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 31,
-   "2024": 30,
+   "2024": 32,
    "2025": 34,
    "COMUNA": "Nogales"
   },
@@ -4046,7 +4046,7 @@
    "informacion": "Casos",
    "CODCOM": 5506,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 24,
+   "2023": 25,
    "2024": 26,
    "2025": 19,
    "COMUNA": "Nogales"
@@ -4055,9 +4055,9 @@
    "informacion": "Casos",
    "CODCOM": 5506,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 132,
-   "2024": 106,
-   "2025": 99,
+   "2023": 136,
+   "2024": 110,
+   "2025": 105,
    "COMUNA": "Nogales"
   },
   {
@@ -4080,7 +4080,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
+  "semana_id": "SEMANA 43/2025 (del 20/10/2025 al 26/10/2025)",
   "region": "Valparaíso"
  }
 }

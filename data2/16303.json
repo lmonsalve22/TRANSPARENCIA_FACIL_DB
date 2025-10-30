@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16303,
-   "2024": 72,
+   "2024": 75,
    "2025": 50,
-   "variacion": -31,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Ñiquén"
   },
@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 16303,
    "2024": 74,
-   "2025": 66,
-   "variacion": -11,
+   "2025": 67,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "Ñiquén"
   },
@@ -75,18 +75,18 @@
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16303,
-   "2024": 2,
+   "2024": 3,
    "2025": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33,
+   "situación": "Disminución de Casos",
    "COMUNA": "Ñiquén"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16303,
-   "2024": 11,
+   "2024": 12,
    "2025": 7,
-   "variacion": -36,
+   "variacion": -42,
    "situación": "Disminución de Casos",
    "COMUNA": "Ñiquén"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16303,
-   "2024": 59,
+   "2024": 61,
    "2025": 45,
-   "variacion": -24,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "Ñiquén"
   },
@@ -892,7 +892,7 @@
    "CODCOM": 16303,
    "anio": 2025,
    "mes": 10,
-   "casos": 7,
+   "casos": 8,
    "COMUNA": "Ñiquén"
   },
   {
@@ -3902,8 +3902,8 @@
    "informacion": "Casos",
    "CODCOM": 16303,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 86,
-   "2024": 72,
+   "2023": 88,
+   "2024": 75,
    "2025": 50,
    "COMUNA": "Ñiquén"
   },
@@ -3922,14 +3922,14 @@
    "delito": "DAÑOS",
    "2023": 89,
    "2024": 74,
-   "2025": 66,
+   "2025": 67,
    "COMUNA": "Ñiquén"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16303,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 58,
+   "2023": 60,
    "2024": 50,
    "2025": 44,
    "COMUNA": "Ñiquén"
@@ -3966,7 +3966,7 @@
    "CODCOM": 16303,
    "delito": "LESIONES GRAVES",
    "2023": 3,
-   "2024": 2,
+   "2024": 3,
    "2025": 2,
    "COMUNA": "Ñiquén"
   },
@@ -3974,8 +3974,8 @@
    "informacion": "Casos",
    "CODCOM": 16303,
    "delito": "LESIONES LEVES",
-   "2023": 15,
-   "2024": 11,
+   "2023": 16,
+   "2024": 12,
    "2025": 7,
    "COMUNA": "Ñiquén"
   },
@@ -4056,7 +4056,7 @@
    "CODCOM": 16303,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 44,
-   "2024": 59,
+   "2024": 61,
    "2025": 45,
    "COMUNA": "Ñiquén"
   },
@@ -4080,7 +4080,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
+  "semana_id": "SEMANA 43/2025 (del 20/10/2025 al 26/10/2025)",
   "region": "Ñuble"
  }
 }

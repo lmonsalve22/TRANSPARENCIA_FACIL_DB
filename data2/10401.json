@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10401,
-   "2024": 31,
+   "2024": 32,
    "2025": 12,
-   "variacion": -61,
+   "variacion": -62,
    "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
@@ -30,19 +30,19 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 10401,
-   "2024": 39,
+   "2024": 40,
    "2025": 24,
-   "variacion": -38,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10401,
-   "2024": 26,
+   "2024": 29,
    "2025": 29,
-   "variacion": 12,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Chaitén"
   },
   {
@@ -58,17 +58,17 @@
    "delito": "HURTOS",
    "CODCOM": 10401,
    "2024": 12,
-   "2025": 8,
-   "variacion": -33,
+   "2025": 9,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10401,
-   "2024": 15,
+   "2024": 16,
    "2025": 13,
-   "variacion": -13,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 10401,
-   "2024": 1,
+   "2024": 2,
    "2025": 3,
-   "variacion": 200,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "Chaitén"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10401,
    "2024": 16,
-   "2025": 5,
-   "variacion": -69,
+   "2025": 6,
+   "variacion": -62,
    "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
@@ -1412,7 +1412,7 @@
    "CODCOM": 10401,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Chaitén"
   },
   {
@@ -3524,7 +3524,7 @@
    "CODCOM": 10401,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Chaitén"
   },
   {
@@ -3887,7 +3887,7 @@
    "CODCOM": 10401,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 26,
-   "2024": 31,
+   "2024": 32,
    "2025": 12,
    "COMUNA": "Chaitén"
   },
@@ -3905,7 +3905,7 @@
    "CODCOM": 10401,
    "delito": "DAÑOS",
    "2023": 43,
-   "2024": 39,
+   "2024": 40,
    "2025": 24,
    "COMUNA": "Chaitén"
   },
@@ -3913,8 +3913,8 @@
    "informacion": "Casos",
    "CODCOM": 10401,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 39,
-   "2024": 26,
+   "2023": 42,
+   "2024": 29,
    "2025": 29,
    "COMUNA": "Chaitén"
   },
@@ -3931,17 +3931,17 @@
    "informacion": "Casos",
    "CODCOM": 10401,
    "delito": "HURTOS",
-   "2023": 14,
+   "2023": 15,
    "2024": 12,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "Chaitén"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10401,
    "delito": "INCIVILIDADES",
-   "2023": 30,
-   "2024": 15,
+   "2023": 31,
+   "2024": 16,
    "2025": 13,
    "COMUNA": "Chaitén"
   },
@@ -4003,8 +4003,8 @@
    "informacion": "Casos",
    "CODCOM": 10401,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "2023": 2,
-   "2024": 1,
+   "2023": 3,
+   "2024": 2,
    "2025": 3,
    "COMUNA": "Chaitén"
   },
@@ -4039,9 +4039,9 @@
    "informacion": "Casos",
    "CODCOM": 10401,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 9,
+   "2023": 10,
    "2024": 16,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "Chaitén"
   },
   {
@@ -4064,7 +4064,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
+  "semana_id": "SEMANA 43/2025 (del 20/10/2025 al 26/10/2025)",
   "region": "Los Lagos"
  }
 }

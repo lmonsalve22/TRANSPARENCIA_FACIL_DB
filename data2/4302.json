@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4302,
-   "2024": 56,
-   "2025": 70,
-   "variacion": 25,
+   "2024": 60,
+   "2025": 72,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "Combarbalá"
   },
@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 4302,
    "2024": 35,
-   "2025": 56,
-   "variacion": 60,
+   "2025": 58,
+   "variacion": 66,
    "situación": "Aumento de Casos",
    "COMUNA": "Combarbalá"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4302,
-   "2024": 18,
+   "2024": 19,
    "2025": 23,
-   "variacion": 28,
+   "variacion": 21,
    "situación": "Aumento de Casos",
    "COMUNA": "Combarbalá"
   },
@@ -84,8 +84,8 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 4302,
-   "2024": 27,
-   "2025": 29,
+   "2024": 28,
+   "2025": 30,
    "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "Combarbalá"
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 4302,
-   "2024": 22,
-   "2025": 39,
-   "variacion": 77,
+   "2024": 25,
+   "2025": 40,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "Combarbalá"
   },
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 4302,
-   "2024": 3,
+   "2024": 4,
    "2025": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -25,
+   "situación": "Disminución de Casos",
    "COMUNA": "Combarbalá"
   }
  ],
@@ -540,7 +540,7 @@
    "CODCOM": 4302,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Combarbalá"
   },
   {
@@ -892,7 +892,7 @@
    "CODCOM": 4302,
    "anio": 2025,
    "mes": 10,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "Combarbalá"
   },
   {
@@ -1948,7 +1948,7 @@
    "CODCOM": 4302,
    "anio": 2025,
    "mes": 10,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Combarbalá"
   },
   {
@@ -3532,7 +3532,7 @@
    "CODCOM": 4302,
    "anio": 2025,
    "mes": 10,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Combarbalá"
   },
   {
@@ -3902,16 +3902,16 @@
    "informacion": "Casos",
    "CODCOM": 4302,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 69,
-   "2024": 56,
-   "2025": 70,
+   "2023": 70,
+   "2024": 60,
+   "2025": 72,
    "COMUNA": "Combarbalá"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4302,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 87,
+   "2023": 88,
    "2024": 69,
    "2025": 66,
    "COMUNA": "Combarbalá"
@@ -3920,16 +3920,16 @@
    "informacion": "Casos",
    "CODCOM": 4302,
    "delito": "DAÑOS",
-   "2023": 56,
+   "2023": 59,
    "2024": 35,
-   "2025": 56,
+   "2025": 58,
    "COMUNA": "Combarbalá"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4302,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 33,
+   "2023": 35,
    "2024": 31,
    "2025": 48,
    "COMUNA": "Combarbalá"
@@ -3948,7 +3948,7 @@
    "CODCOM": 4302,
    "delito": "HURTOS",
    "2023": 21,
-   "2024": 18,
+   "2024": 19,
    "2025": 23,
    "COMUNA": "Combarbalá"
   },
@@ -3956,7 +3956,7 @@
    "informacion": "Casos",
    "CODCOM": 4302,
    "delito": "INCIVILIDADES",
-   "2023": 58,
+   "2023": 60,
    "2024": 30,
    "2025": 27,
    "COMUNA": "Combarbalá"
@@ -3974,9 +3974,9 @@
    "informacion": "Casos",
    "CODCOM": 4302,
    "delito": "LESIONES LEVES",
-   "2023": 36,
-   "2024": 27,
-   "2025": 29,
+   "2023": 37,
+   "2024": 28,
+   "2025": 30,
    "COMUNA": "Combarbalá"
   },
   {
@@ -4001,7 +4001,7 @@
    "informacion": "Casos",
    "CODCOM": 4302,
    "delito": "LEY DE DROGAS",
-   "2023": 10,
+   "2023": 11,
    "2024": 6,
    "2025": 13,
    "COMUNA": "Combarbalá"
@@ -4028,7 +4028,7 @@
    "informacion": "Casos",
    "CODCOM": 4302,
    "delito": "RECEPTACIÓN",
-   "2023": 0,
+   "2023": 1,
    "2024": 2,
    "2025": 6,
    "COMUNA": "Combarbalá"
@@ -4056,8 +4056,8 @@
    "CODCOM": 4302,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 40,
-   "2024": 22,
-   "2025": 39,
+   "2024": 25,
+   "2025": 40,
    "COMUNA": "Combarbalá"
   },
   {
@@ -4074,13 +4074,13 @@
    "CODCOM": 4302,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 11,
-   "2024": 3,
+   "2024": 4,
    "2025": 3,
    "COMUNA": "Combarbalá"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
+  "semana_id": "SEMANA 43/2025 (del 20/10/2025 al 26/10/2025)",
   "region": "Coquimbo"
  }
 }

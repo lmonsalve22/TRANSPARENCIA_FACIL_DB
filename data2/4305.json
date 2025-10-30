@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 4305,
-   "2024": 20,
+   "2024": 21,
    "2025": 21,
-   "variacion": 5,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Río Hurtado"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 4305,
    "2024": 16,
-   "2025": 8,
-   "variacion": -50,
+   "2025": 9,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Hurtado"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 4305,
-   "2024": 7,
+   "2024": 9,
    "2025": 6,
-   "variacion": -14,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Hurtado"
   },
@@ -1068,7 +1068,7 @@
    "CODCOM": 4305,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Río Hurtado"
   },
   {
@@ -3894,7 +3894,7 @@
    "informacion": "Casos",
    "CODCOM": 4305,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 20,
+   "2023": 21,
    "2024": 12,
    "2025": 8,
    "COMUNA": "Río Hurtado"
@@ -3912,8 +3912,8 @@
    "informacion": "Casos",
    "CODCOM": 4305,
    "delito": "DAÑOS",
-   "2023": 21,
-   "2024": 20,
+   "2023": 22,
+   "2024": 21,
    "2025": 21,
    "COMUNA": "Río Hurtado"
   },
@@ -3921,9 +3921,9 @@
    "informacion": "Casos",
    "CODCOM": 4305,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 27,
+   "2023": 28,
    "2024": 16,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "Río Hurtado"
   },
   {
@@ -4048,7 +4048,7 @@
    "CODCOM": 4305,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 8,
-   "2024": 7,
+   "2024": 9,
    "2025": 6,
    "COMUNA": "Río Hurtado"
   },
@@ -4072,7 +4072,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
+  "semana_id": "SEMANA 43/2025 (del 20/10/2025 al 26/10/2025)",
   "region": "Coquimbo"
  }
 }

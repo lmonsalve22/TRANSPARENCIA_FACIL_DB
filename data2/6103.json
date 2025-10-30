@@ -3,18 +3,18 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 6103,
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Coinco"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6103,
-   "2024": 49,
-   "2025": 47,
-   "variacion": -4,
+   "2024": 52,
+   "2025": 48,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "Coinco"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6103,
-   "2024": 27,
+   "2024": 28,
    "2025": 8,
-   "variacion": -70,
+   "variacion": -71,
    "situación": "Disminución de Casos",
    "COMUNA": "Coinco"
   },
@@ -540,7 +540,7 @@
    "CODCOM": 6103,
    "anio": 2025,
    "mes": 10,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Coinco"
   },
   {
@@ -3886,7 +3886,7 @@
    "CODCOM": 6103,
    "delito": "AMENAZAS CON ARMAS",
    "2023": 2,
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "Coinco"
   },
@@ -3894,16 +3894,16 @@
    "informacion": "Casos",
    "CODCOM": 6103,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 55,
-   "2024": 49,
-   "2025": 47,
+   "2023": 56,
+   "2024": 52,
+   "2025": 48,
    "COMUNA": "Coinco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6103,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 55,
+   "2023": 57,
    "2024": 41,
    "2025": 68,
    "COMUNA": "Coinco"
@@ -3912,7 +3912,7 @@
    "informacion": "Casos",
    "CODCOM": 6103,
    "delito": "DAÑOS",
-   "2023": 46,
+   "2023": 48,
    "2024": 44,
    "2025": 33,
    "COMUNA": "Coinco"
@@ -3939,7 +3939,7 @@
    "informacion": "Casos",
    "CODCOM": 6103,
    "delito": "HURTOS",
-   "2023": 22,
+   "2023": 23,
    "2024": 22,
    "2025": 16,
    "COMUNA": "Coinco"
@@ -3949,7 +3949,7 @@
    "CODCOM": 6103,
    "delito": "INCIVILIDADES",
    "2023": 15,
-   "2024": 27,
+   "2024": 28,
    "2025": 8,
    "COMUNA": "Coinco"
   },
@@ -3966,7 +3966,7 @@
    "informacion": "Casos",
    "CODCOM": 6103,
    "delito": "LESIONES LEVES",
-   "2023": 19,
+   "2023": 20,
    "2024": 10,
    "2025": 17,
    "COMUNA": "Coinco"
@@ -4065,14 +4065,14 @@
    "informacion": "Casos",
    "CODCOM": 6103,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 9,
+   "2023": 10,
    "2024": 4,
    "2025": 5,
    "COMUNA": "Coinco"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
+  "semana_id": "SEMANA 43/2025 (del 20/10/2025 al 26/10/2025)",
   "region": "O'Higgins"
  }
 }

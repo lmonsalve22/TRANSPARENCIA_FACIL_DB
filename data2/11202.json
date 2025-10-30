@@ -13,35 +13,35 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 11202,
    "2024": 42,
-   "2025": 32,
-   "variacion": -24,
+   "2025": 33,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "Cisnes"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11202,
-   "2024": 134,
+   "2024": 136,
    "2025": 144,
-   "variacion": 7,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "Cisnes"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 11202,
-   "2024": 46,
+   "2024": 47,
    "2025": 43,
-   "variacion": -7,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "Cisnes"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11202,
-   "2024": 46,
+   "2024": 47,
    "2025": 35,
-   "variacion": -24,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "Cisnes"
   },
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 11202,
-   "2024": 0,
+   "2024": 1,
    "2025": 2,
-   "variacion": 200,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Cisnes"
   },
@@ -157,17 +157,17 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 11202,
    "2024": 1,
-   "2025": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cisnes"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 11202,
    "2024": 14,
-   "2025": 18,
-   "variacion": 29,
+   "2025": 19,
+   "variacion": 36,
    "situación": "Aumento de Casos",
    "COMUNA": "Cisnes"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 11202,
-   "2024": 5,
+   "2024": 6,
    "2025": 4,
-   "variacion": -20,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Cisnes"
   }
@@ -540,7 +540,7 @@
    "CODCOM": 11202,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Cisnes"
   },
   {
@@ -3356,7 +3356,7 @@
    "CODCOM": 11202,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Cisnes"
   },
   {
@@ -3532,7 +3532,7 @@
    "CODCOM": 11202,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Cisnes"
   },
   {
@@ -3894,17 +3894,17 @@
    "informacion": "Casos",
    "CODCOM": 11202,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 34,
+   "2023": 35,
    "2024": 42,
-   "2025": 32,
+   "2025": 33,
    "COMUNA": "Cisnes"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11202,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 118,
-   "2024": 134,
+   "2023": 120,
+   "2024": 136,
    "2025": 144,
    "COMUNA": "Cisnes"
   },
@@ -3912,8 +3912,8 @@
    "informacion": "Casos",
    "CODCOM": 11202,
    "delito": "DAÑOS",
-   "2023": 36,
-   "2024": 46,
+   "2023": 37,
+   "2024": 47,
    "2025": 43,
    "COMUNA": "Cisnes"
   },
@@ -3921,8 +3921,8 @@
    "informacion": "Casos",
    "CODCOM": 11202,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 43,
-   "2024": 46,
+   "2023": 45,
+   "2024": 47,
    "2025": 35,
    "COMUNA": "Cisnes"
   },
@@ -4012,7 +4012,7 @@
    "CODCOM": 11202,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 0,
-   "2024": 0,
+   "2024": 1,
    "2025": 2,
    "COMUNA": "Cisnes"
   },
@@ -4040,7 +4040,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 1,
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "Cisnes"
   },
   {
@@ -4049,7 +4049,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 10,
    "2024": 14,
-   "2025": 18,
+   "2025": 19,
    "COMUNA": "Cisnes"
   },
   {
@@ -4066,13 +4066,13 @@
    "CODCOM": 11202,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 6,
-   "2024": 5,
+   "2024": 6,
    "2025": 4,
    "COMUNA": "Cisnes"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
+  "semana_id": "SEMANA 43/2025 (del 20/10/2025 al 26/10/2025)",
   "region": "Aysén"
  }
 }

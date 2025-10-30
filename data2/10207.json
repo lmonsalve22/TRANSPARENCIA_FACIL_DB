@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10207,
-   "2024": 25,
+   "2024": 27,
    "2025": 36,
-   "variacion": 44,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "Queilén"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 10207,
-   "2024": 37,
+   "2024": 39,
    "2025": 28,
-   "variacion": -24,
+   "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "Queilén"
   },
@@ -40,9 +40,9 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10207,
    "2024": 18,
-   "2025": 18,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 19,
+   "variacion": 6,
+   "situación": "Aumento de Casos",
    "COMUNA": "Queilén"
   },
   {
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10207,
-   "2024": 5,
+   "2024": 7,
    "2025": 3,
-   "variacion": -40,
+   "variacion": -57,
    "situación": "Disminución de Casos",
    "COMUNA": "Queilén"
   },
@@ -93,9 +93,9 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10207,
-   "2024": 0,
+   "2024": 1,
    "2025": 4,
-   "variacion": 400,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "Queilén"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10207,
    "2024": 11,
-   "2025": 3,
-   "variacion": -73,
+   "2025": 4,
+   "variacion": -64,
    "situación": "Disminución de Casos",
    "COMUNA": "Queilén"
   },
@@ -129,7 +129,7 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 10207,
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10207,
-   "2024": 8,
+   "2024": 9,
    "2025": 5,
-   "variacion": -38,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "Queilén"
   },
@@ -1068,7 +1068,7 @@
    "CODCOM": 10207,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Queilén"
   },
   {
@@ -2292,7 +2292,7 @@
    "CODCOM": 10207,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Queilén"
   },
   {
@@ -3894,8 +3894,8 @@
    "informacion": "Casos",
    "CODCOM": 10207,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 64,
-   "2024": 25,
+   "2023": 67,
+   "2024": 27,
    "2025": 36,
    "COMUNA": "Queilén"
   },
@@ -3903,7 +3903,7 @@
    "informacion": "Casos",
    "CODCOM": 10207,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 31,
+   "2023": 36,
    "2024": 26,
    "2025": 46,
    "COMUNA": "Queilén"
@@ -3912,8 +3912,8 @@
    "informacion": "Casos",
    "CODCOM": 10207,
    "delito": "DAÑOS",
-   "2023": 60,
-   "2024": 37,
+   "2023": 62,
+   "2024": 39,
    "2025": 28,
    "COMUNA": "Queilén"
   },
@@ -3923,7 +3923,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 38,
    "2024": 18,
-   "2025": 18,
+   "2025": 19,
    "COMUNA": "Queilén"
   },
   {
@@ -3949,7 +3949,7 @@
    "CODCOM": 10207,
    "delito": "INCIVILIDADES",
    "2023": 10,
-   "2024": 5,
+   "2024": 7,
    "2025": 3,
    "COMUNA": "Queilén"
   },
@@ -3976,7 +3976,7 @@
    "CODCOM": 10207,
    "delito": "LESIONES MENOS GRAVES",
    "2023": 7,
-   "2024": 0,
+   "2024": 1,
    "2025": 4,
    "COMUNA": "Queilén"
   },
@@ -3986,7 +3986,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 1,
    "2024": 11,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "Queilén"
   },
   {
@@ -4012,7 +4012,7 @@
    "CODCOM": 10207,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 2,
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "Queilén"
   },
@@ -4047,8 +4047,8 @@
    "informacion": "Casos",
    "CODCOM": 10207,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 14,
-   "2024": 8,
+   "2023": 15,
+   "2024": 9,
    "2025": 5,
    "COMUNA": "Queilén"
   },
@@ -4072,7 +4072,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
+  "semana_id": "SEMANA 43/2025 (del 20/10/2025 al 26/10/2025)",
   "region": "Los Lagos"
  }
 }

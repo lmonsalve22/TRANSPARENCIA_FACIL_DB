@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10103,
-   "2024": 25,
+   "2024": 26,
    "2025": 30,
-   "variacion": 20,
+   "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochamó"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10103,
-   "2024": 41,
+   "2024": 42,
    "2025": 47,
-   "variacion": 15,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochamó"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10103,
-   "2024": 19,
+   "2024": 20,
    "2025": 35,
-   "variacion": 84,
+   "variacion": 75,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochamó"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10103,
-   "2024": 7,
+   "2024": 8,
    "2025": 7,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -12,
+   "situación": "Disminución de Casos",
    "COMUNA": "Cochamó"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10103,
-   "2024": 4,
+   "2024": 5,
    "2025": 6,
-   "variacion": 50,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochamó"
   },
@@ -3903,7 +3903,7 @@
    "CODCOM": 10103,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 34,
-   "2024": 25,
+   "2024": 26,
    "2025": 30,
    "COMUNA": "Cochamó"
   },
@@ -3912,7 +3912,7 @@
    "CODCOM": 10103,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 51,
-   "2024": 41,
+   "2024": 42,
    "2025": 47,
    "COMUNA": "Cochamó"
   },
@@ -3930,7 +3930,7 @@
    "CODCOM": 10103,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 26,
-   "2024": 19,
+   "2024": 20,
    "2025": 35,
    "COMUNA": "Cochamó"
   },
@@ -3948,7 +3948,7 @@
    "CODCOM": 10103,
    "delito": "HURTOS",
    "2023": 8,
-   "2024": 7,
+   "2024": 8,
    "2025": 7,
    "COMUNA": "Cochamó"
   },
@@ -3974,7 +3974,7 @@
    "informacion": "Casos",
    "CODCOM": 10103,
    "delito": "LESIONES LEVES",
-   "2023": 11,
+   "2023": 12,
    "2024": 12,
    "2025": 10,
    "COMUNA": "Cochamó"
@@ -4055,8 +4055,8 @@
    "informacion": "Casos",
    "CODCOM": 10103,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 9,
-   "2024": 4,
+   "2023": 10,
+   "2024": 5,
    "2025": 6,
    "COMUNA": "Cochamó"
   },
@@ -4073,14 +4073,14 @@
    "informacion": "Casos",
    "CODCOM": 10103,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 6,
+   "2023": 7,
    "2024": 3,
    "2025": 2,
    "COMUNA": "Cochamó"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
+  "semana_id": "SEMANA 43/2025 (del 20/10/2025 al 26/10/2025)",
   "region": "Los Lagos"
  }
 }
