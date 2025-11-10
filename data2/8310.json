@@ -12,26 +12,26 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8310,
-   "2024": 36,
-   "2025": 42,
-   "variacion": 17,
+   "2024": 39,
+   "2025": 43,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "San Rosendo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8310,
-   "2024": 32,
+   "2024": 36,
    "2025": 33,
-   "variacion": 3,
-   "situación": "Aumento de Casos",
+   "variacion": -8,
+   "situación": "Disminución de Casos",
    "COMUNA": "San Rosendo"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 8310,
-   "2024": 52,
-   "2025": 48,
+   "2024": 53,
+   "2025": 49,
    "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rosendo"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8310,
-   "2024": 34,
+   "2024": 35,
    "2025": 31,
-   "variacion": -9,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rosendo"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8310,
-   "2024": 16,
+   "2024": 17,
    "2025": 30,
-   "variacion": 88,
+   "variacion": 76,
    "situación": "Aumento de Casos",
    "COMUNA": "San Rosendo"
   },
@@ -540,7 +540,7 @@
    "CODCOM": 8310,
    "anio": 2025,
    "mes": 10,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "San Rosendo"
   },
   {
@@ -892,7 +892,7 @@
    "CODCOM": 8310,
    "anio": 2025,
    "mes": 10,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "San Rosendo"
   },
   {
@@ -3903,8 +3903,8 @@
    "CODCOM": 8310,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 30,
-   "2024": 36,
-   "2025": 42,
+   "2024": 39,
+   "2025": 43,
    "COMUNA": "San Rosendo"
   },
   {
@@ -3912,7 +3912,7 @@
    "CODCOM": 8310,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 22,
-   "2024": 32,
+   "2024": 36,
    "2025": 33,
    "COMUNA": "San Rosendo"
   },
@@ -3920,9 +3920,9 @@
    "informacion": "Casos",
    "CODCOM": 8310,
    "delito": "DAÑOS",
-   "2023": 40,
-   "2024": 52,
-   "2025": 48,
+   "2023": 43,
+   "2024": 53,
+   "2025": 49,
    "COMUNA": "San Rosendo"
   },
   {
@@ -3930,7 +3930,7 @@
    "CODCOM": 8310,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 31,
-   "2024": 34,
+   "2024": 35,
    "2025": 31,
    "COMUNA": "San Rosendo"
   },
@@ -3947,7 +3947,7 @@
    "informacion": "Casos",
    "CODCOM": 8310,
    "delito": "HURTOS",
-   "2023": 6,
+   "2023": 7,
    "2024": 22,
    "2025": 11,
    "COMUNA": "San Rosendo"
@@ -3975,7 +3975,7 @@
    "CODCOM": 8310,
    "delito": "LESIONES LEVES",
    "2023": 15,
-   "2024": 16,
+   "2024": 17,
    "2025": 30,
    "COMUNA": "San Rosendo"
   },
@@ -4080,7 +4080,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 43/2025 (del 20/10/2025 al 26/10/2025)",
+  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
   "region": "Biobío"
  }
 }

@@ -85,9 +85,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 15202,
    "2024": 2,
-   "2025": 1,
-   "variacion": -50,
-   "situación": "Disminución de Casos",
+   "2025": 3,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
    "COMUNA": "General Lagos"
   },
   {
@@ -102,10 +102,10 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 15202,
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "General Lagos"
   },
   {
@@ -1932,7 +1932,7 @@
    "CODCOM": 15202,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "General Lagos"
   },
   {
@@ -3915,7 +3915,7 @@
    "informacion": "Casos",
    "CODCOM": 15202,
    "delito": "HURTOS",
-   "2023": 2,
+   "2023": 3,
    "2024": 0,
    "2025": 1,
    "COMUNA": "General Lagos"
@@ -3944,7 +3944,7 @@
    "delito": "LESIONES LEVES",
    "2023": 0,
    "2024": 2,
-   "2025": 1,
+   "2025": 3,
    "COMUNA": "General Lagos"
   },
   {
@@ -3961,7 +3961,7 @@
    "CODCOM": 15202,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 0,
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "General Lagos"
   },
@@ -4048,7 +4048,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 43/2025 (del 20/10/2025 al 26/10/2025)",
+  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
   "region": "Arica y Parinacota"
  }
 }

@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10204,
-   "2024": 13,
+   "2024": 14,
    "2025": 31,
-   "variacion": 138,
+   "variacion": 121,
    "situación": "Aumento de Casos",
    "COMUNA": "Curaco de Vélez"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10204,
-   "2024": 6,
+   "2024": 7,
    "2025": 4,
-   "variacion": -33,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "Curaco de Vélez"
   },
@@ -121,9 +121,9 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 10204,
    "2024": 0,
-   "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10204,
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -2644,7 +2644,7 @@
    "CODCOM": 10204,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -3887,7 +3887,7 @@
    "CODCOM": 10204,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 14,
-   "2024": 13,
+   "2024": 14,
    "2025": 31,
    "COMUNA": "Curaco de Vélez"
   },
@@ -3904,7 +3904,7 @@
    "informacion": "Casos",
    "CODCOM": 10204,
    "delito": "DAÑOS",
-   "2023": 26,
+   "2023": 27,
    "2024": 24,
    "2025": 19,
    "COMUNA": "Curaco de Vélez"
@@ -3931,7 +3931,7 @@
    "informacion": "Casos",
    "CODCOM": 10204,
    "delito": "HURTOS",
-   "2023": 9,
+   "2023": 10,
    "2024": 5,
    "2025": 2,
    "COMUNA": "Curaco de Vélez"
@@ -3941,7 +3941,7 @@
    "CODCOM": 10204,
    "delito": "INCIVILIDADES",
    "2023": 1,
-   "2024": 6,
+   "2024": 7,
    "2025": 4,
    "COMUNA": "Curaco de Vélez"
   },
@@ -3996,7 +3996,7 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2023": 1,
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -4040,7 +4040,7 @@
    "CODCOM": 10204,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 6,
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "Curaco de Vélez"
   },
@@ -4064,7 +4064,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 43/2025 (del 20/10/2025 al 26/10/2025)",
+  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
   "region": "Los Lagos"
  }
 }

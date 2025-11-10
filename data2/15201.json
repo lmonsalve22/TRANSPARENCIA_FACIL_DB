@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 15201,
    "2024": 47,
-   "2025": 32,
-   "variacion": -32,
+   "2025": 33,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "Putre"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 15201,
-   "2024": 6,
+   "2024": 7,
    "2025": 11,
-   "variacion": 83,
+   "variacion": 57,
    "situación": "Aumento de Casos",
    "COMUNA": "Putre"
   },
@@ -111,10 +111,10 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 15201,
-   "2024": 2,
+   "2024": 3,
    "2025": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33,
+   "situación": "Disminución de Casos",
    "COMUNA": "Putre"
   },
   {
@@ -139,8 +139,8 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 15201,
    "2024": 1,
-   "2025": 6,
-   "variacion": 500,
+   "2025": 7,
+   "variacion": 600,
    "situación": "Aumento de Casos",
    "COMUNA": "Putre"
   },
@@ -892,7 +892,7 @@
    "CODCOM": 15201,
    "anio": 2025,
    "mes": 10,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Putre"
   },
   {
@@ -2996,7 +2996,7 @@
    "CODCOM": 15201,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Putre"
   },
   {
@@ -3912,9 +3912,9 @@
    "informacion": "Casos",
    "CODCOM": 15201,
    "delito": "DAÑOS",
-   "2023": 31,
+   "2023": 32,
    "2024": 47,
-   "2025": 32,
+   "2025": 33,
    "COMUNA": "Putre"
   },
   {
@@ -3922,7 +3922,7 @@
    "CODCOM": 15201,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 9,
-   "2024": 6,
+   "2024": 7,
    "2025": 11,
    "COMUNA": "Putre"
   },
@@ -3939,7 +3939,7 @@
    "informacion": "Casos",
    "CODCOM": 15201,
    "delito": "HURTOS",
-   "2023": 11,
+   "2023": 12,
    "2024": 2,
    "2025": 5,
    "COMUNA": "Putre"
@@ -3994,7 +3994,7 @@
    "CODCOM": 15201,
    "delito": "LEY DE DROGAS",
    "2023": 3,
-   "2024": 2,
+   "2024": 3,
    "2025": 2,
    "COMUNA": "Putre"
   },
@@ -4022,7 +4022,7 @@
    "delito": "RECEPTACIÓN",
    "2023": 4,
    "2024": 1,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "Putre"
   },
   {
@@ -4047,7 +4047,7 @@
    "informacion": "Casos",
    "CODCOM": 15201,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 5,
+   "2023": 7,
    "2024": 1,
    "2025": 4,
    "COMUNA": "Putre"
@@ -4072,7 +4072,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 43/2025 (del 20/10/2025 al 26/10/2025)",
+  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
   "region": "Arica y Parinacota"
  }
 }

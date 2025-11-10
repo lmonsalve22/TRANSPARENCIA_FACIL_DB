@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 11401,
-   "2024": 34,
+   "2024": 35,
    "2025": 23,
-   "variacion": -32,
+   "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11401,
-   "2024": 118,
-   "2025": 83,
-   "variacion": -30,
+   "2024": 119,
+   "2025": 84,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 11401,
-   "2024": 51,
+   "2024": 52,
    "2025": 42,
-   "variacion": -18,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11401,
-   "2024": 45,
+   "2024": 46,
    "2025": 42,
-   "variacion": -7,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
@@ -66,8 +66,8 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 11401,
-   "2024": 90,
-   "2025": 72,
+   "2024": 91,
+   "2025": 73,
    "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
@@ -75,18 +75,18 @@
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 11401,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 11401,
-   "2024": 18,
+   "2024": 19,
    "2025": 14,
-   "variacion": -22,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 11401,
    "2024": 22,
-   "2025": 26,
-   "variacion": 18,
+   "2025": 27,
+   "variacion": 23,
    "situación": "Aumento de Casos",
    "COMUNA": "Chile Chico"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 11401,
    "2024": 2,
-   "2025": 5,
-   "variacion": 150,
+   "2025": 6,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Chile Chico"
   }
@@ -716,7 +716,7 @@
    "CODCOM": 11401,
    "anio": 2025,
    "mes": 10,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Chile Chico"
   },
   {
@@ -1596,7 +1596,7 @@
    "CODCOM": 11401,
    "anio": 2025,
    "mes": 10,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Chile Chico"
   },
   {
@@ -3532,7 +3532,7 @@
    "CODCOM": 11401,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Chile Chico"
   },
   {
@@ -3876,7 +3876,7 @@
    "CODCOM": 11401,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Chile Chico"
   }
  ],
@@ -3895,7 +3895,7 @@
    "CODCOM": 11401,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 40,
-   "2024": 34,
+   "2024": 35,
    "2025": 23,
    "COMUNA": "Chile Chico"
   },
@@ -3903,17 +3903,17 @@
    "informacion": "Casos",
    "CODCOM": 11401,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 181,
-   "2024": 118,
-   "2025": 83,
+   "2023": 182,
+   "2024": 119,
+   "2025": 84,
    "COMUNA": "Chile Chico"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11401,
    "delito": "DAÑOS",
-   "2023": 44,
-   "2024": 51,
+   "2023": 46,
+   "2024": 52,
    "2025": 42,
    "COMUNA": "Chile Chico"
   },
@@ -3922,7 +3922,7 @@
    "CODCOM": 11401,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 20,
-   "2024": 45,
+   "2024": 46,
    "2025": 42,
    "COMUNA": "Chile Chico"
   },
@@ -3939,7 +3939,7 @@
    "informacion": "Casos",
    "CODCOM": 11401,
    "delito": "HURTOS",
-   "2023": 25,
+   "2023": 26,
    "2024": 15,
    "2025": 15,
    "COMUNA": "Chile Chico"
@@ -3948,9 +3948,9 @@
    "informacion": "Casos",
    "CODCOM": 11401,
    "delito": "INCIVILIDADES",
-   "2023": 81,
-   "2024": 90,
-   "2025": 72,
+   "2023": 85,
+   "2024": 91,
+   "2025": 73,
    "COMUNA": "Chile Chico"
   },
   {
@@ -3958,7 +3958,7 @@
    "CODCOM": 11401,
    "delito": "LESIONES GRAVES",
    "2023": 3,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
    "COMUNA": "Chile Chico"
   },
@@ -3967,7 +3967,7 @@
    "CODCOM": 11401,
    "delito": "LESIONES LEVES",
    "2023": 10,
-   "2024": 18,
+   "2024": 19,
    "2025": 14,
    "COMUNA": "Chile Chico"
   },
@@ -4049,7 +4049,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 21,
    "2024": 22,
-   "2025": 26,
+   "2025": 27,
    "COMUNA": "Chile Chico"
   },
   {
@@ -4067,12 +4067,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 2,
    "2024": 2,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "Chile Chico"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 43/2025 (del 20/10/2025 al 26/10/2025)",
+  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
   "region": "Aysén"
  }
 }

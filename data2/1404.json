@@ -13,35 +13,35 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 1404,
    "2024": 30,
-   "2025": 24,
-   "variacion": -20,
+   "2025": 26,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 1404,
-   "2024": 45,
-   "2025": 73,
-   "variacion": 62,
+   "2024": 46,
+   "2025": 75,
+   "variacion": 63,
    "situación": "Aumento de Casos",
    "COMUNA": "Huara"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 1404,
-   "2024": 58,
+   "2024": 63,
    "2025": 35,
-   "variacion": -40,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 1404,
-   "2024": 27,
-   "2025": 23,
-   "variacion": -15,
+   "2024": 28,
+   "2025": 24,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 1404,
    "2024": 7,
-   "2025": 5,
-   "variacion": -29,
+   "2025": 6,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
@@ -121,9 +121,9 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 1404,
    "2024": 1,
-   "2025": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Huara"
   },
   {
@@ -147,15 +147,6 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 1404,
-   "2024": 5,
-   "2025": 4,
-   "variacion": -20,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Huara"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 1404,
    "2024": 6,
    "2025": 4,
    "variacion": -33,
@@ -163,11 +154,20 @@
    "COMUNA": "Huara"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 1404,
+   "2024": 6,
+   "2025": 5,
+   "variacion": -17,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Huara"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 1404,
-   "2024": 9,
+   "2024": 10,
    "2025": 8,
-   "variacion": -11,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
@@ -540,7 +540,7 @@
    "CODCOM": 1404,
    "anio": 2025,
    "mes": 10,
-   "casos": 6,
+   "casos": 8,
    "COMUNA": "Huara"
   },
   {
@@ -716,7 +716,7 @@
    "CODCOM": 1404,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Huara"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 1404,
    "anio": 2025,
    "mes": 10,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Huara"
   },
   {
@@ -2300,7 +2300,7 @@
    "CODCOM": 1404,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Huara"
   },
   {
@@ -2652,7 +2652,7 @@
    "CODCOM": 1404,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Huara"
   },
   {
@@ -3356,7 +3356,7 @@
    "CODCOM": 1404,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Huara"
   },
   {
@@ -3904,16 +3904,16 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 24,
    "2024": 30,
-   "2025": 24,
+   "2025": 26,
    "COMUNA": "Huara"
   },
   {
    "informacion": "Casos",
    "CODCOM": 1404,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 70,
-   "2024": 45,
-   "2025": 73,
+   "2023": 73,
+   "2024": 46,
+   "2025": 75,
    "COMUNA": "Huara"
   },
   {
@@ -3921,7 +3921,7 @@
    "CODCOM": 1404,
    "delito": "DAÑOS",
    "2023": 27,
-   "2024": 58,
+   "2024": 63,
    "2025": 35,
    "COMUNA": "Huara"
   },
@@ -3930,8 +3930,8 @@
    "CODCOM": 1404,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 23,
-   "2024": 27,
-   "2025": 23,
+   "2024": 28,
+   "2025": 24,
    "COMUNA": "Huara"
   },
   {
@@ -3983,7 +3983,7 @@
    "informacion": "Casos",
    "CODCOM": 1404,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 3,
+   "2023": 4,
    "2024": 0,
    "2025": 2,
    "COMUNA": "Huara"
@@ -3994,14 +3994,14 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 4,
    "2024": 7,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "Huara"
   },
   {
    "informacion": "Casos",
    "CODCOM": 1404,
    "delito": "LEY DE DROGAS",
-   "2023": 56,
+   "2023": 58,
    "2024": 28,
    "2025": 16,
    "COMUNA": "Huara"
@@ -4012,7 +4012,7 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2023": 0,
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "Huara"
   },
   {
@@ -4038,15 +4038,6 @@
    "CODCOM": 1404,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 4,
-   "2024": 5,
-   "2025": 4,
-   "COMUNA": "Huara"
-  },
-  {
-   "informacion": "Casos",
-   "CODCOM": 1404,
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 11,
    "2024": 6,
    "2025": 4,
    "COMUNA": "Huara"
@@ -4054,9 +4045,18 @@
   {
    "informacion": "Casos",
    "CODCOM": 1404,
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "2023": 12,
+   "2024": 6,
+   "2025": 5,
+   "COMUNA": "Huara"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1404,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 13,
-   "2024": 9,
+   "2024": 10,
    "2025": 8,
    "COMUNA": "Huara"
   },
@@ -4073,14 +4073,14 @@
    "informacion": "Casos",
    "CODCOM": 1404,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 2,
+   "2023": 3,
    "2024": 5,
    "2025": 8,
    "COMUNA": "Huara"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 43/2025 (del 20/10/2025 al 26/10/2025)",
+  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
   "region": "Tarapacá"
  }
 }

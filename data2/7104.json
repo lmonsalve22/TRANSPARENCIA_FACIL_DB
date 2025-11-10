@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7104,
    "2024": 22,
-   "2025": 28,
-   "variacion": 27,
+   "2025": 29,
+   "variacion": 32,
    "situación": "Aumento de Casos",
    "COMUNA": "Empedrado"
   },
@@ -22,17 +22,17 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7104,
    "2024": 12,
-   "2025": 16,
-   "variacion": 33,
+   "2025": 17,
+   "variacion": 42,
    "situación": "Aumento de Casos",
    "COMUNA": "Empedrado"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7104,
-   "2024": 30,
-   "2025": 25,
-   "variacion": -17,
+   "2024": 31,
+   "2025": 26,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "Empedrado"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 7104,
    "2024": 12,
-   "2025": 8,
-   "variacion": -33,
+   "2025": 9,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Empedrado"
   },
@@ -139,9 +139,9 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 7104,
    "2024": 0,
-   "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Empedrado"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7104,
-   "2024": 12,
+   "2024": 14,
    "2025": 2,
-   "variacion": -83,
+   "variacion": -86,
    "situación": "Disminución de Casos",
    "COMUNA": "Empedrado"
   },
@@ -540,7 +540,7 @@
    "CODCOM": 7104,
    "anio": 2025,
    "mes": 10,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "Empedrado"
   },
   {
@@ -716,7 +716,7 @@
    "CODCOM": 7104,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Empedrado"
   },
   {
@@ -892,7 +892,7 @@
    "CODCOM": 7104,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Empedrado"
   },
   {
@@ -1948,7 +1948,7 @@
    "CODCOM": 7104,
    "anio": 2025,
    "mes": 10,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Empedrado"
   },
   {
@@ -3004,7 +3004,7 @@
    "CODCOM": 7104,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Empedrado"
   },
   {
@@ -3894,9 +3894,9 @@
    "informacion": "Casos",
    "CODCOM": 7104,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 18,
+   "2023": 19,
    "2024": 22,
-   "2025": 28,
+   "2025": 29,
    "COMUNA": "Empedrado"
   },
   {
@@ -3905,7 +3905,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 45,
    "2024": 12,
-   "2025": 16,
+   "2025": 17,
    "COMUNA": "Empedrado"
   },
   {
@@ -3913,8 +3913,8 @@
    "CODCOM": 7104,
    "delito": "DAÑOS",
    "2023": 12,
-   "2024": 30,
-   "2025": 25,
+   "2024": 31,
+   "2025": 26,
    "COMUNA": "Empedrado"
   },
   {
@@ -3968,7 +3968,7 @@
    "delito": "LESIONES LEVES",
    "2023": 11,
    "2024": 12,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "Empedrado"
   },
   {
@@ -4022,7 +4022,7 @@
    "delito": "RECEPTACIÓN",
    "2023": 1,
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "Empedrado"
   },
   {
@@ -4047,8 +4047,8 @@
    "informacion": "Casos",
    "CODCOM": 7104,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 10,
-   "2024": 12,
+   "2023": 12,
+   "2024": 14,
    "2025": 2,
    "COMUNA": "Empedrado"
   },
@@ -4072,7 +4072,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 43/2025 (del 20/10/2025 al 26/10/2025)",
+  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
   "region": "Maule"
  }
 }

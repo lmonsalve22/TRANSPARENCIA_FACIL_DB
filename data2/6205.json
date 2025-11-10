@@ -3,18 +3,18 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 6205,
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Navidad"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6205,
-   "2024": 85,
+   "2024": 87,
    "2025": 59,
-   "variacion": -31,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "Navidad"
   },
@@ -30,8 +30,8 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6205,
-   "2024": 76,
-   "2025": 66,
+   "2024": 77,
+   "2025": 67,
    "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "Navidad"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6205,
-   "2024": 49,
+   "2024": 51,
    "2025": 60,
-   "variacion": 22,
+   "variacion": 18,
    "situación": "Aumento de Casos",
    "COMUNA": "Navidad"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6205,
-   "2024": 35,
+   "2024": 36,
    "2025": 19,
-   "variacion": -46,
+   "variacion": -47,
    "situación": "Disminución de Casos",
    "COMUNA": "Navidad"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6205,
-   "2024": 13,
+   "2024": 14,
    "2025": 25,
-   "variacion": 92,
+   "variacion": 79,
    "situación": "Aumento de Casos",
    "COMUNA": "Navidad"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 6205,
    "2024": 36,
-   "2025": 34,
-   "variacion": -6,
+   "2025": 35,
+   "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "Navidad"
   },
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6205,
-   "2024": 4,
+   "2024": 5,
    "2025": 2,
-   "variacion": -50,
+   "variacion": -60,
    "situación": "Disminución de Casos",
    "COMUNA": "Navidad"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6205,
-   "2024": 79,
+   "2024": 81,
    "2025": 34,
-   "variacion": -57,
+   "variacion": -58,
    "situación": "Disminución de Casos",
    "COMUNA": "Navidad"
   },
@@ -892,7 +892,7 @@
    "CODCOM": 6205,
    "anio": 2025,
    "mes": 10,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "Navidad"
   },
   {
@@ -1948,7 +1948,7 @@
    "CODCOM": 6205,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Navidad"
   },
   {
@@ -3894,7 +3894,7 @@
    "CODCOM": 6205,
    "delito": "AMENAZAS CON ARMAS",
    "2023": 2,
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "Navidad"
   },
@@ -3902,8 +3902,8 @@
    "informacion": "Casos",
    "CODCOM": 6205,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 74,
-   "2024": 85,
+   "2023": 76,
+   "2024": 87,
    "2025": 59,
    "COMUNA": "Navidad"
   },
@@ -3920,17 +3920,17 @@
    "informacion": "Casos",
    "CODCOM": 6205,
    "delito": "DAÑOS",
-   "2023": 64,
-   "2024": 76,
-   "2025": 66,
+   "2023": 66,
+   "2024": 77,
+   "2025": 67,
    "COMUNA": "Navidad"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6205,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 47,
-   "2024": 49,
+   "2023": 48,
+   "2024": 51,
    "2025": 60,
    "COMUNA": "Navidad"
   },
@@ -3947,8 +3947,8 @@
    "informacion": "Casos",
    "CODCOM": 6205,
    "delito": "HURTOS",
-   "2023": 25,
-   "2024": 35,
+   "2023": 26,
+   "2024": 36,
    "2025": 19,
    "COMUNA": "Navidad"
   },
@@ -3957,7 +3957,7 @@
    "CODCOM": 6205,
    "delito": "INCIVILIDADES",
    "2023": 37,
-   "2024": 13,
+   "2024": 14,
    "2025": 25,
    "COMUNA": "Navidad"
   },
@@ -3976,7 +3976,7 @@
    "delito": "LESIONES LEVES",
    "2023": 32,
    "2024": 36,
-   "2025": 34,
+   "2025": 35,
    "COMUNA": "Navidad"
   },
   {
@@ -4038,7 +4038,7 @@
    "CODCOM": 6205,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 3,
-   "2024": 4,
+   "2024": 5,
    "2025": 2,
    "COMUNA": "Navidad"
   },
@@ -4055,8 +4055,8 @@
    "informacion": "Casos",
    "CODCOM": 6205,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 42,
-   "2024": 79,
+   "2023": 44,
+   "2024": 81,
    "2025": 34,
    "COMUNA": "Navidad"
   },
@@ -4080,7 +4080,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 43/2025 (del 20/10/2025 al 26/10/2025)",
+  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
   "region": "O'Higgins"
  }
 }
