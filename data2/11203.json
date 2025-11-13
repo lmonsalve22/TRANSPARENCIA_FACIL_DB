@@ -21,8 +21,8 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11203,
-   "2024": 120,
-   "2025": 37,
+   "2024": 121,
+   "2025": 38,
    "variacion": -69,
    "situación": "Disminución de Casos",
    "COMUNA": "Guaitecas"
@@ -30,19 +30,19 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 11203,
-   "2024": 5,
+   "2024": 6,
    "2025": 4,
-   "variacion": -20,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Guaitecas"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11203,
-   "2024": 13,
+   "2024": 16,
    "2025": 15,
-   "variacion": 15,
-   "situación": "Aumento de Casos",
+   "variacion": -6,
+   "situación": "Disminución de Casos",
    "COMUNA": "Guaitecas"
   },
   {
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 11203,
-   "2024": 6,
+   "2024": 8,
    "2025": 7,
-   "variacion": 17,
-   "situación": "Aumento de Casos",
+   "variacion": -12,
+   "situación": "Disminución de Casos",
    "COMUNA": "Guaitecas"
   },
   {
@@ -368,6 +368,14 @@
    "COMUNA": "Guaitecas"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 11203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Guaitecas"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 11203,
    "anio": 2024,
@@ -541,6 +549,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 2,
+   "COMUNA": "Guaitecas"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 11203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Guaitecas"
   },
   {
@@ -720,6 +736,14 @@
    "COMUNA": "Guaitecas"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 11203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Guaitecas"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 11203,
    "anio": 2024,
@@ -892,6 +916,14 @@
    "CODCOM": 11203,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Guaitecas"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 11203,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Guaitecas"
   },
@@ -1072,6 +1104,14 @@
    "COMUNA": "Guaitecas"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 11203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Guaitecas"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 11203,
    "anio": 2024,
@@ -1412,6 +1452,14 @@
    "CODCOM": 11203,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Guaitecas"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11203,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Guaitecas"
   },
@@ -1592,6 +1640,14 @@
    "COMUNA": "Guaitecas"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 11203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Guaitecas"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 11203,
    "anio": 2024,
@@ -1764,6 +1820,14 @@
    "CODCOM": 11203,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Guaitecas"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 11203,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Guaitecas"
   },
@@ -1944,6 +2008,14 @@
    "COMUNA": "Guaitecas"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 11203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Guaitecas"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 11203,
    "anio": 2024,
@@ -2120,6 +2192,14 @@
    "COMUNA": "Guaitecas"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 11203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Guaitecas"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 11203,
    "anio": 2024,
@@ -2292,6 +2372,14 @@
    "CODCOM": 11203,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Guaitecas"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 11203,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Guaitecas"
   },
@@ -2472,6 +2560,14 @@
    "COMUNA": "Guaitecas"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 11203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Guaitecas"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 11203,
    "anio": 2024,
@@ -2648,6 +2744,14 @@
    "COMUNA": "Guaitecas"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 11203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Guaitecas"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 11203,
    "anio": 2024,
@@ -2820,6 +2924,14 @@
    "CODCOM": 11203,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Guaitecas"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 11203,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Guaitecas"
   },
@@ -3000,6 +3112,14 @@
    "COMUNA": "Guaitecas"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 11203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Guaitecas"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 11203,
    "anio": 2024,
@@ -3172,6 +3292,14 @@
    "CODCOM": 11203,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Guaitecas"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 11203,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Guaitecas"
   },
@@ -3520,6 +3648,14 @@
    "COMUNA": "Guaitecas"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 11203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Guaitecas"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 11203,
    "anio": 2024,
@@ -3692,6 +3828,14 @@
    "CODCOM": 11203,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Guaitecas"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 11203,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Guaitecas"
   },
@@ -3868,6 +4012,14 @@
    "CODCOM": 11203,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Guaitecas"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 11203,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Guaitecas"
   }
@@ -3895,17 +4047,17 @@
    "informacion": "Casos",
    "CODCOM": 11203,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 160,
-   "2024": 120,
-   "2025": 37,
+   "2023": 161,
+   "2024": 121,
+   "2025": 38,
    "COMUNA": "Guaitecas"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11203,
    "delito": "DAÑOS",
-   "2023": 6,
-   "2024": 5,
+   "2023": 7,
+   "2024": 6,
    "2025": 4,
    "COMUNA": "Guaitecas"
   },
@@ -3914,7 +4066,7 @@
    "CODCOM": 11203,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 21,
-   "2024": 13,
+   "2024": 16,
    "2025": 15,
    "COMUNA": "Guaitecas"
   },
@@ -3931,7 +4083,7 @@
    "informacion": "Casos",
    "CODCOM": 11203,
    "delito": "HURTOS",
-   "2023": 7,
+   "2023": 8,
    "2024": 4,
    "2025": 0,
    "COMUNA": "Guaitecas"
@@ -3959,7 +4111,7 @@
    "CODCOM": 11203,
    "delito": "LESIONES LEVES",
    "2023": 14,
-   "2024": 6,
+   "2024": 8,
    "2025": 7,
    "COMUNA": "Guaitecas"
   },
@@ -4064,7 +4216,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "Aysén"
  }
 }

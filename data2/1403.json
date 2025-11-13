@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 1403,
    "2024": 13,
-   "2025": 5,
-   "variacion": -62,
+   "2025": 6,
+   "variacion": -54,
    "situación": "Disminución de Casos",
    "COMUNA": "Colchane"
   },
@@ -22,17 +22,17 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 1403,
    "2024": 9,
-   "2025": 15,
-   "variacion": 67,
+   "2025": 17,
+   "variacion": 89,
    "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 1403,
-   "2024": 18,
-   "2025": 27,
-   "variacion": 50,
+   "2024": 20,
+   "2025": 28,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 1403,
-   "2024": 12,
-   "2025": 7,
-   "variacion": -42,
+   "2024": 13,
+   "2025": 8,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "Colchane"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 1403,
-   "2024": 14,
+   "2024": 15,
    "2025": 10,
-   "variacion": -29,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Colchane"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 1403,
    "2024": 7,
-   "2025": 5,
-   "variacion": -29,
+   "2025": 6,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Colchane"
   },
@@ -368,6 +368,14 @@
    "COMUNA": "Colchane"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Colchane"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 1403,
    "anio": 2024,
@@ -540,6 +548,14 @@
    "CODCOM": 1403,
    "anio": 2025,
    "mes": 10,
+   "casos": 1,
+   "COMUNA": "Colchane"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 11,
    "casos": 1,
    "COMUNA": "Colchane"
   },
@@ -720,6 +736,14 @@
    "COMUNA": "Colchane"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "Colchane"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 1403,
    "anio": 2024,
@@ -896,6 +920,14 @@
    "COMUNA": "Colchane"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Colchane"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 1403,
    "anio": 2024,
@@ -1072,6 +1104,14 @@
    "COMUNA": "Colchane"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Colchane"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 1403,
    "anio": 2024,
@@ -1244,6 +1284,14 @@
    "CODCOM": 1403,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Colchane"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Colchane"
   },
@@ -1424,6 +1472,14 @@
    "COMUNA": "Colchane"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Colchane"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 1403,
    "anio": 2024,
@@ -1600,6 +1656,14 @@
    "COMUNA": "Colchane"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Colchane"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 1403,
    "anio": 2024,
@@ -1772,6 +1836,14 @@
    "CODCOM": 1403,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Colchane"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Colchane"
   },
@@ -1952,6 +2024,14 @@
    "COMUNA": "Colchane"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Colchane"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 1403,
    "anio": 2024,
@@ -2124,6 +2204,14 @@
    "CODCOM": 1403,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Colchane"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Colchane"
   },
@@ -2301,6 +2389,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "Colchane"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Colchane"
   },
   {
@@ -2480,6 +2576,14 @@
    "COMUNA": "Colchane"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Colchane"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 1403,
    "anio": 2024,
@@ -2656,6 +2760,14 @@
    "COMUNA": "Colchane"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Colchane"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 1403,
    "anio": 2024,
@@ -2829,6 +2941,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "Colchane"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Colchane"
   },
   {
@@ -3008,6 +3128,14 @@
    "COMUNA": "Colchane"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Colchane"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 1403,
    "anio": 2024,
@@ -3184,6 +3312,14 @@
    "COMUNA": "Colchane"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Colchane"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 1403,
    "anio": 2024,
@@ -3356,6 +3492,14 @@
    "CODCOM": 1403,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Colchane"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Colchane"
   },
@@ -3536,6 +3680,14 @@
    "COMUNA": "Colchane"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Colchane"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 1403,
    "anio": 2024,
@@ -3712,6 +3864,14 @@
    "COMUNA": "Colchane"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Colchane"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 1403,
    "anio": 2024,
@@ -3884,6 +4044,14 @@
    "CODCOM": 1403,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Colchane"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Colchane"
   }
@@ -3902,9 +4070,9 @@
    "informacion": "Casos",
    "CODCOM": 1403,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 4,
+   "2023": 5,
    "2024": 13,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "Colchane"
   },
   {
@@ -3913,7 +4081,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 8,
    "2024": 9,
-   "2025": 15,
+   "2025": 17,
    "COMUNA": "Colchane"
   },
   {
@@ -3921,8 +4089,8 @@
    "CODCOM": 1403,
    "delito": "DAÑOS",
    "2023": 20,
-   "2024": 18,
-   "2025": 27,
+   "2024": 20,
+   "2025": 28,
    "COMUNA": "Colchane"
   },
   {
@@ -3948,8 +4116,8 @@
    "CODCOM": 1403,
    "delito": "HURTOS",
    "2023": 14,
-   "2024": 12,
-   "2025": 7,
+   "2024": 13,
+   "2025": 8,
    "COMUNA": "Colchane"
   },
   {
@@ -3957,7 +4125,7 @@
    "CODCOM": 1403,
    "delito": "INCIVILIDADES",
    "2023": 4,
-   "2024": 14,
+   "2024": 15,
    "2025": 10,
    "COMUNA": "Colchane"
   },
@@ -4001,7 +4169,7 @@
    "informacion": "Casos",
    "CODCOM": 1403,
    "delito": "LEY DE DROGAS",
-   "2023": 54,
+   "2023": 55,
    "2024": 38,
    "2025": 16,
    "COMUNA": "Colchane"
@@ -4028,7 +4196,7 @@
    "informacion": "Casos",
    "CODCOM": 1403,
    "delito": "RECEPTACIÓN",
-   "2023": 27,
+   "2023": 28,
    "2024": 13,
    "2025": 14,
    "COMUNA": "Colchane"
@@ -4046,7 +4214,7 @@
    "informacion": "Casos",
    "CODCOM": 1403,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 9,
+   "2023": 10,
    "2024": 1,
    "2025": 4,
    "COMUNA": "Colchane"
@@ -4057,7 +4225,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 9,
    "2024": 7,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "Colchane"
   },
   {
@@ -4080,7 +4248,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "Tarapacá"
  }
 }

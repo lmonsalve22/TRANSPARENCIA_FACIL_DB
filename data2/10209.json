@@ -21,17 +21,17 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10209,
-   "2024": 93,
+   "2024": 97,
    "2025": 46,
-   "variacion": -51,
+   "variacion": -53,
    "situación": "Disminución de Casos",
    "COMUNA": "Quemchi"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10209,
-   "2024": 58,
-   "2025": 31,
+   "2024": 60,
+   "2025": 32,
    "variacion": -47,
    "situación": "Disminución de Casos",
    "COMUNA": "Quemchi"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10209,
-   "2024": 50,
-   "2025": 32,
-   "variacion": -36,
+   "2024": 51,
+   "2025": 33,
+   "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "Quemchi"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10209,
-   "2024": 20,
+   "2024": 21,
    "2025": 6,
-   "variacion": -70,
+   "variacion": -71,
    "situación": "Disminución de Casos",
    "COMUNA": "Quemchi"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 10209,
    "2024": 18,
-   "2025": 11,
-   "variacion": -39,
+   "2025": 12,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Quemchi"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10209,
-   "2024": 22,
+   "2024": 23,
    "2025": 9,
-   "variacion": -59,
+   "variacion": -61,
    "situación": "Disminución de Casos",
    "COMUNA": "Quemchi"
   },
@@ -147,10 +147,10 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 10209,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Quemchi"
   },
   {
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10209,
-   "2024": 3,
-   "2025": 6,
-   "variacion": 100,
+   "2024": 4,
+   "2025": 7,
+   "variacion": 75,
    "situación": "Aumento de Casos",
    "COMUNA": "Quemchi"
   }
@@ -368,6 +368,14 @@
    "COMUNA": "Quemchi"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 10209,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Quemchi"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10209,
    "anio": 2024,
@@ -541,6 +549,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 3,
+   "COMUNA": "Quemchi"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 10209,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Quemchi"
   },
   {
@@ -720,6 +736,14 @@
    "COMUNA": "Quemchi"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 10209,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Quemchi"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 10209,
    "anio": 2024,
@@ -896,6 +920,14 @@
    "COMUNA": "Quemchi"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 10209,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Quemchi"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10209,
    "anio": 2024,
@@ -1072,6 +1104,14 @@
    "COMUNA": "Quemchi"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 10209,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Quemchi"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 10209,
    "anio": 2024,
@@ -1244,6 +1284,14 @@
    "CODCOM": 10209,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Quemchi"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 10209,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Quemchi"
   },
@@ -1420,6 +1468,14 @@
    "CODCOM": 10209,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Quemchi"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10209,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Quemchi"
   },
@@ -1600,6 +1656,14 @@
    "COMUNA": "Quemchi"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 10209,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Quemchi"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10209,
    "anio": 2024,
@@ -1772,6 +1836,14 @@
    "CODCOM": 10209,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Quemchi"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 10209,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Quemchi"
   },
@@ -1952,6 +2024,14 @@
    "COMUNA": "Quemchi"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 10209,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Quemchi"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10209,
    "anio": 2024,
@@ -2124,6 +2204,14 @@
    "CODCOM": 10209,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Quemchi"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10209,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Quemchi"
   },
@@ -2304,6 +2392,14 @@
    "COMUNA": "Quemchi"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 10209,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Quemchi"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 10209,
    "anio": 2024,
@@ -2480,6 +2576,14 @@
    "COMUNA": "Quemchi"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 10209,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Quemchi"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 10209,
    "anio": 2024,
@@ -2652,6 +2756,14 @@
    "CODCOM": 10209,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Quemchi"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 10209,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Quemchi"
   },
@@ -2832,6 +2944,14 @@
    "COMUNA": "Quemchi"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 10209,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Quemchi"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 10209,
    "anio": 2024,
@@ -3008,6 +3128,14 @@
    "COMUNA": "Quemchi"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 10209,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Quemchi"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 10209,
    "anio": 2024,
@@ -3184,6 +3312,14 @@
    "COMUNA": "Quemchi"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 10209,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Quemchi"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 10209,
    "anio": 2024,
@@ -3356,6 +3492,14 @@
    "CODCOM": 10209,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Quemchi"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 10209,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Quemchi"
   },
@@ -3536,6 +3680,14 @@
    "COMUNA": "Quemchi"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 10209,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Quemchi"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 10209,
    "anio": 2024,
@@ -3877,6 +4029,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 0,
+   "COMUNA": "Quemchi"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 10209,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
    "COMUNA": "Quemchi"
   }
  ],
@@ -3894,7 +4054,7 @@
    "informacion": "Casos",
    "CODCOM": 10209,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 29,
+   "2023": 31,
    "2024": 41,
    "2025": 31,
    "COMUNA": "Quemchi"
@@ -3903,8 +4063,8 @@
    "informacion": "Casos",
    "CODCOM": 10209,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 52,
-   "2024": 93,
+   "2023": 53,
+   "2024": 97,
    "2025": 46,
    "COMUNA": "Quemchi"
   },
@@ -3913,17 +4073,17 @@
    "CODCOM": 10209,
    "delito": "DAÑOS",
    "2023": 35,
-   "2024": 58,
-   "2025": 31,
+   "2024": 60,
+   "2025": 32,
    "COMUNA": "Quemchi"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10209,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 56,
-   "2024": 50,
-   "2025": 32,
+   "2023": 58,
+   "2024": 51,
+   "2025": 33,
    "COMUNA": "Quemchi"
   },
   {
@@ -3939,8 +4099,8 @@
    "informacion": "Casos",
    "CODCOM": 10209,
    "delito": "HURTOS",
-   "2023": 16,
-   "2024": 20,
+   "2023": 17,
+   "2024": 21,
    "2025": 6,
    "COMUNA": "Quemchi"
   },
@@ -3950,7 +4110,7 @@
    "delito": "INCIVILIDADES",
    "2023": 7,
    "2024": 18,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "Quemchi"
   },
   {
@@ -3967,7 +4127,7 @@
    "CODCOM": 10209,
    "delito": "LESIONES LEVES",
    "2023": 12,
-   "2024": 22,
+   "2024": 23,
    "2025": 9,
    "COMUNA": "Quemchi"
   },
@@ -4030,7 +4190,7 @@
    "CODCOM": 10209,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 0,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
    "COMUNA": "Quemchi"
   },
@@ -4047,7 +4207,7 @@
    "informacion": "Casos",
    "CODCOM": 10209,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 5,
+   "2023": 6,
    "2024": 8,
    "2025": 5,
    "COMUNA": "Quemchi"
@@ -4066,13 +4226,13 @@
    "CODCOM": 10209,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 6,
-   "2024": 3,
-   "2025": 6,
+   "2024": 4,
+   "2025": 7,
    "COMUNA": "Quemchi"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "Los Lagos"
  }
 }

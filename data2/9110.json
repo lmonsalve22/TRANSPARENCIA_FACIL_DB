@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9110,
-   "2024": 71,
-   "2025": 63,
+   "2024": 72,
+   "2025": 64,
    "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "Melipeuco"
@@ -22,17 +22,17 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9110,
    "2024": 41,
-   "2025": 51,
-   "variacion": 24,
+   "2025": 52,
+   "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "Melipeuco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9110,
-   "2024": 35,
+   "2024": 36,
    "2025": 28,
-   "variacion": -20,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "Melipeuco"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9110,
    "2024": 59,
-   "2025": 37,
-   "variacion": -37,
+   "2025": 38,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "Melipeuco"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 9110,
    "2024": 26,
-   "2025": 16,
-   "variacion": -38,
+   "2025": 17,
+   "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "Melipeuco"
   },
@@ -166,9 +166,9 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9110,
    "2024": 12,
-   "2025": 10,
-   "variacion": -17,
-   "situación": "Disminución de Casos",
+   "2025": 12,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Melipeuco"
   },
   {
@@ -368,6 +368,14 @@
    "COMUNA": "Melipeuco"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Melipeuco"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9110,
    "anio": 2024,
@@ -541,6 +549,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 6,
+   "COMUNA": "Melipeuco"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
    "COMUNA": "Melipeuco"
   },
   {
@@ -720,6 +736,14 @@
    "COMUNA": "Melipeuco"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Melipeuco"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 9110,
    "anio": 2024,
@@ -893,6 +917,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 2,
+   "COMUNA": "Melipeuco"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Melipeuco"
   },
   {
@@ -1072,6 +1104,14 @@
    "COMUNA": "Melipeuco"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Melipeuco"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9110,
    "anio": 2024,
@@ -1244,6 +1284,14 @@
    "CODCOM": 9110,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Melipeuco"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Melipeuco"
   },
@@ -1420,6 +1468,14 @@
    "CODCOM": 9110,
    "anio": 2025,
    "mes": 10,
+   "casos": 1,
+   "COMUNA": "Melipeuco"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 11,
    "casos": 1,
    "COMUNA": "Melipeuco"
   },
@@ -1600,6 +1656,14 @@
    "COMUNA": "Melipeuco"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Melipeuco"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9110,
    "anio": 2024,
@@ -1772,6 +1836,14 @@
    "CODCOM": 9110,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Melipeuco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Melipeuco"
   },
@@ -1952,6 +2024,14 @@
    "COMUNA": "Melipeuco"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Melipeuco"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9110,
    "anio": 2024,
@@ -2128,6 +2208,14 @@
    "COMUNA": "Melipeuco"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Melipeuco"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9110,
    "anio": 2024,
@@ -2304,6 +2392,14 @@
    "COMUNA": "Melipeuco"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Melipeuco"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9110,
    "anio": 2024,
@@ -2480,6 +2576,14 @@
    "COMUNA": "Melipeuco"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Melipeuco"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9110,
    "anio": 2024,
@@ -2652,6 +2756,14 @@
    "CODCOM": 9110,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Melipeuco"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Melipeuco"
   },
@@ -2832,6 +2944,14 @@
    "COMUNA": "Melipeuco"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Melipeuco"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9110,
    "anio": 2024,
@@ -3008,6 +3128,14 @@
    "COMUNA": "Melipeuco"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Melipeuco"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9110,
    "anio": 2024,
@@ -3184,6 +3312,14 @@
    "COMUNA": "Melipeuco"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Melipeuco"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9110,
    "anio": 2024,
@@ -3356,6 +3492,14 @@
    "CODCOM": 9110,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Melipeuco"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Melipeuco"
   },
@@ -3536,6 +3680,14 @@
    "COMUNA": "Melipeuco"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "Melipeuco"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9110,
    "anio": 2024,
@@ -3708,6 +3860,14 @@
    "CODCOM": 9110,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Melipeuco"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Melipeuco"
   },
@@ -3884,6 +4044,14 @@
    "CODCOM": 9110,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Melipeuco"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Melipeuco"
   }
@@ -3902,9 +4070,9 @@
    "informacion": "Casos",
    "CODCOM": 9110,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 72,
-   "2024": 71,
-   "2025": 63,
+   "2023": 75,
+   "2024": 72,
+   "2025": 64,
    "COMUNA": "Melipeuco"
   },
   {
@@ -3913,15 +4081,15 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 27,
    "2024": 41,
-   "2025": 51,
+   "2025": 52,
    "COMUNA": "Melipeuco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9110,
    "delito": "DAÑOS",
-   "2023": 37,
-   "2024": 35,
+   "2023": 39,
+   "2024": 36,
    "2025": 28,
    "COMUNA": "Melipeuco"
   },
@@ -3929,9 +4097,9 @@
    "informacion": "Casos",
    "CODCOM": 9110,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 46,
+   "2023": 47,
    "2024": 59,
-   "2025": 37,
+   "2025": 38,
    "COMUNA": "Melipeuco"
   },
   {
@@ -3947,16 +4115,16 @@
    "informacion": "Casos",
    "CODCOM": 9110,
    "delito": "HURTOS",
-   "2023": 16,
+   "2023": 17,
    "2024": 26,
-   "2025": 16,
+   "2025": 17,
    "COMUNA": "Melipeuco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9110,
    "delito": "INCIVILIDADES",
-   "2023": 27,
+   "2023": 29,
    "2024": 31,
    "2025": 30,
    "COMUNA": "Melipeuco"
@@ -3983,7 +4151,7 @@
    "informacion": "Casos",
    "CODCOM": 9110,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 2,
+   "2023": 3,
    "2024": 0,
    "2025": 2,
    "COMUNA": "Melipeuco"
@@ -4055,16 +4223,16 @@
    "informacion": "Casos",
    "CODCOM": 9110,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 10,
+   "2023": 11,
    "2024": 12,
-   "2025": 10,
+   "2025": 12,
    "COMUNA": "Melipeuco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9110,
    "delito": "ROBOS POR SORPRESA",
-   "2023": 0,
+   "2023": 1,
    "2024": 0,
    "2025": 0,
    "COMUNA": "Melipeuco"
@@ -4080,7 +4248,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "La Araucanía"
  }
 }

@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6202,
-   "2024": 23,
+   "2024": 25,
    "2025": 18,
-   "variacion": -22,
+   "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "La Estrella"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6202,
-   "2024": 25,
+   "2024": 26,
    "2025": 24,
-   "variacion": -4,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "La Estrella"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6202,
-   "2024": 11,
+   "2024": 12,
    "2025": 13,
-   "variacion": 18,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "La Estrella"
   },
@@ -93,18 +93,18 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6202,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "La Estrella"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6202,
    "2024": 1,
-   "2025": 6,
-   "variacion": 500,
+   "2025": 7,
+   "variacion": 600,
    "situación": "Aumento de Casos",
    "COMUNA": "La Estrella"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6202,
-   "2024": 33,
+   "2024": 34,
    "2025": 23,
-   "variacion": -30,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "La Estrella"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6202,
-   "2024": 5,
+   "2024": 6,
    "2025": 2,
-   "variacion": -60,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "La Estrella"
   }
@@ -368,6 +368,14 @@
    "COMUNA": "La Estrella"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "La Estrella"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6202,
    "anio": 2024,
@@ -541,6 +549,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 2,
+   "COMUNA": "La Estrella"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "La Estrella"
   },
   {
@@ -720,6 +736,14 @@
    "COMUNA": "La Estrella"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "La Estrella"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 6202,
    "anio": 2024,
@@ -893,6 +917,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "La Estrella"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "La Estrella"
   },
   {
@@ -1072,6 +1104,14 @@
    "COMUNA": "La Estrella"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "La Estrella"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6202,
    "anio": 2024,
@@ -1244,6 +1284,14 @@
    "CODCOM": 6202,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "La Estrella"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "La Estrella"
   },
@@ -1424,6 +1472,14 @@
    "COMUNA": "La Estrella"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "La Estrella"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 6202,
    "anio": 2024,
@@ -1600,6 +1656,14 @@
    "COMUNA": "La Estrella"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "La Estrella"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6202,
    "anio": 2024,
@@ -1776,6 +1840,14 @@
    "COMUNA": "La Estrella"
   },
   {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "La Estrella"
+  },
+  {
    "delito": "LESIONES LEVES",
    "CODCOM": 6202,
    "anio": 2024,
@@ -1952,6 +2024,14 @@
    "COMUNA": "La Estrella"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "La Estrella"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6202,
    "anio": 2024,
@@ -2128,6 +2208,14 @@
    "COMUNA": "La Estrella"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "La Estrella"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6202,
    "anio": 2024,
@@ -2300,6 +2388,14 @@
    "CODCOM": 6202,
    "anio": 2025,
    "mes": 10,
+   "casos": 1,
+   "COMUNA": "La Estrella"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 11,
    "casos": 1,
    "COMUNA": "La Estrella"
   },
@@ -2480,6 +2576,14 @@
    "COMUNA": "La Estrella"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "La Estrella"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6202,
    "anio": 2024,
@@ -2656,6 +2760,14 @@
    "COMUNA": "La Estrella"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "La Estrella"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 6202,
    "anio": 2024,
@@ -2828,6 +2940,14 @@
    "CODCOM": 6202,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "La Estrella"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "La Estrella"
   },
@@ -3005,6 +3125,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "La Estrella"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "La Estrella"
   },
   {
@@ -3184,6 +3312,14 @@
    "COMUNA": "La Estrella"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "La Estrella"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6202,
    "anio": 2024,
@@ -3357,6 +3493,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "La Estrella"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "La Estrella"
   },
   {
@@ -3536,6 +3680,14 @@
    "COMUNA": "La Estrella"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "La Estrella"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6202,
    "anio": 2024,
@@ -3708,6 +3860,14 @@
    "CODCOM": 6202,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "La Estrella"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "La Estrella"
   },
@@ -3885,6 +4045,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "La Estrella"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "La Estrella"
   }
  ],
@@ -3903,7 +4071,7 @@
    "CODCOM": 6202,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 21,
-   "2024": 23,
+   "2024": 25,
    "2025": 18,
    "COMUNA": "La Estrella"
   },
@@ -3930,7 +4098,7 @@
    "CODCOM": 6202,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 26,
-   "2024": 25,
+   "2024": 26,
    "2025": 24,
    "COMUNA": "La Estrella"
   },
@@ -3948,7 +4116,7 @@
    "CODCOM": 6202,
    "delito": "HURTOS",
    "2023": 16,
-   "2024": 11,
+   "2024": 12,
    "2025": 13,
    "COMUNA": "La Estrella"
   },
@@ -3984,7 +4152,7 @@
    "CODCOM": 6202,
    "delito": "LESIONES MENOS GRAVES",
    "2023": 1,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
    "COMUNA": "La Estrella"
   },
@@ -3994,7 +4162,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 4,
    "2024": 1,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "La Estrella"
   },
   {
@@ -4056,7 +4224,7 @@
    "CODCOM": 6202,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 43,
-   "2024": 33,
+   "2024": 34,
    "2025": 23,
    "COMUNA": "La Estrella"
   },
@@ -4074,13 +4242,13 @@
    "CODCOM": 6202,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 0,
-   "2024": 5,
+   "2024": 6,
    "2025": 2,
    "COMUNA": "La Estrella"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "O'Higgins"
  }
 }

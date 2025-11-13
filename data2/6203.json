@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6203,
-   "2024": 81,
+   "2024": 83,
    "2025": 63,
-   "variacion": -22,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "Litueche"
   },
@@ -22,16 +22,16 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6203,
    "2024": 25,
-   "2025": 27,
-   "variacion": 8,
+   "2025": 28,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "Litueche"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6203,
-   "2024": 105,
-   "2025": 70,
+   "2024": 108,
+   "2025": 72,
    "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Litueche"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6203,
-   "2024": 66,
-   "2025": 68,
-   "variacion": 3,
+   "2024": 69,
+   "2025": 70,
+   "variacion": 1,
    "situación": "Aumento de Casos",
    "COMUNA": "Litueche"
   },
@@ -84,8 +84,8 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6203,
-   "2024": 17,
-   "2025": 16,
+   "2024": 18,
+   "2025": 17,
    "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "Litueche"
@@ -139,8 +139,8 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 6203,
    "2024": 3,
-   "2025": 0,
-   "variacion": -100,
+   "2025": 1,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "Litueche"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6203,
    "2024": 52,
-   "2025": 54,
-   "variacion": 4,
+   "2025": 55,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "Litueche"
   },
@@ -368,6 +368,14 @@
    "COMUNA": "Litueche"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Litueche"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6203,
    "anio": 2024,
@@ -544,6 +552,14 @@
    "COMUNA": "Litueche"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Litueche"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6203,
    "anio": 2024,
@@ -716,6 +732,14 @@
    "CODCOM": 6203,
    "anio": 2025,
    "mes": 10,
+   "casos": 1,
+   "COMUNA": "Litueche"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 11,
    "casos": 1,
    "COMUNA": "Litueche"
   },
@@ -896,6 +920,14 @@
    "COMUNA": "Litueche"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "Litueche"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6203,
    "anio": 2024,
@@ -1072,6 +1104,14 @@
    "COMUNA": "Litueche"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "Litueche"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6203,
    "anio": 2024,
@@ -1244,6 +1284,14 @@
    "CODCOM": 6203,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Litueche"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Litueche"
   },
@@ -1424,6 +1472,14 @@
    "COMUNA": "Litueche"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Litueche"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 6203,
    "anio": 2024,
@@ -1600,6 +1656,14 @@
    "COMUNA": "Litueche"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Litueche"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6203,
    "anio": 2024,
@@ -1772,6 +1836,14 @@
    "CODCOM": 6203,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Litueche"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Litueche"
   },
@@ -1952,6 +2024,14 @@
    "COMUNA": "Litueche"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Litueche"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6203,
    "anio": 2024,
@@ -2124,6 +2204,14 @@
    "CODCOM": 6203,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Litueche"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Litueche"
   },
@@ -2304,6 +2392,14 @@
    "COMUNA": "Litueche"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Litueche"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6203,
    "anio": 2024,
@@ -2480,6 +2576,14 @@
    "COMUNA": "Litueche"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Litueche"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6203,
    "anio": 2024,
@@ -2656,6 +2760,14 @@
    "COMUNA": "Litueche"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Litueche"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 6203,
    "anio": 2024,
@@ -2832,6 +2944,14 @@
    "COMUNA": "Litueche"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Litueche"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6203,
    "anio": 2024,
@@ -3005,6 +3125,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 0,
+   "COMUNA": "Litueche"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
    "COMUNA": "Litueche"
   },
   {
@@ -3184,6 +3312,14 @@
    "COMUNA": "Litueche"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Litueche"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6203,
    "anio": 2024,
@@ -3357,6 +3493,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "Litueche"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Litueche"
   },
   {
@@ -3536,6 +3680,14 @@
    "COMUNA": "Litueche"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Litueche"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6203,
    "anio": 2024,
@@ -3708,6 +3860,14 @@
    "CODCOM": 6203,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Litueche"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Litueche"
   },
@@ -3886,6 +4046,14 @@
    "mes": 10,
    "casos": 0,
    "COMUNA": "Litueche"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Litueche"
   }
  ],
  "info": [
@@ -3902,8 +4070,8 @@
    "informacion": "Casos",
    "CODCOM": 6203,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 82,
-   "2024": 81,
+   "2023": 83,
+   "2024": 83,
    "2025": 63,
    "COMUNA": "Litueche"
   },
@@ -3911,27 +4079,27 @@
    "informacion": "Casos",
    "CODCOM": 6203,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 38,
+   "2023": 45,
    "2024": 25,
-   "2025": 27,
+   "2025": 28,
    "COMUNA": "Litueche"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6203,
    "delito": "DAÑOS",
-   "2023": 84,
-   "2024": 105,
-   "2025": 70,
+   "2023": 87,
+   "2024": 108,
+   "2025": 72,
    "COMUNA": "Litueche"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6203,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 56,
-   "2024": 66,
-   "2025": 68,
+   "2023": 57,
+   "2024": 69,
+   "2025": 70,
    "COMUNA": "Litueche"
   },
   {
@@ -3947,7 +4115,7 @@
    "informacion": "Casos",
    "CODCOM": 6203,
    "delito": "HURTOS",
-   "2023": 25,
+   "2023": 26,
    "2024": 16,
    "2025": 15,
    "COMUNA": "Litueche"
@@ -3956,7 +4124,7 @@
    "informacion": "Casos",
    "CODCOM": 6203,
    "delito": "INCIVILIDADES",
-   "2023": 20,
+   "2023": 22,
    "2024": 28,
    "2025": 29,
    "COMUNA": "Litueche"
@@ -3975,8 +4143,8 @@
    "CODCOM": 6203,
    "delito": "LESIONES LEVES",
    "2023": 25,
-   "2024": 17,
-   "2025": 16,
+   "2024": 18,
+   "2025": 17,
    "COMUNA": "Litueche"
   },
   {
@@ -4030,14 +4198,14 @@
    "delito": "RECEPTACIÓN",
    "2023": 3,
    "2024": 3,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "Litueche"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6203,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 8,
+   "2023": 9,
    "2024": 7,
    "2025": 5,
    "COMUNA": "Litueche"
@@ -4057,7 +4225,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 38,
    "2024": 52,
-   "2025": 54,
+   "2025": 55,
    "COMUNA": "Litueche"
   },
   {
@@ -4080,7 +4248,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "O'Higgins"
  }
 }

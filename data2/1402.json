@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 1402,
    "2024": 10,
-   "2025": 7,
-   "variacion": -30,
+   "2025": 8,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Camiña"
   },
@@ -103,9 +103,9 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 1402,
    "2024": 1,
-   "2025": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Camiña"
   },
   {
@@ -130,9 +130,9 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 1402,
    "2024": 1,
-   "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Camiña"
   },
   {
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 1402,
    "2024": 5,
-   "2025": 2,
-   "variacion": -60,
+   "2025": 3,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Camiña"
   },
@@ -368,6 +368,14 @@
    "COMUNA": "Camiña"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 1402,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Camiña"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 1402,
    "anio": 2024,
@@ -541,6 +549,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "Camiña"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 1402,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Camiña"
   },
   {
@@ -720,6 +736,14 @@
    "COMUNA": "Camiña"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 1402,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Camiña"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 1402,
    "anio": 2024,
@@ -896,6 +920,14 @@
    "COMUNA": "Camiña"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 1402,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Camiña"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 1402,
    "anio": 2024,
@@ -1072,6 +1104,14 @@
    "COMUNA": "Camiña"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 1402,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Camiña"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 1402,
    "anio": 2024,
@@ -1412,6 +1452,14 @@
    "CODCOM": 1402,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Camiña"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1402,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Camiña"
   },
@@ -1592,6 +1640,14 @@
    "COMUNA": "Camiña"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 1402,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Camiña"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 1402,
    "anio": 2024,
@@ -1764,6 +1820,14 @@
    "CODCOM": 1402,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Camiña"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 1402,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Camiña"
   },
@@ -1944,6 +2008,14 @@
    "COMUNA": "Camiña"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 1402,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Camiña"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 1402,
    "anio": 2024,
@@ -2120,6 +2192,14 @@
    "COMUNA": "Camiña"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 1402,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Camiña"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 1402,
    "anio": 2024,
@@ -2296,6 +2376,14 @@
    "COMUNA": "Camiña"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 1402,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Camiña"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 1402,
    "anio": 2024,
@@ -2472,6 +2560,14 @@
    "COMUNA": "Camiña"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 1402,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Camiña"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 1402,
    "anio": 2024,
@@ -2648,6 +2744,14 @@
    "COMUNA": "Camiña"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 1402,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Camiña"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 1402,
    "anio": 2024,
@@ -2824,6 +2928,14 @@
    "COMUNA": "Camiña"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 1402,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Camiña"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 1402,
    "anio": 2024,
@@ -3000,6 +3112,14 @@
    "COMUNA": "Camiña"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 1402,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Camiña"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 1402,
    "anio": 2024,
@@ -3176,6 +3296,14 @@
    "COMUNA": "Camiña"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 1402,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Camiña"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 1402,
    "anio": 2024,
@@ -3348,6 +3476,14 @@
    "CODCOM": 1402,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Camiña"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 1402,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Camiña"
   },
@@ -3528,6 +3664,14 @@
    "COMUNA": "Camiña"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 1402,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Camiña"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 1402,
    "anio": 2024,
@@ -3704,6 +3848,14 @@
    "COMUNA": "Camiña"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 1402,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Camiña"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 1402,
    "anio": 2024,
@@ -3876,6 +4028,14 @@
    "CODCOM": 1402,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Camiña"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 1402,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Camiña"
   }
@@ -3923,7 +4083,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 9,
    "2024": 10,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "Camiña"
   },
   {
@@ -3948,7 +4108,7 @@
    "informacion": "Casos",
    "CODCOM": 1402,
    "delito": "INCIVILIDADES",
-   "2023": 4,
+   "2023": 5,
    "2024": 3,
    "2025": 4,
    "COMUNA": "Camiña"
@@ -3986,7 +4146,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 0,
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "Camiña"
   },
   {
@@ -4013,7 +4173,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 0,
    "2024": 1,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "Camiña"
   },
   {
@@ -4049,7 +4209,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 2,
    "2024": 5,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "Camiña"
   },
   {
@@ -4072,7 +4232,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "Tarapacá"
  }
 }

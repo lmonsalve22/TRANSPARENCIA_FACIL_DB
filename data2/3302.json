@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 3302,
    "2024": 23,
-   "2025": 37,
-   "variacion": 61,
+   "2025": 39,
+   "variacion": 70,
    "situación": "Aumento de Casos",
    "COMUNA": "Alto del Carmen"
   },
@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 3302,
    "2024": 39,
-   "2025": 31,
-   "variacion": -21,
+   "2025": 32,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "Alto del Carmen"
   },
@@ -31,9 +31,9 @@
    "delito": "DAÑOS",
    "CODCOM": 3302,
    "2024": 37,
-   "2025": 37,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 38,
+   "variacion": 3,
+   "situación": "Aumento de Casos",
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -58,9 +58,9 @@
    "delito": "HURTOS",
    "CODCOM": 3302,
    "2024": 9,
-   "2025": 8,
-   "variacion": -11,
-   "situación": "Disminución de Casos",
+   "2025": 9,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 3302,
    "2024": 12,
-   "2025": 15,
-   "variacion": 25,
+   "2025": 16,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "Alto del Carmen"
   },
@@ -368,6 +368,14 @@
    "COMUNA": "Alto del Carmen"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 3302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Alto del Carmen"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 3302,
    "anio": 2024,
@@ -540,6 +548,14 @@
    "CODCOM": 3302,
    "anio": 2025,
    "mes": 10,
+   "casos": 2,
+   "COMUNA": "Alto del Carmen"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 3302,
+   "anio": 2025,
+   "mes": 11,
    "casos": 2,
    "COMUNA": "Alto del Carmen"
   },
@@ -717,6 +733,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 4,
+   "COMUNA": "Alto del Carmen"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 3302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -896,6 +920,14 @@
    "COMUNA": "Alto del Carmen"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 3302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Alto del Carmen"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 3302,
    "anio": 2024,
@@ -1072,6 +1104,14 @@
    "COMUNA": "Alto del Carmen"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 3302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Alto del Carmen"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 3302,
    "anio": 2024,
@@ -1413,6 +1453,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 0,
+   "COMUNA": "Alto del Carmen"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -1592,6 +1640,14 @@
    "COMUNA": "Alto del Carmen"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 3302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Alto del Carmen"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 3302,
    "anio": 2024,
@@ -1764,6 +1820,14 @@
    "CODCOM": 3302,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alto del Carmen"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 3302,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Alto del Carmen"
   },
@@ -1944,6 +2008,14 @@
    "COMUNA": "Alto del Carmen"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 3302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Alto del Carmen"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 3302,
    "anio": 2024,
@@ -2120,6 +2192,14 @@
    "COMUNA": "Alto del Carmen"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 3302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Alto del Carmen"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 3302,
    "anio": 2024,
@@ -2292,6 +2372,14 @@
    "CODCOM": 3302,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alto del Carmen"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 3302,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Alto del Carmen"
   },
@@ -2472,6 +2560,14 @@
    "COMUNA": "Alto del Carmen"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 3302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Alto del Carmen"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 3302,
    "anio": 2024,
@@ -2648,6 +2744,14 @@
    "COMUNA": "Alto del Carmen"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 3302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Alto del Carmen"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 3302,
    "anio": 2024,
@@ -2824,6 +2928,14 @@
    "COMUNA": "Alto del Carmen"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 3302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Alto del Carmen"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 3302,
    "anio": 2024,
@@ -3000,6 +3112,14 @@
    "COMUNA": "Alto del Carmen"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 3302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Alto del Carmen"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 3302,
    "anio": 2024,
@@ -3176,6 +3296,14 @@
    "COMUNA": "Alto del Carmen"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 3302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Alto del Carmen"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 3302,
    "anio": 2024,
@@ -3352,6 +3480,14 @@
    "COMUNA": "Alto del Carmen"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 3302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Alto del Carmen"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 3302,
    "anio": 2024,
@@ -3525,6 +3661,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 2,
+   "COMUNA": "Alto del Carmen"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 3302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -3868,6 +4012,14 @@
    "CODCOM": 3302,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alto del Carmen"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 3302,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Alto del Carmen"
   }
@@ -3888,7 +4040,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 22,
    "2024": 23,
-   "2025": 37,
+   "2025": 39,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -3897,16 +4049,16 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 28,
    "2024": 39,
-   "2025": 31,
+   "2025": 32,
    "COMUNA": "Alto del Carmen"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3302,
    "delito": "DAÑOS",
-   "2023": 49,
+   "2023": 50,
    "2024": 37,
-   "2025": 37,
+   "2025": 38,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -3931,9 +4083,9 @@
    "informacion": "Casos",
    "CODCOM": 3302,
    "delito": "HURTOS",
-   "2023": 10,
+   "2023": 11,
    "2024": 9,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -3960,7 +4112,7 @@
    "delito": "LESIONES LEVES",
    "2023": 13,
    "2024": 12,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -4064,7 +4216,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "Atacama"
  }
 }

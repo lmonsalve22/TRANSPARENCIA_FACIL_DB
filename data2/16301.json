@@ -12,26 +12,26 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16301,
-   "2024": 446,
-   "2025": 347,
-   "variacion": -22,
+   "2024": 452,
+   "2025": 357,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "San Carlos"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16301,
-   "2024": 332,
-   "2025": 121,
-   "variacion": -64,
+   "2024": 335,
+   "2025": 123,
+   "variacion": -63,
    "situación": "Disminución de Casos",
    "COMUNA": "San Carlos"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 16301,
-   "2024": 355,
-   "2025": 272,
+   "2024": 361,
+   "2025": 277,
    "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "San Carlos"
@@ -39,8 +39,8 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16301,
-   "2024": 342,
-   "2025": 340,
+   "2024": 349,
+   "2025": 347,
    "variacion": -1,
    "situación": "Disminución de Casos",
    "COMUNA": "San Carlos"
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16301,
-   "2024": 206,
-   "2025": 211,
-   "variacion": 2,
-   "situación": "Aumento de Casos",
+   "2024": 211,
+   "2025": 212,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "San Carlos"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 16301,
-   "2024": 71,
-   "2025": 80,
-   "variacion": 13,
+   "2024": 73,
+   "2025": 81,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "San Carlos"
   },
@@ -84,8 +84,8 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16301,
-   "2024": 109,
-   "2025": 87,
+   "2024": 112,
+   "2025": 90,
    "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "San Carlos"
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 16301,
    "2024": 100,
-   "2025": 32,
-   "variacion": -68,
+   "2025": 33,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "San Carlos"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 16301,
    "2024": 30,
-   "2025": 22,
-   "variacion": -27,
+   "2025": 23,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "San Carlos"
   },
@@ -130,43 +130,43 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16301,
    "2024": 12,
-   "2025": 11,
-   "variacion": -8,
-   "situación": "Disminución de Casos",
+   "2025": 12,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "San Carlos"
   },
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 16301,
-   "2024": 31,
+   "2024": 33,
    "2025": 21,
-   "variacion": -32,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "San Carlos"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 16301,
-   "2024": 102,
-   "2025": 55,
-   "variacion": -46,
+   "2024": 103,
+   "2025": 58,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "San Carlos"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16301,
-   "2024": 125,
-   "2025": 78,
-   "variacion": -38,
+   "2024": 128,
+   "2025": 82,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "San Carlos"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16301,
-   "2024": 333,
-   "2025": 239,
+   "2024": 337,
+   "2025": 241,
    "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "San Carlos"
@@ -174,8 +174,8 @@
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 16301,
-   "2024": 15,
-   "2025": 15,
+   "2024": 16,
+   "2025": 16,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "San Carlos"
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 16301,
-   "2024": 22,
-   "2025": 31,
-   "variacion": 41,
+   "2024": 23,
+   "2025": 33,
+   "variacion": 43,
    "situación": "Aumento de Casos",
    "COMUNA": "San Carlos"
   }
@@ -368,6 +368,14 @@
    "COMUNA": "San Carlos"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 16301,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Carlos"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16301,
    "anio": 2024,
@@ -544,6 +552,14 @@
    "COMUNA": "San Carlos"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 16301,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 10,
+   "COMUNA": "San Carlos"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16301,
    "anio": 2024,
@@ -717,6 +733,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 15,
+   "COMUNA": "San Carlos"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 16301,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2,
    "COMUNA": "San Carlos"
   },
   {
@@ -896,6 +920,14 @@
    "COMUNA": "San Carlos"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 16301,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 5,
+   "COMUNA": "San Carlos"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16301,
    "anio": 2024,
@@ -1072,6 +1104,14 @@
    "COMUNA": "San Carlos"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 16301,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 7,
+   "COMUNA": "San Carlos"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 16301,
    "anio": 2024,
@@ -1244,6 +1284,14 @@
    "CODCOM": 16301,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Carlos"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 16301,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "San Carlos"
   },
@@ -1424,6 +1472,14 @@
    "COMUNA": "San Carlos"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 16301,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "San Carlos"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 16301,
    "anio": 2024,
@@ -1600,6 +1656,14 @@
    "COMUNA": "San Carlos"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 16301,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "San Carlos"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16301,
    "anio": 2024,
@@ -1772,6 +1836,14 @@
    "CODCOM": 16301,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Carlos"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 16301,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "San Carlos"
   },
@@ -1952,6 +2024,14 @@
    "COMUNA": "San Carlos"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16301,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "San Carlos"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16301,
    "anio": 2024,
@@ -2125,6 +2205,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "San Carlos"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16301,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "San Carlos"
   },
   {
@@ -2304,6 +2392,14 @@
    "COMUNA": "San Carlos"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16301,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "San Carlos"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 16301,
    "anio": 2024,
@@ -2480,6 +2576,14 @@
    "COMUNA": "San Carlos"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 16301,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "San Carlos"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 16301,
    "anio": 2024,
@@ -2656,6 +2760,14 @@
    "COMUNA": "San Carlos"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 16301,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Carlos"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16301,
    "anio": 2024,
@@ -2828,6 +2940,14 @@
    "CODCOM": 16301,
    "anio": 2025,
    "mes": 10,
+   "casos": 1,
+   "COMUNA": "San Carlos"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16301,
+   "anio": 2025,
+   "mes": 11,
    "casos": 1,
    "COMUNA": "San Carlos"
   },
@@ -3005,6 +3125,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 2,
+   "COMUNA": "San Carlos"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16301,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "San Carlos"
   },
   {
@@ -3184,6 +3312,14 @@
    "COMUNA": "San Carlos"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16301,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "San Carlos"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16301,
    "anio": 2024,
@@ -3357,6 +3493,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 10,
+   "COMUNA": "San Carlos"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16301,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 4,
    "COMUNA": "San Carlos"
   },
   {
@@ -3536,6 +3680,14 @@
    "COMUNA": "San Carlos"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 16301,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "San Carlos"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 16301,
    "anio": 2024,
@@ -3709,6 +3861,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 2,
+   "COMUNA": "San Carlos"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 16301,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
    "COMUNA": "San Carlos"
   },
   {
@@ -3886,6 +4046,14 @@
    "mes": 10,
    "casos": 6,
    "COMUNA": "San Carlos"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 16301,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "San Carlos"
   }
  ],
  "info": [
@@ -3902,36 +4070,36 @@
    "informacion": "Casos",
    "CODCOM": 16301,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 353,
-   "2024": 446,
-   "2025": 347,
+   "2023": 366,
+   "2024": 452,
+   "2025": 357,
    "COMUNA": "San Carlos"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16301,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 224,
-   "2024": 332,
-   "2025": 121,
+   "2023": 228,
+   "2024": 335,
+   "2025": 123,
    "COMUNA": "San Carlos"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16301,
    "delito": "DAÑOS",
-   "2023": 357,
-   "2024": 355,
-   "2025": 272,
+   "2023": 363,
+   "2024": 361,
+   "2025": 277,
    "COMUNA": "San Carlos"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16301,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 358,
-   "2024": 342,
-   "2025": 340,
+   "2023": 369,
+   "2024": 349,
+   "2025": 347,
    "COMUNA": "San Carlos"
   },
   {
@@ -3947,9 +4115,9 @@
    "informacion": "Casos",
    "CODCOM": 16301,
    "delito": "HURTOS",
-   "2023": 259,
-   "2024": 206,
-   "2025": 211,
+   "2023": 264,
+   "2024": 211,
+   "2025": 212,
    "COMUNA": "San Carlos"
   },
   {
@@ -3957,15 +4125,15 @@
    "CODCOM": 16301,
    "delito": "INCIVILIDADES",
    "2023": 71,
-   "2024": 71,
-   "2025": 80,
+   "2024": 73,
+   "2025": 81,
    "COMUNA": "San Carlos"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16301,
    "delito": "LESIONES GRAVES",
-   "2023": 12,
+   "2023": 14,
    "2024": 16,
    "2025": 14,
    "COMUNA": "San Carlos"
@@ -3974,9 +4142,9 @@
    "informacion": "Casos",
    "CODCOM": 16301,
    "delito": "LESIONES LEVES",
-   "2023": 138,
-   "2024": 109,
-   "2025": 87,
+   "2023": 144,
+   "2024": 112,
+   "2025": 90,
    "COMUNA": "San Carlos"
   },
   {
@@ -3994,7 +4162,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 13,
    "2024": 100,
-   "2025": 32,
+   "2025": 33,
    "COMUNA": "San Carlos"
   },
   {
@@ -4003,7 +4171,7 @@
    "delito": "LEY DE DROGAS",
    "2023": 18,
    "2024": 30,
-   "2025": 22,
+   "2025": 23,
    "COMUNA": "San Carlos"
   },
   {
@@ -4021,15 +4189,15 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 8,
    "2024": 12,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "San Carlos"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16301,
    "delito": "RECEPTACIÓN",
-   "2023": 29,
-   "2024": 31,
+   "2023": 30,
+   "2024": 33,
    "2025": 21,
    "COMUNA": "San Carlos"
   },
@@ -4038,26 +4206,26 @@
    "CODCOM": 16301,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 58,
-   "2024": 102,
-   "2025": 55,
+   "2024": 103,
+   "2025": 58,
    "COMUNA": "San Carlos"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16301,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 124,
-   "2024": 125,
-   "2025": 78,
+   "2023": 126,
+   "2024": 128,
+   "2025": 82,
    "COMUNA": "San Carlos"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16301,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 225,
-   "2024": 333,
-   "2025": 239,
+   "2023": 231,
+   "2024": 337,
+   "2025": 241,
    "COMUNA": "San Carlos"
   },
   {
@@ -4065,8 +4233,8 @@
    "CODCOM": 16301,
    "delito": "ROBOS POR SORPRESA",
    "2023": 16,
-   "2024": 15,
-   "2025": 15,
+   "2024": 16,
+   "2025": 16,
    "COMUNA": "San Carlos"
   },
   {
@@ -4074,13 +4242,13 @@
    "CODCOM": 16301,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 23,
-   "2024": 22,
-   "2025": 31,
+   "2024": 23,
+   "2025": 33,
    "COMUNA": "San Carlos"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "Ñuble"
  }
 }

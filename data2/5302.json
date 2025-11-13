@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5302,
-   "2024": 70,
+   "2024": 71,
    "2025": 56,
-   "variacion": -20,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "Calle Larga"
   },
@@ -22,18 +22,18 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5302,
    "2024": 42,
-   "2025": 61,
-   "variacion": 45,
+   "2025": 63,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "Calle Larga"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5302,
-   "2024": 64,
-   "2025": 64,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 67,
+   "2025": 66,
+   "variacion": -1,
+   "situación": "Disminución de Casos",
    "COMUNA": "Calle Larga"
   },
   {
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5302,
-   "2024": 46,
+   "2024": 49,
    "2025": 34,
-   "variacion": -26,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "Calle Larga"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5302,
-   "2024": 32,
+   "2024": 35,
    "2025": 18,
-   "variacion": -44,
+   "variacion": -49,
    "situación": "Disminución de Casos",
    "COMUNA": "Calle Larga"
   },
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5302,
    "2024": 23,
-   "2025": 13,
-   "variacion": -43,
+   "2025": 15,
+   "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "Calle Larga"
   },
@@ -157,16 +157,16 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5302,
    "2024": 22,
-   "2025": 22,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 23,
+   "variacion": 5,
+   "situación": "Aumento de Casos",
    "COMUNA": "Calle Larga"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5302,
-   "2024": 58,
-   "2025": 61,
+   "2024": 59,
+   "2025": 62,
    "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "Calle Larga"
@@ -368,6 +368,14 @@
    "COMUNA": "Calle Larga"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Calle Larga"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5302,
    "anio": 2024,
@@ -541,6 +549,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 7,
+   "COMUNA": "Calle Larga"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Calle Larga"
   },
   {
@@ -720,6 +736,14 @@
    "COMUNA": "Calle Larga"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "Calle Larga"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 5302,
    "anio": 2024,
@@ -893,6 +917,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 8,
+   "COMUNA": "Calle Larga"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2,
    "COMUNA": "Calle Larga"
   },
   {
@@ -1072,6 +1104,14 @@
    "COMUNA": "Calle Larga"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Calle Larga"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 5302,
    "anio": 2024,
@@ -1244,6 +1284,14 @@
    "CODCOM": 5302,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Calle Larga"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Calle Larga"
   },
@@ -1424,6 +1472,14 @@
    "COMUNA": "Calle Larga"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Calle Larga"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 5302,
    "anio": 2024,
@@ -1600,6 +1656,14 @@
    "COMUNA": "Calle Larga"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Calle Larga"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5302,
    "anio": 2024,
@@ -1772,6 +1836,14 @@
    "CODCOM": 5302,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Calle Larga"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Calle Larga"
   },
@@ -1952,6 +2024,14 @@
    "COMUNA": "Calle Larga"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Calle Larga"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5302,
    "anio": 2024,
@@ -2124,6 +2204,14 @@
    "CODCOM": 5302,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Calle Larga"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Calle Larga"
   },
@@ -2304,6 +2392,14 @@
    "COMUNA": "Calle Larga"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Calle Larga"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 5302,
    "anio": 2024,
@@ -2480,6 +2576,14 @@
    "COMUNA": "Calle Larga"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Calle Larga"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 5302,
    "anio": 2024,
@@ -2652,6 +2756,14 @@
    "CODCOM": 5302,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Calle Larga"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Calle Larga"
   },
@@ -2828,6 +2940,14 @@
    "CODCOM": 5302,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Calle Larga"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Calle Larga"
   },
@@ -3004,6 +3124,14 @@
    "CODCOM": 5302,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Calle Larga"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Calle Larga"
   },
@@ -3184,6 +3312,14 @@
    "COMUNA": "Calle Larga"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "Calle Larga"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5302,
    "anio": 2024,
@@ -3357,6 +3493,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 2,
+   "COMUNA": "Calle Larga"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
    "COMUNA": "Calle Larga"
   },
   {
@@ -3536,6 +3680,14 @@
    "COMUNA": "Calle Larga"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Calle Larga"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5302,
    "anio": 2024,
@@ -3708,6 +3860,14 @@
    "CODCOM": 5302,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Calle Larga"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Calle Larga"
   },
@@ -3886,6 +4046,14 @@
    "mes": 10,
    "casos": 0,
    "COMUNA": "Calle Larga"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Calle Larga"
   }
  ],
  "info": [
@@ -3902,8 +4070,8 @@
    "informacion": "Casos",
    "CODCOM": 5302,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 94,
-   "2024": 70,
+   "2023": 96,
+   "2024": 71,
    "2025": 56,
    "COMUNA": "Calle Larga"
   },
@@ -3911,25 +4079,25 @@
    "informacion": "Casos",
    "CODCOM": 5302,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 35,
+   "2023": 37,
    "2024": 42,
-   "2025": 61,
+   "2025": 63,
    "COMUNA": "Calle Larga"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5302,
    "delito": "DAÑOS",
-   "2023": 71,
-   "2024": 64,
-   "2025": 64,
+   "2023": 73,
+   "2024": 67,
+   "2025": 66,
    "COMUNA": "Calle Larga"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5302,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 101,
+   "2023": 103,
    "2024": 101,
    "2025": 71,
    "COMUNA": "Calle Larga"
@@ -3957,7 +4125,7 @@
    "CODCOM": 5302,
    "delito": "INCIVILIDADES",
    "2023": 64,
-   "2024": 46,
+   "2024": 49,
    "2025": 34,
    "COMUNA": "Calle Larga"
   },
@@ -3974,8 +4142,8 @@
    "informacion": "Casos",
    "CODCOM": 5302,
    "delito": "LESIONES LEVES",
-   "2023": 40,
-   "2024": 32,
+   "2023": 42,
+   "2024": 35,
    "2025": 18,
    "COMUNA": "Calle Larga"
   },
@@ -4037,9 +4205,9 @@
    "informacion": "Casos",
    "CODCOM": 5302,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 25,
+   "2023": 29,
    "2024": 23,
-   "2025": 13,
+   "2025": 15,
    "COMUNA": "Calle Larga"
   },
   {
@@ -4048,16 +4216,16 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 18,
    "2024": 22,
-   "2025": 22,
+   "2025": 23,
    "COMUNA": "Calle Larga"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5302,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 80,
-   "2024": 58,
-   "2025": 61,
+   "2023": 83,
+   "2024": 59,
+   "2025": 62,
    "COMUNA": "Calle Larga"
   },
   {
@@ -4080,7 +4248,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "Valparaíso"
  }
 }

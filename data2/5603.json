@@ -3,44 +3,44 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 5603,
-   "2024": 7,
+   "2024": 8,
    "2025": 17,
-   "variacion": 143,
+   "variacion": 112,
    "situación": "Aumento de Casos",
    "COMUNA": "Cartagena"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5603,
-   "2024": 361,
-   "2025": 363,
-   "variacion": 1,
-   "situación": "Aumento de Casos",
+   "2024": 370,
+   "2025": 370,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cartagena"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5603,
-   "2024": 672,
-   "2025": 1320,
-   "variacion": 96,
+   "2024": 709,
+   "2025": 1336,
+   "variacion": 88,
    "situación": "Aumento de Casos",
    "COMUNA": "Cartagena"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5603,
-   "2024": 202,
-   "2025": 186,
-   "variacion": -8,
+   "2024": 205,
+   "2025": 190,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "Cartagena"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5603,
-   "2024": 252,
-   "2025": 241,
+   "2024": 259,
+   "2025": 248,
    "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "Cartagena"
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5603,
-   "2024": 110,
-   "2025": 137,
-   "variacion": 25,
+   "2024": 113,
+   "2025": 142,
+   "variacion": 26,
    "situación": "Aumento de Casos",
    "COMUNA": "Cartagena"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5603,
-   "2024": 138,
-   "2025": 234,
-   "variacion": 70,
+   "2024": 140,
+   "2025": 241,
+   "variacion": 72,
    "situación": "Aumento de Casos",
    "COMUNA": "Cartagena"
   },
@@ -84,17 +84,17 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5603,
-   "2024": 166,
-   "2025": 156,
-   "variacion": -6,
+   "2024": 169,
+   "2025": 160,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "Cartagena"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5603,
-   "2024": 40,
-   "2025": 36,
+   "2024": 41,
+   "2025": 37,
    "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "Cartagena"
@@ -103,7 +103,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5603,
    "2024": 222,
-   "2025": 75,
+   "2025": 76,
    "variacion": -66,
    "situación": "Disminución de Casos",
    "COMUNA": "Cartagena"
@@ -120,9 +120,9 @@
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 5603,
-   "2024": 5,
+   "2024": 6,
    "2025": 2,
-   "variacion": -60,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "Cartagena"
   },
@@ -138,17 +138,17 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 5603,
-   "2024": 33,
+   "2024": 34,
    "2025": 29,
-   "variacion": -12,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "Cartagena"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5603,
-   "2024": 95,
-   "2025": 82,
+   "2024": 96,
+   "2025": 83,
    "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Cartagena"
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5603,
-   "2024": 104,
-   "2025": 54,
-   "variacion": -48,
+   "2024": 105,
+   "2025": 56,
+   "variacion": -47,
    "situación": "Disminución de Casos",
    "COMUNA": "Cartagena"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5603,
-   "2024": 277,
-   "2025": 180,
-   "variacion": -35,
+   "2024": 280,
+   "2025": 184,
+   "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "Cartagena"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5603,
    "2024": 28,
-   "2025": 18,
-   "variacion": -36,
+   "2025": 19,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "Cartagena"
   }
@@ -368,6 +368,14 @@
    "COMUNA": "Cartagena"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Cartagena"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5603,
    "anio": 2024,
@@ -541,6 +549,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 27,
+   "COMUNA": "Cartagena"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 7,
    "COMUNA": "Cartagena"
   },
   {
@@ -720,6 +736,14 @@
    "COMUNA": "Cartagena"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 16,
+   "COMUNA": "Cartagena"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 5603,
    "anio": 2024,
@@ -893,6 +917,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 16,
+   "COMUNA": "Cartagena"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 4,
    "COMUNA": "Cartagena"
   },
   {
@@ -1072,6 +1104,14 @@
    "COMUNA": "Cartagena"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 7,
+   "COMUNA": "Cartagena"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 5603,
    "anio": 2024,
@@ -1244,6 +1284,14 @@
    "CODCOM": 5603,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cartagena"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Cartagena"
   },
@@ -1424,6 +1472,14 @@
    "COMUNA": "Cartagena"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 5,
+   "COMUNA": "Cartagena"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 5603,
    "anio": 2024,
@@ -1600,6 +1656,14 @@
    "COMUNA": "Cartagena"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 7,
+   "COMUNA": "Cartagena"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5603,
    "anio": 2024,
@@ -1773,6 +1837,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 2,
+   "COMUNA": "Cartagena"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Cartagena"
   },
   {
@@ -1952,6 +2024,14 @@
    "COMUNA": "Cartagena"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 4,
+   "COMUNA": "Cartagena"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5603,
    "anio": 2024,
@@ -2125,6 +2205,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 4,
+   "COMUNA": "Cartagena"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
    "COMUNA": "Cartagena"
   },
   {
@@ -2304,6 +2392,14 @@
    "COMUNA": "Cartagena"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Cartagena"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 5603,
    "anio": 2024,
@@ -2480,6 +2576,14 @@
    "COMUNA": "Cartagena"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Cartagena"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 5603,
    "anio": 2024,
@@ -2656,6 +2760,14 @@
    "COMUNA": "Cartagena"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Cartagena"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 5603,
    "anio": 2024,
@@ -2828,6 +2940,14 @@
    "CODCOM": 5603,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cartagena"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Cartagena"
   },
@@ -3005,6 +3125,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "Cartagena"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Cartagena"
   },
   {
@@ -3184,6 +3312,14 @@
    "COMUNA": "Cartagena"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Cartagena"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5603,
    "anio": 2024,
@@ -3357,6 +3493,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 4,
+   "COMUNA": "Cartagena"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2,
    "COMUNA": "Cartagena"
   },
   {
@@ -3536,6 +3680,14 @@
    "COMUNA": "Cartagena"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 4,
+   "COMUNA": "Cartagena"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5603,
    "anio": 2024,
@@ -3712,6 +3864,14 @@
    "COMUNA": "Cartagena"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Cartagena"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5603,
    "anio": 2024,
@@ -3885,6 +4045,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 2,
+   "COMUNA": "Cartagena"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
    "COMUNA": "Cartagena"
   }
  ],
@@ -3894,7 +4062,7 @@
    "CODCOM": 5603,
    "delito": "AMENAZAS CON ARMAS",
    "2023": 2,
-   "2024": 7,
+   "2024": 8,
    "2025": 17,
    "COMUNA": "Cartagena"
   },
@@ -3902,36 +4070,36 @@
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 377,
-   "2024": 361,
-   "2025": 363,
+   "2023": 387,
+   "2024": 370,
+   "2025": 370,
    "COMUNA": "Cartagena"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 1489,
-   "2024": 672,
-   "2025": 1320,
+   "2023": 1514,
+   "2024": 709,
+   "2025": 1336,
    "COMUNA": "Cartagena"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "DAÑOS",
-   "2023": 171,
-   "2024": 202,
-   "2025": 186,
+   "2023": 175,
+   "2024": 205,
+   "2025": 190,
    "COMUNA": "Cartagena"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 230,
-   "2024": 252,
-   "2025": 241,
+   "2023": 234,
+   "2024": 259,
+   "2025": 248,
    "COMUNA": "Cartagena"
   },
   {
@@ -3947,18 +4115,18 @@
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "HURTOS",
-   "2023": 91,
-   "2024": 110,
-   "2025": 137,
+   "2023": 93,
+   "2024": 113,
+   "2025": 142,
    "COMUNA": "Cartagena"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "INCIVILIDADES",
-   "2023": 74,
-   "2024": 138,
-   "2025": 234,
+   "2023": 75,
+   "2024": 140,
+   "2025": 241,
    "COMUNA": "Cartagena"
   },
   {
@@ -3974,9 +4142,9 @@
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "LESIONES LEVES",
-   "2023": 108,
-   "2024": 166,
-   "2025": 156,
+   "2023": 110,
+   "2024": 169,
+   "2025": 160,
    "COMUNA": "Cartagena"
   },
   {
@@ -3984,8 +4152,8 @@
    "CODCOM": 5603,
    "delito": "LESIONES MENOS GRAVES",
    "2023": 22,
-   "2024": 40,
-   "2025": 36,
+   "2024": 41,
+   "2025": 37,
    "COMUNA": "Cartagena"
   },
   {
@@ -3994,7 +4162,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 58,
    "2024": 222,
-   "2025": 75,
+   "2025": 76,
    "COMUNA": "Cartagena"
   },
   {
@@ -4011,7 +4179,7 @@
    "CODCOM": 5603,
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2023": 7,
-   "2024": 5,
+   "2024": 6,
    "2025": 2,
    "COMUNA": "Cartagena"
   },
@@ -4028,8 +4196,8 @@
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "RECEPTACIÓN",
-   "2023": 51,
-   "2024": 33,
+   "2023": 52,
+   "2024": 34,
    "2025": 29,
    "COMUNA": "Cartagena"
   },
@@ -4037,34 +4205,34 @@
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 100,
-   "2024": 95,
-   "2025": 82,
+   "2023": 104,
+   "2024": 96,
+   "2025": 83,
    "COMUNA": "Cartagena"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 81,
-   "2024": 104,
-   "2025": 54,
+   "2023": 82,
+   "2024": 105,
+   "2025": 56,
    "COMUNA": "Cartagena"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 260,
-   "2024": 277,
-   "2025": 180,
+   "2023": 269,
+   "2024": 280,
+   "2025": 184,
    "COMUNA": "Cartagena"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "ROBOS POR SORPRESA",
-   "2023": 19,
+   "2023": 20,
    "2024": 23,
    "2025": 21,
    "COMUNA": "Cartagena"
@@ -4073,14 +4241,14 @@
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 24,
+   "2023": 25,
    "2024": 28,
-   "2025": 18,
+   "2025": 19,
    "COMUNA": "Cartagena"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "Valparaíso"
  }
 }

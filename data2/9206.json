@@ -4,35 +4,35 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 9206,
    "2024": 2,
-   "2025": 1,
-   "variacion": -50,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Los Sauces"
-  },
-  {
-   "delito": "AMENAZAS Y RIÑAS",
-   "CODCOM": 9206,
-   "2024": 40,
-   "2025": 40,
+   "2025": 2,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Los Sauces"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9206,
+   "2024": 42,
+   "2025": 40,
+   "variacion": -5,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Los Sauces"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9206,
-   "2024": 12,
+   "2024": 15,
    "2025": 17,
-   "variacion": 42,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "Los Sauces"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9206,
-   "2024": 69,
-   "2025": 47,
-   "variacion": -32,
+   "2024": 70,
+   "2025": 48,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Sauces"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9206,
    "2024": 52,
-   "2025": 36,
-   "variacion": -31,
+   "2025": 37,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Sauces"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9206,
-   "2024": 26,
+   "2024": 27,
    "2025": 22,
-   "variacion": -15,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Sauces"
   },
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9206,
-   "2024": 3,
+   "2024": 4,
    "2025": 12,
-   "variacion": 300,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Los Sauces"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9206,
-   "2024": 14,
+   "2024": 15,
    "2025": 27,
-   "variacion": 93,
+   "variacion": 80,
    "situación": "Aumento de Casos",
    "COMUNA": "Los Sauces"
   },
@@ -368,6 +368,14 @@
    "COMUNA": "Los Sauces"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Los Sauces"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9206,
    "anio": 2024,
@@ -544,6 +552,14 @@
    "COMUNA": "Los Sauces"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Los Sauces"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9206,
    "anio": 2024,
@@ -717,6 +733,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "Los Sauces"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -896,6 +920,14 @@
    "COMUNA": "Los Sauces"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Los Sauces"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9206,
    "anio": 2024,
@@ -1072,6 +1104,14 @@
    "COMUNA": "Los Sauces"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Los Sauces"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9206,
    "anio": 2024,
@@ -1244,6 +1284,14 @@
    "CODCOM": 9206,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Los Sauces"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Los Sauces"
   },
@@ -1424,6 +1472,14 @@
    "COMUNA": "Los Sauces"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Los Sauces"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9206,
    "anio": 2024,
@@ -1600,6 +1656,14 @@
    "COMUNA": "Los Sauces"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Los Sauces"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9206,
    "anio": 2024,
@@ -1773,6 +1837,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "Los Sauces"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -1952,6 +2024,14 @@
    "COMUNA": "Los Sauces"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Los Sauces"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9206,
    "anio": 2024,
@@ -2124,6 +2204,14 @@
    "CODCOM": 9206,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Los Sauces"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Los Sauces"
   },
@@ -2304,6 +2392,14 @@
    "COMUNA": "Los Sauces"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Los Sauces"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9206,
    "anio": 2024,
@@ -2480,6 +2576,14 @@
    "COMUNA": "Los Sauces"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Los Sauces"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9206,
    "anio": 2024,
@@ -2652,6 +2756,14 @@
    "CODCOM": 9206,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Los Sauces"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Los Sauces"
   },
@@ -2832,6 +2944,14 @@
    "COMUNA": "Los Sauces"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Los Sauces"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9206,
    "anio": 2024,
@@ -3004,6 +3124,14 @@
    "CODCOM": 9206,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Los Sauces"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Los Sauces"
   },
@@ -3184,6 +3312,14 @@
    "COMUNA": "Los Sauces"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Los Sauces"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9206,
    "anio": 2024,
@@ -3357,6 +3493,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "Los Sauces"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -3536,6 +3680,14 @@
    "COMUNA": "Los Sauces"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Los Sauces"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9206,
    "anio": 2024,
@@ -3712,6 +3864,14 @@
    "COMUNA": "Los Sauces"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Los Sauces"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9206,
    "anio": 2024,
@@ -3884,6 +4044,14 @@
    "CODCOM": 9206,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Los Sauces"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Los Sauces"
   }
@@ -3895,15 +4063,15 @@
    "delito": "AMENAZAS CON ARMAS",
    "2023": 2,
    "2024": 2,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "Los Sauces"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9206,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 59,
-   "2024": 40,
+   "2023": 60,
+   "2024": 42,
    "2025": 40,
    "COMUNA": "Los Sauces"
   },
@@ -3912,7 +4080,7 @@
    "CODCOM": 9206,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 5,
-   "2024": 12,
+   "2024": 15,
    "2025": 17,
    "COMUNA": "Los Sauces"
   },
@@ -3920,18 +4088,18 @@
    "informacion": "Casos",
    "CODCOM": 9206,
    "delito": "DAÑOS",
-   "2023": 49,
-   "2024": 69,
-   "2025": 47,
+   "2023": 55,
+   "2024": 70,
+   "2025": 48,
    "COMUNA": "Los Sauces"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9206,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 48,
+   "2023": 50,
    "2024": 52,
-   "2025": 36,
+   "2025": 37,
    "COMUNA": "Los Sauces"
   },
   {
@@ -3947,7 +4115,7 @@
    "informacion": "Casos",
    "CODCOM": 9206,
    "delito": "HURTOS",
-   "2023": 27,
+   "2023": 28,
    "2024": 20,
    "2025": 24,
    "COMUNA": "Los Sauces"
@@ -3974,8 +4142,8 @@
    "informacion": "Casos",
    "CODCOM": 9206,
    "delito": "LESIONES LEVES",
-   "2023": 30,
-   "2024": 26,
+   "2023": 31,
+   "2024": 27,
    "2025": 22,
    "COMUNA": "Los Sauces"
   },
@@ -4038,7 +4206,7 @@
    "CODCOM": 9206,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 4,
-   "2024": 3,
+   "2024": 4,
    "2025": 12,
    "COMUNA": "Los Sauces"
   },
@@ -4046,7 +4214,7 @@
    "informacion": "Casos",
    "CODCOM": 9206,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 9,
+   "2023": 10,
    "2024": 5,
    "2025": 2,
    "COMUNA": "Los Sauces"
@@ -4056,7 +4224,7 @@
    "CODCOM": 9206,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 28,
-   "2024": 14,
+   "2024": 15,
    "2025": 27,
    "COMUNA": "Los Sauces"
   },
@@ -4080,7 +4248,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "La Araucanía"
  }
 }

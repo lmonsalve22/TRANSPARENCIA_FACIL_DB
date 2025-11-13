@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5405,
-   "2024": 66,
-   "2025": 43,
-   "variacion": -35,
+   "2024": 67,
+   "2025": 44,
+   "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "Zapallar"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5405,
-   "2024": 44,
+   "2024": 45,
    "2025": 75,
-   "variacion": 70,
+   "variacion": 67,
    "situación": "Aumento de Casos",
    "COMUNA": "Zapallar"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 5405,
    "2024": 88,
-   "2025": 85,
-   "variacion": -3,
+   "2025": 86,
+   "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "Zapallar"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5405,
-   "2024": 60,
-   "2025": 46,
-   "variacion": -23,
+   "2024": 61,
+   "2025": 48,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "Zapallar"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5405,
-   "2024": 40,
+   "2024": 43,
    "2025": 52,
-   "variacion": 30,
+   "variacion": 21,
    "situación": "Aumento de Casos",
    "COMUNA": "Zapallar"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5405,
-   "2024": 19,
+   "2024": 21,
    "2025": 23,
-   "variacion": 21,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "Zapallar"
   },
@@ -111,10 +111,10 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 5405,
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Zapallar"
   },
   {
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5405,
-   "2024": 31,
+   "2024": 35,
    "2025": 69,
-   "variacion": 123,
+   "variacion": 97,
    "situación": "Aumento de Casos",
    "COMUNA": "Zapallar"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5405,
-   "2024": 52,
+   "2024": 54,
    "2025": 47,
-   "variacion": -10,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "Zapallar"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5405,
-   "2024": 7,
+   "2024": 8,
    "2025": 9,
-   "variacion": 29,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "Zapallar"
   }
@@ -368,6 +368,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5405,
    "anio": 2024,
@@ -541,6 +549,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 3,
+   "COMUNA": "Zapallar"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
    "COMUNA": "Zapallar"
   },
   {
@@ -720,6 +736,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 5405,
    "anio": 2024,
@@ -896,6 +920,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5405,
    "anio": 2024,
@@ -1072,6 +1104,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 5405,
    "anio": 2024,
@@ -1244,6 +1284,14 @@
    "CODCOM": 5405,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Zapallar"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Zapallar"
   },
@@ -1424,6 +1472,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 5405,
    "anio": 2024,
@@ -1600,6 +1656,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5405,
    "anio": 2024,
@@ -1772,6 +1836,14 @@
    "CODCOM": 5405,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Zapallar"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Zapallar"
   },
@@ -1952,6 +2024,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5405,
    "anio": 2024,
@@ -2124,6 +2204,14 @@
    "CODCOM": 5405,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Zapallar"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Zapallar"
   },
@@ -2304,6 +2392,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 5405,
    "anio": 2024,
@@ -2480,6 +2576,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 5405,
    "anio": 2024,
@@ -2652,6 +2756,14 @@
    "CODCOM": 5405,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Zapallar"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Zapallar"
   },
@@ -2832,6 +2944,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 5405,
    "anio": 2024,
@@ -3004,6 +3124,14 @@
    "CODCOM": 5405,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Zapallar"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Zapallar"
   },
@@ -3181,6 +3309,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "Zapallar"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Zapallar"
   },
   {
@@ -3360,6 +3496,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5405,
    "anio": 2024,
@@ -3536,6 +3680,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5405,
    "anio": 2024,
@@ -3709,6 +3861,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "Zapallar"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Zapallar"
   },
   {
@@ -3886,6 +4046,14 @@
    "mes": 10,
    "casos": 0,
    "COMUNA": "Zapallar"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Zapallar"
   }
  ],
  "info": [
@@ -3903,16 +4071,16 @@
    "CODCOM": 5405,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 69,
-   "2024": 66,
-   "2025": 43,
+   "2024": 67,
+   "2025": 44,
    "COMUNA": "Zapallar"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5405,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 43,
-   "2024": 44,
+   "2023": 44,
+   "2024": 45,
    "2025": 75,
    "COMUNA": "Zapallar"
   },
@@ -3922,7 +4090,7 @@
    "delito": "DAÑOS",
    "2023": 80,
    "2024": 88,
-   "2025": 85,
+   "2025": 86,
    "COMUNA": "Zapallar"
   },
   {
@@ -3930,8 +4098,8 @@
    "CODCOM": 5405,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 53,
-   "2024": 60,
-   "2025": 46,
+   "2024": 61,
+   "2025": 48,
    "COMUNA": "Zapallar"
   },
   {
@@ -3947,8 +4115,8 @@
    "informacion": "Casos",
    "CODCOM": 5405,
    "delito": "HURTOS",
-   "2023": 52,
-   "2024": 40,
+   "2023": 54,
+   "2024": 43,
    "2025": 52,
    "COMUNA": "Zapallar"
   },
@@ -3956,7 +4124,7 @@
    "informacion": "Casos",
    "CODCOM": 5405,
    "delito": "INCIVILIDADES",
-   "2023": 64,
+   "2023": 65,
    "2024": 56,
    "2025": 71,
    "COMUNA": "Zapallar"
@@ -3975,7 +4143,7 @@
    "CODCOM": 5405,
    "delito": "LESIONES LEVES",
    "2023": 20,
-   "2024": 19,
+   "2024": 21,
    "2025": 23,
    "COMUNA": "Zapallar"
   },
@@ -3992,7 +4160,7 @@
    "informacion": "Casos",
    "CODCOM": 5405,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 2,
+   "2023": 3,
    "2024": 11,
    "2025": 6,
    "COMUNA": "Zapallar"
@@ -4002,7 +4170,7 @@
    "CODCOM": 5405,
    "delito": "LEY DE DROGAS",
    "2023": 5,
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
    "COMUNA": "Zapallar"
   },
@@ -4047,7 +4215,7 @@
    "CODCOM": 5405,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 39,
-   "2024": 31,
+   "2024": 35,
    "2025": 69,
    "COMUNA": "Zapallar"
   },
@@ -4055,8 +4223,8 @@
    "informacion": "Casos",
    "CODCOM": 5405,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 56,
-   "2024": 52,
+   "2023": 58,
+   "2024": 54,
    "2025": 47,
    "COMUNA": "Zapallar"
   },
@@ -4073,14 +4241,14 @@
    "informacion": "Casos",
    "CODCOM": 5405,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 9,
-   "2024": 7,
+   "2023": 10,
+   "2024": 8,
    "2025": 9,
    "COMUNA": "Zapallar"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "Valparaíso"
  }
 }

@@ -3,17 +3,17 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 6310,
-   "2024": 13,
+   "2024": 14,
    "2025": 12,
-   "variacion": -8,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Cruz"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6310,
-   "2024": 285,
-   "2025": 252,
+   "2024": 294,
+   "2025": 258,
    "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Cruz"
@@ -21,17 +21,17 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6310,
-   "2024": 388,
-   "2025": 418,
-   "variacion": 8,
+   "2024": 392,
+   "2025": 444,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa Cruz"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6310,
-   "2024": 255,
-   "2025": 214,
+   "2024": 265,
+   "2025": 222,
    "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Cruz"
@@ -39,8 +39,8 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6310,
-   "2024": 246,
-   "2025": 211,
+   "2024": 251,
+   "2025": 217,
    "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Cruz"
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6310,
-   "2024": 251,
-   "2025": 178,
-   "variacion": -29,
+   "2024": 259,
+   "2025": 179,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Cruz"
   },
@@ -67,34 +67,34 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 6310,
    "2024": 148,
-   "2025": 177,
-   "variacion": 20,
+   "2025": 187,
+   "variacion": 26,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa Cruz"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6310,
-   "2024": 23,
+   "2024": 24,
    "2025": 18,
-   "variacion": -22,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Cruz"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6310,
-   "2024": 99,
-   "2025": 108,
-   "variacion": 9,
+   "2024": 101,
+   "2025": 114,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa Cruz"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6310,
-   "2024": 21,
-   "2025": 21,
+   "2024": 22,
+   "2025": 22,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Santa Cruz"
@@ -111,9 +111,9 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6310,
-   "2024": 25,
+   "2024": 26,
    "2025": 29,
-   "variacion": 16,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa Cruz"
   },
@@ -121,9 +121,9 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6310,
    "2024": 0,
-   "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Santa Cruz"
   },
   {
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6310,
-   "2024": 43,
-   "2025": 48,
-   "variacion": 12,
+   "2024": 44,
+   "2025": 49,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa Cruz"
   },
@@ -157,16 +157,16 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6310,
    "2024": 40,
-   "2025": 21,
-   "variacion": -48,
+   "2025": 22,
+   "variacion": -45,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Cruz"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6310,
-   "2024": 181,
-   "2025": 131,
+   "2024": 185,
+   "2025": 133,
    "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Cruz"
@@ -174,18 +174,18 @@
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6310,
-   "2024": 17,
+   "2024": 19,
    "2025": 9,
-   "variacion": -47,
+   "variacion": -53,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Cruz"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6310,
-   "2024": 28,
+   "2024": 29,
    "2025": 15,
-   "variacion": -46,
+   "variacion": -48,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Cruz"
   }
@@ -368,6 +368,14 @@
    "COMUNA": "Santa Cruz"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 6310,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Santa Cruz"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6310,
    "anio": 2024,
@@ -541,6 +549,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 29,
+   "COMUNA": "Santa Cruz"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 6310,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 6,
    "COMUNA": "Santa Cruz"
   },
   {
@@ -720,6 +736,14 @@
    "COMUNA": "Santa Cruz"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 6310,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 26,
+   "COMUNA": "Santa Cruz"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 6310,
    "anio": 2024,
@@ -893,6 +917,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 18,
+   "COMUNA": "Santa Cruz"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 6310,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 8,
    "COMUNA": "Santa Cruz"
   },
   {
@@ -1072,6 +1104,14 @@
    "COMUNA": "Santa Cruz"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6310,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 6,
+   "COMUNA": "Santa Cruz"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6310,
    "anio": 2024,
@@ -1244,6 +1284,14 @@
    "CODCOM": 6310,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Santa Cruz"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 6310,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Santa Cruz"
   },
@@ -1424,6 +1472,14 @@
    "COMUNA": "Santa Cruz"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6310,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Santa Cruz"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 6310,
    "anio": 2024,
@@ -1600,6 +1656,14 @@
    "COMUNA": "Santa Cruz"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 6310,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 10,
+   "COMUNA": "Santa Cruz"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6310,
    "anio": 2024,
@@ -1773,6 +1837,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "Santa Cruz"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 6310,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Santa Cruz"
   },
   {
@@ -1952,6 +2024,14 @@
    "COMUNA": "Santa Cruz"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 6310,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 6,
+   "COMUNA": "Santa Cruz"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6310,
    "anio": 2024,
@@ -2125,6 +2205,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 2,
+   "COMUNA": "Santa Cruz"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 6310,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
    "COMUNA": "Santa Cruz"
   },
   {
@@ -2304,6 +2392,14 @@
    "COMUNA": "Santa Cruz"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 6310,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Santa Cruz"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6310,
    "anio": 2024,
@@ -2480,6 +2576,14 @@
    "COMUNA": "Santa Cruz"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 6310,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Santa Cruz"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6310,
    "anio": 2024,
@@ -2656,6 +2760,14 @@
    "COMUNA": "Santa Cruz"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 6310,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Santa Cruz"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 6310,
    "anio": 2024,
@@ -2829,6 +2941,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "Santa Cruz"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6310,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Santa Cruz"
   },
   {
@@ -3005,6 +3125,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "Santa Cruz"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 6310,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Santa Cruz"
   },
   {
@@ -3184,6 +3312,14 @@
    "COMUNA": "Santa Cruz"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6310,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Santa Cruz"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6310,
    "anio": 2024,
@@ -3357,6 +3493,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 4,
+   "COMUNA": "Santa Cruz"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 6310,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
    "COMUNA": "Santa Cruz"
   },
   {
@@ -3536,6 +3680,14 @@
    "COMUNA": "Santa Cruz"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 6310,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "Santa Cruz"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6310,
    "anio": 2024,
@@ -3709,6 +3861,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "Santa Cruz"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6310,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Santa Cruz"
   },
   {
@@ -3886,6 +4046,14 @@
    "mes": 10,
    "casos": 2,
    "COMUNA": "Santa Cruz"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 6310,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Santa Cruz"
   }
  ],
  "info": [
@@ -3894,7 +4062,7 @@
    "CODCOM": 6310,
    "delito": "AMENAZAS CON ARMAS",
    "2023": 10,
-   "2024": 13,
+   "2024": 14,
    "2025": 12,
    "COMUNA": "Santa Cruz"
   },
@@ -3902,36 +4070,36 @@
    "informacion": "Casos",
    "CODCOM": 6310,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 304,
-   "2024": 285,
-   "2025": 252,
+   "2023": 309,
+   "2024": 294,
+   "2025": 258,
    "COMUNA": "Santa Cruz"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6310,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 155,
-   "2024": 388,
-   "2025": 418,
+   "2023": 178,
+   "2024": 392,
+   "2025": 444,
    "COMUNA": "Santa Cruz"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6310,
    "delito": "DAÑOS",
-   "2023": 272,
-   "2024": 255,
-   "2025": 214,
+   "2023": 277,
+   "2024": 265,
+   "2025": 222,
    "COMUNA": "Santa Cruz"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6310,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 291,
-   "2024": 246,
-   "2025": 211,
+   "2023": 297,
+   "2024": 251,
+   "2025": 217,
    "COMUNA": "Santa Cruz"
   },
   {
@@ -3947,26 +4115,26 @@
    "informacion": "Casos",
    "CODCOM": 6310,
    "delito": "HURTOS",
-   "2023": 332,
-   "2024": 251,
-   "2025": 178,
+   "2023": 344,
+   "2024": 259,
+   "2025": 179,
    "COMUNA": "Santa Cruz"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6310,
    "delito": "INCIVILIDADES",
-   "2023": 204,
+   "2023": 210,
    "2024": 148,
-   "2025": 177,
+   "2025": 187,
    "COMUNA": "Santa Cruz"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6310,
    "delito": "LESIONES GRAVES",
-   "2023": 12,
-   "2024": 23,
+   "2023": 13,
+   "2024": 24,
    "2025": 18,
    "COMUNA": "Santa Cruz"
   },
@@ -3974,9 +4142,9 @@
    "informacion": "Casos",
    "CODCOM": 6310,
    "delito": "LESIONES LEVES",
-   "2023": 96,
-   "2024": 99,
-   "2025": 108,
+   "2023": 101,
+   "2024": 101,
+   "2025": 114,
    "COMUNA": "Santa Cruz"
   },
   {
@@ -3984,8 +4152,8 @@
    "CODCOM": 6310,
    "delito": "LESIONES MENOS GRAVES",
    "2023": 34,
-   "2024": 21,
-   "2025": 21,
+   "2024": 22,
+   "2025": 22,
    "COMUNA": "Santa Cruz"
   },
   {
@@ -4002,7 +4170,7 @@
    "CODCOM": 6310,
    "delito": "LEY DE DROGAS",
    "2023": 14,
-   "2024": 25,
+   "2024": 26,
    "2025": 29,
    "COMUNA": "Santa Cruz"
   },
@@ -4012,7 +4180,7 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2023": 0,
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "Santa Cruz"
   },
   {
@@ -4038,34 +4206,34 @@
    "CODCOM": 6310,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 68,
-   "2024": 43,
-   "2025": 48,
+   "2024": 44,
+   "2025": 49,
    "COMUNA": "Santa Cruz"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6310,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 50,
+   "2023": 51,
    "2024": 40,
-   "2025": 21,
+   "2025": 22,
    "COMUNA": "Santa Cruz"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6310,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 143,
-   "2024": 181,
-   "2025": 131,
+   "2023": 149,
+   "2024": 185,
+   "2025": 133,
    "COMUNA": "Santa Cruz"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6310,
    "delito": "ROBOS POR SORPRESA",
-   "2023": 10,
-   "2024": 17,
+   "2023": 11,
+   "2024": 19,
    "2025": 9,
    "COMUNA": "Santa Cruz"
   },
@@ -4073,14 +4241,14 @@
    "informacion": "Casos",
    "CODCOM": 6310,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 26,
-   "2024": 28,
+   "2023": 27,
+   "2024": 29,
    "2025": 15,
    "COMUNA": "Santa Cruz"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "O'Higgins"
  }
 }

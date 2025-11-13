@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6201,
-   "2024": 275,
-   "2025": 226,
+   "2024": 278,
+   "2025": 228,
    "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "Pichilemu"
@@ -21,8 +21,8 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6201,
-   "2024": 199,
-   "2025": 130,
+   "2024": 205,
+   "2025": 133,
    "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "Pichilemu"
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6201,
-   "2024": 185,
-   "2025": 123,
-   "variacion": -34,
+   "2024": 189,
+   "2025": 131,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "Pichilemu"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6201,
-   "2024": 224,
-   "2025": 196,
-   "variacion": -12,
+   "2024": 229,
+   "2025": 199,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "Pichilemu"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6201,
-   "2024": 162,
-   "2025": 113,
-   "variacion": -30,
+   "2024": 163,
+   "2025": 116,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Pichilemu"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6201,
-   "2024": 58,
-   "2025": 91,
-   "variacion": 57,
+   "2024": 61,
+   "2025": 93,
+   "variacion": 52,
    "situación": "Aumento de Casos",
    "COMUNA": "Pichilemu"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6201,
-   "2024": 66,
-   "2025": 80,
-   "variacion": 21,
+   "2024": 68,
+   "2025": 81,
+   "variacion": 19,
    "situación": "Aumento de Casos",
    "COMUNA": "Pichilemu"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 6201,
    "2024": 23,
-   "2025": 27,
-   "variacion": 17,
+   "2025": 28,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "Pichilemu"
   },
@@ -165,8 +165,8 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6201,
-   "2024": 162,
-   "2025": 98,
+   "2024": 167,
+   "2025": 101,
    "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Pichilemu"
@@ -368,6 +368,14 @@
    "COMUNA": "Pichilemu"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pichilemu"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6201,
    "anio": 2024,
@@ -541,6 +549,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 15,
+   "COMUNA": "Pichilemu"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2,
    "COMUNA": "Pichilemu"
   },
   {
@@ -720,6 +736,14 @@
    "COMUNA": "Pichilemu"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "Pichilemu"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 6201,
    "anio": 2024,
@@ -892,6 +916,14 @@
    "CODCOM": 6201,
    "anio": 2025,
    "mes": 10,
+   "casos": 8,
+   "COMUNA": "Pichilemu"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 11,
    "casos": 8,
    "COMUNA": "Pichilemu"
   },
@@ -1072,6 +1104,14 @@
    "COMUNA": "Pichilemu"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "Pichilemu"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6201,
    "anio": 2024,
@@ -1244,6 +1284,14 @@
    "CODCOM": 6201,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pichilemu"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Pichilemu"
   },
@@ -1424,6 +1472,14 @@
    "COMUNA": "Pichilemu"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "Pichilemu"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 6201,
    "anio": 2024,
@@ -1600,6 +1656,14 @@
    "COMUNA": "Pichilemu"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "Pichilemu"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6201,
    "anio": 2024,
@@ -1772,6 +1836,14 @@
    "CODCOM": 6201,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pichilemu"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Pichilemu"
   },
@@ -1952,6 +2024,14 @@
    "COMUNA": "Pichilemu"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Pichilemu"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6201,
    "anio": 2024,
@@ -2124,6 +2204,14 @@
    "CODCOM": 6201,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pichilemu"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Pichilemu"
   },
@@ -2301,6 +2389,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "Pichilemu"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Pichilemu"
   },
   {
@@ -2480,6 +2576,14 @@
    "COMUNA": "Pichilemu"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Pichilemu"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6201,
    "anio": 2024,
@@ -2652,6 +2756,14 @@
    "CODCOM": 6201,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pichilemu"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Pichilemu"
   },
@@ -2829,6 +2941,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "Pichilemu"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Pichilemu"
   },
   {
@@ -3004,6 +3124,14 @@
    "CODCOM": 6201,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pichilemu"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Pichilemu"
   },
@@ -3184,6 +3312,14 @@
    "COMUNA": "Pichilemu"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pichilemu"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6201,
    "anio": 2024,
@@ -3357,6 +3493,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 2,
+   "COMUNA": "Pichilemu"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Pichilemu"
   },
   {
@@ -3536,6 +3680,14 @@
    "COMUNA": "Pichilemu"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "Pichilemu"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6201,
    "anio": 2024,
@@ -3712,6 +3864,14 @@
    "COMUNA": "Pichilemu"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pichilemu"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6201,
    "anio": 2024,
@@ -3884,6 +4044,14 @@
    "CODCOM": 6201,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pichilemu"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Pichilemu"
   }
@@ -3902,36 +4070,36 @@
    "informacion": "Casos",
    "CODCOM": 6201,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 274,
-   "2024": 275,
-   "2025": 226,
+   "2023": 277,
+   "2024": 278,
+   "2025": 228,
    "COMUNA": "Pichilemu"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6201,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 213,
-   "2024": 199,
-   "2025": 130,
+   "2023": 214,
+   "2024": 205,
+   "2025": 133,
    "COMUNA": "Pichilemu"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6201,
    "delito": "DAÑOS",
-   "2023": 160,
-   "2024": 185,
-   "2025": 123,
+   "2023": 173,
+   "2024": 189,
+   "2025": 131,
    "COMUNA": "Pichilemu"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6201,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 214,
-   "2024": 224,
-   "2025": 196,
+   "2023": 222,
+   "2024": 229,
+   "2025": 199,
    "COMUNA": "Pichilemu"
   },
   {
@@ -3947,18 +4115,18 @@
    "informacion": "Casos",
    "CODCOM": 6201,
    "delito": "HURTOS",
-   "2023": 146,
-   "2024": 162,
-   "2025": 113,
+   "2023": 150,
+   "2024": 163,
+   "2025": 116,
    "COMUNA": "Pichilemu"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6201,
    "delito": "INCIVILIDADES",
-   "2023": 69,
-   "2024": 58,
-   "2025": 91,
+   "2023": 72,
+   "2024": 61,
+   "2025": 93,
    "COMUNA": "Pichilemu"
   },
   {
@@ -3974,9 +4142,9 @@
    "informacion": "Casos",
    "CODCOM": 6201,
    "delito": "LESIONES LEVES",
-   "2023": 103,
-   "2024": 66,
-   "2025": 80,
+   "2023": 108,
+   "2024": 68,
+   "2025": 81,
    "COMUNA": "Pichilemu"
   },
   {
@@ -4003,7 +4171,7 @@
    "delito": "LEY DE DROGAS",
    "2023": 33,
    "2024": 23,
-   "2025": 27,
+   "2025": 28,
    "COMUNA": "Pichilemu"
   },
   {
@@ -4055,9 +4223,9 @@
    "informacion": "Casos",
    "CODCOM": 6201,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 213,
-   "2024": 162,
-   "2025": 98,
+   "2023": 216,
+   "2024": 167,
+   "2025": 101,
    "COMUNA": "Pichilemu"
   },
   {
@@ -4073,14 +4241,14 @@
    "informacion": "Casos",
    "CODCOM": 6201,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 17,
+   "2023": 18,
    "2024": 16,
    "2025": 11,
    "COMUNA": "Pichilemu"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "O'Higgins"
  }
 }

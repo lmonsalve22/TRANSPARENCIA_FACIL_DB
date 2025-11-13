@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 11201,
-   "2024": 167,
-   "2025": 193,
+   "2024": 172,
+   "2025": 199,
    "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "Aisén"
@@ -21,27 +21,27 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11201,
-   "2024": 534,
-   "2025": 500,
-   "variacion": -6,
+   "2024": 544,
+   "2025": 516,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "Aisén"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 11201,
-   "2024": 179,
-   "2025": 136,
-   "variacion": -24,
+   "2024": 180,
+   "2025": 138,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "Aisén"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11201,
-   "2024": 331,
-   "2025": 257,
-   "variacion": -22,
+   "2024": 335,
+   "2025": 265,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "Aisén"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 11201,
-   "2024": 114,
-   "2025": 89,
+   "2024": 116,
+   "2025": 91,
    "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "Aisén"
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 11201,
-   "2024": 172,
-   "2025": 150,
-   "variacion": -13,
+   "2024": 174,
+   "2025": 154,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "Aisén"
   },
@@ -84,19 +84,19 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 11201,
-   "2024": 90,
-   "2025": 87,
-   "variacion": -3,
+   "2024": 93,
+   "2025": 88,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "Aisén"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 11201,
-   "2024": 24,
+   "2024": 25,
    "2025": 24,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -4,
+   "situación": "Disminución de Casos",
    "COMUNA": "Aisén"
   },
   {
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 11201,
-   "2024": 19,
+   "2024": 20,
    "2025": 17,
-   "variacion": -11,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "Aisén"
   },
@@ -165,8 +165,8 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 11201,
-   "2024": 77,
-   "2025": 50,
+   "2024": 80,
+   "2025": 52,
    "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "Aisén"
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 11201,
    "2024": 18,
-   "2025": 16,
-   "variacion": -11,
+   "2025": 17,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "Aisén"
   }
@@ -368,6 +368,14 @@
    "COMUNA": "Aisén"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 11201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Aisén"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 11201,
    "anio": 2024,
@@ -541,6 +549,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 20,
+   "COMUNA": "Aisén"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 11201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 6,
    "COMUNA": "Aisén"
   },
   {
@@ -720,6 +736,14 @@
    "COMUNA": "Aisén"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 11201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 16,
+   "COMUNA": "Aisén"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 11201,
    "anio": 2024,
@@ -893,6 +917,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 10,
+   "COMUNA": "Aisén"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 11201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2,
    "COMUNA": "Aisén"
   },
   {
@@ -1072,6 +1104,14 @@
    "COMUNA": "Aisén"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 11201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 8,
+   "COMUNA": "Aisén"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 11201,
    "anio": 2024,
@@ -1244,6 +1284,14 @@
    "CODCOM": 11201,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Aisén"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 11201,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Aisén"
   },
@@ -1421,6 +1469,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 5,
+   "COMUNA": "Aisén"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2,
    "COMUNA": "Aisén"
   },
   {
@@ -1600,6 +1656,14 @@
    "COMUNA": "Aisén"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 11201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 4,
+   "COMUNA": "Aisén"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 11201,
    "anio": 2024,
@@ -1773,6 +1837,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "Aisén"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 11201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Aisén"
   },
   {
@@ -1952,6 +2024,14 @@
    "COMUNA": "Aisén"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 11201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Aisén"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 11201,
    "anio": 2024,
@@ -2128,6 +2208,14 @@
    "COMUNA": "Aisén"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 11201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Aisén"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 11201,
    "anio": 2024,
@@ -2301,6 +2389,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 2,
+   "COMUNA": "Aisén"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 11201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Aisén"
   },
   {
@@ -2480,6 +2576,14 @@
    "COMUNA": "Aisén"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 11201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Aisén"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 11201,
    "anio": 2024,
@@ -2656,6 +2760,14 @@
    "COMUNA": "Aisén"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 11201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Aisén"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 11201,
    "anio": 2024,
@@ -2829,6 +2941,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "Aisén"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 11201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Aisén"
   },
   {
@@ -3004,6 +3124,14 @@
    "CODCOM": 11201,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Aisén"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 11201,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Aisén"
   },
@@ -3184,6 +3312,14 @@
    "COMUNA": "Aisén"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 11201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Aisén"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 11201,
    "anio": 2024,
@@ -3357,6 +3493,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 4,
+   "COMUNA": "Aisén"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 11201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Aisén"
   },
   {
@@ -3536,6 +3680,14 @@
    "COMUNA": "Aisén"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 11201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "Aisén"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 11201,
    "anio": 2024,
@@ -3712,6 +3864,14 @@
    "COMUNA": "Aisén"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 11201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Aisén"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 11201,
    "anio": 2024,
@@ -3884,6 +4044,14 @@
    "CODCOM": 11201,
    "anio": 2025,
    "mes": 10,
+   "casos": 1,
+   "COMUNA": "Aisén"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 11201,
+   "anio": 2025,
+   "mes": 11,
    "casos": 1,
    "COMUNA": "Aisén"
   }
@@ -3902,36 +4070,36 @@
    "informacion": "Casos",
    "CODCOM": 11201,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 157,
-   "2024": 167,
-   "2025": 193,
+   "2023": 161,
+   "2024": 172,
+   "2025": 199,
    "COMUNA": "Aisén"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11201,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 286,
-   "2024": 534,
-   "2025": 500,
+   "2023": 290,
+   "2024": 544,
+   "2025": 516,
    "COMUNA": "Aisén"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11201,
    "delito": "DAÑOS",
-   "2023": 207,
-   "2024": 179,
-   "2025": 136,
+   "2023": 214,
+   "2024": 180,
+   "2025": 138,
    "COMUNA": "Aisén"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11201,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 273,
-   "2024": 331,
-   "2025": 257,
+   "2023": 282,
+   "2024": 335,
+   "2025": 265,
    "COMUNA": "Aisén"
   },
   {
@@ -3947,18 +4115,18 @@
    "informacion": "Casos",
    "CODCOM": 11201,
    "delito": "HURTOS",
-   "2023": 111,
-   "2024": 114,
-   "2025": 89,
+   "2023": 113,
+   "2024": 116,
+   "2025": 91,
    "COMUNA": "Aisén"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11201,
    "delito": "INCIVILIDADES",
-   "2023": 119,
-   "2024": 172,
-   "2025": 150,
+   "2023": 120,
+   "2024": 174,
+   "2025": 154,
    "COMUNA": "Aisén"
   },
   {
@@ -3974,17 +4142,17 @@
    "informacion": "Casos",
    "CODCOM": 11201,
    "delito": "LESIONES LEVES",
-   "2023": 110,
-   "2024": 90,
-   "2025": 87,
+   "2023": 111,
+   "2024": 93,
+   "2025": 88,
    "COMUNA": "Aisén"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11201,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 24,
-   "2024": 24,
+   "2023": 25,
+   "2024": 25,
    "2025": 24,
    "COMUNA": "Aisén"
   },
@@ -4028,7 +4196,7 @@
    "informacion": "Casos",
    "CODCOM": 11201,
    "delito": "RECEPTACIÓN",
-   "2023": 11,
+   "2023": 12,
    "2024": 12,
    "2025": 8,
    "COMUNA": "Aisén"
@@ -4038,7 +4206,7 @@
    "CODCOM": 11201,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 17,
-   "2024": 19,
+   "2024": 20,
    "2025": 17,
    "COMUNA": "Aisén"
   },
@@ -4056,8 +4224,8 @@
    "CODCOM": 11201,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 56,
-   "2024": 77,
-   "2025": 50,
+   "2024": 80,
+   "2025": 52,
    "COMUNA": "Aisén"
   },
   {
@@ -4073,14 +4241,14 @@
    "informacion": "Casos",
    "CODCOM": 11201,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 19,
+   "2023": 20,
    "2024": 18,
-   "2025": 16,
+   "2025": 17,
    "COMUNA": "Aisén"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "Aysén"
  }
 }

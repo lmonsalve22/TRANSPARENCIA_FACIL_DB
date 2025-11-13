@@ -12,26 +12,26 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9115,
-   "2024": 282,
-   "2025": 237,
-   "variacion": -16,
+   "2024": 286,
+   "2025": 245,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Pucón"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9115,
-   "2024": 617,
-   "2025": 537,
-   "variacion": -13,
+   "2024": 624,
+   "2025": 565,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "Pucón"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9115,
-   "2024": 252,
-   "2025": 221,
+   "2024": 255,
+   "2025": 225,
    "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "Pucón"
@@ -39,8 +39,8 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9115,
-   "2024": 307,
-   "2025": 207,
+   "2024": 313,
+   "2025": 209,
    "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Pucón"
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9115,
-   "2024": 379,
-   "2025": 293,
+   "2024": 384,
+   "2025": 295,
    "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "Pucón"
@@ -66,10 +66,10 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9115,
-   "2024": 67,
-   "2025": 65,
-   "variacion": -3,
-   "situación": "Disminución de Casos",
+   "2024": 68,
+   "2025": 68,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Pucón"
   },
   {
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 9115,
    "2024": 97,
-   "2025": 108,
-   "variacion": 11,
+   "2025": 111,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "Pucón"
   },
@@ -94,8 +94,8 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9115,
    "2024": 21,
-   "2025": 17,
-   "variacion": -19,
+   "2025": 18,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Pucón"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9115,
    "2024": 37,
-   "2025": 99,
-   "variacion": 168,
+   "2025": 104,
+   "variacion": 181,
    "situación": "Aumento de Casos",
    "COMUNA": "Pucón"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 9115,
    "2024": 30,
-   "2025": 47,
-   "variacion": 57,
+   "2025": 48,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "Pucón"
   },
@@ -138,18 +138,18 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9115,
-   "2024": 27,
+   "2024": 29,
    "2025": 30,
-   "variacion": 11,
+   "variacion": 3,
    "situación": "Aumento de Casos",
    "COMUNA": "Pucón"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9115,
-   "2024": 25,
+   "2024": 28,
    "2025": 17,
-   "variacion": -32,
+   "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "Pucón"
   },
@@ -165,8 +165,8 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9115,
-   "2024": 184,
-   "2025": 122,
+   "2024": 188,
+   "2025": 125,
    "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "Pucón"
@@ -368,6 +368,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9115,
    "anio": 2024,
@@ -541,6 +549,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 19,
+   "COMUNA": "Pucón"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 8,
    "COMUNA": "Pucón"
   },
   {
@@ -720,6 +736,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 28,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 9115,
    "anio": 2024,
@@ -893,6 +917,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 14,
+   "COMUNA": "Pucón"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 4,
    "COMUNA": "Pucón"
   },
   {
@@ -1072,6 +1104,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9115,
    "anio": 2024,
@@ -1244,6 +1284,14 @@
    "CODCOM": 9115,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pucón"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Pucón"
   },
@@ -1424,6 +1472,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9115,
    "anio": 2024,
@@ -1600,6 +1656,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9115,
    "anio": 2024,
@@ -1772,6 +1836,14 @@
    "CODCOM": 9115,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pucón"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Pucón"
   },
@@ -1952,6 +2024,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9115,
    "anio": 2024,
@@ -2124,6 +2204,14 @@
    "CODCOM": 9115,
    "anio": 2025,
    "mes": 10,
+   "casos": 1,
+   "COMUNA": "Pucón"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 11,
    "casos": 1,
    "COMUNA": "Pucón"
   },
@@ -2304,6 +2392,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 5,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9115,
    "anio": 2024,
@@ -2480,6 +2576,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9115,
    "anio": 2024,
@@ -2652,6 +2756,14 @@
    "CODCOM": 9115,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pucón"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Pucón"
   },
@@ -2828,6 +2940,14 @@
    "CODCOM": 9115,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pucón"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Pucón"
   },
@@ -3008,6 +3128,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9115,
    "anio": 2024,
@@ -3184,6 +3312,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9115,
    "anio": 2024,
@@ -3356,6 +3492,14 @@
    "CODCOM": 9115,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pucón"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Pucón"
   },
@@ -3536,6 +3680,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9115,
    "anio": 2024,
@@ -3708,6 +3860,14 @@
    "CODCOM": 9115,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pucón"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Pucón"
   },
@@ -3886,6 +4046,14 @@
    "mes": 10,
    "casos": 3,
    "COMUNA": "Pucón"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pucón"
   }
  ],
  "info": [
@@ -3893,7 +4061,7 @@
    "informacion": "Casos",
    "CODCOM": 9115,
    "delito": "AMENAZAS CON ARMAS",
-   "2023": 8,
+   "2023": 9,
    "2024": 7,
    "2025": 10,
    "COMUNA": "Pucón"
@@ -3902,36 +4070,36 @@
    "informacion": "Casos",
    "CODCOM": 9115,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 294,
-   "2024": 282,
-   "2025": 237,
+   "2023": 304,
+   "2024": 286,
+   "2025": 245,
    "COMUNA": "Pucón"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9115,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 775,
-   "2024": 617,
-   "2025": 537,
+   "2023": 789,
+   "2024": 624,
+   "2025": 565,
    "COMUNA": "Pucón"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9115,
    "delito": "DAÑOS",
-   "2023": 248,
-   "2024": 252,
-   "2025": 221,
+   "2023": 251,
+   "2024": 255,
+   "2025": 225,
    "COMUNA": "Pucón"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9115,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 331,
-   "2024": 307,
-   "2025": 207,
+   "2023": 338,
+   "2024": 313,
+   "2025": 209,
    "COMUNA": "Pucón"
   },
   {
@@ -3947,18 +4115,18 @@
    "informacion": "Casos",
    "CODCOM": 9115,
    "delito": "HURTOS",
-   "2023": 447,
-   "2024": 379,
-   "2025": 293,
+   "2023": 459,
+   "2024": 384,
+   "2025": 295,
    "COMUNA": "Pucón"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9115,
    "delito": "INCIVILIDADES",
-   "2023": 137,
-   "2024": 67,
-   "2025": 65,
+   "2023": 139,
+   "2024": 68,
+   "2025": 68,
    "COMUNA": "Pucón"
   },
   {
@@ -3974,9 +4142,9 @@
    "informacion": "Casos",
    "CODCOM": 9115,
    "delito": "LESIONES LEVES",
-   "2023": 110,
+   "2023": 114,
    "2024": 97,
-   "2025": 108,
+   "2025": 111,
    "COMUNA": "Pucón"
   },
   {
@@ -3985,16 +4153,16 @@
    "delito": "LESIONES MENOS GRAVES",
    "2023": 29,
    "2024": 21,
-   "2025": 17,
+   "2025": 18,
    "COMUNA": "Pucón"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9115,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 27,
+   "2023": 28,
    "2024": 37,
-   "2025": 99,
+   "2025": 104,
    "COMUNA": "Pucón"
   },
   {
@@ -4003,7 +4171,7 @@
    "delito": "LEY DE DROGAS",
    "2023": 56,
    "2024": 30,
-   "2025": 47,
+   "2025": 48,
    "COMUNA": "Pucón"
   },
   {
@@ -4028,8 +4196,8 @@
    "informacion": "Casos",
    "CODCOM": 9115,
    "delito": "RECEPTACIÓN",
-   "2023": 28,
-   "2024": 27,
+   "2023": 30,
+   "2024": 29,
    "2025": 30,
    "COMUNA": "Pucón"
   },
@@ -4038,7 +4206,7 @@
    "CODCOM": 9115,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 20,
-   "2024": 25,
+   "2024": 28,
    "2025": 17,
    "COMUNA": "Pucón"
   },
@@ -4055,16 +4223,16 @@
    "informacion": "Casos",
    "CODCOM": 9115,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 219,
-   "2024": 184,
-   "2025": 122,
+   "2023": 224,
+   "2024": 188,
+   "2025": 125,
    "COMUNA": "Pucón"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9115,
    "delito": "ROBOS POR SORPRESA",
-   "2023": 11,
+   "2023": 12,
    "2024": 6,
    "2025": 5,
    "COMUNA": "Pucón"
@@ -4073,14 +4241,14 @@
    "informacion": "Casos",
    "CODCOM": 9115,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 35,
+   "2023": 36,
    "2024": 32,
    "2025": 26,
    "COMUNA": "Pucón"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "La Araucanía"
  }
 }

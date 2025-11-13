@@ -3,26 +3,26 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 4201,
-   "2024": 4,
-   "2025": 6,
-   "variacion": 50,
+   "2024": 5,
+   "2025": 7,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "Illapel"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4201,
-   "2024": 157,
-   "2025": 137,
-   "variacion": -13,
+   "2024": 161,
+   "2025": 145,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "Illapel"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 4201,
-   "2024": 324,
-   "2025": 361,
+   "2024": 329,
+   "2025": 366,
    "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "Illapel"
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 4201,
-   "2024": 143,
-   "2025": 157,
-   "variacion": 10,
+   "2024": 148,
+   "2025": 164,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "Illapel"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 4201,
-   "2024": 142,
-   "2025": 126,
-   "variacion": -11,
+   "2024": 147,
+   "2025": 134,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "Illapel"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4201,
-   "2024": 82,
-   "2025": 88,
+   "2024": 83,
+   "2025": 89,
    "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "Illapel"
@@ -67,17 +67,17 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 4201,
    "2024": 84,
-   "2025": 72,
-   "variacion": -14,
+   "2025": 76,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "Illapel"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 4201,
-   "2024": 4,
+   "2024": 5,
    "2025": 9,
-   "variacion": 125,
+   "variacion": 80,
    "situación": "Aumento de Casos",
    "COMUNA": "Illapel"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 4201,
    "2024": 99,
-   "2025": 84,
-   "variacion": -15,
+   "2025": 89,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "Illapel"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 4201,
-   "2024": 33,
+   "2024": 34,
    "2025": 31,
-   "variacion": -6,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "Illapel"
   },
@@ -138,9 +138,9 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 4201,
-   "2024": 9,
+   "2024": 10,
    "2025": 8,
-   "variacion": -11,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Illapel"
   },
@@ -148,26 +148,26 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 4201,
    "2024": 16,
-   "2025": 30,
-   "variacion": 88,
+   "2025": 31,
+   "variacion": 94,
    "situación": "Aumento de Casos",
    "COMUNA": "Illapel"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 4201,
-   "2024": 31,
-   "2025": 29,
-   "variacion": -6,
+   "2024": 32,
+   "2025": 31,
+   "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "Illapel"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 4201,
-   "2024": 86,
+   "2024": 91,
    "2025": 109,
-   "variacion": 27,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "Illapel"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 4201,
    "2024": 16,
-   "2025": 5,
-   "variacion": -69,
+   "2025": 6,
+   "variacion": -62,
    "situación": "Disminución de Casos",
    "COMUNA": "Illapel"
   }
@@ -368,6 +368,14 @@
    "COMUNA": "Illapel"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Illapel"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4201,
    "anio": 2024,
@@ -541,6 +549,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 11,
+   "COMUNA": "Illapel"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 8,
    "COMUNA": "Illapel"
   },
   {
@@ -720,6 +736,14 @@
    "COMUNA": "Illapel"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 5,
+   "COMUNA": "Illapel"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 4201,
    "anio": 2024,
@@ -896,6 +920,14 @@
    "COMUNA": "Illapel"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 4201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 7,
+   "COMUNA": "Illapel"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 4201,
    "anio": 2024,
@@ -1072,6 +1104,14 @@
    "COMUNA": "Illapel"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 8,
+   "COMUNA": "Illapel"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 4201,
    "anio": 2024,
@@ -1244,6 +1284,14 @@
    "CODCOM": 4201,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Illapel"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4201,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Illapel"
   },
@@ -1421,6 +1469,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 5,
+   "COMUNA": "Illapel"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
    "COMUNA": "Illapel"
   },
   {
@@ -1600,6 +1656,14 @@
    "COMUNA": "Illapel"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 4,
+   "COMUNA": "Illapel"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 4201,
    "anio": 2024,
@@ -1773,6 +1837,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 2,
+   "COMUNA": "Illapel"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Illapel"
   },
   {
@@ -1952,6 +2024,14 @@
    "COMUNA": "Illapel"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 5,
+   "COMUNA": "Illapel"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 4201,
    "anio": 2024,
@@ -2124,6 +2204,14 @@
    "CODCOM": 4201,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Illapel"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4201,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Illapel"
   },
@@ -2304,6 +2392,14 @@
    "COMUNA": "Illapel"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Illapel"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 4201,
    "anio": 2024,
@@ -2480,6 +2576,14 @@
    "COMUNA": "Illapel"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Illapel"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 4201,
    "anio": 2024,
@@ -2652,6 +2756,14 @@
    "CODCOM": 4201,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Illapel"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4201,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Illapel"
   },
@@ -2832,6 +2944,14 @@
    "COMUNA": "Illapel"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Illapel"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 4201,
    "anio": 2024,
@@ -3004,6 +3124,14 @@
    "CODCOM": 4201,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Illapel"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4201,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Illapel"
   },
@@ -3181,6 +3309,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 3,
+   "COMUNA": "Illapel"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
    "COMUNA": "Illapel"
   },
   {
@@ -3357,6 +3493,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 0,
+   "COMUNA": "Illapel"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2,
    "COMUNA": "Illapel"
   },
   {
@@ -3536,6 +3680,14 @@
    "COMUNA": "Illapel"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Illapel"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 4201,
    "anio": 2024,
@@ -3708,6 +3860,14 @@
    "CODCOM": 4201,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Illapel"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4201,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Illapel"
   },
@@ -3886,6 +4046,14 @@
    "mes": 10,
    "casos": 1,
    "COMUNA": "Illapel"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Illapel"
   }
  ],
  "info": [
@@ -3894,17 +4062,17 @@
    "CODCOM": 4201,
    "delito": "AMENAZAS CON ARMAS",
    "2023": 9,
-   "2024": 4,
-   "2025": 6,
+   "2024": 5,
+   "2025": 7,
    "COMUNA": "Illapel"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4201,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 195,
-   "2024": 157,
-   "2025": 137,
+   "2023": 198,
+   "2024": 161,
+   "2025": 145,
    "COMUNA": "Illapel"
   },
   {
@@ -3912,26 +4080,26 @@
    "CODCOM": 4201,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 255,
-   "2024": 324,
-   "2025": 361,
+   "2024": 329,
+   "2025": 366,
    "COMUNA": "Illapel"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4201,
    "delito": "DAÑOS",
-   "2023": 141,
-   "2024": 143,
-   "2025": 157,
+   "2023": 146,
+   "2024": 148,
+   "2025": 164,
    "COMUNA": "Illapel"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4201,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 182,
-   "2024": 142,
-   "2025": 126,
+   "2023": 188,
+   "2024": 147,
+   "2025": 134,
    "COMUNA": "Illapel"
   },
   {
@@ -3947,9 +4115,9 @@
    "informacion": "Casos",
    "CODCOM": 4201,
    "delito": "HURTOS",
-   "2023": 73,
-   "2024": 82,
-   "2025": 88,
+   "2023": 74,
+   "2024": 83,
+   "2025": 89,
    "COMUNA": "Illapel"
   },
   {
@@ -3958,7 +4126,7 @@
    "delito": "INCIVILIDADES",
    "2023": 73,
    "2024": 84,
-   "2025": 72,
+   "2025": 76,
    "COMUNA": "Illapel"
   },
   {
@@ -3966,7 +4134,7 @@
    "CODCOM": 4201,
    "delito": "LESIONES GRAVES",
    "2023": 3,
-   "2024": 4,
+   "2024": 5,
    "2025": 9,
    "COMUNA": "Illapel"
   },
@@ -3974,9 +4142,9 @@
    "informacion": "Casos",
    "CODCOM": 4201,
    "delito": "LESIONES LEVES",
-   "2023": 95,
+   "2023": 98,
    "2024": 99,
-   "2025": 84,
+   "2025": 89,
    "COMUNA": "Illapel"
   },
   {
@@ -3993,7 +4161,7 @@
    "CODCOM": 4201,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 24,
-   "2024": 33,
+   "2024": 34,
    "2025": 31,
    "COMUNA": "Illapel"
   },
@@ -4028,8 +4196,8 @@
    "informacion": "Casos",
    "CODCOM": 4201,
    "delito": "RECEPTACIÓN",
-   "2023": 7,
-   "2024": 9,
+   "2023": 8,
+   "2024": 10,
    "2025": 8,
    "COMUNA": "Illapel"
   },
@@ -4037,9 +4205,9 @@
    "informacion": "Casos",
    "CODCOM": 4201,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 32,
+   "2023": 33,
    "2024": 16,
-   "2025": 30,
+   "2025": 31,
    "COMUNA": "Illapel"
   },
   {
@@ -4047,16 +4215,16 @@
    "CODCOM": 4201,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 37,
-   "2024": 31,
-   "2025": 29,
+   "2024": 32,
+   "2025": 31,
    "COMUNA": "Illapel"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4201,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 105,
-   "2024": 86,
+   "2023": 109,
+   "2024": 91,
    "2025": 109,
    "COMUNA": "Illapel"
   },
@@ -4075,12 +4243,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 17,
    "2024": 16,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "Illapel"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "Coquimbo"
  }
 }

@@ -22,9 +22,9 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11303,
    "2024": 2,
-   "2025": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 3,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
    "COMUNA": "Tortel"
   },
   {
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 11303,
    "2024": 5,
-   "2025": 5,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 6,
+   "variacion": 20,
+   "situación": "Aumento de Casos",
    "COMUNA": "Tortel"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 11303,
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
-   "variacion": -50,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "Tortel"
   },
@@ -368,6 +368,14 @@
    "COMUNA": "Tortel"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 11303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Tortel"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 11303,
    "anio": 2024,
@@ -544,6 +552,14 @@
    "COMUNA": "Tortel"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 11303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Tortel"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11303,
    "anio": 2024,
@@ -720,6 +736,14 @@
    "COMUNA": "Tortel"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 11303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Tortel"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 11303,
    "anio": 2024,
@@ -893,6 +917,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "Tortel"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 11303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Tortel"
   },
   {
@@ -1072,6 +1104,14 @@
    "COMUNA": "Tortel"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 11303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Tortel"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 11303,
    "anio": 2024,
@@ -1412,6 +1452,14 @@
    "CODCOM": 11303,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Tortel"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11303,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Tortel"
   },
@@ -1592,6 +1640,14 @@
    "COMUNA": "Tortel"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 11303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Tortel"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 11303,
    "anio": 2024,
@@ -1764,6 +1820,14 @@
    "CODCOM": 11303,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Tortel"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 11303,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Tortel"
   },
@@ -1944,6 +2008,14 @@
    "COMUNA": "Tortel"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 11303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Tortel"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 11303,
    "anio": 2024,
@@ -2120,6 +2192,14 @@
    "COMUNA": "Tortel"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 11303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Tortel"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 11303,
    "anio": 2024,
@@ -2296,6 +2376,14 @@
    "COMUNA": "Tortel"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 11303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Tortel"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 11303,
    "anio": 2024,
@@ -2640,6 +2728,14 @@
    "COMUNA": "Tortel"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 11303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Tortel"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 11303,
    "anio": 2024,
@@ -2984,6 +3080,14 @@
    "COMUNA": "Tortel"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 11303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Tortel"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 11303,
    "anio": 2024,
@@ -3160,6 +3264,14 @@
    "COMUNA": "Tortel"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 11303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Tortel"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 11303,
    "anio": 2024,
@@ -3332,6 +3444,14 @@
    "CODCOM": 11303,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Tortel"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 11303,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Tortel"
   },
@@ -3508,6 +3628,14 @@
    "CODCOM": 11303,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Tortel"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 11303,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Tortel"
   },
@@ -3852,6 +3980,14 @@
    "CODCOM": 11303,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Tortel"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 11303,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Tortel"
   }
@@ -3881,7 +4017,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 2,
    "2024": 2,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "Tortel"
   },
   {
@@ -3926,7 +4062,7 @@
    "delito": "INCIVILIDADES",
    "2023": 11,
    "2024": 5,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "Tortel"
   },
   {
@@ -4023,8 +4159,8 @@
    "informacion": "Casos",
    "CODCOM": 11303,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 1,
-   "2024": 2,
+   "2023": 2,
+   "2024": 3,
    "2025": 1,
    "COMUNA": "Tortel"
   },
@@ -4048,7 +4184,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "Aysén"
  }
 }

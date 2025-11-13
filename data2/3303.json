@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 3303,
-   "2024": 78,
-   "2025": 40,
+   "2024": 81,
+   "2025": 41,
    "variacion": -49,
    "situación": "Disminución de Casos",
    "COMUNA": "Freirina"
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 3303,
    "2024": 34,
-   "2025": 64,
-   "variacion": 88,
+   "2025": 65,
+   "variacion": 91,
    "situación": "Aumento de Casos",
    "COMUNA": "Freirina"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 3303,
-   "2024": 43,
-   "2025": 43,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 45,
+   "2025": 44,
+   "variacion": -2,
+   "situación": "Disminución de Casos",
    "COMUNA": "Freirina"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 3303,
    "2024": 59,
-   "2025": 44,
-   "variacion": -25,
+   "2025": 45,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "Freirina"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 3303,
-   "2024": 35,
-   "2025": 45,
-   "variacion": 29,
+   "2024": 37,
+   "2025": 46,
+   "variacion": 24,
    "situación": "Aumento de Casos",
    "COMUNA": "Freirina"
   },
@@ -85,9 +85,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 3303,
    "2024": 26,
-   "2025": 26,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 27,
+   "variacion": 4,
+   "situación": "Aumento de Casos",
    "COMUNA": "Freirina"
   },
   {
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 3303,
    "2024": 9,
-   "2025": 7,
-   "variacion": -22,
+   "2025": 8,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "Freirina"
   },
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 3303,
-   "2024": 7,
+   "2024": 8,
    "2025": 5,
-   "variacion": -29,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "Freirina"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 3303,
    "2024": 27,
-   "2025": 28,
-   "variacion": 4,
+   "2025": 29,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "Freirina"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 3303,
    "2024": 9,
-   "2025": 0,
-   "variacion": -100,
+   "2025": 1,
+   "variacion": -89,
    "situación": "Disminución de Casos",
    "COMUNA": "Freirina"
   }
@@ -368,6 +368,14 @@
    "COMUNA": "Freirina"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Freirina"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 3303,
    "anio": 2024,
@@ -541,6 +549,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 4,
+   "COMUNA": "Freirina"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
    "COMUNA": "Freirina"
   },
   {
@@ -720,6 +736,14 @@
    "COMUNA": "Freirina"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Freirina"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 3303,
    "anio": 2024,
@@ -893,6 +917,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 4,
+   "COMUNA": "Freirina"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
    "COMUNA": "Freirina"
   },
   {
@@ -1072,6 +1104,14 @@
    "COMUNA": "Freirina"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Freirina"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 3303,
    "anio": 2024,
@@ -1248,6 +1288,14 @@
    "COMUNA": "Freirina"
   },
   {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Freirina"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 3303,
    "anio": 2024,
@@ -1420,6 +1468,14 @@
    "CODCOM": 3303,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Freirina"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Freirina"
   },
@@ -1600,6 +1656,14 @@
    "COMUNA": "Freirina"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Freirina"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 3303,
    "anio": 2024,
@@ -1772,6 +1836,14 @@
    "CODCOM": 3303,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Freirina"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Freirina"
   },
@@ -1952,6 +2024,14 @@
    "COMUNA": "Freirina"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Freirina"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 3303,
    "anio": 2024,
@@ -2125,6 +2205,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 1,
+   "COMUNA": "Freirina"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "Freirina"
   },
   {
@@ -2304,6 +2392,14 @@
    "COMUNA": "Freirina"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Freirina"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 3303,
    "anio": 2024,
@@ -2480,6 +2576,14 @@
    "COMUNA": "Freirina"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Freirina"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 3303,
    "anio": 2024,
@@ -2656,6 +2760,14 @@
    "COMUNA": "Freirina"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Freirina"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 3303,
    "anio": 2024,
@@ -2832,6 +2944,14 @@
    "COMUNA": "Freirina"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Freirina"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 3303,
    "anio": 2024,
@@ -3004,6 +3124,14 @@
    "CODCOM": 3303,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Freirina"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Freirina"
   },
@@ -3184,6 +3312,14 @@
    "COMUNA": "Freirina"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Freirina"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 3303,
    "anio": 2024,
@@ -3356,6 +3492,14 @@
    "CODCOM": 3303,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Freirina"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Freirina"
   },
@@ -3536,6 +3680,14 @@
    "COMUNA": "Freirina"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Freirina"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 3303,
    "anio": 2024,
@@ -3708,6 +3860,14 @@
    "CODCOM": 3303,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Freirina"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Freirina"
   },
@@ -3885,6 +4045,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 0,
+   "COMUNA": "Freirina"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
    "COMUNA": "Freirina"
   }
  ],
@@ -3902,9 +4070,9 @@
    "informacion": "Casos",
    "CODCOM": 3303,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 74,
-   "2024": 78,
-   "2025": 40,
+   "2023": 77,
+   "2024": 81,
+   "2025": 41,
    "COMUNA": "Freirina"
   },
   {
@@ -3913,16 +4081,16 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 81,
    "2024": 34,
-   "2025": 64,
+   "2025": 65,
    "COMUNA": "Freirina"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3303,
    "delito": "DAÑOS",
-   "2023": 61,
-   "2024": 43,
-   "2025": 43,
+   "2023": 62,
+   "2024": 45,
+   "2025": 44,
    "COMUNA": "Freirina"
   },
   {
@@ -3931,7 +4099,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 56,
    "2024": 59,
-   "2025": 44,
+   "2025": 45,
    "COMUNA": "Freirina"
   },
   {
@@ -3947,7 +4115,7 @@
    "informacion": "Casos",
    "CODCOM": 3303,
    "delito": "HURTOS",
-   "2023": 27,
+   "2023": 28,
    "2024": 32,
    "2025": 18,
    "COMUNA": "Freirina"
@@ -3956,9 +4124,9 @@
    "informacion": "Casos",
    "CODCOM": 3303,
    "delito": "INCIVILIDADES",
-   "2023": 32,
-   "2024": 35,
-   "2025": 45,
+   "2023": 34,
+   "2024": 37,
+   "2025": 46,
    "COMUNA": "Freirina"
   },
   {
@@ -3974,9 +4142,9 @@
    "informacion": "Casos",
    "CODCOM": 3303,
    "delito": "LESIONES LEVES",
-   "2023": 37,
+   "2023": 38,
    "2024": 26,
-   "2025": 26,
+   "2025": 27,
    "COMUNA": "Freirina"
   },
   {
@@ -4003,7 +4171,7 @@
    "delito": "LEY DE DROGAS",
    "2023": 10,
    "2024": 9,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "Freirina"
   },
   {
@@ -4038,7 +4206,7 @@
    "CODCOM": 3303,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 11,
-   "2024": 7,
+   "2024": 8,
    "2025": 5,
    "COMUNA": "Freirina"
   },
@@ -4057,7 +4225,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 36,
    "2024": 27,
-   "2025": 28,
+   "2025": 29,
    "COMUNA": "Freirina"
   },
   {
@@ -4075,12 +4243,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 6,
    "2024": 9,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "Freirina"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "Atacama"
  }
 }

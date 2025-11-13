@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10306,
-   "2024": 92,
-   "2025": 63,
+   "2024": 94,
+   "2025": 64,
    "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "San Juan de La Costa"
@@ -21,27 +21,27 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10306,
-   "2024": 52,
-   "2025": 21,
-   "variacion": -60,
+   "2024": 57,
+   "2025": 22,
+   "variacion": -61,
    "situación": "Disminución de Casos",
    "COMUNA": "San Juan de La Costa"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10306,
-   "2024": 89,
+   "2024": 93,
    "2025": 76,
-   "variacion": -15,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "San Juan de La Costa"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10306,
-   "2024": 107,
-   "2025": 75,
-   "variacion": -30,
+   "2024": 111,
+   "2025": 76,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "San Juan de La Costa"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10306,
-   "2024": 26,
-   "2025": 20,
-   "variacion": -23,
+   "2024": 27,
+   "2025": 23,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "San Juan de La Costa"
   },
@@ -84,8 +84,8 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10306,
-   "2024": 33,
-   "2025": 33,
+   "2024": 34,
+   "2025": 34,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "San Juan de La Costa"
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10306,
-   "2024": 63,
-   "2025": 14,
-   "variacion": -78,
+   "2024": 64,
+   "2025": 15,
+   "variacion": -77,
    "situación": "Disminución de Casos",
    "COMUNA": "San Juan de La Costa"
   },
@@ -368,6 +368,14 @@
    "COMUNA": "San Juan de La Costa"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Juan de La Costa"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10306,
    "anio": 2024,
@@ -541,6 +549,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 3,
+   "COMUNA": "San Juan de La Costa"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -720,6 +736,14 @@
    "COMUNA": "San Juan de La Costa"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "San Juan de La Costa"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 10306,
    "anio": 2024,
@@ -893,6 +917,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 11,
+   "COMUNA": "San Juan de La Costa"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -1072,6 +1104,14 @@
    "COMUNA": "San Juan de La Costa"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "San Juan de La Costa"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 10306,
    "anio": 2024,
@@ -1244,6 +1284,14 @@
    "CODCOM": 10306,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Juan de La Costa"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "San Juan de La Costa"
   },
@@ -1421,6 +1469,14 @@
    "anio": 2025,
    "mes": 10,
    "casos": 0,
+   "COMUNA": "San Juan de La Costa"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 3,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -1600,6 +1656,14 @@
    "COMUNA": "San Juan de La Costa"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Juan de La Costa"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10306,
    "anio": 2024,
@@ -1772,6 +1836,14 @@
    "CODCOM": 10306,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Juan de La Costa"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "San Juan de La Costa"
   },
@@ -1952,6 +2024,14 @@
    "COMUNA": "San Juan de La Costa"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "San Juan de La Costa"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10306,
    "anio": 2024,
@@ -2124,6 +2204,14 @@
    "CODCOM": 10306,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Juan de La Costa"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "San Juan de La Costa"
   },
@@ -2304,6 +2392,14 @@
    "COMUNA": "San Juan de La Costa"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Juan de La Costa"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 10306,
    "anio": 2024,
@@ -2480,6 +2576,14 @@
    "COMUNA": "San Juan de La Costa"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Juan de La Costa"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 10306,
    "anio": 2024,
@@ -2652,6 +2756,14 @@
    "CODCOM": 10306,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Juan de La Costa"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "San Juan de La Costa"
   },
@@ -2832,6 +2944,14 @@
    "COMUNA": "San Juan de La Costa"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Juan de La Costa"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 10306,
    "anio": 2024,
@@ -3004,6 +3124,14 @@
    "CODCOM": 10306,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Juan de La Costa"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "San Juan de La Costa"
   },
@@ -3184,6 +3312,14 @@
    "COMUNA": "San Juan de La Costa"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Juan de La Costa"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 10306,
    "anio": 2024,
@@ -3356,6 +3492,14 @@
    "CODCOM": 10306,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Juan de La Costa"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "San Juan de La Costa"
   },
@@ -3536,6 +3680,14 @@
    "COMUNA": "San Juan de La Costa"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "San Juan de La Costa"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 10306,
    "anio": 2024,
@@ -3712,6 +3864,14 @@
    "COMUNA": "San Juan de La Costa"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Juan de La Costa"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10306,
    "anio": 2024,
@@ -3884,6 +4044,14 @@
    "CODCOM": 10306,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Juan de La Costa"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "San Juan de La Costa"
   }
@@ -3902,26 +4070,26 @@
    "informacion": "Casos",
    "CODCOM": 10306,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 90,
-   "2024": 92,
-   "2025": 63,
+   "2023": 91,
+   "2024": 94,
+   "2025": 64,
    "COMUNA": "San Juan de La Costa"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10306,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 39,
-   "2024": 52,
-   "2025": 21,
+   "2023": 40,
+   "2024": 57,
+   "2025": 22,
    "COMUNA": "San Juan de La Costa"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10306,
    "delito": "DAÑOS",
-   "2023": 91,
-   "2024": 89,
+   "2023": 92,
+   "2024": 93,
    "2025": 76,
    "COMUNA": "San Juan de La Costa"
   },
@@ -3929,9 +4097,9 @@
    "informacion": "Casos",
    "CODCOM": 10306,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 92,
-   "2024": 107,
-   "2025": 75,
+   "2023": 96,
+   "2024": 111,
+   "2025": 76,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -3947,16 +4115,16 @@
    "informacion": "Casos",
    "CODCOM": 10306,
    "delito": "HURTOS",
-   "2023": 26,
-   "2024": 26,
-   "2025": 20,
+   "2023": 27,
+   "2024": 27,
+   "2025": 23,
    "COMUNA": "San Juan de La Costa"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10306,
    "delito": "INCIVILIDADES",
-   "2023": 15,
+   "2023": 16,
    "2024": 17,
    "2025": 30,
    "COMUNA": "San Juan de La Costa"
@@ -3975,8 +4143,8 @@
    "CODCOM": 10306,
    "delito": "LESIONES LEVES",
    "2023": 28,
-   "2024": 33,
-   "2025": 33,
+   "2024": 34,
+   "2025": 34,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -4019,7 +4187,7 @@
    "informacion": "Casos",
    "CODCOM": 10306,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "2023": 5,
+   "2023": 6,
    "2024": 17,
    "2025": 8,
    "COMUNA": "San Juan de La Costa"
@@ -4055,9 +4223,9 @@
    "informacion": "Casos",
    "CODCOM": 10306,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 50,
-   "2024": 63,
-   "2025": 14,
+   "2023": 51,
+   "2024": 64,
+   "2025": 15,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -4080,7 +4248,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "Los Lagos"
  }
 }

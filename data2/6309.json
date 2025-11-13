@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6309,
-   "2024": 42,
+   "2024": 43,
    "2025": 30,
-   "variacion": -29,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "Pumanque"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6309,
-   "2024": 29,
+   "2024": 30,
    "2025": 29,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -3,
+   "situación": "Disminución de Casos",
    "COMUNA": "Pumanque"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6309,
    "2024": 29,
-   "2025": 17,
-   "variacion": -41,
+   "2025": 18,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "Pumanque"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6309,
-   "2024": 8,
+   "2024": 9,
    "2025": 9,
-   "variacion": 12,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Pumanque"
   },
   {
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 6309,
    "2024": 10,
-   "2025": 7,
-   "variacion": -30,
+   "2025": 8,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Pumanque"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6309,
    "2024": 30,
-   "2025": 23,
-   "variacion": -23,
+   "2025": 24,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Pumanque"
   },
@@ -368,6 +368,14 @@
    "COMUNA": "Pumanque"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pumanque"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6309,
    "anio": 2024,
@@ -544,6 +552,14 @@
    "COMUNA": "Pumanque"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pumanque"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6309,
    "anio": 2024,
@@ -716,6 +732,14 @@
    "CODCOM": 6309,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pumanque"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Pumanque"
   },
@@ -896,6 +920,14 @@
    "COMUNA": "Pumanque"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pumanque"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6309,
    "anio": 2024,
@@ -1072,6 +1104,14 @@
    "COMUNA": "Pumanque"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Pumanque"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6309,
    "anio": 2024,
@@ -1244,6 +1284,14 @@
    "CODCOM": 6309,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pumanque"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Pumanque"
   },
@@ -1424,6 +1472,14 @@
    "COMUNA": "Pumanque"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pumanque"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 6309,
    "anio": 2024,
@@ -1600,6 +1656,14 @@
    "COMUNA": "Pumanque"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pumanque"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6309,
    "anio": 2024,
@@ -1772,6 +1836,14 @@
    "CODCOM": 6309,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pumanque"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Pumanque"
   },
@@ -1952,6 +2024,14 @@
    "COMUNA": "Pumanque"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Pumanque"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6309,
    "anio": 2024,
@@ -2128,6 +2208,14 @@
    "COMUNA": "Pumanque"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pumanque"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6309,
    "anio": 2024,
@@ -2304,6 +2392,14 @@
    "COMUNA": "Pumanque"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pumanque"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6309,
    "anio": 2024,
@@ -2480,6 +2576,14 @@
    "COMUNA": "Pumanque"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pumanque"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6309,
    "anio": 2024,
@@ -2656,6 +2760,14 @@
    "COMUNA": "Pumanque"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pumanque"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 6309,
    "anio": 2024,
@@ -2832,6 +2944,14 @@
    "COMUNA": "Pumanque"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pumanque"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6309,
    "anio": 2024,
@@ -3004,6 +3124,14 @@
    "CODCOM": 6309,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pumanque"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Pumanque"
   },
@@ -3184,6 +3312,14 @@
    "COMUNA": "Pumanque"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pumanque"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6309,
    "anio": 2024,
@@ -3356,6 +3492,14 @@
    "CODCOM": 6309,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pumanque"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Pumanque"
   },
@@ -3536,6 +3680,14 @@
    "COMUNA": "Pumanque"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Pumanque"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6309,
    "anio": 2024,
@@ -3876,6 +4028,14 @@
    "CODCOM": 6309,
    "anio": 2025,
    "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pumanque"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 11,
    "casos": 0,
    "COMUNA": "Pumanque"
   }
@@ -3895,7 +4055,7 @@
    "CODCOM": 6309,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 50,
-   "2024": 42,
+   "2024": 43,
    "2025": 30,
    "COMUNA": "Pumanque"
   },
@@ -3903,7 +4063,7 @@
    "informacion": "Casos",
    "CODCOM": 6309,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 5,
+   "2023": 6,
    "2024": 6,
    "2025": 17,
    "COMUNA": "Pumanque"
@@ -3913,7 +4073,7 @@
    "CODCOM": 6309,
    "delito": "DAÑOS",
    "2023": 53,
-   "2024": 29,
+   "2024": 30,
    "2025": 29,
    "COMUNA": "Pumanque"
   },
@@ -3923,7 +4083,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 31,
    "2024": 29,
-   "2025": 17,
+   "2025": 18,
    "COMUNA": "Pumanque"
   },
   {
@@ -3940,7 +4100,7 @@
    "CODCOM": 6309,
    "delito": "HURTOS",
    "2023": 14,
-   "2024": 8,
+   "2024": 9,
    "2025": 9,
    "COMUNA": "Pumanque"
   },
@@ -3968,7 +4128,7 @@
    "delito": "LESIONES LEVES",
    "2023": 14,
    "2024": 10,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "Pumanque"
   },
   {
@@ -4047,9 +4207,9 @@
    "informacion": "Casos",
    "CODCOM": 6309,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 35,
+   "2023": 36,
    "2024": 30,
-   "2025": 23,
+   "2025": 24,
    "COMUNA": "Pumanque"
   },
   {
@@ -4072,7 +4232,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 44/2025 (del 27/10/2025 al 02/11/2025)",
+  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
   "region": "O'Higgins"
  }
 }
