@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8109,
-   "2024": 112,
-   "2025": 97,
-   "variacion": -13,
+   "2024": 117,
+   "2025": 112,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Juana"
   },
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8109,
    "2024": 131,
-   "2025": 79,
-   "variacion": -40,
+   "2025": 80,
+   "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Juana"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 8109,
-   "2024": 99,
-   "2025": 75,
-   "variacion": -24,
+   "2024": 103,
+   "2025": 84,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Juana"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8109,
-   "2024": 78,
-   "2025": 89,
-   "variacion": 14,
+   "2024": 80,
+   "2025": 99,
+   "variacion": 24,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa Juana"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8109,
-   "2024": 70,
-   "2025": 46,
-   "variacion": -34,
+   "2024": 76,
+   "2025": 54,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Juana"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 8109,
    "2024": 31,
-   "2025": 28,
-   "variacion": -10,
+   "2025": 29,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Juana"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8109,
-   "2024": 28,
-   "2025": 46,
-   "variacion": 64,
+   "2024": 30,
+   "2025": 47,
+   "variacion": 57,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa Juana"
   },
@@ -102,18 +102,18 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 8109,
-   "2024": 11,
-   "2025": 14,
-   "variacion": 27,
+   "2024": 12,
+   "2025": 15,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa Juana"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8109,
-   "2024": 2,
+   "2024": 3,
    "2025": 10,
-   "variacion": 400,
+   "variacion": 233,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa Juana"
   },
@@ -130,8 +130,8 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8109,
    "2024": 7,
-   "2025": 21,
-   "variacion": 200,
+   "2025": 24,
+   "variacion": 243,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa Juana"
   },
@@ -147,27 +147,27 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8109,
-   "2024": 3,
+   "2024": 7,
    "2025": 5,
-   "variacion": 67,
-   "situación": "Aumento de Casos",
+   "variacion": -29,
+   "situación": "Disminución de Casos",
    "COMUNA": "Santa Juana"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8109,
-   "2024": 12,
-   "2025": 20,
-   "variacion": 67,
+   "2024": 14,
+   "2025": 21,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa Juana"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8109,
-   "2024": 91,
-   "2025": 68,
-   "variacion": -25,
+   "2024": 97,
+   "2025": 80,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Juana"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8109,
-   "2024": 10,
-   "2025": 11,
-   "variacion": 10,
+   "2024": 11,
+   "2025": 15,
+   "variacion": 36,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa Juana"
   }
@@ -476,14 +476,6 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 1,
-   "casos": 9,
-   "COMUNA": "Santa Juana"
-  },
-  {
-   "delito": "AMENAZAS Y RIÑAS",
-   "CODCOM": 8109,
-   "anio": 2025,
-   "mes": 2,
    "casos": 11,
    "COMUNA": "Santa Juana"
   },
@@ -491,8 +483,16 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8109,
    "anio": 2025,
+   "mes": 2,
+   "casos": 12,
+   "COMUNA": "Santa Juana"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 8109,
+   "anio": 2025,
    "mes": 3,
-   "casos": 7,
+   "casos": 8,
    "COMUNA": "Santa Juana"
   },
   {
@@ -516,7 +516,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 6,
-   "casos": 6,
+   "casos": 7,
    "COMUNA": "Santa Juana"
   },
   {
@@ -524,7 +524,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 7,
-   "casos": 15,
+   "casos": 16,
    "COMUNA": "Santa Juana"
   },
   {
@@ -532,7 +532,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 8,
-   "casos": 11,
+   "casos": 13,
    "COMUNA": "Santa Juana"
   },
   {
@@ -540,7 +540,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 9,
-   "casos": 13,
+   "casos": 15,
    "COMUNA": "Santa Juana"
   },
   {
@@ -556,7 +556,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 11,
-   "casos": 5,
+   "casos": 10,
    "COMUNA": "Santa Juana"
   },
   {
@@ -660,7 +660,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 1,
-   "casos": 14,
+   "casos": 15,
    "COMUNA": "Santa Juana"
   },
   {
@@ -844,7 +844,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 1,
-   "casos": 8,
+   "casos": 10,
    "COMUNA": "Santa Juana"
   },
   {
@@ -876,7 +876,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 5,
-   "casos": 8,
+   "casos": 10,
    "COMUNA": "Santa Juana"
   },
   {
@@ -884,7 +884,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 6,
-   "casos": 8,
+   "casos": 10,
    "COMUNA": "Santa Juana"
   },
   {
@@ -900,7 +900,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 8,
    "COMUNA": "Santa Juana"
   },
   {
@@ -924,7 +924,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 11,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Santa Juana"
   },
   {
@@ -1028,7 +1028,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 1,
-   "casos": 12,
+   "casos": 14,
    "COMUNA": "Santa Juana"
   },
   {
@@ -1044,7 +1044,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 3,
-   "casos": 12,
+   "casos": 13,
    "COMUNA": "Santa Juana"
   },
   {
@@ -1052,7 +1052,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 4,
-   "casos": 5,
+   "casos": 8,
    "COMUNA": "Santa Juana"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 7,
-   "casos": 12,
+   "casos": 13,
    "COMUNA": "Santa Juana"
   },
   {
@@ -1084,7 +1084,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 7,
    "COMUNA": "Santa Juana"
   },
   {
@@ -1108,7 +1108,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 11,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Santa Juana"
   },
   {
@@ -1396,7 +1396,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 1,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "Santa Juana"
   },
   {
@@ -1412,7 +1412,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 3,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Santa Juana"
   },
   {
@@ -1420,7 +1420,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 4,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Santa Juana"
   },
   {
@@ -1428,7 +1428,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 5,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Santa Juana"
   },
   {
@@ -1436,7 +1436,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 6,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Santa Juana"
   },
   {
@@ -1476,7 +1476,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 11,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Santa Juana"
   },
   {
@@ -1580,7 +1580,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 1,
-   "casos": 6,
+   "casos": 7,
    "COMUNA": "Santa Juana"
   },
   {
@@ -1948,7 +1948,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 1,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Santa Juana"
   },
   {
@@ -2356,7 +2356,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 6,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Santa Juana"
   },
   {
@@ -2876,7 +2876,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 2,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Santa Juana"
   },
   {
@@ -2900,7 +2900,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 5,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Santa Juana"
   },
   {
@@ -2916,7 +2916,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 7,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Santa Juana"
   },
   {
@@ -3452,7 +3452,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 5,
-   "casos": 6,
+   "casos": 7,
    "COMUNA": "Santa Juana"
   },
   {
@@ -3604,22 +3604,6 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 1,
-   "casos": 5,
-   "COMUNA": "Santa Juana"
-  },
-  {
-   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "CODCOM": 8109,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 4,
-   "COMUNA": "Santa Juana"
-  },
-  {
-   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "CODCOM": 8109,
-   "anio": 2025,
-   "mes": 3,
    "casos": 6,
    "COMUNA": "Santa Juana"
   },
@@ -3627,7 +3611,15 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8109,
    "anio": 2025,
-   "mes": 4,
+   "mes": 2,
+   "casos": 5,
+   "COMUNA": "Santa Juana"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8109,
+   "anio": 2025,
+   "mes": 3,
    "casos": 7,
    "COMUNA": "Santa Juana"
   },
@@ -3635,8 +3627,16 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8109,
    "anio": 2025,
+   "mes": 4,
+   "casos": 8,
+   "COMUNA": "Santa Juana"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8109,
+   "anio": 2025,
    "mes": 5,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Santa Juana"
   },
   {
@@ -3644,7 +3644,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 6,
-   "casos": 9,
+   "casos": 13,
    "COMUNA": "Santa Juana"
   },
   {
@@ -3668,7 +3668,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 9,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "Santa Juana"
   },
   {
@@ -3684,7 +3684,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 11,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Santa Juana"
   },
   {
@@ -3996,7 +3996,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 4,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Santa Juana"
   },
   {
@@ -4004,7 +4004,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 5,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "Santa Juana"
   },
   {
@@ -4070,36 +4070,36 @@
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 106,
-   "2024": 112,
-   "2025": 97,
+   "2023": 114,
+   "2024": 117,
+   "2025": 112,
    "COMUNA": "Santa Juana"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 60,
+   "2023": 74,
    "2024": 131,
-   "2025": 79,
+   "2025": 80,
    "COMUNA": "Santa Juana"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "DAÑOS",
-   "2023": 84,
-   "2024": 99,
-   "2025": 75,
+   "2023": 90,
+   "2024": 103,
+   "2025": 84,
    "COMUNA": "Santa Juana"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 101,
-   "2024": 78,
-   "2025": 89,
+   "2023": 104,
+   "2024": 80,
+   "2025": 99,
    "COMUNA": "Santa Juana"
   },
   {
@@ -4115,25 +4115,25 @@
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "HURTOS",
-   "2023": 71,
-   "2024": 70,
-   "2025": 46,
+   "2023": 73,
+   "2024": 76,
+   "2025": 54,
    "COMUNA": "Santa Juana"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "INCIVILIDADES",
-   "2023": 49,
+   "2023": 50,
    "2024": 31,
-   "2025": 28,
+   "2025": 29,
    "COMUNA": "Santa Juana"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "LESIONES GRAVES",
-   "2023": 2,
+   "2023": 3,
    "2024": 5,
    "2025": 1,
    "COMUNA": "Santa Juana"
@@ -4142,9 +4142,9 @@
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "LESIONES LEVES",
-   "2023": 66,
-   "2024": 28,
-   "2025": 46,
+   "2023": 67,
+   "2024": 30,
+   "2025": 47,
    "COMUNA": "Santa Juana"
   },
   {
@@ -4160,9 +4160,9 @@
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 17,
-   "2024": 11,
-   "2025": 14,
+   "2023": 18,
+   "2024": 12,
+   "2025": 15,
    "COMUNA": "Santa Juana"
   },
   {
@@ -4170,7 +4170,7 @@
    "CODCOM": 8109,
    "delito": "LEY DE DROGAS",
    "2023": 8,
-   "2024": 2,
+   "2024": 3,
    "2025": 10,
    "COMUNA": "Santa Juana"
   },
@@ -4187,16 +4187,16 @@
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "2023": 15,
+   "2023": 16,
    "2024": 7,
-   "2025": 21,
+   "2025": 24,
    "COMUNA": "Santa Juana"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "RECEPTACIÓN",
-   "2023": 6,
+   "2023": 7,
    "2024": 3,
    "2025": 1,
    "COMUNA": "Santa Juana"
@@ -4205,8 +4205,8 @@
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 14,
-   "2024": 3,
+   "2023": 15,
+   "2024": 7,
    "2025": 5,
    "COMUNA": "Santa Juana"
   },
@@ -4215,17 +4215,17 @@
    "CODCOM": 8109,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 17,
-   "2024": 12,
-   "2025": 20,
+   "2024": 14,
+   "2025": 21,
    "COMUNA": "Santa Juana"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 112,
-   "2024": 91,
-   "2025": 68,
+   "2023": 116,
+   "2024": 97,
+   "2025": 80,
    "COMUNA": "Santa Juana"
   },
   {
@@ -4241,14 +4241,14 @@
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 9,
-   "2024": 10,
-   "2025": 11,
+   "2023": 10,
+   "2024": 11,
+   "2025": 15,
    "COMUNA": "Santa Juana"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
+  "semana_id": "SEMANA 47/2025 (del 17/11/2025 al 23/11/2025)",
   "region": "Biobío"
  }
 }

@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8308,
-   "2024": 19,
-   "2025": 18,
+   "2024": 21,
+   "2025": 20,
    "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "Quilaco"
@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8308,
    "2024": 21,
-   "2025": 49,
-   "variacion": 133,
+   "2025": 50,
+   "variacion": 138,
    "situación": "Aumento de Casos",
    "COMUNA": "Quilaco"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 8308,
    "2024": 22,
-   "2025": 32,
-   "variacion": 45,
+   "2025": 34,
+   "variacion": 55,
    "situación": "Aumento de Casos",
    "COMUNA": "Quilaco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8308,
-   "2024": 33,
-   "2025": 18,
-   "variacion": -45,
+   "2024": 35,
+   "2025": 21,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Quilaco"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8308,
-   "2024": 9,
+   "2024": 12,
    "2025": 7,
-   "variacion": -22,
+   "variacion": -42,
    "situación": "Disminución de Casos",
    "COMUNA": "Quilaco"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 8308,
    "2024": 9,
-   "2025": 12,
-   "variacion": 33,
+   "2025": 11,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "Quilaco"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 8308,
    "2024": 13,
-   "2025": 4,
-   "variacion": -69,
+   "2025": 5,
+   "variacion": -62,
    "situación": "Disminución de Casos",
    "COMUNA": "Quilaco"
   },
@@ -147,10 +147,10 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8308,
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "Quilaco"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8308,
-   "2024": 13,
-   "2025": 20,
-   "variacion": 54,
+   "2024": 17,
+   "2025": 24,
+   "variacion": 41,
    "situación": "Aumento de Casos",
    "COMUNA": "Quilaco"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8308,
-   "2024": 3,
+   "2024": 4,
    "2025": 2,
-   "variacion": -33,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Quilaco"
   }
@@ -500,7 +500,7 @@
    "CODCOM": 8308,
    "anio": 2025,
    "mes": 4,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Quilaco"
   },
   {
@@ -516,7 +516,7 @@
    "CODCOM": 8308,
    "anio": 2025,
    "mes": 6,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Quilaco"
   },
   {
@@ -740,7 +740,7 @@
    "CODCOM": 8308,
    "anio": 2025,
    "mes": 11,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Quilaco"
   },
   {
@@ -900,7 +900,7 @@
    "CODCOM": 8308,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Quilaco"
   },
   {
@@ -924,7 +924,7 @@
    "CODCOM": 8308,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Quilaco"
   },
   {
@@ -1044,7 +1044,7 @@
    "CODCOM": 8308,
    "anio": 2025,
    "mes": 3,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Quilaco"
   },
   {
@@ -1060,7 +1060,7 @@
    "CODCOM": 8308,
    "anio": 2025,
    "mes": 5,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Quilaco"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 8308,
    "anio": 2025,
    "mes": 7,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Quilaco"
   },
   {
@@ -1204,78 +1204,6 @@
    "CODCOM": 8308,
    "anio": 2024,
    "mes": 12,
-   "casos": 0,
-   "COMUNA": "Quilaco"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 8308,
-   "anio": 2025,
-   "mes": 1,
-   "casos": 0,
-   "COMUNA": "Quilaco"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 8308,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 0,
-   "COMUNA": "Quilaco"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 8308,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 0,
-   "COMUNA": "Quilaco"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 8308,
-   "anio": 2025,
-   "mes": 4,
-   "casos": 0,
-   "COMUNA": "Quilaco"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 8308,
-   "anio": 2025,
-   "mes": 5,
-   "casos": 0,
-   "COMUNA": "Quilaco"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 8308,
-   "anio": 2025,
-   "mes": 6,
-   "casos": 0,
-   "COMUNA": "Quilaco"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 8308,
-   "anio": 2025,
-   "mes": 7,
-   "casos": 0,
-   "COMUNA": "Quilaco"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 8308,
-   "anio": 2025,
-   "mes": 8,
-   "casos": 0,
-   "COMUNA": "Quilaco"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 8308,
-   "anio": 2025,
-   "mes": 9,
    "casos": 0,
    "COMUNA": "Quilaco"
   },
@@ -1964,7 +1892,7 @@
    "CODCOM": 8308,
    "anio": 2025,
    "mes": 5,
-   "casos": 2,
+   "casos": 1,
    "COMUNA": "Quilaco"
   },
   {
@@ -2380,7 +2308,7 @@
    "CODCOM": 8308,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Quilaco"
   },
   {
@@ -3628,7 +3556,7 @@
    "CODCOM": 8308,
    "anio": 2025,
    "mes": 6,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Quilaco"
   },
   {
@@ -3636,7 +3564,7 @@
    "CODCOM": 8308,
    "anio": 2025,
    "mes": 7,
-   "casos": 3,
+   "casos": 6,
    "COMUNA": "Quilaco"
   },
   {
@@ -3764,78 +3692,6 @@
    "CODCOM": 8308,
    "anio": 2024,
    "mes": 12,
-   "casos": 0,
-   "COMUNA": "Quilaco"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
-   "CODCOM": 8308,
-   "anio": 2025,
-   "mes": 1,
-   "casos": 0,
-   "COMUNA": "Quilaco"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
-   "CODCOM": 8308,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 0,
-   "COMUNA": "Quilaco"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
-   "CODCOM": 8308,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 0,
-   "COMUNA": "Quilaco"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
-   "CODCOM": 8308,
-   "anio": 2025,
-   "mes": 4,
-   "casos": 0,
-   "COMUNA": "Quilaco"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
-   "CODCOM": 8308,
-   "anio": 2025,
-   "mes": 5,
-   "casos": 0,
-   "COMUNA": "Quilaco"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
-   "CODCOM": 8308,
-   "anio": 2025,
-   "mes": 6,
-   "casos": 0,
-   "COMUNA": "Quilaco"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
-   "CODCOM": 8308,
-   "anio": 2025,
-   "mes": 7,
-   "casos": 0,
-   "COMUNA": "Quilaco"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
-   "CODCOM": 8308,
-   "anio": 2025,
-   "mes": 8,
-   "casos": 0,
-   "COMUNA": "Quilaco"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
-   "CODCOM": 8308,
-   "anio": 2025,
-   "mes": 9,
    "casos": 0,
    "COMUNA": "Quilaco"
   },
@@ -4038,27 +3894,27 @@
    "informacion": "Casos",
    "CODCOM": 8308,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 22,
-   "2024": 19,
-   "2025": 18,
+   "2023": 23,
+   "2024": 21,
+   "2025": 20,
    "COMUNA": "Quilaco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8308,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 26,
+   "2023": 30,
    "2024": 21,
-   "2025": 49,
+   "2025": 50,
    "COMUNA": "Quilaco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8308,
    "delito": "DAÑOS",
-   "2023": 34,
+   "2023": 35,
    "2024": 22,
-   "2025": 32,
+   "2025": 34,
    "COMUNA": "Quilaco"
   },
   {
@@ -4066,8 +3922,8 @@
    "CODCOM": 8308,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 26,
-   "2024": 33,
-   "2025": 18,
+   "2024": 35,
+   "2025": 21,
    "COMUNA": "Quilaco"
   },
   {
@@ -4084,7 +3940,7 @@
    "CODCOM": 8308,
    "delito": "HURTOS",
    "2023": 10,
-   "2024": 9,
+   "2024": 12,
    "2025": 7,
    "COMUNA": "Quilaco"
   },
@@ -4092,7 +3948,7 @@
    "informacion": "Casos",
    "CODCOM": 8308,
    "delito": "INCIVILIDADES",
-   "2023": 13,
+   "2023": 14,
    "2024": 26,
    "2025": 16,
    "COMUNA": "Quilaco"
@@ -4112,7 +3968,7 @@
    "delito": "LESIONES LEVES",
    "2023": 9,
    "2024": 9,
-   "2025": 12,
+   "2025": 11,
    "COMUNA": "Quilaco"
   },
   {
@@ -4130,14 +3986,14 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 6,
    "2024": 13,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "Quilaco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8308,
    "delito": "LEY DE DROGAS",
-   "2023": 4,
+   "2023": 5,
    "2024": 2,
    "2025": 1,
    "COMUNA": "Quilaco"
@@ -4164,7 +4020,7 @@
    "informacion": "Casos",
    "CODCOM": 8308,
    "delito": "RECEPTACIÓN",
-   "2023": 1,
+   "2023": 2,
    "2024": 3,
    "2025": 2,
    "COMUNA": "Quilaco"
@@ -4174,7 +4030,7 @@
    "CODCOM": 8308,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 0,
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "Quilaco"
   },
@@ -4191,9 +4047,9 @@
    "informacion": "Casos",
    "CODCOM": 8308,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 24,
-   "2024": 13,
-   "2025": 20,
+   "2023": 25,
+   "2024": 17,
+   "2025": 24,
    "COMUNA": "Quilaco"
   },
   {
@@ -4210,13 +4066,13 @@
    "CODCOM": 8308,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 2,
-   "2024": 3,
+   "2024": 4,
    "2025": 2,
    "COMUNA": "Quilaco"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
+  "semana_id": "SEMANA 47/2025 (del 17/11/2025 al 23/11/2025)",
   "region": "Biobío"
  }
 }

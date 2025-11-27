@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 15102,
-   "2024": 4,
+   "2024": 5,
    "2025": 10,
-   "variacion": 150,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Camarones"
   },
@@ -30,8 +30,8 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 15102,
-   "2024": 12,
-   "2025": 23,
+   "2024": 13,
+   "2025": 25,
    "variacion": 92,
    "situación": "Aumento de Casos",
    "COMUNA": "Camarones"
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 15102,
    "2024": 1,
-   "2025": 3,
-   "variacion": 200,
+   "2025": 4,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "Camarones"
   },
@@ -111,9 +111,9 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 15102,
-   "2024": 9,
+   "2024": 10,
    "2025": 6,
-   "variacion": -33,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Camarones"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 15102,
-   "2024": 4,
-   "2025": 7,
-   "variacion": 75,
+   "2024": 5,
+   "2025": 8,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "Camarones"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 15102,
    "2024": 1,
-   "2025": 2,
-   "variacion": 100,
+   "2025": 3,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Camarones"
   }
@@ -924,7 +924,7 @@
    "CODCOM": 15102,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Camarones"
   },
   {
@@ -1204,78 +1204,6 @@
    "CODCOM": 15102,
    "anio": 2024,
    "mes": 12,
-   "casos": 0,
-   "COMUNA": "Camarones"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 15102,
-   "anio": 2025,
-   "mes": 1,
-   "casos": 0,
-   "COMUNA": "Camarones"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 15102,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 0,
-   "COMUNA": "Camarones"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 15102,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 0,
-   "COMUNA": "Camarones"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 15102,
-   "anio": 2025,
-   "mes": 4,
-   "casos": 0,
-   "COMUNA": "Camarones"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 15102,
-   "anio": 2025,
-   "mes": 5,
-   "casos": 0,
-   "COMUNA": "Camarones"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 15102,
-   "anio": 2025,
-   "mes": 6,
-   "casos": 0,
-   "COMUNA": "Camarones"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 15102,
-   "anio": 2025,
-   "mes": 7,
-   "casos": 0,
-   "COMUNA": "Camarones"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 15102,
-   "anio": 2025,
-   "mes": 8,
-   "casos": 0,
-   "COMUNA": "Camarones"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 15102,
-   "anio": 2025,
-   "mes": 9,
    "casos": 0,
    "COMUNA": "Camarones"
   },
@@ -1744,78 +1672,6 @@
    "COMUNA": "Camarones"
   },
   {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 15102,
-   "anio": 2025,
-   "mes": 1,
-   "casos": 0,
-   "COMUNA": "Camarones"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 15102,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 0,
-   "COMUNA": "Camarones"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 15102,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 0,
-   "COMUNA": "Camarones"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 15102,
-   "anio": 2025,
-   "mes": 4,
-   "casos": 0,
-   "COMUNA": "Camarones"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 15102,
-   "anio": 2025,
-   "mes": 5,
-   "casos": 0,
-   "COMUNA": "Camarones"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 15102,
-   "anio": 2025,
-   "mes": 6,
-   "casos": 0,
-   "COMUNA": "Camarones"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 15102,
-   "anio": 2025,
-   "mes": 7,
-   "casos": 0,
-   "COMUNA": "Camarones"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 15102,
-   "anio": 2025,
-   "mes": 8,
-   "casos": 0,
-   "COMUNA": "Camarones"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 15102,
-   "anio": 2025,
-   "mes": 9,
-   "casos": 0,
-   "COMUNA": "Camarones"
-  },
-  {
    "delito": "LESIONES LEVES",
    "CODCOM": 15102,
    "anio": 2024,
@@ -1924,7 +1780,7 @@
    "CODCOM": 15102,
    "anio": 2025,
    "mes": 2,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Camarones"
   },
   {
@@ -3580,7 +3436,7 @@
    "CODCOM": 15102,
    "anio": 2025,
    "mes": 2,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Camarones"
   },
   {
@@ -3956,7 +3812,7 @@
    "CODCOM": 15102,
    "anio": 2025,
    "mes": 3,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Camarones"
   },
   {
@@ -4039,7 +3895,7 @@
    "CODCOM": 15102,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 6,
-   "2024": 4,
+   "2024": 5,
    "2025": 10,
    "COMUNA": "Camarones"
   },
@@ -4057,8 +3913,8 @@
    "CODCOM": 15102,
    "delito": "DAÑOS",
    "2023": 20,
-   "2024": 12,
-   "2025": 23,
+   "2024": 13,
+   "2025": 25,
    "COMUNA": "Camarones"
   },
   {
@@ -4112,7 +3968,7 @@
    "delito": "LESIONES LEVES",
    "2023": 0,
    "2024": 1,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "Camarones"
   },
   {
@@ -4138,7 +3994,7 @@
    "CODCOM": 15102,
    "delito": "LEY DE DROGAS",
    "2023": 9,
-   "2024": 9,
+   "2024": 10,
    "2025": 6,
    "COMUNA": "Camarones"
   },
@@ -4192,8 +4048,8 @@
    "CODCOM": 15102,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 4,
-   "2024": 4,
-   "2025": 7,
+   "2024": 5,
+   "2025": 8,
    "COMUNA": "Camarones"
   },
   {
@@ -4211,12 +4067,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 1,
    "2024": 1,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "Camarones"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
+  "semana_id": "SEMANA 47/2025 (del 17/11/2025 al 23/11/2025)",
   "region": "Arica y Parinacota"
  }
 }

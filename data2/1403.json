@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 1403,
-   "2024": 20,
-   "2025": 28,
-   "variacion": 40,
+   "2024": 21,
+   "2025": 31,
+   "variacion": 48,
    "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 1403,
    "2024": 9,
-   "2025": 7,
-   "variacion": -22,
+   "2025": 8,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "Colchane"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 1403,
-   "2024": 13,
+   "2024": 14,
    "2025": 8,
-   "variacion": -38,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "Colchane"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 1403,
    "2024": 4,
-   "2025": 6,
-   "variacion": 50,
+   "2025": 8,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
@@ -139,8 +139,8 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 1403,
    "2024": 13,
-   "2025": 14,
-   "variacion": 8,
+   "2025": 15,
+   "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
@@ -157,8 +157,8 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 1403,
    "2024": 1,
-   "2025": 4,
-   "variacion": 300,
+   "2025": 6,
+   "variacion": 500,
    "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
@@ -166,18 +166,18 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 1403,
    "2024": 7,
-   "2025": 6,
-   "variacion": -14,
-   "situación": "Disminución de Casos",
+   "2025": 7,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Colchane"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 1403,
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Colchane"
   },
   {
@@ -908,7 +908,7 @@
    "CODCOM": 1403,
    "anio": 2025,
    "mes": 9,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Colchane"
   },
   {
@@ -924,7 +924,7 @@
    "CODCOM": 1403,
    "anio": 2025,
    "mes": 11,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Colchane"
   },
   {
@@ -1084,7 +1084,7 @@
    "CODCOM": 1403,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Colchane"
   },
   {
@@ -2316,7 +2316,7 @@
    "CODCOM": 1403,
    "anio": 2025,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Colchane"
   },
   {
@@ -2396,7 +2396,7 @@
    "CODCOM": 1403,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Colchane"
   },
   {
@@ -3132,7 +3132,7 @@
    "CODCOM": 1403,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Colchane"
   },
   {
@@ -3428,7 +3428,7 @@
    "CODCOM": 1403,
    "anio": 2025,
    "mes": 2,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Colchane"
   },
   {
@@ -3452,7 +3452,7 @@
    "CODCOM": 1403,
    "anio": 2025,
    "mes": 5,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Colchane"
   },
   {
@@ -3620,7 +3620,7 @@
    "CODCOM": 1403,
    "anio": 2025,
    "mes": 3,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Colchane"
   },
   {
@@ -4088,9 +4088,9 @@
    "informacion": "Casos",
    "CODCOM": 1403,
    "delito": "DAÑOS",
-   "2023": 20,
-   "2024": 20,
-   "2025": 28,
+   "2023": 21,
+   "2024": 21,
+   "2025": 31,
    "COMUNA": "Colchane"
   },
   {
@@ -4099,7 +4099,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 3,
    "2024": 9,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "Colchane"
   },
   {
@@ -4115,8 +4115,8 @@
    "informacion": "Casos",
    "CODCOM": 1403,
    "delito": "HURTOS",
-   "2023": 14,
-   "2024": 13,
+   "2023": 15,
+   "2024": 14,
    "2025": 8,
    "COMUNA": "Colchane"
   },
@@ -4124,7 +4124,7 @@
    "informacion": "Casos",
    "CODCOM": 1403,
    "delito": "INCIVILIDADES",
-   "2023": 4,
+   "2023": 5,
    "2024": 15,
    "2025": 10,
    "COMUNA": "Colchane"
@@ -4142,7 +4142,7 @@
    "informacion": "Casos",
    "CODCOM": 1403,
    "delito": "LESIONES LEVES",
-   "2023": 9,
+   "2023": 11,
    "2024": 11,
    "2025": 11,
    "COMUNA": "Colchane"
@@ -4160,16 +4160,16 @@
    "informacion": "Casos",
    "CODCOM": 1403,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 4,
+   "2023": 5,
    "2024": 4,
-   "2025": 6,
+   "2025": 8,
    "COMUNA": "Colchane"
   },
   {
    "informacion": "Casos",
    "CODCOM": 1403,
    "delito": "LEY DE DROGAS",
-   "2023": 55,
+   "2023": 59,
    "2024": 38,
    "2025": 16,
    "COMUNA": "Colchane"
@@ -4198,7 +4198,7 @@
    "delito": "RECEPTACIÓN",
    "2023": 28,
    "2024": 13,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "Colchane"
   },
   {
@@ -4216,7 +4216,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 10,
    "2024": 1,
-   "2025": 4,
+   "2025": 6,
    "COMUNA": "Colchane"
   },
   {
@@ -4225,7 +4225,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 9,
    "2024": 7,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "Colchane"
   },
   {
@@ -4233,7 +4233,7 @@
    "CODCOM": 1403,
    "delito": "ROBOS POR SORPRESA",
    "2023": 0,
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "Colchane"
   },
@@ -4248,7 +4248,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
+  "semana_id": "SEMANA 47/2025 (del 17/11/2025 al 23/11/2025)",
   "region": "Tarapacá"
  }
 }

@@ -12,17 +12,17 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 2203,
-   "2024": 92,
-   "2025": 91,
-   "variacion": -1,
-   "situación": "Disminución de Casos",
+   "2024": 95,
+   "2025": 104,
+   "variacion": 9,
+   "situación": "Aumento de Casos",
    "COMUNA": "San Pedro de Atacama"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 2203,
-   "2024": 323,
-   "2025": 142,
+   "2024": 330,
+   "2025": 146,
    "variacion": -56,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pedro de Atacama"
@@ -30,17 +30,17 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 2203,
-   "2024": 71,
-   "2025": 82,
-   "variacion": 15,
+   "2024": 76,
+   "2025": 88,
+   "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "San Pedro de Atacama"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 2203,
-   "2024": 119,
-   "2025": 115,
+   "2024": 127,
+   "2025": 123,
    "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pedro de Atacama"
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 2203,
-   "2024": 122,
-   "2025": 93,
-   "variacion": -24,
+   "2024": 131,
+   "2025": 109,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pedro de Atacama"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 2203,
-   "2024": 113,
-   "2025": 67,
-   "variacion": -41,
+   "2024": 117,
+   "2025": 70,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pedro de Atacama"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 2203,
-   "2024": 57,
-   "2025": 65,
-   "variacion": 14,
+   "2024": 63,
+   "2025": 68,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "San Pedro de Atacama"
   },
@@ -103,17 +103,17 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 2203,
    "2024": 2,
-   "2025": 3,
-   "variacion": 50,
+   "2025": 4,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "San Pedro de Atacama"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 2203,
-   "2024": 10,
+   "2024": 12,
    "2025": 20,
-   "variacion": 100,
+   "variacion": 67,
    "situación": "Aumento de Casos",
    "COMUNA": "San Pedro de Atacama"
   },
@@ -121,8 +121,8 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 2203,
    "2024": 2,
-   "2025": 0,
-   "variacion": -100,
+   "2025": 1,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pedro de Atacama"
   },
@@ -138,9 +138,9 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 2203,
-   "2024": 32,
-   "2025": 18,
-   "variacion": -44,
+   "2024": 33,
+   "2025": 20,
+   "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pedro de Atacama"
   },
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 2203,
-   "2024": 62,
-   "2025": 53,
-   "variacion": -15,
+   "2024": 67,
+   "2025": 58,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pedro de Atacama"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 2203,
-   "2024": 65,
-   "2025": 51,
-   "variacion": -22,
+   "2024": 67,
+   "2025": 54,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pedro de Atacama"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 2203,
-   "2024": 22,
-   "2025": 12,
-   "variacion": -45,
+   "2024": 23,
+   "2025": 14,
+   "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pedro de Atacama"
   }
@@ -476,14 +476,6 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 1,
-   "casos": 9,
-   "COMUNA": "San Pedro de Atacama"
-  },
-  {
-   "delito": "AMENAZAS Y RIÑAS",
-   "CODCOM": 2203,
-   "anio": 2025,
-   "mes": 2,
    "casos": 12,
    "COMUNA": "San Pedro de Atacama"
   },
@@ -491,8 +483,16 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 2203,
    "anio": 2025,
+   "mes": 2,
+   "casos": 13,
+   "COMUNA": "San Pedro de Atacama"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 2203,
+   "anio": 2025,
    "mes": 3,
-   "casos": 6,
+   "casos": 7,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 4,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -524,7 +524,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 7,
-   "casos": 11,
+   "casos": 12,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -532,7 +532,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 8,
-   "casos": 8,
+   "casos": 9,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -556,7 +556,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 11,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -740,7 +740,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 11,
-   "casos": 1,
+   "casos": 5,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -860,7 +860,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 3,
-   "casos": 6,
+   "casos": 8,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -900,7 +900,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 9,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -908,7 +908,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 9,
-   "casos": 7,
+   "casos": 8,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -924,7 +924,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 11,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -1028,7 +1028,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 1,
-   "casos": 23,
+   "casos": 24,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -1036,7 +1036,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 2,
-   "casos": 18,
+   "casos": 19,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -1044,7 +1044,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 3,
-   "casos": 13,
+   "casos": 14,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 6,
-   "casos": 7,
+   "casos": 8,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -1108,7 +1108,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 11,
-   "casos": 3,
+   "casos": 7,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -1396,7 +1396,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 1,
-   "casos": 8,
+   "casos": 10,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -1404,7 +1404,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 2,
-   "casos": 11,
+   "casos": 14,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -1420,7 +1420,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 4,
-   "casos": 12,
+   "casos": 14,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -1428,7 +1428,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 5,
-   "casos": 11,
+   "casos": 12,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -1436,7 +1436,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 6,
-   "casos": 12,
+   "casos": 13,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -1452,7 +1452,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -1460,7 +1460,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 9,
-   "casos": 9,
+   "casos": 10,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -1476,7 +1476,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 4,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -1580,7 +1580,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 1,
-   "casos": 10,
+   "casos": 11,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -1660,7 +1660,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -1948,7 +1948,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 1,
-   "casos": 7,
+   "casos": 8,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -1964,7 +1964,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 3,
-   "casos": 6,
+   "casos": 7,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -1980,7 +1980,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 5,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -2316,7 +2316,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -2692,7 +2692,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 2,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -3052,7 +3052,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -3092,7 +3092,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 6,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -3436,7 +3436,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 3,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -3452,7 +3452,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 5,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -3468,7 +3468,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 7,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -3500,7 +3500,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 11,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -3604,7 +3604,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 1,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -3644,7 +3644,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 6,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -3668,7 +3668,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 9,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -4028,7 +4028,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -4052,7 +4052,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "San Pedro de Atacama"
   }
  ],
@@ -4070,36 +4070,36 @@
    "informacion": "Casos",
    "CODCOM": 2203,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 112,
-   "2024": 92,
-   "2025": 91,
+   "2023": 120,
+   "2024": 95,
+   "2025": 104,
    "COMUNA": "San Pedro de Atacama"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2203,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 180,
-   "2024": 323,
-   "2025": 142,
+   "2023": 190,
+   "2024": 330,
+   "2025": 146,
    "COMUNA": "San Pedro de Atacama"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2203,
    "delito": "DAÑOS",
-   "2023": 55,
-   "2024": 71,
-   "2025": 82,
+   "2023": 57,
+   "2024": 76,
+   "2025": 88,
    "COMUNA": "San Pedro de Atacama"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2203,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 111,
-   "2024": 119,
-   "2025": 115,
+   "2023": 115,
+   "2024": 127,
+   "2025": 123,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -4115,18 +4115,18 @@
    "informacion": "Casos",
    "CODCOM": 2203,
    "delito": "HURTOS",
-   "2023": 95,
-   "2024": 122,
-   "2025": 93,
+   "2023": 101,
+   "2024": 131,
+   "2025": 109,
    "COMUNA": "San Pedro de Atacama"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2203,
    "delito": "INCIVILIDADES",
-   "2023": 120,
-   "2024": 113,
-   "2025": 67,
+   "2023": 124,
+   "2024": 117,
+   "2025": 70,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -4142,9 +4142,9 @@
    "informacion": "Casos",
    "CODCOM": 2203,
    "delito": "LESIONES LEVES",
-   "2023": 71,
-   "2024": 57,
-   "2025": 65,
+   "2023": 74,
+   "2024": 63,
+   "2025": 68,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -4162,15 +4162,15 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 6,
    "2024": 2,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "San Pedro de Atacama"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2203,
    "delito": "LEY DE DROGAS",
-   "2023": 11,
-   "2024": 10,
+   "2023": 12,
+   "2024": 12,
    "2025": 20,
    "COMUNA": "San Pedro de Atacama"
   },
@@ -4180,7 +4180,7 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2023": 4,
    "2024": 2,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -4196,9 +4196,9 @@
    "informacion": "Casos",
    "CODCOM": 2203,
    "delito": "RECEPTACIÓN",
-   "2023": 17,
-   "2024": 32,
-   "2025": 18,
+   "2023": 19,
+   "2024": 33,
+   "2025": 20,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -4214,18 +4214,18 @@
    "informacion": "Casos",
    "CODCOM": 2203,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 60,
-   "2024": 62,
-   "2025": 53,
+   "2023": 64,
+   "2024": 67,
+   "2025": 58,
    "COMUNA": "San Pedro de Atacama"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2203,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 59,
-   "2024": 65,
-   "2025": 51,
+   "2023": 62,
+   "2024": 67,
+   "2025": 54,
    "COMUNA": "San Pedro de Atacama"
   },
   {
@@ -4242,13 +4242,13 @@
    "CODCOM": 2203,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 7,
-   "2024": 22,
-   "2025": 12,
+   "2024": 23,
+   "2025": 14,
    "COMUNA": "San Pedro de Atacama"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
+  "semana_id": "SEMANA 47/2025 (del 17/11/2025 al 23/11/2025)",
   "region": "Antofagasta"
  }
 }

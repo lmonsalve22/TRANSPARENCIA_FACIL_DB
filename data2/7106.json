@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7106,
-   "2024": 74,
+   "2024": 77,
    "2025": 55,
-   "variacion": -26,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Pelarco"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 7106,
-   "2024": 83,
-   "2025": 64,
-   "variacion": -23,
+   "2024": 86,
+   "2025": 71,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "Pelarco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7106,
-   "2024": 70,
-   "2025": 46,
-   "variacion": -34,
+   "2024": 72,
+   "2025": 49,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "Pelarco"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7106,
-   "2024": 24,
-   "2025": 26,
+   "2024": 25,
+   "2025": 27,
    "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "Pelarco"
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 7106,
-   "2024": 13,
-   "2025": 25,
-   "variacion": 92,
+   "2024": 16,
+   "2025": 26,
+   "variacion": 62,
    "situación": "Aumento de Casos",
    "COMUNA": "Pelarco"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7106,
    "2024": 16,
-   "2025": 40,
-   "variacion": 150,
+   "2025": 42,
+   "variacion": 162,
    "situación": "Aumento de Casos",
    "COMUNA": "Pelarco"
   },
@@ -130,9 +130,9 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 7106,
    "2024": 2,
-   "2025": 1,
-   "variacion": -50,
-   "situación": "Disminución de Casos",
+   "2025": 2,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Pelarco"
   },
   {
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 7106,
    "2024": 3,
-   "2025": 5,
-   "variacion": 67,
+   "2025": 6,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Pelarco"
   },
@@ -157,8 +157,8 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 7106,
    "2024": 10,
-   "2025": 5,
-   "variacion": -50,
+   "2025": 6,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Pelarco"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7106,
    "2024": 49,
-   "2025": 18,
-   "variacion": -63,
+   "2025": 21,
+   "variacion": -57,
    "situación": "Disminución de Casos",
    "COMUNA": "Pelarco"
   },
@@ -184,9 +184,9 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 7106,
    "2024": 5,
-   "2025": 4,
-   "variacion": -20,
-   "situación": "Disminución de Casos",
+   "2025": 7,
+   "variacion": 40,
+   "situación": "Aumento de Casos",
    "COMUNA": "Pelarco"
   }
  ],
@@ -476,7 +476,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 1,
-   "casos": 6,
+   "casos": 7,
    "COMUNA": "Pelarco"
   },
   {
@@ -508,7 +508,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 5,
-   "casos": 6,
+   "casos": 5,
    "COMUNA": "Pelarco"
   },
   {
@@ -852,7 +852,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 2,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Pelarco"
   },
   {
@@ -876,7 +876,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 5,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Pelarco"
   },
   {
@@ -884,14 +884,6 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 6,
-   "casos": 9,
-   "COMUNA": "Pelarco"
-  },
-  {
-   "delito": "DAÑOS",
-   "CODCOM": 7106,
-   "anio": 2025,
-   "mes": 7,
    "casos": 10,
    "COMUNA": "Pelarco"
   },
@@ -899,8 +891,16 @@
    "delito": "DAÑOS",
    "CODCOM": 7106,
    "anio": 2025,
+   "mes": 7,
+   "casos": 11,
+   "COMUNA": "Pelarco"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 7106,
+   "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 7,
    "COMUNA": "Pelarco"
   },
   {
@@ -908,7 +908,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 9,
-   "casos": 11,
+   "casos": 12,
    "COMUNA": "Pelarco"
   },
   {
@@ -924,7 +924,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 11,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Pelarco"
   },
   {
@@ -1028,7 +1028,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 1,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Pelarco"
   },
   {
@@ -1052,7 +1052,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 4,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Pelarco"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 6,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Pelarco"
   },
   {
@@ -1412,7 +1412,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 3,
-   "casos": 2,
+   "casos": 1,
    "COMUNA": "Pelarco"
   },
   {
@@ -1452,7 +1452,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Pelarco"
   },
   {
@@ -1476,7 +1476,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Pelarco"
   },
   {
@@ -2028,7 +2028,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Pelarco"
   },
   {
@@ -2380,7 +2380,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 9,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "Pelarco"
   },
   {
@@ -2892,7 +2892,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 4,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Pelarco"
   },
   {
@@ -3236,7 +3236,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Pelarco"
   },
   {
@@ -3436,7 +3436,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 3,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Pelarco"
   },
   {
@@ -3668,7 +3668,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 9,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Pelarco"
   },
   {
@@ -3684,7 +3684,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Pelarco"
   },
   {
@@ -3972,7 +3972,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Pelarco"
   },
   {
@@ -3988,7 +3988,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 3,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Pelarco"
   },
   {
@@ -4036,7 +4036,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Pelarco"
   },
   {
@@ -4070,8 +4070,8 @@
    "informacion": "Casos",
    "CODCOM": 7106,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 68,
-   "2024": 74,
+   "2023": 69,
+   "2024": 77,
    "2025": 55,
    "COMUNA": "Pelarco"
   },
@@ -4088,9 +4088,9 @@
    "informacion": "Casos",
    "CODCOM": 7106,
    "delito": "DAÑOS",
-   "2023": 90,
-   "2024": 83,
-   "2025": 64,
+   "2023": 93,
+   "2024": 86,
+   "2025": 71,
    "COMUNA": "Pelarco"
   },
   {
@@ -4098,8 +4098,8 @@
    "CODCOM": 7106,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 57,
-   "2024": 70,
-   "2025": 46,
+   "2024": 72,
+   "2025": 49,
    "COMUNA": "Pelarco"
   },
   {
@@ -4115,9 +4115,9 @@
    "informacion": "Casos",
    "CODCOM": 7106,
    "delito": "HURTOS",
-   "2023": 13,
-   "2024": 24,
-   "2025": 26,
+   "2023": 14,
+   "2024": 25,
+   "2025": 27,
    "COMUNA": "Pelarco"
   },
   {
@@ -4142,9 +4142,9 @@
    "informacion": "Casos",
    "CODCOM": 7106,
    "delito": "LESIONES LEVES",
-   "2023": 16,
-   "2024": 13,
-   "2025": 25,
+   "2023": 18,
+   "2024": 16,
+   "2025": 26,
    "COMUNA": "Pelarco"
   },
   {
@@ -4160,9 +4160,9 @@
    "informacion": "Casos",
    "CODCOM": 7106,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 2,
+   "2023": 3,
    "2024": 16,
-   "2025": 40,
+   "2025": 42,
    "COMUNA": "Pelarco"
   },
   {
@@ -4189,7 +4189,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 2,
    "2024": 2,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "Pelarco"
   },
   {
@@ -4207,7 +4207,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 4,
    "2024": 3,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "Pelarco"
   },
   {
@@ -4216,16 +4216,16 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 4,
    "2024": 10,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "Pelarco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7106,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 23,
+   "2023": 29,
    "2024": 49,
-   "2025": 18,
+   "2025": 21,
    "COMUNA": "Pelarco"
   },
   {
@@ -4241,14 +4241,14 @@
    "informacion": "Casos",
    "CODCOM": 7106,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 1,
+   "2023": 3,
    "2024": 5,
-   "2025": 4,
+   "2025": 7,
    "COMUNA": "Pelarco"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
+  "semana_id": "SEMANA 47/2025 (del 17/11/2025 al 23/11/2025)",
   "region": "Maule"
  }
 }

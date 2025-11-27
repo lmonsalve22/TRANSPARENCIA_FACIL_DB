@@ -4,8 +4,8 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 10404,
    "2024": 0,
-   "2025": 1,
-   "variacion": 100,
+   "2025": 2,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Palena"
   },
@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10404,
    "2024": 14,
-   "2025": 15,
-   "variacion": 7,
+   "2025": 18,
+   "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "Palena"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 10404,
-   "2024": 22,
+   "2024": 24,
    "2025": 17,
-   "variacion": -23,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Palena"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10404,
    "2024": 19,
-   "2025": 7,
-   "variacion": -63,
+   "2025": 8,
+   "variacion": -58,
    "situación": "Disminución de Casos",
    "COMUNA": "Palena"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 10404,
    "2024": 3,
-   "2025": 4,
-   "variacion": 33,
+   "2025": 5,
+   "variacion": 67,
    "situación": "Aumento de Casos",
    "COMUNA": "Palena"
   },
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 10404,
    "2024": 9,
-   "2025": 6,
-   "variacion": -33,
-   "situación": "Disminución de Casos",
+   "2025": 9,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Palena"
   },
   {
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10404,
    "2024": 2,
-   "2025": 0,
-   "variacion": -100,
+   "2025": 1,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Palena"
   },
@@ -316,7 +316,7 @@
    "CODCOM": 10404,
    "anio": 2025,
    "mes": 4,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Palena"
   },
   {
@@ -492,7 +492,7 @@
    "CODCOM": 10404,
    "anio": 2025,
    "mes": 3,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Palena"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 10404,
    "anio": 2025,
    "mes": 4,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Palena"
   },
   {
@@ -540,7 +540,7 @@
    "CODCOM": 10404,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Palena"
   },
   {
@@ -1108,7 +1108,7 @@
    "CODCOM": 10404,
    "anio": 2025,
    "mes": 11,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Palena"
   },
   {
@@ -1204,78 +1204,6 @@
    "CODCOM": 10404,
    "anio": 2024,
    "mes": 12,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 1,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 4,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 5,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 6,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 7,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 8,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 9,
    "casos": 0,
    "COMUNA": "Palena"
   },
@@ -1388,7 +1316,7 @@
    "CODCOM": 10404,
    "anio": 2025,
    "mes": 2,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Palena"
   },
   {
@@ -1604,7 +1532,7 @@
    "CODCOM": 10404,
    "anio": 2025,
    "mes": 6,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Palena"
   },
   {
@@ -1644,7 +1572,7 @@
    "CODCOM": 10404,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Palena"
   },
   {
@@ -2332,7 +2260,7 @@
    "CODCOM": 10404,
    "anio": 2025,
    "mes": 5,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Palena"
   },
   {
@@ -3396,78 +3324,6 @@
    "CODCOM": 10404,
    "anio": 2024,
    "mes": 12,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 1,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 4,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 5,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 6,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 7,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 8,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 9,
    "casos": 0,
    "COMUNA": "Palena"
   },
@@ -3748,78 +3604,6 @@
    "CODCOM": 10404,
    "anio": 2024,
    "mes": 12,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 1,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 4,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 5,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 6,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 7,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 8,
-   "casos": 0,
-   "COMUNA": "Palena"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
-   "CODCOM": 10404,
-   "anio": 2025,
-   "mes": 9,
    "casos": 0,
    "COMUNA": "Palena"
   },
@@ -4015,23 +3799,23 @@
    "delito": "AMENAZAS CON ARMAS",
    "2023": 1,
    "2024": 0,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "Palena"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10404,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 6,
+   "2023": 7,
    "2024": 14,
-   "2025": 15,
+   "2025": 18,
    "COMUNA": "Palena"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10404,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 16,
+   "2023": 17,
    "2024": 13,
    "2025": 10,
    "COMUNA": "Palena"
@@ -4040,8 +3824,8 @@
    "informacion": "Casos",
    "CODCOM": 10404,
    "delito": "DAÑOS",
-   "2023": 14,
-   "2024": 22,
+   "2023": 15,
+   "2024": 24,
    "2025": 17,
    "COMUNA": "Palena"
   },
@@ -4051,7 +3835,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 12,
    "2024": 19,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "Palena"
   },
   {
@@ -4069,7 +3853,7 @@
    "delito": "HURTOS",
    "2023": 7,
    "2024": 3,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "Palena"
   },
   {
@@ -4078,7 +3862,7 @@
    "delito": "INCIVILIDADES",
    "2023": 6,
    "2024": 9,
-   "2025": 6,
+   "2025": 9,
    "COMUNA": "Palena"
   },
   {
@@ -4114,7 +3898,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 0,
    "2024": 2,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "Palena"
   },
   {
@@ -4200,7 +3984,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 45/2025 (del 03/11/2025 al 09/11/2025)",
+  "semana_id": "SEMANA 47/2025 (del 17/11/2025 al 23/11/2025)",
   "region": "Los Lagos"
  }
 }
