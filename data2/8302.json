@@ -21,18 +21,18 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8302,
-   "2024": 43,
-   "2025": 32,
-   "variacion": -26,
+   "2024": 45,
+   "2025": 34,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "Antuco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 8302,
-   "2024": 20,
+   "2024": 22,
    "2025": 28,
-   "variacion": 40,
+   "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "Antuco"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8302,
-   "2024": 9,
+   "2024": 10,
    "2025": 11,
-   "variacion": 22,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "Antuco"
   },
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8302,
-   "2024": 9,
+   "2024": 10,
    "2025": 10,
-   "variacion": 11,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Antuco"
   },
   {
@@ -130,9 +130,9 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8302,
    "2024": 2,
-   "2025": 1,
-   "variacion": -50,
-   "situación": "Disminución de Casos",
+   "2025": 2,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Antuco"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8302,
-   "2024": 15,
+   "2024": 16,
    "2025": 13,
-   "variacion": -13,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "Antuco"
   },
@@ -740,7 +740,7 @@
    "CODCOM": 8302,
    "anio": 2025,
    "mes": 11,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Antuco"
   },
   {
@@ -2948,7 +2948,7 @@
    "CODCOM": 8302,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Antuco"
   },
   {
@@ -4070,7 +4070,7 @@
    "informacion": "Casos",
    "CODCOM": 8302,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 36,
+   "2023": 38,
    "2024": 37,
    "2025": 16,
    "COMUNA": "Antuco"
@@ -4079,17 +4079,17 @@
    "informacion": "Casos",
    "CODCOM": 8302,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 18,
-   "2024": 43,
-   "2025": 32,
+   "2023": 19,
+   "2024": 45,
+   "2025": 34,
    "COMUNA": "Antuco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8302,
    "delito": "DAÑOS",
-   "2023": 28,
-   "2024": 20,
+   "2023": 30,
+   "2024": 22,
    "2025": 28,
    "COMUNA": "Antuco"
   },
@@ -4116,7 +4116,7 @@
    "CODCOM": 8302,
    "delito": "HURTOS",
    "2023": 17,
-   "2024": 9,
+   "2024": 10,
    "2025": 11,
    "COMUNA": "Antuco"
   },
@@ -4124,7 +4124,7 @@
    "informacion": "Casos",
    "CODCOM": 8302,
    "delito": "INCIVILIDADES",
-   "2023": 8,
+   "2023": 9,
    "2024": 6,
    "2025": 21,
    "COMUNA": "Antuco"
@@ -4142,8 +4142,8 @@
    "informacion": "Casos",
    "CODCOM": 8302,
    "delito": "LESIONES LEVES",
-   "2023": 7,
-   "2024": 9,
+   "2023": 8,
+   "2024": 10,
    "2025": 10,
    "COMUNA": "Antuco"
   },
@@ -4189,7 +4189,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 0,
    "2024": 2,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "Antuco"
   },
   {
@@ -4224,7 +4224,7 @@
    "CODCOM": 8302,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 13,
-   "2024": 15,
+   "2024": 16,
    "2025": 13,
    "COMUNA": "Antuco"
   },
@@ -4248,7 +4248,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 47/2025 (del 17/11/2025 al 23/11/2025)",
+  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
   "region": "Biobío"
  }
 }

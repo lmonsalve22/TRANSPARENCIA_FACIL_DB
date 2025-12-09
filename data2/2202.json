@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 2202,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Ollagüe"
   },
   {
@@ -111,9 +111,9 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 2202,
-   "2024": 6,
+   "2024": 7,
    "2025": 10,
-   "variacion": 67,
+   "variacion": 43,
    "situación": "Aumento de Casos",
    "COMUNA": "Ollagüe"
   },
@@ -3676,7 +3676,7 @@
    "CODCOM": 2202,
    "delito": "HURTOS",
    "2023": 0,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
    "COMUNA": "Ollagüe"
   },
@@ -3730,7 +3730,7 @@
    "CODCOM": 2202,
    "delito": "LEY DE DROGAS",
    "2023": 5,
-   "2024": 6,
+   "2024": 7,
    "2025": 10,
    "COMUNA": "Ollagüe"
   },
@@ -3808,7 +3808,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 47/2025 (del 17/11/2025 al 23/11/2025)",
+  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
   "region": "Antofagasta"
  }
 }

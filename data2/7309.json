@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7309,
    "2024": 19,
-   "2025": 25,
-   "variacion": 32,
+   "2025": 26,
+   "variacion": 37,
    "situación": "Aumento de Casos",
    "COMUNA": "Vichuquén"
   },
@@ -66,10 +66,10 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 7309,
-   "2024": 29,
+   "2024": 31,
    "2025": 31,
-   "variacion": 7,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Vichuquén"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 7309,
-   "2024": 16,
+   "2024": 18,
    "2025": 12,
-   "variacion": -25,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Vichuquén"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7309,
-   "2024": 33,
-   "2025": 23,
-   "variacion": -30,
+   "2024": 44,
+   "2025": 24,
+   "variacion": -45,
    "situación": "Disminución de Casos",
    "COMUNA": "Vichuquén"
   },
@@ -129,10 +129,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 7309,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Vichuquén"
   },
   {
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7309,
    "2024": 24,
-   "2025": 20,
-   "variacion": -17,
+   "2025": 21,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "Vichuquén"
   },
@@ -740,7 +740,7 @@
    "CODCOM": 7309,
    "anio": 2025,
    "mes": 11,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Vichuquén"
   },
   {
@@ -2308,7 +2308,7 @@
    "CODCOM": 7309,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Vichuquén"
   },
   {
@@ -3596,7 +3596,7 @@
    "CODCOM": 7309,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Vichuquén"
   },
   {
@@ -3993,14 +3993,14 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 25,
    "2024": 19,
-   "2025": 25,
+   "2025": 26,
    "COMUNA": "Vichuquén"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7309,
    "delito": "DAÑOS",
-   "2023": 66,
+   "2023": 67,
    "2024": 69,
    "2025": 76,
    "COMUNA": "Vichuquén"
@@ -4037,7 +4037,7 @@
    "CODCOM": 7309,
    "delito": "INCIVILIDADES",
    "2023": 16,
-   "2024": 29,
+   "2024": 31,
    "2025": 31,
    "COMUNA": "Vichuquén"
   },
@@ -4054,8 +4054,8 @@
    "informacion": "Casos",
    "CODCOM": 7309,
    "delito": "LESIONES LEVES",
-   "2023": 15,
-   "2024": 16,
+   "2023": 17,
+   "2024": 18,
    "2025": 12,
    "COMUNA": "Vichuquén"
   },
@@ -4072,9 +4072,9 @@
    "informacion": "Casos",
    "CODCOM": 7309,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 19,
-   "2024": 33,
-   "2025": 23,
+   "2023": 22,
+   "2024": 44,
+   "2025": 24,
    "COMUNA": "Vichuquén"
   },
   {
@@ -4100,7 +4100,7 @@
    "CODCOM": 7309,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 3,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
    "COMUNA": "Vichuquén"
   },
@@ -4135,9 +4135,9 @@
    "informacion": "Casos",
    "CODCOM": 7309,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 23,
+   "2023": 24,
    "2024": 24,
-   "2025": 20,
+   "2025": 21,
    "COMUNA": "Vichuquén"
   },
   {
@@ -4160,7 +4160,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 47/2025 (del 17/11/2025 al 23/11/2025)",
+  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
   "region": "Maule"
  }
 }

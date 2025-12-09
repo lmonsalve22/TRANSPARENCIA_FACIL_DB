@@ -13,16 +13,16 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10203,
    "2024": 123,
-   "2025": 126,
-   "variacion": 2,
+   "2025": 129,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "Chonchi"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10203,
-   "2024": 308,
-   "2025": 129,
+   "2024": 309,
+   "2025": 131,
    "variacion": -58,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
@@ -30,17 +30,17 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 10203,
-   "2024": 112,
-   "2025": 64,
-   "variacion": -43,
+   "2024": 113,
+   "2025": 65,
+   "variacion": -42,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10203,
-   "2024": 122,
-   "2025": 100,
+   "2024": 125,
+   "2025": 103,
    "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10203,
-   "2024": 39,
+   "2024": 41,
    "2025": 30,
-   "variacion": -23,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10203,
-   "2024": 23,
+   "2024": 24,
    "2025": 17,
-   "variacion": -26,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10203,
-   "2024": 44,
-   "2025": 25,
-   "variacion": -43,
+   "2024": 45,
+   "2025": 26,
+   "variacion": -42,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
   },
@@ -556,7 +556,7 @@
    "CODCOM": 10203,
    "anio": 2025,
    "mes": 11,
-   "casos": 6,
+   "casos": 9,
    "COMUNA": "Chonchi"
   },
   {
@@ -740,7 +740,7 @@
    "CODCOM": 10203,
    "anio": 2025,
    "mes": 11,
-   "casos": 11,
+   "casos": 13,
    "COMUNA": "Chonchi"
   },
   {
@@ -924,7 +924,7 @@
    "CODCOM": 10203,
    "anio": 2025,
    "mes": 11,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Chonchi"
   },
   {
@@ -1108,7 +1108,7 @@
    "CODCOM": 10203,
    "anio": 2025,
    "mes": 11,
-   "casos": 6,
+   "casos": 9,
    "COMUNA": "Chonchi"
   },
   {
@@ -2028,7 +2028,7 @@
    "CODCOM": 10203,
    "anio": 2025,
    "mes": 11,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Chonchi"
   },
   {
@@ -4070,36 +4070,36 @@
    "informacion": "Casos",
    "CODCOM": 10203,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 128,
+   "2023": 129,
    "2024": 123,
-   "2025": 126,
-   "COMUNA": "Chonchi"
-  },
-  {
-   "informacion": "Casos",
-   "CODCOM": 10203,
-   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 182,
-   "2024": 308,
    "2025": 129,
    "COMUNA": "Chonchi"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10203,
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "2023": 188,
+   "2024": 309,
+   "2025": 131,
+   "COMUNA": "Chonchi"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10203,
    "delito": "DAÑOS",
-   "2023": 102,
-   "2024": 112,
-   "2025": 64,
+   "2023": 103,
+   "2024": 113,
+   "2025": 65,
    "COMUNA": "Chonchi"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10203,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 132,
-   "2024": 122,
-   "2025": 100,
+   "2023": 136,
+   "2024": 125,
+   "2025": 103,
    "COMUNA": "Chonchi"
   },
   {
@@ -4116,7 +4116,7 @@
    "CODCOM": 10203,
    "delito": "HURTOS",
    "2023": 48,
-   "2024": 39,
+   "2024": 41,
    "2025": 30,
    "COMUNA": "Chonchi"
   },
@@ -4124,8 +4124,8 @@
    "informacion": "Casos",
    "CODCOM": 10203,
    "delito": "INCIVILIDADES",
-   "2023": 15,
-   "2024": 23,
+   "2023": 16,
+   "2024": 24,
    "2025": 17,
    "COMUNA": "Chonchi"
   },
@@ -4143,8 +4143,8 @@
    "CODCOM": 10203,
    "delito": "LESIONES LEVES",
    "2023": 56,
-   "2024": 44,
-   "2025": 25,
+   "2024": 45,
+   "2025": 26,
    "COMUNA": "Chonchi"
   },
   {
@@ -4248,7 +4248,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 47/2025 (del 17/11/2025 al 23/11/2025)",
+  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
   "region": "Los Lagos"
  }
 }

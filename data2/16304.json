@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16304,
-   "2024": 39,
+   "2024": 41,
    "2025": 35,
-   "variacion": -10,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16304,
-   "2024": 43,
+   "2024": 44,
    "2025": 49,
-   "variacion": 14,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "San Fabián"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16304,
-   "2024": 43,
+   "2024": 45,
    "2025": 40,
-   "variacion": -7,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
   },
@@ -58,17 +58,17 @@
    "delito": "HURTOS",
    "CODCOM": 16304,
    "2024": 18,
-   "2025": 15,
-   "variacion": -17,
+   "2025": 16,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 16304,
-   "2024": 25,
+   "2024": 26,
    "2025": 27,
-   "variacion": 8,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "San Fabián"
   },
@@ -102,10 +102,10 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 16304,
-   "2024": 6,
+   "2024": 7,
    "2025": 7,
-   "variacion": 17,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "San Fabián"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16304,
-   "2024": 17,
+   "2024": 18,
    "2025": 12,
-   "variacion": -29,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 16304,
-   "2024": 16,
+   "2024": 17,
    "2025": 5,
-   "variacion": -69,
+   "variacion": -71,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
   }
@@ -1476,7 +1476,7 @@
    "CODCOM": 16304,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "San Fabián"
   },
   {
@@ -4070,8 +4070,8 @@
    "informacion": "Casos",
    "CODCOM": 16304,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 38,
-   "2024": 39,
+   "2023": 39,
+   "2024": 41,
    "2025": 35,
    "COMUNA": "San Fabián"
   },
@@ -4088,8 +4088,8 @@
    "informacion": "Casos",
    "CODCOM": 16304,
    "delito": "DAÑOS",
-   "2023": 32,
-   "2024": 43,
+   "2023": 33,
+   "2024": 44,
    "2025": 49,
    "COMUNA": "San Fabián"
   },
@@ -4098,7 +4098,7 @@
    "CODCOM": 16304,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 45,
-   "2024": 43,
+   "2024": 45,
    "2025": 40,
    "COMUNA": "San Fabián"
   },
@@ -4115,17 +4115,17 @@
    "informacion": "Casos",
    "CODCOM": 16304,
    "delito": "HURTOS",
-   "2023": 19,
+   "2023": 20,
    "2024": 18,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "San Fabián"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16304,
    "delito": "INCIVILIDADES",
-   "2023": 19,
-   "2024": 25,
+   "2023": 20,
+   "2024": 26,
    "2025": 27,
    "COMUNA": "San Fabián"
   },
@@ -4161,7 +4161,7 @@
    "CODCOM": 16304,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 2,
-   "2024": 6,
+   "2024": 7,
    "2025": 7,
    "COMUNA": "San Fabián"
   },
@@ -4224,7 +4224,7 @@
    "CODCOM": 16304,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 25,
-   "2024": 17,
+   "2024": 18,
    "2025": 12,
    "COMUNA": "San Fabián"
   },
@@ -4242,13 +4242,13 @@
    "CODCOM": 16304,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 11,
-   "2024": 16,
+   "2024": 17,
    "2025": 5,
    "COMUNA": "San Fabián"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 47/2025 (del 17/11/2025 al 23/11/2025)",
+  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
   "region": "Ñuble"
  }
 }

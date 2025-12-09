@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10307,
-   "2024": 100,
-   "2025": 77,
-   "variacion": -23,
+   "2024": 103,
+   "2025": 78,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pablo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10307,
-   "2024": 68,
+   "2024": 69,
    "2025": 71,
-   "variacion": 4,
+   "variacion": 3,
    "situación": "Aumento de Casos",
    "COMUNA": "San Pablo"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10307,
-   "2024": 106,
+   "2024": 111,
    "2025": 110,
-   "variacion": 4,
-   "situación": "Aumento de Casos",
+   "variacion": -1,
+   "situación": "Disminución de Casos",
    "COMUNA": "San Pablo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10307,
-   "2024": 107,
-   "2025": 118,
-   "variacion": 10,
+   "2024": 108,
+   "2025": 123,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "San Pablo"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10307,
-   "2024": 61,
-   "2025": 89,
-   "variacion": 46,
+   "2024": 64,
+   "2025": 91,
+   "variacion": 42,
    "situación": "Aumento de Casos",
    "COMUNA": "San Pablo"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 10307,
    "2024": 43,
-   "2025": 33,
-   "variacion": -23,
+   "2025": 34,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pablo"
   },
@@ -130,8 +130,8 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 10307,
    "2024": 6,
-   "2025": 7,
-   "variacion": 17,
+   "2025": 8,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "San Pablo"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10307,
    "2024": 47,
-   "2025": 39,
-   "variacion": -17,
+   "2025": 40,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pablo"
   },
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10307,
-   "2024": 11,
+   "2024": 12,
    "2025": 11,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -8,
+   "situación": "Disminución de Casos",
    "COMUNA": "San Pablo"
   }
  ],
@@ -556,7 +556,7 @@
    "CODCOM": 10307,
    "anio": 2025,
    "mes": 11,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "San Pablo"
   },
   {
@@ -1108,7 +1108,7 @@
    "CODCOM": 10307,
    "anio": 2025,
    "mes": 11,
-   "casos": 6,
+   "casos": 11,
    "COMUNA": "San Pablo"
   },
   {
@@ -1476,7 +1476,7 @@
    "CODCOM": 10307,
    "anio": 2025,
    "mes": 11,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "San Pablo"
   },
   {
@@ -2028,7 +2028,7 @@
    "CODCOM": 10307,
    "anio": 2025,
    "mes": 11,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "San Pablo"
   },
   {
@@ -2948,7 +2948,7 @@
    "CODCOM": 10307,
    "anio": 2025,
    "mes": 11,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "San Pablo"
   },
   {
@@ -3684,7 +3684,7 @@
    "CODCOM": 10307,
    "anio": 2025,
    "mes": 11,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "San Pablo"
   },
   {
@@ -4070,9 +4070,9 @@
    "informacion": "Casos",
    "CODCOM": 10307,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 62,
-   "2024": 100,
-   "2025": 77,
+   "2023": 64,
+   "2024": 103,
+   "2025": 78,
    "COMUNA": "San Pablo"
   },
   {
@@ -4080,7 +4080,7 @@
    "CODCOM": 10307,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 84,
-   "2024": 68,
+   "2024": 69,
    "2025": 71,
    "COMUNA": "San Pablo"
   },
@@ -4089,7 +4089,7 @@
    "CODCOM": 10307,
    "delito": "DAÑOS",
    "2023": 78,
-   "2024": 106,
+   "2024": 111,
    "2025": 110,
    "COMUNA": "San Pablo"
   },
@@ -4098,8 +4098,8 @@
    "CODCOM": 10307,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 83,
-   "2024": 107,
-   "2025": 118,
+   "2024": 108,
+   "2025": 123,
    "COMUNA": "San Pablo"
   },
   {
@@ -4115,9 +4115,9 @@
    "informacion": "Casos",
    "CODCOM": 10307,
    "delito": "HURTOS",
-   "2023": 61,
-   "2024": 61,
-   "2025": 89,
+   "2023": 64,
+   "2024": 64,
+   "2025": 91,
    "COMUNA": "San Pablo"
   },
   {
@@ -4142,9 +4142,9 @@
    "informacion": "Casos",
    "CODCOM": 10307,
    "delito": "LESIONES LEVES",
-   "2023": 28,
+   "2023": 29,
    "2024": 43,
-   "2025": 33,
+   "2025": 34,
    "COMUNA": "San Pablo"
   },
   {
@@ -4189,7 +4189,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 1,
    "2024": 6,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "San Pablo"
   },
   {
@@ -4225,7 +4225,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 38,
    "2024": 47,
-   "2025": 39,
+   "2025": 40,
    "COMUNA": "San Pablo"
   },
   {
@@ -4242,13 +4242,13 @@
    "CODCOM": 10307,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 9,
-   "2024": 11,
+   "2024": 12,
    "2025": 11,
    "COMUNA": "San Pablo"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 47/2025 (del 17/11/2025 al 23/11/2025)",
+  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
   "region": "Los Lagos"
  }
 }

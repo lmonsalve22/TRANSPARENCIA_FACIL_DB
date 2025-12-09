@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5704,
-   "2024": 43,
-   "2025": 52,
-   "variacion": 21,
+   "2024": 45,
+   "2025": 53,
+   "variacion": 18,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 5704,
-   "2024": 75,
+   "2024": 78,
    "2025": 80,
-   "variacion": 7,
+   "variacion": 3,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5704,
-   "2024": 63,
-   "2025": 83,
-   "variacion": 32,
+   "2024": 67,
+   "2025": 84,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5704,
-   "2024": 25,
+   "2024": 26,
    "2025": 26,
-   "variacion": 4,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Panquehue"
   },
   {
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5704,
-   "2024": 3,
+   "2024": 4,
    "2025": 8,
-   "variacion": 167,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5704,
-   "2024": 10,
+   "2024": 12,
    "2025": 5,
-   "variacion": -50,
+   "variacion": -58,
    "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5704,
-   "2024": 34,
+   "2024": 35,
    "2025": 55,
-   "variacion": 62,
+   "variacion": 57,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5704,
    "2024": 5,
-   "2025": 7,
-   "variacion": 40,
+   "2025": 9,
+   "variacion": 80,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   }
@@ -556,7 +556,7 @@
    "CODCOM": 5704,
    "anio": 2025,
    "mes": 11,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Panquehue"
   },
   {
@@ -1108,7 +1108,7 @@
    "CODCOM": 5704,
    "anio": 2025,
    "mes": 11,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Panquehue"
   },
   {
@@ -3964,7 +3964,7 @@
    "CODCOM": 5704,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Panquehue"
   }
  ],
@@ -3983,8 +3983,8 @@
    "CODCOM": 5704,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 66,
-   "2024": 43,
-   "2025": 52,
+   "2024": 45,
+   "2025": 53,
    "COMUNA": "Panquehue"
   },
   {
@@ -4001,7 +4001,7 @@
    "CODCOM": 5704,
    "delito": "DAÑOS",
    "2023": 80,
-   "2024": 75,
+   "2024": 78,
    "2025": 80,
    "COMUNA": "Panquehue"
   },
@@ -4010,8 +4010,8 @@
    "CODCOM": 5704,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 61,
-   "2024": 63,
-   "2025": 83,
+   "2024": 67,
+   "2025": 84,
    "COMUNA": "Panquehue"
   },
   {
@@ -4028,7 +4028,7 @@
    "CODCOM": 5704,
    "delito": "HURTOS",
    "2023": 26,
-   "2024": 25,
+   "2024": 26,
    "2025": 26,
    "COMUNA": "Panquehue"
   },
@@ -4073,7 +4073,7 @@
    "CODCOM": 5704,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 10,
-   "2024": 3,
+   "2024": 4,
    "2025": 8,
    "COMUNA": "Panquehue"
   },
@@ -4127,7 +4127,7 @@
    "CODCOM": 5704,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 13,
-   "2024": 10,
+   "2024": 12,
    "2025": 5,
    "COMUNA": "Panquehue"
   },
@@ -4136,7 +4136,7 @@
    "CODCOM": 5704,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 40,
-   "2024": 34,
+   "2024": 35,
    "2025": 55,
    "COMUNA": "Panquehue"
   },
@@ -4155,12 +4155,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 1,
    "2024": 5,
-   "2025": 7,
+   "2025": 9,
    "COMUNA": "Panquehue"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 47/2025 (del 17/11/2025 al 23/11/2025)",
+  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
   "region": "Valparaíso"
  }
 }

@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5503,
-   "2024": 118,
+   "2024": 120,
    "2025": 106,
-   "variacion": -10,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "Hijuelas"
   },
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5503,
    "2024": 28,
-   "2025": 21,
-   "variacion": -25,
+   "2025": 27,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "Hijuelas"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5503,
-   "2024": 107,
-   "2025": 103,
-   "variacion": -4,
-   "situación": "Disminución de Casos",
+   "2024": 108,
+   "2025": 108,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Hijuelas"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5503,
-   "2024": 86,
+   "2024": 89,
    "2025": 95,
-   "variacion": 10,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "Hijuelas"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5503,
-   "2024": 98,
+   "2024": 103,
    "2025": 75,
-   "variacion": -23,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "Hijuelas"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5503,
-   "2024": 18,
+   "2024": 19,
    "2025": 31,
-   "variacion": 72,
+   "variacion": 63,
    "situación": "Aumento de Casos",
    "COMUNA": "Hijuelas"
   },
@@ -93,19 +93,19 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5503,
-   "2024": 7,
+   "2024": 8,
    "2025": 4,
-   "variacion": -43,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Hijuelas"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5503,
-   "2024": 39,
+   "2024": 60,
    "2025": 56,
-   "variacion": 44,
-   "situación": "Aumento de Casos",
+   "variacion": -7,
+   "situación": "Disminución de Casos",
    "COMUNA": "Hijuelas"
   },
   {
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5503,
-   "2024": 83,
-   "2025": 50,
-   "variacion": -40,
+   "2024": 87,
+   "2025": 51,
+   "variacion": -41,
    "situación": "Disminución de Casos",
    "COMUNA": "Hijuelas"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5503,
-   "2024": 66,
+   "2024": 68,
    "2025": 90,
-   "variacion": 36,
+   "variacion": 32,
    "situación": "Aumento de Casos",
    "COMUNA": "Hijuelas"
   },
@@ -740,7 +740,7 @@
    "CODCOM": 5503,
    "anio": 2025,
    "mes": 11,
-   "casos": 1,
+   "casos": 7,
    "COMUNA": "Hijuelas"
   },
   {
@@ -924,7 +924,7 @@
    "CODCOM": 5503,
    "anio": 2025,
    "mes": 11,
-   "casos": 4,
+   "casos": 9,
    "COMUNA": "Hijuelas"
   },
   {
@@ -3500,7 +3500,7 @@
    "CODCOM": 5503,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Hijuelas"
   },
   {
@@ -4070,8 +4070,8 @@
    "informacion": "Casos",
    "CODCOM": 5503,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 141,
-   "2024": 118,
+   "2023": 142,
+   "2024": 120,
    "2025": 106,
    "COMUNA": "Hijuelas"
   },
@@ -4081,24 +4081,24 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 65,
    "2024": 28,
-   "2025": 21,
+   "2025": 27,
    "COMUNA": "Hijuelas"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5503,
    "delito": "DAÑOS",
-   "2023": 91,
-   "2024": 107,
-   "2025": 103,
+   "2023": 94,
+   "2024": 108,
+   "2025": 108,
    "COMUNA": "Hijuelas"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5503,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 100,
-   "2024": 86,
+   "2023": 101,
+   "2024": 89,
    "2025": 95,
    "COMUNA": "Hijuelas"
   },
@@ -4115,8 +4115,8 @@
    "informacion": "Casos",
    "CODCOM": 5503,
    "delito": "HURTOS",
-   "2023": 84,
-   "2024": 98,
+   "2023": 86,
+   "2024": 103,
    "2025": 75,
    "COMUNA": "Hijuelas"
   },
@@ -4124,8 +4124,8 @@
    "informacion": "Casos",
    "CODCOM": 5503,
    "delito": "INCIVILIDADES",
-   "2023": 32,
-   "2024": 18,
+   "2023": 33,
+   "2024": 19,
    "2025": 31,
    "COMUNA": "Hijuelas"
   },
@@ -4142,7 +4142,7 @@
    "informacion": "Casos",
    "CODCOM": 5503,
    "delito": "LESIONES LEVES",
-   "2023": 31,
+   "2023": 33,
    "2024": 41,
    "2025": 41,
    "COMUNA": "Hijuelas"
@@ -4152,7 +4152,7 @@
    "CODCOM": 5503,
    "delito": "LESIONES MENOS GRAVES",
    "2023": 7,
-   "2024": 7,
+   "2024": 8,
    "2025": 4,
    "COMUNA": "Hijuelas"
   },
@@ -4160,8 +4160,8 @@
    "informacion": "Casos",
    "CODCOM": 5503,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 16,
-   "2024": 39,
+   "2023": 18,
+   "2024": 60,
    "2025": 56,
    "COMUNA": "Hijuelas"
   },
@@ -4214,9 +4214,9 @@
    "informacion": "Casos",
    "CODCOM": 5503,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 66,
-   "2024": 83,
-   "2025": 50,
+   "2023": 68,
+   "2024": 87,
+   "2025": 51,
    "COMUNA": "Hijuelas"
   },
   {
@@ -4224,7 +4224,7 @@
    "CODCOM": 5503,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 79,
-   "2024": 66,
+   "2024": 68,
    "2025": 90,
    "COMUNA": "Hijuelas"
   },
@@ -4248,7 +4248,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 47/2025 (del 17/11/2025 al 23/11/2025)",
+  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
   "region": "Valparaíso"
  }
 }

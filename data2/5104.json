@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5104,
-   "2024": 9,
+   "2024": 10,
    "2025": 25,
-   "variacion": 178,
+   "variacion": 150,
    "situación": "Aumento de Casos",
    "COMUNA": "Juan Fernández"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 5104,
    "2024": 5,
-   "2025": 9,
-   "variacion": 80,
+   "2025": 10,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Juan Fernández"
   },
@@ -156,19 +156,19 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5104,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Juan Fernández"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5104,
    "2024": 2,
-   "2025": 1,
-   "variacion": -50,
-   "situación": "Disminución de Casos",
+   "2025": 2,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Juan Fernández"
   },
   {
@@ -1940,7 +1940,7 @@
    "CODCOM": 5104,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Juan Fernández"
   },
   {
@@ -3420,7 +3420,7 @@
    "CODCOM": 5104,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Juan Fernández"
   },
   {
@@ -3718,7 +3718,7 @@
    "informacion": "Casos",
    "CODCOM": 5104,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 28,
+   "2023": 29,
    "2024": 15,
    "2025": 11,
    "COMUNA": "Juan Fernández"
@@ -3773,7 +3773,7 @@
    "CODCOM": 5104,
    "delito": "INCIVILIDADES",
    "2023": 26,
-   "2024": 9,
+   "2024": 10,
    "2025": 25,
    "COMUNA": "Juan Fernández"
   },
@@ -3790,9 +3790,9 @@
    "informacion": "Casos",
    "CODCOM": 5104,
    "delito": "LESIONES LEVES",
-   "2023": 12,
+   "2023": 13,
    "2024": 5,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "Juan Fernández"
   },
   {
@@ -3863,7 +3863,7 @@
    "CODCOM": 5104,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 0,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
    "COMUNA": "Juan Fernández"
   },
@@ -3873,7 +3873,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 3,
    "2024": 2,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "Juan Fernández"
   },
   {
@@ -3896,7 +3896,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 47/2025 (del 17/11/2025 al 23/11/2025)",
+  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
   "region": "Valparaíso"
  }
 }

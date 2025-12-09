@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4202,
-   "2024": 32,
+   "2024": 34,
    "2025": 42,
-   "variacion": 31,
+   "variacion": 24,
    "situación": "Aumento de Casos",
    "COMUNA": "Canela"
   },
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 4202,
    "2024": 19,
-   "2025": 16,
-   "variacion": -16,
-   "situación": "Disminución de Casos",
+   "2025": 19,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Canela"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 4202,
-   "2024": 75,
-   "2025": 98,
-   "variacion": 31,
+   "2024": 76,
+   "2025": 99,
+   "variacion": 30,
    "situación": "Aumento de Casos",
    "COMUNA": "Canela"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 4202,
-   "2024": 23,
+   "2024": 25,
    "2025": 29,
-   "variacion": 26,
+   "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "Canela"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 4202,
-   "2024": 4,
+   "2024": 5,
    "2025": 7,
-   "variacion": 75,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "Canela"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 4202,
    "2024": 17,
-   "2025": 20,
-   "variacion": 18,
+   "2025": 21,
+   "variacion": 24,
    "situación": "Aumento de Casos",
    "COMUNA": "Canela"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 4202,
    "2024": 2,
-   "2025": 3,
-   "variacion": 50,
+   "2025": 5,
+   "variacion": 150,
    "situación": "Aumento de Casos",
    "COMUNA": "Canela"
   },
@@ -130,17 +130,17 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 4202,
    "2024": 30,
-   "2025": 40,
-   "variacion": 33,
+   "2025": 42,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "Canela"
   },
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 4202,
-   "2024": 5,
+   "2024": 6,
    "2025": 15,
-   "variacion": 200,
+   "variacion": 150,
    "situación": "Aumento de Casos",
    "COMUNA": "Canela"
   },
@@ -740,7 +740,7 @@
    "CODCOM": 4202,
    "anio": 2025,
    "mes": 11,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "Canela"
   },
   {
@@ -924,7 +924,7 @@
    "CODCOM": 4202,
    "anio": 2025,
    "mes": 11,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Canela"
   },
   {
@@ -2028,7 +2028,7 @@
    "CODCOM": 4202,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Canela"
   },
   {
@@ -2396,7 +2396,7 @@
    "CODCOM": 4202,
    "anio": 2025,
    "mes": 11,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Canela"
   },
   {
@@ -2948,7 +2948,7 @@
    "CODCOM": 4202,
    "anio": 2025,
    "mes": 11,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Canela"
   },
   {
@@ -4070,8 +4070,8 @@
    "informacion": "Casos",
    "CODCOM": 4202,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 48,
-   "2024": 32,
+   "2023": 50,
+   "2024": 34,
    "2025": 42,
    "COMUNA": "Canela"
   },
@@ -4081,16 +4081,16 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 23,
    "2024": 19,
-   "2025": 16,
+   "2025": 19,
    "COMUNA": "Canela"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4202,
    "delito": "DAÑOS",
-   "2023": 65,
-   "2024": 75,
-   "2025": 98,
+   "2023": 67,
+   "2024": 76,
+   "2025": 99,
    "COMUNA": "Canela"
   },
   {
@@ -4098,7 +4098,7 @@
    "CODCOM": 4202,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 19,
-   "2024": 23,
+   "2024": 25,
    "2025": 29,
    "COMUNA": "Canela"
   },
@@ -4125,7 +4125,7 @@
    "CODCOM": 4202,
    "delito": "INCIVILIDADES",
    "2023": 6,
-   "2024": 4,
+   "2024": 5,
    "2025": 7,
    "COMUNA": "Canela"
   },
@@ -4144,14 +4144,14 @@
    "delito": "LESIONES LEVES",
    "2023": 14,
    "2024": 17,
-   "2025": 20,
+   "2025": 21,
    "COMUNA": "Canela"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4202,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 1,
+   "2023": 2,
    "2024": 7,
    "2025": 3,
    "COMUNA": "Canela"
@@ -4162,7 +4162,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 3,
    "2024": 2,
-   "2025": 3,
+   "2025": 5,
    "COMUNA": "Canela"
   },
   {
@@ -4187,9 +4187,9 @@
    "informacion": "Casos",
    "CODCOM": 4202,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "2023": 37,
+   "2023": 38,
    "2024": 30,
-   "2025": 40,
+   "2025": 42,
    "COMUNA": "Canela"
   },
   {
@@ -4197,7 +4197,7 @@
    "CODCOM": 4202,
    "delito": "RECEPTACIÓN",
    "2023": 6,
-   "2024": 5,
+   "2024": 6,
    "2025": 15,
    "COMUNA": "Canela"
   },
@@ -4214,7 +4214,7 @@
    "informacion": "Casos",
    "CODCOM": 4202,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 13,
+   "2023": 14,
    "2024": 14,
    "2025": 11,
    "COMUNA": "Canela"
@@ -4223,7 +4223,7 @@
    "informacion": "Casos",
    "CODCOM": 4202,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 22,
+   "2023": 24,
    "2024": 26,
    "2025": 27,
    "COMUNA": "Canela"
@@ -4248,7 +4248,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 47/2025 (del 17/11/2025 al 23/11/2025)",
+  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
   "region": "Coquimbo"
  }
 }

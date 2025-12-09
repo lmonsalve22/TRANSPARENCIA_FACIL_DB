@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10304,
-   "2024": 70,
-   "2025": 85,
-   "variacion": 21,
+   "2024": 72,
+   "2025": 86,
+   "variacion": 19,
    "situación": "Aumento de Casos",
    "COMUNA": "Puyehue"
   },
@@ -30,8 +30,8 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 10304,
-   "2024": 96,
-   "2025": 74,
+   "2024": 98,
+   "2025": 75,
    "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "Puyehue"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10304,
-   "2024": 117,
-   "2025": 83,
-   "variacion": -29,
+   "2024": 120,
+   "2025": 86,
+   "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "Puyehue"
   },
@@ -75,27 +75,27 @@
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10304,
-   "2024": 2,
+   "2024": 4,
    "2025": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "Puyehue"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10304,
-   "2024": 30,
+   "2024": 31,
    "2025": 29,
-   "variacion": -3,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "Puyehue"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10304,
-   "2024": 7,
+   "2024": 8,
    "2025": 1,
-   "variacion": -86,
+   "variacion": -88,
    "situación": "Disminución de Casos",
    "COMUNA": "Puyehue"
   },
@@ -166,9 +166,9 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10304,
    "2024": 51,
-   "2025": 50,
-   "variacion": -2,
-   "situación": "Disminución de Casos",
+   "2025": 51,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Puyehue"
   },
   {
@@ -556,7 +556,7 @@
    "CODCOM": 10304,
    "anio": 2025,
    "mes": 11,
-   "casos": 6,
+   "casos": 7,
    "COMUNA": "Puyehue"
   },
   {
@@ -924,7 +924,7 @@
    "CODCOM": 10304,
    "anio": 2025,
    "mes": 11,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Puyehue"
   },
   {
@@ -1108,7 +1108,7 @@
    "CODCOM": 10304,
    "anio": 2025,
    "mes": 11,
-   "casos": 3,
+   "casos": 6,
    "COMUNA": "Puyehue"
   },
   {
@@ -3684,7 +3684,7 @@
    "CODCOM": 10304,
    "anio": 2025,
    "mes": 11,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Puyehue"
   },
   {
@@ -4070,9 +4070,9 @@
    "informacion": "Casos",
    "CODCOM": 10304,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 112,
-   "2024": 70,
-   "2025": 85,
+   "2023": 113,
+   "2024": 72,
+   "2025": 86,
    "COMUNA": "Puyehue"
   },
   {
@@ -4089,17 +4089,17 @@
    "CODCOM": 10304,
    "delito": "DAÑOS",
    "2023": 80,
-   "2024": 96,
-   "2025": 74,
+   "2024": 98,
+   "2025": 75,
    "COMUNA": "Puyehue"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10304,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 123,
-   "2024": 117,
-   "2025": 83,
+   "2023": 124,
+   "2024": 120,
+   "2025": 86,
    "COMUNA": "Puyehue"
   },
   {
@@ -4115,7 +4115,7 @@
    "informacion": "Casos",
    "CODCOM": 10304,
    "delito": "HURTOS",
-   "2023": 61,
+   "2023": 64,
    "2024": 53,
    "2025": 61,
    "COMUNA": "Puyehue"
@@ -4124,7 +4124,7 @@
    "informacion": "Casos",
    "CODCOM": 10304,
    "delito": "INCIVILIDADES",
-   "2023": 23,
+   "2023": 24,
    "2024": 35,
    "2025": 26,
    "COMUNA": "Puyehue"
@@ -4134,7 +4134,7 @@
    "CODCOM": 10304,
    "delito": "LESIONES GRAVES",
    "2023": 0,
-   "2024": 2,
+   "2024": 4,
    "2025": 2,
    "COMUNA": "Puyehue"
   },
@@ -4142,8 +4142,8 @@
    "informacion": "Casos",
    "CODCOM": 10304,
    "delito": "LESIONES LEVES",
-   "2023": 45,
-   "2024": 30,
+   "2023": 48,
+   "2024": 31,
    "2025": 29,
    "COMUNA": "Puyehue"
   },
@@ -4152,7 +4152,7 @@
    "CODCOM": 10304,
    "delito": "LESIONES MENOS GRAVES",
    "2023": 5,
-   "2024": 7,
+   "2024": 8,
    "2025": 1,
    "COMUNA": "Puyehue"
   },
@@ -4205,7 +4205,7 @@
    "informacion": "Casos",
    "CODCOM": 10304,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 2,
+   "2023": 3,
    "2024": 2,
    "2025": 3,
    "COMUNA": "Puyehue"
@@ -4225,7 +4225,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 37,
    "2024": 51,
-   "2025": 50,
+   "2025": 51,
    "COMUNA": "Puyehue"
   },
   {
@@ -4248,7 +4248,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 47/2025 (del 17/11/2025 al 23/11/2025)",
+  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
   "region": "Los Lagos"
  }
 }

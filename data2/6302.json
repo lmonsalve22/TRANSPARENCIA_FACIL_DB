@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6302,
-   "2024": 113,
+   "2024": 116,
    "2025": 130,
-   "variacion": 15,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "Chépica"
   },
@@ -31,27 +31,27 @@
    "delito": "DAÑOS",
    "CODCOM": 6302,
    "2024": 97,
-   "2025": 76,
-   "variacion": -22,
+   "2025": 77,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "Chépica"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6302,
-   "2024": 158,
+   "2024": 161,
    "2025": 95,
-   "variacion": -40,
+   "variacion": -41,
    "situación": "Disminución de Casos",
    "COMUNA": "Chépica"
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6302,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Chépica"
   },
   {
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6302,
-   "2024": 38,
+   "2024": 39,
    "2025": 34,
-   "variacion": -11,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "Chépica"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6302,
-   "2024": 42,
+   "2024": 43,
    "2025": 27,
-   "variacion": -36,
+   "variacion": -37,
    "situación": "Disminución de Casos",
    "COMUNA": "Chépica"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6302,
-   "2024": 22,
+   "2024": 23,
    "2025": 18,
-   "variacion": -18,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "Chépica"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6302,
-   "2024": 20,
+   "2024": 21,
    "2025": 9,
-   "variacion": -55,
+   "variacion": -57,
    "situación": "Disminución de Casos",
    "COMUNA": "Chépica"
   }
@@ -924,7 +924,7 @@
    "CODCOM": 6302,
    "anio": 2025,
    "mes": 11,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Chépica"
   },
   {
@@ -4070,8 +4070,8 @@
    "informacion": "Casos",
    "CODCOM": 6302,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 132,
-   "2024": 113,
+   "2023": 133,
+   "2024": 116,
    "2025": 130,
    "COMUNA": "Chépica"
   },
@@ -4079,7 +4079,7 @@
    "informacion": "Casos",
    "CODCOM": 6302,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 84,
+   "2023": 85,
    "2024": 97,
    "2025": 32,
    "COMUNA": "Chépica"
@@ -4090,15 +4090,15 @@
    "delito": "DAÑOS",
    "2023": 96,
    "2024": 97,
-   "2025": 76,
+   "2025": 77,
    "COMUNA": "Chépica"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6302,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 109,
-   "2024": 158,
+   "2023": 111,
+   "2024": 161,
    "2025": 95,
    "COMUNA": "Chépica"
   },
@@ -4107,7 +4107,7 @@
    "CODCOM": 6302,
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "2023": 0,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
    "COMUNA": "Chépica"
   },
@@ -4115,7 +4115,7 @@
    "informacion": "Casos",
    "CODCOM": 6302,
    "delito": "HURTOS",
-   "2023": 42,
+   "2023": 43,
    "2024": 34,
    "2025": 33,
    "COMUNA": "Chépica"
@@ -4125,7 +4125,7 @@
    "CODCOM": 6302,
    "delito": "INCIVILIDADES",
    "2023": 29,
-   "2024": 38,
+   "2024": 39,
    "2025": 34,
    "COMUNA": "Chépica"
   },
@@ -4143,7 +4143,7 @@
    "CODCOM": 6302,
    "delito": "LESIONES LEVES",
    "2023": 45,
-   "2024": 42,
+   "2024": 43,
    "2025": 27,
    "COMUNA": "Chépica"
   },
@@ -4161,7 +4161,7 @@
    "CODCOM": 6302,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 4,
-   "2024": 22,
+   "2024": 23,
    "2025": 18,
    "COMUNA": "Chépica"
   },
@@ -4169,7 +4169,7 @@
    "informacion": "Casos",
    "CODCOM": 6302,
    "delito": "LEY DE DROGAS",
-   "2023": 10,
+   "2023": 11,
    "2024": 2,
    "2025": 1,
    "COMUNA": "Chépica"
@@ -4223,7 +4223,7 @@
    "informacion": "Casos",
    "CODCOM": 6302,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 57,
+   "2023": 59,
    "2024": 46,
    "2025": 40,
    "COMUNA": "Chépica"
@@ -4242,13 +4242,13 @@
    "CODCOM": 6302,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 16,
-   "2024": 20,
+   "2024": 21,
    "2025": 9,
    "COMUNA": "Chépica"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 47/2025 (del 17/11/2025 al 23/11/2025)",
+  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
   "region": "O'Higgins"
  }
 }
