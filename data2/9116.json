@@ -13,36 +13,36 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9116,
    "2024": 96,
-   "2025": 89,
-   "variacion": -7,
+   "2025": 91,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "Saavedra"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9116,
-   "2024": 118,
-   "2025": 147,
-   "variacion": 25,
+   "2024": 122,
+   "2025": 154,
+   "variacion": 26,
    "situación": "Aumento de Casos",
    "COMUNA": "Saavedra"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9116,
-   "2024": 50,
-   "2025": 50,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 51,
+   "2025": 52,
+   "variacion": 2,
+   "situación": "Aumento de Casos",
    "COMUNA": "Saavedra"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9116,
-   "2024": 81,
-   "2025": 82,
-   "variacion": 1,
-   "situación": "Aumento de Casos",
+   "2024": 84,
+   "2025": 83,
+   "variacion": -1,
+   "situación": "Disminución de Casos",
    "COMUNA": "Saavedra"
   },
   {
@@ -57,19 +57,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9116,
-   "2024": 42,
+   "2024": 44,
    "2025": 25,
-   "variacion": -40,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "Saavedra"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9116,
-   "2024": 27,
+   "2024": 28,
    "2025": 28,
-   "variacion": 4,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Saavedra"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9116,
-   "2024": 33,
+   "2024": 34,
    "2025": 38,
-   "variacion": 15,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "Saavedra"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9116,
    "2024": 10,
-   "2025": 14,
-   "variacion": 40,
+   "2025": 15,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "Saavedra"
   }
@@ -376,6 +376,14 @@
    "COMUNA": "Saavedra"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Saavedra"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9116,
    "anio": 2024,
@@ -556,6 +564,14 @@
    "CODCOM": 9116,
    "anio": 2025,
    "mes": 11,
+   "casos": 2,
+   "COMUNA": "Saavedra"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 12,
    "casos": 2,
    "COMUNA": "Saavedra"
   },
@@ -744,6 +760,14 @@
    "COMUNA": "Saavedra"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 7,
+   "COMUNA": "Saavedra"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 9116,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 3,
+   "COMUNA": "Saavedra"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
    "COMUNA": "Saavedra"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "Saavedra"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Saavedra"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9116,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 9116,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Saavedra"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Saavedra"
   },
@@ -1480,6 +1528,14 @@
    "COMUNA": "Saavedra"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Saavedra"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9116,
    "anio": 2024,
@@ -1664,6 +1720,14 @@
    "COMUNA": "Saavedra"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Saavedra"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9116,
    "anio": 2024,
@@ -1844,6 +1908,14 @@
    "CODCOM": 9116,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Saavedra"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Saavedra"
   },
@@ -2032,6 +2104,14 @@
    "COMUNA": "Saavedra"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Saavedra"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9116,
    "anio": 2024,
@@ -2216,6 +2296,14 @@
    "COMUNA": "Saavedra"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Saavedra"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9116,
    "anio": 2024,
@@ -2397,6 +2485,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 3,
+   "COMUNA": "Saavedra"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Saavedra"
   },
   {
@@ -2584,6 +2680,14 @@
    "COMUNA": "Saavedra"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Saavedra"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9116,
    "anio": 2024,
@@ -2764,6 +2868,14 @@
    "CODCOM": 9116,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Saavedra"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Saavedra"
   },
@@ -2949,6 +3061,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Saavedra"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Saavedra"
   },
   {
@@ -3136,6 +3256,14 @@
    "COMUNA": "Saavedra"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Saavedra"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9116,
    "anio": 2024,
@@ -3320,6 +3448,14 @@
    "COMUNA": "Saavedra"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Saavedra"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9116,
    "anio": 2024,
@@ -3500,6 +3636,14 @@
    "CODCOM": 9116,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Saavedra"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Saavedra"
   },
@@ -3688,6 +3832,14 @@
    "COMUNA": "Saavedra"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Saavedra"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9116,
    "anio": 2024,
@@ -3868,6 +4020,14 @@
    "CODCOM": 9116,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Saavedra"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Saavedra"
   },
@@ -4054,6 +4214,14 @@
    "mes": 11,
    "casos": 2,
    "COMUNA": "Saavedra"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Saavedra"
   }
  ],
  "info": [
@@ -4070,18 +4238,18 @@
    "informacion": "Casos",
    "CODCOM": 9116,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 102,
+   "2023": 103,
    "2024": 96,
-   "2025": 89,
+   "2025": 91,
    "COMUNA": "Saavedra"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9116,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 146,
-   "2024": 118,
-   "2025": 147,
+   "2023": 147,
+   "2024": 122,
+   "2025": 154,
    "COMUNA": "Saavedra"
   },
   {
@@ -4089,17 +4257,17 @@
    "CODCOM": 9116,
    "delito": "DAÑOS",
    "2023": 83,
-   "2024": 50,
-   "2025": 50,
+   "2024": 51,
+   "2025": 52,
    "COMUNA": "Saavedra"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9116,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 108,
-   "2024": 81,
-   "2025": 82,
+   "2023": 110,
+   "2024": 84,
+   "2025": 83,
    "COMUNA": "Saavedra"
   },
   {
@@ -4116,7 +4284,7 @@
    "CODCOM": 9116,
    "delito": "HURTOS",
    "2023": 52,
-   "2024": 42,
+   "2024": 44,
    "2025": 25,
    "COMUNA": "Saavedra"
   },
@@ -4124,8 +4292,8 @@
    "informacion": "Casos",
    "CODCOM": 9116,
    "delito": "INCIVILIDADES",
-   "2023": 36,
-   "2024": 27,
+   "2023": 37,
+   "2024": 28,
    "2025": 28,
    "COMUNA": "Saavedra"
   },
@@ -4133,7 +4301,7 @@
    "informacion": "Casos",
    "CODCOM": 9116,
    "delito": "LESIONES GRAVES",
-   "2023": 7,
+   "2023": 8,
    "2024": 8,
    "2025": 7,
    "COMUNA": "Saavedra"
@@ -4142,8 +4310,8 @@
    "informacion": "Casos",
    "CODCOM": 9116,
    "delito": "LESIONES LEVES",
-   "2023": 35,
-   "2024": 33,
+   "2023": 36,
+   "2024": 34,
    "2025": 38,
    "COMUNA": "Saavedra"
   },
@@ -4243,12 +4411,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 9,
    "2024": 10,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "Saavedra"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "La Araucanía"
  }
 }

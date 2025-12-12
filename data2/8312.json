@@ -12,17 +12,17 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8312,
-   "2024": 90,
-   "2025": 65,
-   "variacion": -28,
+   "2024": 95,
+   "2025": 67,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Tucapel"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8312,
-   "2024": 132,
-   "2025": 131,
+   "2024": 137,
+   "2025": 135,
    "variacion": -1,
    "situación": "Disminución de Casos",
    "COMUNA": "Tucapel"
@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 8312,
    "2024": 76,
-   "2025": 53,
-   "variacion": -30,
+   "2025": 54,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Tucapel"
   },
@@ -40,9 +40,9 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8312,
    "2024": 111,
-   "2025": 108,
-   "variacion": -3,
-   "situación": "Disminución de Casos",
+   "2025": 111,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Tucapel"
   },
   {
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8312,
-   "2024": 32,
+   "2024": 33,
    "2025": 50,
-   "variacion": 56,
+   "variacion": 52,
    "situación": "Aumento de Casos",
    "COMUNA": "Tucapel"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8312,
-   "2024": 66,
+   "2024": 67,
    "2025": 62,
-   "variacion": -6,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "Tucapel"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8312,
-   "2024": 31,
-   "2025": 37,
-   "variacion": 19,
+   "2024": 32,
+   "2025": 39,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "Tucapel"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8312,
-   "2024": 66,
+   "2024": 68,
    "2025": 65,
-   "variacion": -2,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "Tucapel"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8312,
-   "2024": 14,
+   "2024": 15,
    "2025": 8,
-   "variacion": -43,
+   "variacion": -47,
    "situación": "Disminución de Casos",
    "COMUNA": "Tucapel"
   }
@@ -376,6 +376,14 @@
    "COMUNA": "Tucapel"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8312,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Tucapel"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8312,
    "anio": 2024,
@@ -557,6 +565,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 3,
+   "COMUNA": "Tucapel"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 8312,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
    "COMUNA": "Tucapel"
   },
   {
@@ -744,6 +760,14 @@
    "COMUNA": "Tucapel"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 8312,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "Tucapel"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 8312,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 4,
+   "COMUNA": "Tucapel"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8312,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "Tucapel"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "Tucapel"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 8312,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "Tucapel"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 8312,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 8312,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Tucapel"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 8312,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Tucapel"
   },
@@ -1477,6 +1525,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 4,
+   "COMUNA": "Tucapel"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8312,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Tucapel"
   },
   {
@@ -1664,6 +1720,14 @@
    "COMUNA": "Tucapel"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 8312,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Tucapel"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8312,
    "anio": 2024,
@@ -1844,6 +1908,14 @@
    "CODCOM": 8312,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Tucapel"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 8312,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Tucapel"
   },
@@ -2032,6 +2104,14 @@
    "COMUNA": "Tucapel"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 8312,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Tucapel"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8312,
    "anio": 2024,
@@ -2212,6 +2292,14 @@
    "CODCOM": 8312,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Tucapel"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 8312,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Tucapel"
   },
@@ -2400,6 +2488,14 @@
    "COMUNA": "Tucapel"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 8312,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Tucapel"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8312,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "Tucapel"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8312,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Tucapel"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 8312,
    "anio": 2024,
@@ -2764,6 +2868,14 @@
    "CODCOM": 8312,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Tucapel"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8312,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Tucapel"
   },
@@ -2952,6 +3064,14 @@
    "COMUNA": "Tucapel"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8312,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Tucapel"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8312,
    "anio": 2024,
@@ -3133,6 +3253,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Tucapel"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 8312,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Tucapel"
   },
   {
@@ -3320,6 +3448,14 @@
    "COMUNA": "Tucapel"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 8312,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Tucapel"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8312,
    "anio": 2024,
@@ -3500,6 +3636,14 @@
    "CODCOM": 8312,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Tucapel"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 8312,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Tucapel"
   },
@@ -3688,6 +3832,14 @@
    "COMUNA": "Tucapel"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8312,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Tucapel"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8312,
    "anio": 2024,
@@ -3868,6 +4020,14 @@
    "CODCOM": 8312,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Tucapel"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 8312,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Tucapel"
   },
@@ -4054,6 +4214,14 @@
    "mes": 11,
    "casos": 2,
    "COMUNA": "Tucapel"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 8312,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Tucapel"
   }
  ],
  "info": [
@@ -4070,36 +4238,36 @@
    "informacion": "Casos",
    "CODCOM": 8312,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 78,
-   "2024": 90,
-   "2025": 65,
+   "2023": 80,
+   "2024": 95,
+   "2025": 67,
    "COMUNA": "Tucapel"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8312,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 169,
-   "2024": 132,
-   "2025": 131,
+   "2023": 172,
+   "2024": 137,
+   "2025": 135,
    "COMUNA": "Tucapel"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8312,
    "delito": "DAÑOS",
-   "2023": 76,
+   "2023": 77,
    "2024": 76,
-   "2025": 53,
+   "2025": 54,
    "COMUNA": "Tucapel"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8312,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 112,
+   "2023": 113,
    "2024": 111,
-   "2025": 108,
+   "2025": 111,
    "COMUNA": "Tucapel"
   },
   {
@@ -4116,7 +4284,7 @@
    "CODCOM": 8312,
    "delito": "HURTOS",
    "2023": 46,
-   "2024": 32,
+   "2024": 33,
    "2025": 50,
    "COMUNA": "Tucapel"
   },
@@ -4124,8 +4292,8 @@
    "informacion": "Casos",
    "CODCOM": 8312,
    "delito": "INCIVILIDADES",
-   "2023": 86,
-   "2024": 66,
+   "2023": 89,
+   "2024": 67,
    "2025": 62,
    "COMUNA": "Tucapel"
   },
@@ -4142,9 +4310,9 @@
    "informacion": "Casos",
    "CODCOM": 8312,
    "delito": "LESIONES LEVES",
-   "2023": 46,
-   "2024": 31,
-   "2025": 37,
+   "2023": 47,
+   "2024": 32,
+   "2025": 39,
    "COMUNA": "Tucapel"
   },
   {
@@ -4160,7 +4328,7 @@
    "informacion": "Casos",
    "CODCOM": 8312,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 9,
+   "2023": 10,
    "2024": 8,
    "2025": 5,
    "COMUNA": "Tucapel"
@@ -4187,7 +4355,7 @@
    "informacion": "Casos",
    "CODCOM": 8312,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "2023": 4,
+   "2023": 6,
    "2024": 19,
    "2025": 6,
    "COMUNA": "Tucapel"
@@ -4223,8 +4391,8 @@
    "informacion": "Casos",
    "CODCOM": 8312,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 91,
-   "2024": 66,
+   "2023": 94,
+   "2024": 68,
    "2025": 65,
    "COMUNA": "Tucapel"
   },
@@ -4242,13 +4410,13 @@
    "CODCOM": 8312,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 11,
-   "2024": 14,
+   "2024": 15,
    "2025": 8,
    "COMUNA": "Tucapel"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Biobío"
  }
 }

@@ -12,26 +12,26 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5703,
-   "2024": 280,
-   "2025": 250,
-   "variacion": -11,
+   "2024": 293,
+   "2025": 258,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "Llaillay"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5703,
-   "2024": 132,
-   "2025": 163,
-   "variacion": 23,
+   "2024": 133,
+   "2025": 165,
+   "variacion": 24,
    "situación": "Aumento de Casos",
    "COMUNA": "Llaillay"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5703,
-   "2024": 192,
-   "2025": 219,
+   "2024": 198,
+   "2025": 226,
    "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "Llaillay"
@@ -39,8 +39,8 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5703,
-   "2024": 218,
-   "2025": 170,
+   "2024": 219,
+   "2025": 171,
    "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "Llaillay"
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5703,
-   "2024": 90,
-   "2025": 84,
+   "2024": 91,
+   "2025": 85,
    "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "Llaillay"
@@ -67,27 +67,27 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 5703,
    "2024": 91,
-   "2025": 83,
-   "variacion": -9,
+   "2025": 84,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "Llaillay"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5703,
-   "2024": 9,
+   "2024": 10,
    "2025": 7,
-   "variacion": -22,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "Llaillay"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5703,
-   "2024": 85,
+   "2024": 89,
    "2025": 88,
-   "variacion": 4,
-   "situación": "Aumento de Casos",
+   "variacion": -1,
+   "situación": "Disminución de Casos",
    "COMUNA": "Llaillay"
   },
   {
@@ -139,44 +139,44 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 5703,
    "2024": 15,
-   "2025": 12,
-   "variacion": -20,
+   "2025": 13,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "Llaillay"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5703,
-   "2024": 46,
-   "2025": 43,
-   "variacion": -7,
-   "situación": "Disminución de Casos",
+   "2024": 47,
+   "2025": 50,
+   "variacion": 6,
+   "situación": "Aumento de Casos",
    "COMUNA": "Llaillay"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5703,
-   "2024": 109,
-   "2025": 75,
-   "variacion": -31,
+   "2024": 113,
+   "2025": 76,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Llaillay"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5703,
-   "2024": 126,
-   "2025": 88,
-   "variacion": -30,
+   "2024": 128,
+   "2025": 94,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "Llaillay"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5703,
-   "2024": 13,
+   "2024": 14,
    "2025": 6,
-   "variacion": -54,
+   "variacion": -57,
    "situación": "Disminución de Casos",
    "COMUNA": "Llaillay"
   },
@@ -184,9 +184,9 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5703,
    "2024": 21,
-   "2025": 20,
-   "variacion": -5,
-   "situación": "Disminución de Casos",
+   "2025": 21,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Llaillay"
   }
  ],
@@ -376,6 +376,14 @@
    "COMUNA": "Llaillay"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 5703,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Llaillay"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5703,
    "anio": 2024,
@@ -557,6 +565,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 17,
+   "COMUNA": "Llaillay"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 5703,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 8,
    "COMUNA": "Llaillay"
   },
   {
@@ -744,6 +760,14 @@
    "COMUNA": "Llaillay"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 5703,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Llaillay"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 5703,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 11,
+   "COMUNA": "Llaillay"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 5703,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 7,
    "COMUNA": "Llaillay"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "Llaillay"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 5703,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Llaillay"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 5703,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 5703,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Llaillay"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 5703,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Llaillay"
   },
@@ -1480,6 +1528,14 @@
    "COMUNA": "Llaillay"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5703,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Llaillay"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 5703,
    "anio": 2024,
@@ -1664,6 +1720,14 @@
    "COMUNA": "Llaillay"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 5703,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Llaillay"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5703,
    "anio": 2024,
@@ -1845,6 +1909,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Llaillay"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 5703,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Llaillay"
   },
   {
@@ -2032,6 +2104,14 @@
    "COMUNA": "Llaillay"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 5703,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Llaillay"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5703,
    "anio": 2024,
@@ -2213,6 +2293,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Llaillay"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 5703,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Llaillay"
   },
   {
@@ -2400,6 +2488,14 @@
    "COMUNA": "Llaillay"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 5703,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Llaillay"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 5703,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "Llaillay"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 5703,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Llaillay"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 5703,
    "anio": 2024,
@@ -2768,6 +2872,14 @@
    "COMUNA": "Llaillay"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 5703,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Llaillay"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 5703,
    "anio": 2024,
@@ -2948,6 +3060,14 @@
    "CODCOM": 5703,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Llaillay"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 5703,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Llaillay"
   },
@@ -3133,6 +3253,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 2,
+   "COMUNA": "Llaillay"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 5703,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "Llaillay"
   },
   {
@@ -3317,6 +3445,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 8,
+   "COMUNA": "Llaillay"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 5703,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 7,
    "COMUNA": "Llaillay"
   },
   {
@@ -3504,6 +3640,14 @@
    "COMUNA": "Llaillay"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 5703,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Llaillay"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5703,
    "anio": 2024,
@@ -3688,6 +3832,14 @@
    "COMUNA": "Llaillay"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 5703,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 6,
+   "COMUNA": "Llaillay"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5703,
    "anio": 2024,
@@ -3868,6 +4020,14 @@
    "CODCOM": 5703,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Llaillay"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 5703,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Llaillay"
   },
@@ -4054,6 +4214,14 @@
    "mes": 11,
    "casos": 1,
    "COMUNA": "Llaillay"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 5703,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Llaillay"
   }
  ],
  "info": [
@@ -4070,36 +4238,36 @@
    "informacion": "Casos",
    "CODCOM": 5703,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 206,
-   "2024": 280,
-   "2025": 250,
+   "2023": 215,
+   "2024": 293,
+   "2025": 258,
    "COMUNA": "Llaillay"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5703,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 166,
-   "2024": 132,
-   "2025": 163,
+   "2023": 168,
+   "2024": 133,
+   "2025": 165,
    "COMUNA": "Llaillay"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5703,
    "delito": "DAÑOS",
-   "2023": 205,
-   "2024": 192,
-   "2025": 219,
+   "2023": 209,
+   "2024": 198,
+   "2025": 226,
    "COMUNA": "Llaillay"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5703,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 155,
-   "2024": 218,
-   "2025": 170,
+   "2023": 158,
+   "2024": 219,
+   "2025": 171,
    "COMUNA": "Llaillay"
   },
   {
@@ -4115,18 +4283,18 @@
    "informacion": "Casos",
    "CODCOM": 5703,
    "delito": "HURTOS",
-   "2023": 113,
-   "2024": 90,
-   "2025": 84,
+   "2023": 116,
+   "2024": 91,
+   "2025": 85,
    "COMUNA": "Llaillay"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5703,
    "delito": "INCIVILIDADES",
-   "2023": 47,
+   "2023": 49,
    "2024": 91,
-   "2025": 83,
+   "2025": 84,
    "COMUNA": "Llaillay"
   },
   {
@@ -4134,7 +4302,7 @@
    "CODCOM": 5703,
    "delito": "LESIONES GRAVES",
    "2023": 9,
-   "2024": 9,
+   "2024": 10,
    "2025": 7,
    "COMUNA": "Llaillay"
   },
@@ -4142,8 +4310,8 @@
    "informacion": "Casos",
    "CODCOM": 5703,
    "delito": "LESIONES LEVES",
-   "2023": 98,
-   "2024": 85,
+   "2023": 101,
+   "2024": 89,
    "2025": 88,
    "COMUNA": "Llaillay"
   },
@@ -4198,7 +4366,7 @@
    "delito": "RECEPTACIÓN",
    "2023": 12,
    "2024": 15,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "Llaillay"
   },
   {
@@ -4206,26 +4374,26 @@
    "CODCOM": 5703,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 54,
-   "2024": 46,
-   "2025": 43,
+   "2024": 47,
+   "2025": 50,
    "COMUNA": "Llaillay"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5703,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 68,
-   "2024": 109,
-   "2025": 75,
+   "2023": 75,
+   "2024": 113,
+   "2025": 76,
    "COMUNA": "Llaillay"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5703,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 100,
-   "2024": 126,
-   "2025": 88,
+   "2023": 106,
+   "2024": 128,
+   "2025": 94,
    "COMUNA": "Llaillay"
   },
   {
@@ -4233,7 +4401,7 @@
    "CODCOM": 5703,
    "delito": "ROBOS POR SORPRESA",
    "2023": 5,
-   "2024": 13,
+   "2024": 14,
    "2025": 6,
    "COMUNA": "Llaillay"
   },
@@ -4243,12 +4411,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 21,
    "2024": 21,
-   "2025": 20,
+   "2025": 21,
    "COMUNA": "Llaillay"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Valparaíso"
  }
 }

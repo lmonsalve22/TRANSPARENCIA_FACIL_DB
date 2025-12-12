@@ -12,17 +12,17 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16107,
-   "2024": 131,
-   "2025": 128,
-   "variacion": -2,
+   "2024": 133,
+   "2025": 132,
+   "variacion": -1,
    "situación": "Disminución de Casos",
    "COMUNA": "Quillón"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16107,
-   "2024": 128,
-   "2025": 218,
+   "2024": 132,
+   "2025": 224,
    "variacion": 70,
    "situación": "Aumento de Casos",
    "COMUNA": "Quillón"
@@ -30,8 +30,8 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16107,
-   "2024": 113,
-   "2025": 95,
+   "2024": 116,
+   "2025": 97,
    "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "Quillón"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16107,
-   "2024": 130,
-   "2025": 106,
-   "variacion": -18,
+   "2024": 134,
+   "2025": 111,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "Quillón"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16107,
-   "2024": 61,
-   "2025": 111,
-   "variacion": 82,
+   "2024": 64,
+   "2025": 114,
+   "variacion": 78,
    "situación": "Aumento de Casos",
    "COMUNA": "Quillón"
   },
@@ -84,19 +84,19 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16107,
-   "2024": 53,
-   "2025": 61,
-   "variacion": 15,
+   "2024": 54,
+   "2025": 63,
+   "variacion": 17,
    "situación": "Aumento de Casos",
    "COMUNA": "Quillón"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16107,
-   "2024": 3,
+   "2024": 4,
    "2025": 4,
-   "variacion": 33,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Quillón"
   },
   {
@@ -165,8 +165,8 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16107,
-   "2024": 179,
-   "2025": 143,
+   "2024": 182,
+   "2025": 145,
    "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Quillón"
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 16107,
-   "2024": 13,
+   "2024": 15,
    "2025": 5,
-   "variacion": -62,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "Quillón"
   }
@@ -376,6 +376,14 @@
    "COMUNA": "Quillón"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Quillón"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16107,
    "anio": 2024,
@@ -557,6 +565,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 5,
+   "COMUNA": "Quillón"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 4,
    "COMUNA": "Quillón"
   },
   {
@@ -744,6 +760,14 @@
    "COMUNA": "Quillón"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 6,
+   "COMUNA": "Quillón"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 16107,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 10,
+   "COMUNA": "Quillón"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
    "COMUNA": "Quillón"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "Quillón"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 5,
+   "COMUNA": "Quillón"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 16107,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 16107,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Quillón"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Quillón"
   },
@@ -1480,6 +1528,14 @@
    "COMUNA": "Quillón"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "Quillón"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 16107,
    "anio": 2024,
@@ -1664,6 +1720,14 @@
    "COMUNA": "Quillón"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Quillón"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16107,
    "anio": 2024,
@@ -1844,6 +1908,14 @@
    "CODCOM": 16107,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Quillón"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Quillón"
   },
@@ -2032,6 +2104,14 @@
    "COMUNA": "Quillón"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Quillón"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16107,
    "anio": 2024,
@@ -2212,6 +2292,14 @@
    "CODCOM": 16107,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Quillón"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Quillón"
   },
@@ -2400,6 +2488,14 @@
    "COMUNA": "Quillón"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Quillón"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 16107,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "Quillón"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Quillón"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 16107,
    "anio": 2024,
@@ -2764,6 +2868,14 @@
    "CODCOM": 16107,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Quillón"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Quillón"
   },
@@ -2952,6 +3064,14 @@
    "COMUNA": "Quillón"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Quillón"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 16107,
    "anio": 2024,
@@ -3132,6 +3252,14 @@
    "CODCOM": 16107,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Quillón"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Quillón"
   },
@@ -3317,6 +3445,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Quillón"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Quillón"
   },
   {
@@ -3501,6 +3637,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 3,
+   "COMUNA": "Quillón"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Quillón"
   },
   {
@@ -3688,6 +3832,14 @@
    "COMUNA": "Quillón"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Quillón"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 16107,
    "anio": 2024,
@@ -3872,6 +4024,14 @@
    "COMUNA": "Quillón"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Quillón"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 16107,
    "anio": 2024,
@@ -4052,6 +4212,14 @@
    "CODCOM": 16107,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Quillón"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Quillón"
   }
@@ -4070,9 +4238,9 @@
    "informacion": "Casos",
    "CODCOM": 16107,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 101,
-   "2024": 131,
-   "2025": 128,
+   "2023": 104,
+   "2024": 133,
+   "2025": 132,
    "COMUNA": "Quillón"
   },
   {
@@ -4080,26 +4248,26 @@
    "CODCOM": 16107,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 95,
-   "2024": 128,
-   "2025": 218,
+   "2024": 132,
+   "2025": 224,
    "COMUNA": "Quillón"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16107,
    "delito": "DAÑOS",
-   "2023": 123,
-   "2024": 113,
-   "2025": 95,
+   "2023": 127,
+   "2024": 116,
+   "2025": 97,
    "COMUNA": "Quillón"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16107,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 144,
-   "2024": 130,
-   "2025": 106,
+   "2023": 146,
+   "2024": 134,
+   "2025": 111,
    "COMUNA": "Quillón"
   },
   {
@@ -4115,9 +4283,9 @@
    "informacion": "Casos",
    "CODCOM": 16107,
    "delito": "HURTOS",
-   "2023": 85,
-   "2024": 61,
-   "2025": 111,
+   "2023": 89,
+   "2024": 64,
+   "2025": 114,
    "COMUNA": "Quillón"
   },
   {
@@ -4142,9 +4310,9 @@
    "informacion": "Casos",
    "CODCOM": 16107,
    "delito": "LESIONES LEVES",
-   "2023": 42,
-   "2024": 53,
-   "2025": 61,
+   "2023": 46,
+   "2024": 54,
+   "2025": 63,
    "COMUNA": "Quillón"
   },
   {
@@ -4152,7 +4320,7 @@
    "CODCOM": 16107,
    "delito": "LESIONES MENOS GRAVES",
    "2023": 5,
-   "2024": 3,
+   "2024": 4,
    "2025": 4,
    "COMUNA": "Quillón"
   },
@@ -4205,7 +4373,7 @@
    "informacion": "Casos",
    "CODCOM": 16107,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 16,
+   "2023": 18,
    "2024": 18,
    "2025": 17,
    "COMUNA": "Quillón"
@@ -4214,7 +4382,7 @@
    "informacion": "Casos",
    "CODCOM": 16107,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 29,
+   "2023": 30,
    "2024": 18,
    "2025": 34,
    "COMUNA": "Quillón"
@@ -4224,8 +4392,8 @@
    "CODCOM": 16107,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 138,
-   "2024": 179,
-   "2025": 143,
+   "2024": 182,
+   "2025": 145,
    "COMUNA": "Quillón"
   },
   {
@@ -4242,13 +4410,13 @@
    "CODCOM": 16107,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 20,
-   "2024": 13,
+   "2024": 15,
    "2025": 5,
    "COMUNA": "Quillón"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Ñuble"
  }
 }

@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13302,
-   "2024": 1112,
-   "2025": 1010,
+   "2024": 1134,
+   "2025": 1027,
    "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "Lampa"
@@ -21,8 +21,8 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13302,
-   "2024": 216,
-   "2025": 185,
+   "2024": 218,
+   "2025": 187,
    "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Lampa"
@@ -30,8 +30,8 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 13302,
-   "2024": 593,
-   "2025": 602,
+   "2024": 602,
+   "2025": 613,
    "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "Lampa"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13302,
-   "2024": 918,
-   "2025": 786,
-   "variacion": -14,
+   "2024": 938,
+   "2025": 799,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "Lampa"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13302,
-   "2024": 235,
-   "2025": 246,
+   "2024": 237,
+   "2025": 249,
    "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "Lampa"
@@ -66,8 +66,8 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 13302,
-   "2024": 92,
-   "2025": 78,
+   "2024": 94,
+   "2025": 80,
    "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "Lampa"
@@ -84,36 +84,36 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 13302,
-   "2024": 394,
-   "2025": 333,
-   "variacion": -15,
+   "2024": 400,
+   "2025": 338,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "Lampa"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 13302,
-   "2024": 81,
-   "2025": 96,
-   "variacion": 19,
+   "2024": 83,
+   "2025": 98,
+   "variacion": 18,
    "situación": "Aumento de Casos",
    "COMUNA": "Lampa"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 13302,
-   "2024": 72,
-   "2025": 95,
-   "variacion": 32,
+   "2024": 73,
+   "2025": 97,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "Lampa"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 13302,
-   "2024": 24,
+   "2024": 25,
    "2025": 58,
-   "variacion": 142,
+   "variacion": 132,
    "situación": "Aumento de Casos",
    "COMUNA": "Lampa"
   },
@@ -138,17 +138,17 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 13302,
-   "2024": 83,
-   "2025": 82,
-   "variacion": -1,
-   "situación": "Disminución de Casos",
+   "2024": 84,
+   "2025": 85,
+   "variacion": 1,
+   "situación": "Aumento de Casos",
    "COMUNA": "Lampa"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 13302,
-   "2024": 490,
-   "2025": 501,
+   "2024": 497,
+   "2025": 507,
    "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "Lampa"
@@ -156,8 +156,8 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 13302,
-   "2024": 467,
-   "2025": 338,
+   "2024": 477,
+   "2025": 345,
    "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "Lampa"
@@ -165,8 +165,8 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13302,
-   "2024": 560,
-   "2025": 550,
+   "2024": 575,
+   "2025": 563,
    "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "Lampa"
@@ -174,8 +174,8 @@
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13302,
-   "2024": 60,
-   "2025": 58,
+   "2024": 61,
+   "2025": 59,
    "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "Lampa"
@@ -183,8 +183,8 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 13302,
-   "2024": 97,
-   "2025": 63,
+   "2024": 98,
+   "2025": 64,
    "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "Lampa"
@@ -376,6 +376,14 @@
    "COMUNA": "Lampa"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Lampa"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13302,
    "anio": 2024,
@@ -557,6 +565,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 54,
+   "COMUNA": "Lampa"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 17,
    "COMUNA": "Lampa"
   },
   {
@@ -744,6 +760,14 @@
    "COMUNA": "Lampa"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Lampa"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 13302,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 32,
+   "COMUNA": "Lampa"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 11,
    "COMUNA": "Lampa"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "Lampa"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 13,
+   "COMUNA": "Lampa"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 13302,
    "anio": 2024,
@@ -1293,6 +1333,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Lampa"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Lampa"
   },
   {
@@ -1480,6 +1528,14 @@
    "COMUNA": "Lampa"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "Lampa"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 13302,
    "anio": 2024,
@@ -1664,6 +1720,14 @@
    "COMUNA": "Lampa"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Lampa"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 13302,
    "anio": 2024,
@@ -1844,6 +1908,14 @@
    "CODCOM": 13302,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Lampa"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Lampa"
   },
@@ -2032,6 +2104,14 @@
    "COMUNA": "Lampa"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 5,
+   "COMUNA": "Lampa"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 13302,
    "anio": 2024,
@@ -2213,6 +2293,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 9,
+   "COMUNA": "Lampa"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
    "COMUNA": "Lampa"
   },
   {
@@ -2400,6 +2488,14 @@
    "COMUNA": "Lampa"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Lampa"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 13302,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "Lampa"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Lampa"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 13302,
    "anio": 2024,
@@ -2765,6 +2869,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Lampa"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Lampa"
   },
   {
@@ -2949,6 +3061,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Lampa"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Lampa"
   },
   {
@@ -3133,6 +3253,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 5,
+   "COMUNA": "Lampa"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 3,
    "COMUNA": "Lampa"
   },
   {
@@ -3320,6 +3448,14 @@
    "COMUNA": "Lampa"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 6,
+   "COMUNA": "Lampa"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 13302,
    "anio": 2024,
@@ -3501,6 +3637,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 8,
+   "COMUNA": "Lampa"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 7,
    "COMUNA": "Lampa"
   },
   {
@@ -3688,6 +3832,14 @@
    "COMUNA": "Lampa"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 13,
+   "COMUNA": "Lampa"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13302,
    "anio": 2024,
@@ -3869,6 +4021,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 5,
+   "COMUNA": "Lampa"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "Lampa"
   },
   {
@@ -4054,6 +4214,14 @@
    "mes": 11,
    "casos": 5,
    "COMUNA": "Lampa"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Lampa"
   }
  ],
  "info": [
@@ -4061,7 +4229,7 @@
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "AMENAZAS CON ARMAS",
-   "2023": 48,
+   "2023": 50,
    "2024": 46,
    "2025": 14,
    "COMUNA": "Lampa"
@@ -4070,36 +4238,36 @@
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 1129,
-   "2024": 1112,
-   "2025": 1010,
+   "2023": 1162,
+   "2024": 1134,
+   "2025": 1027,
    "COMUNA": "Lampa"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 257,
-   "2024": 216,
-   "2025": 185,
+   "2023": 265,
+   "2024": 218,
+   "2025": 187,
    "COMUNA": "Lampa"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "DAÑOS",
-   "2023": 565,
-   "2024": 593,
-   "2025": 602,
+   "2023": 577,
+   "2024": 602,
+   "2025": 613,
    "COMUNA": "Lampa"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 970,
-   "2024": 918,
-   "2025": 786,
+   "2023": 992,
+   "2024": 938,
+   "2025": 799,
    "COMUNA": "Lampa"
   },
   {
@@ -4115,18 +4283,18 @@
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "HURTOS",
-   "2023": 222,
-   "2024": 235,
-   "2025": 246,
+   "2023": 231,
+   "2024": 237,
+   "2025": 249,
    "COMUNA": "Lampa"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "INCIVILIDADES",
-   "2023": 112,
-   "2024": 92,
-   "2025": 78,
+   "2023": 116,
+   "2024": 94,
+   "2025": 80,
    "COMUNA": "Lampa"
   },
   {
@@ -4142,18 +4310,18 @@
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "LESIONES LEVES",
-   "2023": 387,
-   "2024": 394,
-   "2025": 333,
+   "2023": 398,
+   "2024": 400,
+   "2025": 338,
    "COMUNA": "Lampa"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 70,
-   "2024": 81,
-   "2025": 96,
+   "2023": 71,
+   "2024": 83,
+   "2025": 98,
    "COMUNA": "Lampa"
   },
   {
@@ -4161,16 +4329,16 @@
    "CODCOM": 13302,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 98,
-   "2024": 72,
-   "2025": 95,
+   "2024": 73,
+   "2025": 97,
    "COMUNA": "Lampa"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "LEY DE DROGAS",
-   "2023": 25,
-   "2024": 24,
+   "2023": 26,
+   "2024": 25,
    "2025": 58,
    "COMUNA": "Lampa"
   },
@@ -4197,58 +4365,58 @@
    "CODCOM": 13302,
    "delito": "RECEPTACIÓN",
    "2023": 104,
-   "2024": 83,
-   "2025": 82,
+   "2024": 84,
+   "2025": 85,
    "COMUNA": "Lampa"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 619,
-   "2024": 490,
-   "2025": 501,
+   "2023": 631,
+   "2024": 497,
+   "2025": 507,
    "COMUNA": "Lampa"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 422,
-   "2024": 467,
-   "2025": 338,
+   "2023": 431,
+   "2024": 477,
+   "2025": 345,
    "COMUNA": "Lampa"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 462,
-   "2024": 560,
-   "2025": 550,
+   "2023": 474,
+   "2024": 575,
+   "2025": 563,
    "COMUNA": "Lampa"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "ROBOS POR SORPRESA",
-   "2023": 60,
-   "2024": 60,
-   "2025": 58,
+   "2023": 62,
+   "2024": 61,
+   "2025": 59,
    "COMUNA": "Lampa"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 103,
-   "2024": 97,
-   "2025": 63,
+   "2023": 106,
+   "2024": 98,
+   "2025": 64,
    "COMUNA": "Lampa"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Metropolitana"
  }
 }

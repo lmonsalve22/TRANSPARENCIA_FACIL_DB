@@ -3,17 +3,17 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 9201,
-   "2024": 13,
+   "2024": 14,
    "2025": 11,
-   "variacion": -15,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "Angol"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9201,
-   "2024": 388,
-   "2025": 413,
+   "2024": 396,
+   "2025": 421,
    "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "Angol"
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 9201,
-   "2024": 241,
-   "2025": 261,
-   "variacion": 8,
+   "2024": 242,
+   "2025": 265,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "Angol"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9201,
-   "2024": 382,
-   "2025": 441,
-   "variacion": 15,
+   "2024": 387,
+   "2025": 448,
+   "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "Angol"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9201,
-   "2024": 207,
-   "2025": 224,
-   "variacion": 8,
+   "2024": 209,
+   "2025": 229,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "Angol"
   },
@@ -67,25 +67,25 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 9201,
    "2024": 106,
-   "2025": 100,
-   "variacion": -6,
+   "2025": 105,
+   "variacion": -1,
    "situación": "Disminución de Casos",
    "COMUNA": "Angol"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9201,
-   "2024": 34,
+   "2024": 35,
    "2025": 25,
-   "variacion": -26,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Angol"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9201,
-   "2024": 178,
-   "2025": 181,
+   "2024": 182,
+   "2025": 186,
    "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "Angol"
@@ -103,17 +103,17 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9201,
    "2024": 84,
-   "2025": 123,
-   "variacion": 46,
+   "2025": 124,
+   "variacion": 48,
    "situación": "Aumento de Casos",
    "COMUNA": "Angol"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9201,
-   "2024": 44,
-   "2025": 61,
-   "variacion": 39,
+   "2024": 45,
+   "2025": 63,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "Angol"
   },
@@ -130,8 +130,8 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 9201,
    "2024": 62,
-   "2025": 24,
-   "variacion": -61,
+   "2025": 25,
+   "variacion": -60,
    "situación": "Disminución de Casos",
    "COMUNA": "Angol"
   },
@@ -148,26 +148,26 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9201,
    "2024": 50,
-   "2025": 54,
-   "variacion": 8,
+   "2025": 56,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "Angol"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9201,
-   "2024": 75,
-   "2025": 71,
-   "variacion": -5,
+   "2024": 76,
+   "2025": 74,
+   "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "Angol"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9201,
-   "2024": 230,
-   "2025": 223,
-   "variacion": -3,
+   "2024": 231,
+   "2025": 228,
+   "variacion": -1,
    "situación": "Disminución de Casos",
    "COMUNA": "Angol"
   },
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9201,
-   "2024": 29,
+   "2024": 31,
    "2025": 30,
-   "variacion": 3,
-   "situación": "Aumento de Casos",
+   "variacion": -3,
+   "situación": "Disminución de Casos",
    "COMUNA": "Angol"
   }
  ],
@@ -376,6 +376,14 @@
    "COMUNA": "Angol"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Angol"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9201,
    "anio": 2024,
@@ -557,6 +565,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 30,
+   "COMUNA": "Angol"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 8,
    "COMUNA": "Angol"
   },
   {
@@ -744,6 +760,14 @@
    "COMUNA": "Angol"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Angol"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 9201,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 12,
+   "COMUNA": "Angol"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 4,
    "COMUNA": "Angol"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "Angol"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 7,
+   "COMUNA": "Angol"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9201,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 9201,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Angol"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Angol"
   },
@@ -1480,6 +1528,14 @@
    "COMUNA": "Angol"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 5,
+   "COMUNA": "Angol"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9201,
    "anio": 2024,
@@ -1664,6 +1720,14 @@
    "COMUNA": "Angol"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 5,
+   "COMUNA": "Angol"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9201,
    "anio": 2024,
@@ -1845,6 +1909,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Angol"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Angol"
   },
   {
@@ -2032,6 +2104,14 @@
    "COMUNA": "Angol"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 5,
+   "COMUNA": "Angol"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9201,
    "anio": 2024,
@@ -2213,6 +2293,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Angol"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Angol"
   },
   {
@@ -2400,6 +2488,14 @@
    "COMUNA": "Angol"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Angol"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9201,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "Angol"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Angol"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9201,
    "anio": 2024,
@@ -2765,6 +2869,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Angol"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Angol"
   },
   {
@@ -2952,6 +3064,14 @@
    "COMUNA": "Angol"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Angol"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9201,
    "anio": 2024,
@@ -3132,6 +3252,14 @@
    "CODCOM": 9201,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Angol"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Angol"
   },
@@ -3320,6 +3448,14 @@
    "COMUNA": "Angol"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Angol"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9201,
    "anio": 2024,
@@ -3501,6 +3637,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 6,
+   "COMUNA": "Angol"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 3,
    "COMUNA": "Angol"
   },
   {
@@ -3688,6 +3832,14 @@
    "COMUNA": "Angol"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 5,
+   "COMUNA": "Angol"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9201,
    "anio": 2024,
@@ -3872,6 +4024,14 @@
    "COMUNA": "Angol"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Angol"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9201,
    "anio": 2024,
@@ -4053,6 +4213,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Angol"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Angol"
   }
  ],
@@ -4062,7 +4230,7 @@
    "CODCOM": 9201,
    "delito": "AMENAZAS CON ARMAS",
    "2023": 14,
-   "2024": 13,
+   "2024": 14,
    "2025": 11,
    "COMUNA": "Angol"
   },
@@ -4070,9 +4238,9 @@
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 355,
-   "2024": 388,
-   "2025": 413,
+   "2023": 361,
+   "2024": 396,
+   "2025": 421,
    "COMUNA": "Angol"
   },
   {
@@ -4088,18 +4256,18 @@
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "DAÑOS",
-   "2023": 196,
-   "2024": 241,
-   "2025": 261,
+   "2023": 201,
+   "2024": 242,
+   "2025": 265,
    "COMUNA": "Angol"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 403,
-   "2024": 382,
-   "2025": 441,
+   "2023": 411,
+   "2024": 387,
+   "2025": 448,
    "COMUNA": "Angol"
   },
   {
@@ -4115,18 +4283,18 @@
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "HURTOS",
-   "2023": 217,
-   "2024": 207,
-   "2025": 224,
+   "2023": 220,
+   "2024": 209,
+   "2025": 229,
    "COMUNA": "Angol"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "INCIVILIDADES",
-   "2023": 55,
+   "2023": 58,
    "2024": 106,
-   "2025": 100,
+   "2025": 105,
    "COMUNA": "Angol"
   },
   {
@@ -4134,7 +4302,7 @@
    "CODCOM": 9201,
    "delito": "LESIONES GRAVES",
    "2023": 22,
-   "2024": 34,
+   "2024": 35,
    "2025": 25,
    "COMUNA": "Angol"
   },
@@ -4142,16 +4310,16 @@
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "LESIONES LEVES",
-   "2023": 147,
-   "2024": 178,
-   "2025": 181,
+   "2023": 149,
+   "2024": 182,
+   "2025": 186,
    "COMUNA": "Angol"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 26,
+   "2023": 28,
    "2024": 29,
    "2025": 30,
    "COMUNA": "Angol"
@@ -4162,7 +4330,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 32,
    "2024": 84,
-   "2025": 123,
+   "2025": 124,
    "COMUNA": "Angol"
   },
   {
@@ -4170,8 +4338,8 @@
    "CODCOM": 9201,
    "delito": "LEY DE DROGAS",
    "2023": 10,
-   "2024": 44,
-   "2025": 61,
+   "2024": 45,
+   "2025": 63,
    "COMUNA": "Angol"
   },
   {
@@ -4187,9 +4355,9 @@
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "2023": 42,
+   "2023": 43,
    "2024": 62,
-   "2025": 24,
+   "2025": 25,
    "COMUNA": "Angol"
   },
   {
@@ -4207,25 +4375,25 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 44,
    "2024": 50,
-   "2025": 54,
+   "2025": 56,
    "COMUNA": "Angol"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 56,
-   "2024": 75,
-   "2025": 71,
+   "2023": 59,
+   "2024": 76,
+   "2025": 74,
    "COMUNA": "Angol"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 216,
-   "2024": 230,
-   "2025": 223,
+   "2023": 218,
+   "2024": 231,
+   "2025": 228,
    "COMUNA": "Angol"
   },
   {
@@ -4241,14 +4409,14 @@
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 35,
-   "2024": 29,
+   "2023": 37,
+   "2024": 31,
    "2025": 30,
    "COMUNA": "Angol"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "La Araucanía"
  }
 }

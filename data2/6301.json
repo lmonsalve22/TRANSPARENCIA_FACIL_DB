@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6301,
-   "2024": 711,
-   "2025": 658,
+   "2024": 723,
+   "2025": 669,
    "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fernando"
@@ -21,8 +21,8 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6301,
-   "2024": 182,
-   "2025": 258,
+   "2024": 190,
+   "2025": 269,
    "variacion": 42,
    "situación": "Aumento de Casos",
    "COMUNA": "San Fernando"
@@ -30,17 +30,17 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6301,
-   "2024": 498,
-   "2025": 464,
-   "variacion": -7,
+   "2024": 511,
+   "2025": 472,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fernando"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6301,
-   "2024": 1011,
-   "2025": 848,
+   "2024": 1029,
+   "2025": 867,
    "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fernando"
@@ -57,36 +57,36 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6301,
-   "2024": 470,
-   "2025": 475,
-   "variacion": 1,
+   "2024": 477,
+   "2025": 485,
+   "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "San Fernando"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6301,
-   "2024": 192,
-   "2025": 270,
-   "variacion": 41,
+   "2024": 196,
+   "2025": 275,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "San Fernando"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6301,
-   "2024": 47,
+   "2024": 49,
    "2025": 50,
-   "variacion": 6,
+   "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "San Fernando"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6301,
-   "2024": 240,
-   "2025": 225,
-   "variacion": -6,
+   "2024": 241,
+   "2025": 229,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fernando"
   },
@@ -94,26 +94,26 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6301,
    "2024": 58,
-   "2025": 38,
-   "variacion": -34,
+   "2025": 40,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fernando"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6301,
-   "2024": 78,
+   "2024": 82,
    "2025": 97,
-   "variacion": 24,
+   "variacion": 18,
    "situación": "Aumento de Casos",
    "COMUNA": "San Fernando"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6301,
-   "2024": 37,
-   "2025": 64,
-   "variacion": 73,
+   "2024": 38,
+   "2025": 65,
+   "variacion": 71,
    "situación": "Aumento de Casos",
    "COMUNA": "San Fernando"
   },
@@ -147,36 +147,36 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6301,
-   "2024": 181,
-   "2025": 177,
-   "variacion": -2,
+   "2024": 186,
+   "2025": 178,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fernando"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6301,
-   "2024": 293,
-   "2025": 233,
-   "variacion": -20,
+   "2024": 300,
+   "2025": 237,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fernando"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6301,
-   "2024": 381,
-   "2025": 435,
-   "variacion": 14,
+   "2024": 385,
+   "2025": 446,
+   "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "San Fernando"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6301,
-   "2024": 60,
-   "2025": 37,
-   "variacion": -38,
+   "2024": 62,
+   "2025": 38,
+   "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fernando"
   },
@@ -376,6 +376,14 @@
    "COMUNA": "San Fernando"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Fernando"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6301,
    "anio": 2024,
@@ -560,6 +568,14 @@
    "COMUNA": "San Fernando"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 11,
+   "COMUNA": "San Fernando"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6301,
    "anio": 2024,
@@ -741,6 +757,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 17,
+   "COMUNA": "San Fernando"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 11,
    "COMUNA": "San Fernando"
   },
   {
@@ -928,6 +952,14 @@
    "COMUNA": "San Fernando"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 8,
+   "COMUNA": "San Fernando"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6301,
    "anio": 2024,
@@ -1112,6 +1144,14 @@
    "COMUNA": "San Fernando"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 19,
+   "COMUNA": "San Fernando"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6301,
    "anio": 2024,
@@ -1293,6 +1333,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "San Fernando"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "San Fernando"
   },
   {
@@ -1480,6 +1528,14 @@
    "COMUNA": "San Fernando"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 10,
+   "COMUNA": "San Fernando"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 6301,
    "anio": 2024,
@@ -1664,6 +1720,14 @@
    "COMUNA": "San Fernando"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 5,
+   "COMUNA": "San Fernando"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6301,
    "anio": 2024,
@@ -1845,6 +1909,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 3,
+   "COMUNA": "San Fernando"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "San Fernando"
   },
   {
@@ -2032,6 +2104,14 @@
    "COMUNA": "San Fernando"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "San Fernando"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6301,
    "anio": 2024,
@@ -2213,6 +2293,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 3,
+   "COMUNA": "San Fernando"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
    "COMUNA": "San Fernando"
   },
   {
@@ -2400,6 +2488,14 @@
    "COMUNA": "San Fernando"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Fernando"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6301,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "San Fernando"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "San Fernando"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6301,
    "anio": 2024,
@@ -2764,6 +2868,14 @@
    "CODCOM": 6301,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Fernando"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "San Fernando"
   },
@@ -2952,6 +3064,14 @@
    "COMUNA": "San Fernando"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Fernando"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6301,
    "anio": 2024,
@@ -3133,6 +3253,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 5,
+   "COMUNA": "San Fernando"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "San Fernando"
   },
   {
@@ -3317,6 +3445,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 10,
+   "COMUNA": "San Fernando"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "San Fernando"
   },
   {
@@ -3504,6 +3640,14 @@
    "COMUNA": "San Fernando"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "San Fernando"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6301,
    "anio": 2024,
@@ -3685,6 +3829,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 18,
+   "COMUNA": "San Fernando"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 11,
    "COMUNA": "San Fernando"
   },
   {
@@ -3872,6 +4024,14 @@
    "COMUNA": "San Fernando"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "San Fernando"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6301,
    "anio": 2024,
@@ -4054,6 +4214,14 @@
    "mes": 11,
    "casos": 1,
    "COMUNA": "San Fernando"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Fernando"
   }
  ],
  "info": [
@@ -4070,36 +4238,36 @@
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 739,
-   "2024": 711,
-   "2025": 658,
+   "2023": 747,
+   "2024": 723,
+   "2025": 669,
    "COMUNA": "San Fernando"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 170,
-   "2024": 182,
-   "2025": 258,
+   "2023": 171,
+   "2024": 190,
+   "2025": 269,
    "COMUNA": "San Fernando"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "DAÑOS",
-   "2023": 507,
-   "2024": 498,
-   "2025": 464,
+   "2023": 522,
+   "2024": 511,
+   "2025": 472,
    "COMUNA": "San Fernando"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 979,
-   "2024": 1011,
-   "2025": 848,
+   "2023": 1002,
+   "2024": 1029,
+   "2025": 867,
    "COMUNA": "San Fernando"
   },
   {
@@ -4115,26 +4283,26 @@
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "HURTOS",
-   "2023": 481,
-   "2024": 470,
-   "2025": 475,
+   "2023": 490,
+   "2024": 477,
+   "2025": 485,
    "COMUNA": "San Fernando"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "INCIVILIDADES",
-   "2023": 191,
-   "2024": 192,
-   "2025": 270,
+   "2023": 192,
+   "2024": 196,
+   "2025": 275,
    "COMUNA": "San Fernando"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "LESIONES GRAVES",
-   "2023": 36,
-   "2024": 47,
+   "2023": 37,
+   "2024": 49,
    "2025": 50,
    "COMUNA": "San Fernando"
   },
@@ -4142,9 +4310,9 @@
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "LESIONES LEVES",
-   "2023": 246,
-   "2024": 240,
-   "2025": 225,
+   "2023": 250,
+   "2024": 241,
+   "2025": 229,
    "COMUNA": "San Fernando"
   },
   {
@@ -4153,15 +4321,15 @@
    "delito": "LESIONES MENOS GRAVES",
    "2023": 46,
    "2024": 58,
-   "2025": 38,
+   "2025": 40,
    "COMUNA": "San Fernando"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 88,
-   "2024": 78,
+   "2023": 90,
+   "2024": 82,
    "2025": 97,
    "COMUNA": "San Fernando"
   },
@@ -4170,8 +4338,8 @@
    "CODCOM": 6301,
    "delito": "LEY DE DROGAS",
    "2023": 34,
-   "2024": 37,
-   "2025": 64,
+   "2024": 38,
+   "2025": 65,
    "COMUNA": "San Fernando"
   },
   {
@@ -4205,50 +4373,50 @@
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 215,
-   "2024": 181,
-   "2025": 177,
+   "2023": 218,
+   "2024": 186,
+   "2025": 178,
    "COMUNA": "San Fernando"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 345,
-   "2024": 293,
-   "2025": 233,
+   "2023": 350,
+   "2024": 300,
+   "2025": 237,
    "COMUNA": "San Fernando"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 394,
-   "2024": 381,
-   "2025": 435,
+   "2023": 398,
+   "2024": 385,
+   "2025": 446,
    "COMUNA": "San Fernando"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "ROBOS POR SORPRESA",
-   "2023": 58,
-   "2024": 60,
-   "2025": 37,
+   "2023": 59,
+   "2024": 62,
+   "2025": 38,
    "COMUNA": "San Fernando"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 45,
+   "2023": 46,
    "2024": 47,
    "2025": 31,
    "COMUNA": "San Fernando"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "O'Higgins"
  }
 }

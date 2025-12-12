@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8302,
-   "2024": 37,
-   "2025": 16,
-   "variacion": -57,
+   "2024": 38,
+   "2025": 17,
+   "variacion": -55,
    "situación": "Disminución de Casos",
    "COMUNA": "Antuco"
   },
@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 8302,
    "2024": 22,
-   "2025": 28,
-   "variacion": 27,
+   "2025": 30,
+   "variacion": 36,
    "situación": "Aumento de Casos",
    "COMUNA": "Antuco"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8302,
-   "2024": 6,
+   "2024": 7,
    "2025": 21,
-   "variacion": 250,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Antuco"
   },
@@ -76,8 +76,8 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 8302,
    "2024": 4,
-   "2025": 0,
-   "variacion": -100,
+   "2025": 1,
+   "variacion": -75,
    "situación": "Disminución de Casos",
    "COMUNA": "Antuco"
   },
@@ -85,17 +85,17 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 8302,
    "2024": 10,
-   "2025": 10,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 12,
+   "variacion": 20,
+   "situación": "Aumento de Casos",
    "COMUNA": "Antuco"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8302,
    "2024": 1,
-   "2025": 2,
-   "variacion": 100,
+   "2025": 3,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Antuco"
   },
@@ -103,9 +103,9 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 8302,
    "2024": 5,
-   "2025": 4,
-   "variacion": -20,
-   "situación": "Disminución de Casos",
+   "2025": 11,
+   "variacion": 120,
+   "situación": "Aumento de Casos",
    "COMUNA": "Antuco"
   },
   {
@@ -130,9 +130,9 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8302,
    "2024": 2,
-   "2025": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 3,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
    "COMUNA": "Antuco"
   },
   {
@@ -376,6 +376,14 @@
    "COMUNA": "Antuco"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Antuco"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8302,
    "anio": 2024,
@@ -557,6 +565,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 2,
+   "COMUNA": "Antuco"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 8302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "Antuco"
   },
   {
@@ -744,6 +760,14 @@
    "COMUNA": "Antuco"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 8302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Antuco"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 8302,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 0,
+   "COMUNA": "Antuco"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
    "COMUNA": "Antuco"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "Antuco"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 8302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Antuco"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 8302,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 8302,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Antuco"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 8302,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Antuco"
   },
@@ -1476,6 +1524,14 @@
    "CODCOM": 8302,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Antuco"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8302,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Antuco"
   },
@@ -1664,6 +1720,14 @@
    "COMUNA": "Antuco"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 8302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Antuco"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8302,
    "anio": 2024,
@@ -1845,6 +1909,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 0,
+   "COMUNA": "Antuco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 8302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "Antuco"
   },
   {
@@ -2032,6 +2104,14 @@
    "COMUNA": "Antuco"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 8302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Antuco"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8302,
    "anio": 2024,
@@ -2213,6 +2293,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 0,
+   "COMUNA": "Antuco"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 8302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "Antuco"
   },
   {
@@ -2400,6 +2488,14 @@
    "COMUNA": "Antuco"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 8302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 7,
+   "COMUNA": "Antuco"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8302,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "Antuco"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Antuco"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 8302,
    "anio": 2024,
@@ -2768,6 +2872,14 @@
    "COMUNA": "Antuco"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Antuco"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8302,
    "anio": 2024,
@@ -2948,6 +3060,14 @@
    "CODCOM": 8302,
    "anio": 2025,
    "mes": 11,
+   "casos": 1,
+   "COMUNA": "Antuco"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8302,
+   "anio": 2025,
+   "mes": 12,
    "casos": 1,
    "COMUNA": "Antuco"
   },
@@ -3136,6 +3256,14 @@
    "COMUNA": "Antuco"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 8302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Antuco"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8302,
    "anio": 2024,
@@ -3316,6 +3444,14 @@
    "CODCOM": 8302,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Antuco"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 8302,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Antuco"
   },
@@ -3500,6 +3636,14 @@
    "CODCOM": 8302,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Antuco"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 8302,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Antuco"
   },
@@ -3688,6 +3832,14 @@
    "COMUNA": "Antuco"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Antuco"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8302,
    "anio": 2024,
@@ -3868,6 +4020,14 @@
    "CODCOM": 8302,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Antuco"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 8302,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Antuco"
   },
@@ -4054,6 +4214,14 @@
    "mes": 11,
    "casos": 0,
    "COMUNA": "Antuco"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 8302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Antuco"
   }
  ],
  "info": [
@@ -4070,16 +4238,16 @@
    "informacion": "Casos",
    "CODCOM": 8302,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 38,
-   "2024": 37,
-   "2025": 16,
+   "2023": 40,
+   "2024": 38,
+   "2025": 17,
    "COMUNA": "Antuco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8302,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 19,
+   "2023": 21,
    "2024": 45,
    "2025": 34,
    "COMUNA": "Antuco"
@@ -4090,7 +4258,7 @@
    "delito": "DAÑOS",
    "2023": 30,
    "2024": 22,
-   "2025": 28,
+   "2025": 30,
    "COMUNA": "Antuco"
   },
   {
@@ -4125,7 +4293,7 @@
    "CODCOM": 8302,
    "delito": "INCIVILIDADES",
    "2023": 9,
-   "2024": 6,
+   "2024": 7,
    "2025": 21,
    "COMUNA": "Antuco"
   },
@@ -4135,7 +4303,7 @@
    "delito": "LESIONES GRAVES",
    "2023": 3,
    "2024": 4,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "Antuco"
   },
   {
@@ -4144,7 +4312,7 @@
    "delito": "LESIONES LEVES",
    "2023": 8,
    "2024": 10,
-   "2025": 10,
+   "2025": 12,
    "COMUNA": "Antuco"
   },
   {
@@ -4153,7 +4321,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2023": 3,
    "2024": 1,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "Antuco"
   },
   {
@@ -4162,7 +4330,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 1,
    "2024": 5,
-   "2025": 4,
+   "2025": 11,
    "COMUNA": "Antuco"
   },
   {
@@ -4189,7 +4357,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 0,
    "2024": 2,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "Antuco"
   },
   {
@@ -4248,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Biobío"
  }
 }

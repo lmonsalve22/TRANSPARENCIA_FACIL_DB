@@ -12,26 +12,26 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16106,
-   "2024": 86,
-   "2025": 96,
-   "variacion": 12,
+   "2024": 88,
+   "2025": 98,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "Pinto"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16106,
-   "2024": 106,
+   "2024": 109,
    "2025": 98,
-   "variacion": -8,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "Pinto"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 16106,
-   "2024": 84,
-   "2025": 107,
+   "2024": 85,
+   "2025": 108,
    "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "Pinto"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16106,
-   "2024": 78,
-   "2025": 91,
-   "variacion": 17,
+   "2024": 81,
+   "2025": 92,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "Pinto"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 16106,
-   "2024": 89,
-   "2025": 107,
-   "variacion": 20,
+   "2024": 101,
+   "2025": 109,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "Pinto"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16106,
-   "2024": 30,
-   "2025": 39,
-   "variacion": 30,
+   "2024": 32,
+   "2025": 41,
+   "variacion": 28,
    "situación": "Aumento de Casos",
    "COMUNA": "Pinto"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 16106,
-   "2024": 34,
+   "2024": 35,
    "2025": 12,
-   "variacion": -65,
+   "variacion": -66,
    "situación": "Disminución de Casos",
    "COMUNA": "Pinto"
   },
@@ -156,10 +156,10 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16106,
-   "2024": 10,
+   "2024": 11,
    "2025": 11,
-   "variacion": 10,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Pinto"
   },
   {
@@ -376,6 +376,14 @@
    "COMUNA": "Pinto"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Pinto"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16106,
    "anio": 2024,
@@ -557,6 +565,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 6,
+   "COMUNA": "Pinto"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
    "COMUNA": "Pinto"
   },
   {
@@ -744,6 +760,14 @@
    "COMUNA": "Pinto"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Pinto"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 16106,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 4,
+   "COMUNA": "Pinto"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "Pinto"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "Pinto"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Pinto"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 16106,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 16106,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pinto"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Pinto"
   },
@@ -1477,6 +1525,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 3,
+   "COMUNA": "Pinto"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Pinto"
   },
   {
@@ -1664,6 +1720,14 @@
    "COMUNA": "Pinto"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Pinto"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16106,
    "anio": 2024,
@@ -1844,6 +1908,14 @@
    "CODCOM": 16106,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pinto"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Pinto"
   },
@@ -2032,6 +2104,14 @@
    "COMUNA": "Pinto"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Pinto"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16106,
    "anio": 2024,
@@ -2212,6 +2292,14 @@
    "CODCOM": 16106,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pinto"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Pinto"
   },
@@ -2400,6 +2488,14 @@
    "COMUNA": "Pinto"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Pinto"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 16106,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "Pinto"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Pinto"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 16106,
    "anio": 2024,
@@ -2764,6 +2868,14 @@
    "CODCOM": 16106,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pinto"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Pinto"
   },
@@ -2952,6 +3064,14 @@
    "COMUNA": "Pinto"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Pinto"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 16106,
    "anio": 2024,
@@ -3136,6 +3256,14 @@
    "COMUNA": "Pinto"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Pinto"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 16106,
    "anio": 2024,
@@ -3316,6 +3444,14 @@
    "CODCOM": 16106,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pinto"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Pinto"
   },
@@ -3501,6 +3637,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Pinto"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Pinto"
   },
   {
@@ -3688,6 +3832,14 @@
    "COMUNA": "Pinto"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Pinto"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 16106,
    "anio": 2024,
@@ -3869,6 +4021,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Pinto"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Pinto"
   },
   {
@@ -4054,6 +4214,14 @@
    "mes": 11,
    "casos": 2,
    "COMUNA": "Pinto"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Pinto"
   }
  ],
  "info": [
@@ -4070,9 +4238,9 @@
    "informacion": "Casos",
    "CODCOM": 16106,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 77,
-   "2024": 86,
-   "2025": 96,
+   "2023": 79,
+   "2024": 88,
+   "2025": 98,
    "COMUNA": "Pinto"
   },
   {
@@ -4080,7 +4248,7 @@
    "CODCOM": 16106,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 109,
-   "2024": 106,
+   "2024": 109,
    "2025": 98,
    "COMUNA": "Pinto"
   },
@@ -4088,18 +4256,18 @@
    "informacion": "Casos",
    "CODCOM": 16106,
    "delito": "DAÑOS",
-   "2023": 85,
-   "2024": 84,
-   "2025": 107,
+   "2023": 86,
+   "2024": 85,
+   "2025": 108,
    "COMUNA": "Pinto"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16106,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 67,
-   "2024": 78,
-   "2025": 91,
+   "2023": 68,
+   "2024": 81,
+   "2025": 92,
    "COMUNA": "Pinto"
   },
   {
@@ -4124,9 +4292,9 @@
    "informacion": "Casos",
    "CODCOM": 16106,
    "delito": "INCIVILIDADES",
-   "2023": 50,
-   "2024": 89,
-   "2025": 107,
+   "2023": 52,
+   "2024": 101,
+   "2025": 109,
    "COMUNA": "Pinto"
   },
   {
@@ -4143,8 +4311,8 @@
    "CODCOM": 16106,
    "delito": "LESIONES LEVES",
    "2023": 35,
-   "2024": 30,
-   "2025": 39,
+   "2024": 32,
+   "2025": 41,
    "COMUNA": "Pinto"
   },
   {
@@ -4161,7 +4329,7 @@
    "CODCOM": 16106,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 10,
-   "2024": 34,
+   "2024": 35,
    "2025": 12,
    "COMUNA": "Pinto"
   },
@@ -4215,7 +4383,7 @@
    "CODCOM": 16106,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 9,
-   "2024": 10,
+   "2024": 11,
    "2025": 11,
    "COMUNA": "Pinto"
   },
@@ -4223,7 +4391,7 @@
    "informacion": "Casos",
    "CODCOM": 16106,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 51,
+   "2023": 54,
    "2024": 48,
    "2025": 74,
    "COMUNA": "Pinto"
@@ -4248,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Ñuble"
  }
 }

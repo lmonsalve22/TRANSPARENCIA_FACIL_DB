@@ -12,17 +12,17 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5401,
-   "2024": 297,
-   "2025": 324,
-   "variacion": 9,
+   "2024": 305,
+   "2025": 326,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "La Ligua"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5401,
-   "2024": 249,
-   "2025": 285,
+   "2024": 251,
+   "2025": 287,
    "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "La Ligua"
@@ -30,17 +30,17 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 5401,
-   "2024": 260,
-   "2025": 232,
-   "variacion": -11,
+   "2024": 267,
+   "2025": 241,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "La Ligua"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5401,
-   "2024": 283,
-   "2025": 326,
+   "2024": 288,
+   "2025": 332,
    "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "La Ligua"
@@ -57,36 +57,36 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5401,
-   "2024": 162,
-   "2025": 169,
-   "variacion": 4,
+   "2024": 165,
+   "2025": 176,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "La Ligua"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5401,
-   "2024": 82,
+   "2024": 84,
    "2025": 127,
-   "variacion": 55,
+   "variacion": 51,
    "situación": "Aumento de Casos",
    "COMUNA": "La Ligua"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5401,
-   "2024": 12,
+   "2024": 13,
    "2025": 20,
-   "variacion": 67,
+   "variacion": 54,
    "situación": "Aumento de Casos",
    "COMUNA": "La Ligua"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5401,
-   "2024": 129,
-   "2025": 118,
-   "variacion": -9,
+   "2024": 130,
+   "2025": 122,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "La Ligua"
   },
@@ -94,16 +94,16 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5401,
    "2024": 11,
-   "2025": 12,
-   "variacion": 9,
+   "2025": 13,
+   "variacion": 18,
    "situación": "Aumento de Casos",
    "COMUNA": "La Ligua"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5401,
-   "2024": 61,
-   "2025": 39,
+   "2024": 64,
+   "2025": 41,
    "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "La Ligua"
@@ -129,10 +129,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 5401,
-   "2024": 3,
+   "2024": 4,
    "2025": 4,
-   "variacion": 33,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "La Ligua"
   },
   {
@@ -147,26 +147,26 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5401,
-   "2024": 52,
+   "2024": 54,
    "2025": 37,
-   "variacion": -29,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "La Ligua"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5401,
-   "2024": 77,
-   "2025": 67,
-   "variacion": -13,
+   "2024": 78,
+   "2025": 69,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "La Ligua"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5401,
-   "2024": 299,
-   "2025": 276,
+   "2024": 304,
+   "2025": 281,
    "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "La Ligua"
@@ -174,9 +174,9 @@
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5401,
-   "2024": 17,
+   "2024": 18,
    "2025": 23,
-   "variacion": 35,
+   "variacion": 28,
    "situación": "Aumento de Casos",
    "COMUNA": "La Ligua"
   },
@@ -376,6 +376,14 @@
    "COMUNA": "La Ligua"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 5401,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "La Ligua"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5401,
    "anio": 2024,
@@ -557,6 +565,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 29,
+   "COMUNA": "La Ligua"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 5401,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
    "COMUNA": "La Ligua"
   },
   {
@@ -744,6 +760,14 @@
    "COMUNA": "La Ligua"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 5401,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "La Ligua"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 5401,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 15,
+   "COMUNA": "La Ligua"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 5401,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 9,
    "COMUNA": "La Ligua"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "La Ligua"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 5401,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 6,
+   "COMUNA": "La Ligua"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 5401,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 5401,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "La Ligua"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 5401,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "La Ligua"
   },
@@ -1480,6 +1528,14 @@
    "COMUNA": "La Ligua"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5401,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 7,
+   "COMUNA": "La Ligua"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 5401,
    "anio": 2024,
@@ -1664,6 +1720,14 @@
    "COMUNA": "La Ligua"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 5401,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "La Ligua"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5401,
    "anio": 2024,
@@ -1845,6 +1909,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "La Ligua"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 5401,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "La Ligua"
   },
   {
@@ -2032,6 +2104,14 @@
    "COMUNA": "La Ligua"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 5401,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "La Ligua"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5401,
    "anio": 2024,
@@ -2212,6 +2292,14 @@
    "CODCOM": 5401,
    "anio": 2025,
    "mes": 11,
+   "casos": 1,
+   "COMUNA": "La Ligua"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 5401,
+   "anio": 2025,
+   "mes": 12,
    "casos": 1,
    "COMUNA": "La Ligua"
   },
@@ -2397,6 +2485,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 3,
+   "COMUNA": "La Ligua"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 5401,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
    "COMUNA": "La Ligua"
   },
   {
@@ -2584,6 +2680,14 @@
    "COMUNA": "La Ligua"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 5401,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "La Ligua"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 5401,
    "anio": 2024,
@@ -2768,6 +2872,14 @@
    "COMUNA": "La Ligua"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 5401,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "La Ligua"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 5401,
    "anio": 2024,
@@ -2949,6 +3061,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "La Ligua"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 5401,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "La Ligua"
   },
   {
@@ -3133,6 +3253,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "La Ligua"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 5401,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "La Ligua"
   },
   {
@@ -3317,6 +3445,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "La Ligua"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 5401,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "La Ligua"
   },
   {
@@ -3504,6 +3640,14 @@
    "COMUNA": "La Ligua"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 5401,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "La Ligua"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5401,
    "anio": 2024,
@@ -3688,6 +3832,14 @@
    "COMUNA": "La Ligua"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 5401,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 5,
+   "COMUNA": "La Ligua"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5401,
    "anio": 2024,
@@ -3868,6 +4020,14 @@
    "CODCOM": 5401,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "La Ligua"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 5401,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "La Ligua"
   },
@@ -4054,6 +4214,14 @@
    "mes": 11,
    "casos": 3,
    "COMUNA": "La Ligua"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 5401,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "La Ligua"
   }
  ],
  "info": [
@@ -4070,36 +4238,36 @@
    "informacion": "Casos",
    "CODCOM": 5401,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 333,
-   "2024": 297,
-   "2025": 324,
+   "2023": 338,
+   "2024": 305,
+   "2025": 326,
    "COMUNA": "La Ligua"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5401,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 305,
-   "2024": 249,
-   "2025": 285,
+   "2023": 315,
+   "2024": 251,
+   "2025": 287,
    "COMUNA": "La Ligua"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5401,
    "delito": "DAÑOS",
-   "2023": 262,
-   "2024": 260,
-   "2025": 232,
+   "2023": 269,
+   "2024": 267,
+   "2025": 241,
    "COMUNA": "La Ligua"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5401,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 311,
-   "2024": 283,
-   "2025": 326,
+   "2023": 316,
+   "2024": 288,
+   "2025": 332,
    "COMUNA": "La Ligua"
   },
   {
@@ -4115,9 +4283,9 @@
    "informacion": "Casos",
    "CODCOM": 5401,
    "delito": "HURTOS",
-   "2023": 187,
-   "2024": 162,
-   "2025": 169,
+   "2023": 193,
+   "2024": 165,
+   "2025": 176,
    "COMUNA": "La Ligua"
   },
   {
@@ -4125,7 +4293,7 @@
    "CODCOM": 5401,
    "delito": "INCIVILIDADES",
    "2023": 152,
-   "2024": 82,
+   "2024": 84,
    "2025": 127,
    "COMUNA": "La Ligua"
   },
@@ -4134,7 +4302,7 @@
    "CODCOM": 5401,
    "delito": "LESIONES GRAVES",
    "2023": 13,
-   "2024": 12,
+   "2024": 13,
    "2025": 20,
    "COMUNA": "La Ligua"
   },
@@ -4142,9 +4310,9 @@
    "informacion": "Casos",
    "CODCOM": 5401,
    "delito": "LESIONES LEVES",
-   "2023": 127,
-   "2024": 129,
-   "2025": 118,
+   "2023": 128,
+   "2024": 130,
+   "2025": 122,
    "COMUNA": "La Ligua"
   },
   {
@@ -4153,23 +4321,23 @@
    "delito": "LESIONES MENOS GRAVES",
    "2023": 12,
    "2024": 11,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "La Ligua"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5401,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 48,
-   "2024": 61,
-   "2025": 39,
+   "2023": 49,
+   "2024": 64,
+   "2025": 41,
    "COMUNA": "La Ligua"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5401,
    "delito": "LEY DE DROGAS",
-   "2023": 73,
+   "2023": 74,
    "2024": 64,
    "2025": 80,
    "COMUNA": "La Ligua"
@@ -4188,7 +4356,7 @@
    "CODCOM": 5401,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 5,
-   "2024": 3,
+   "2024": 4,
    "2025": 4,
    "COMUNA": "La Ligua"
   },
@@ -4206,7 +4374,7 @@
    "CODCOM": 5401,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 44,
-   "2024": 52,
+   "2024": 54,
    "2025": 37,
    "COMUNA": "La Ligua"
   },
@@ -4214,18 +4382,18 @@
    "informacion": "Casos",
    "CODCOM": 5401,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 67,
-   "2024": 77,
-   "2025": 67,
+   "2023": 69,
+   "2024": 78,
+   "2025": 69,
    "COMUNA": "La Ligua"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5401,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 237,
-   "2024": 299,
-   "2025": 276,
+   "2023": 243,
+   "2024": 304,
+   "2025": 281,
    "COMUNA": "La Ligua"
   },
   {
@@ -4233,7 +4401,7 @@
    "CODCOM": 5401,
    "delito": "ROBOS POR SORPRESA",
    "2023": 16,
-   "2024": 17,
+   "2024": 18,
    "2025": 23,
    "COMUNA": "La Ligua"
   },
@@ -4248,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Valparaíso"
  }
 }

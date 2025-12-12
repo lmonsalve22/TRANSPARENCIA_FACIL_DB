@@ -3,26 +3,26 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 14107,
-   "2024": 2,
+   "2024": 3,
    "2025": 4,
-   "variacion": 100,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "Paillaco"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14107,
-   "2024": 138,
-   "2025": 135,
-   "variacion": -2,
+   "2024": 142,
+   "2025": 136,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "Paillaco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 14107,
-   "2024": 313,
-   "2025": 213,
+   "2024": 315,
+   "2025": 214,
    "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "Paillaco"
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 14107,
-   "2024": 153,
-   "2025": 118,
-   "variacion": -23,
+   "2024": 156,
+   "2025": 122,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "Paillaco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 14107,
-   "2024": 142,
-   "2025": 157,
-   "variacion": 11,
+   "2024": 146,
+   "2025": 160,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "Paillaco"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 14107,
-   "2024": 152,
-   "2025": 77,
+   "2024": 154,
+   "2025": 78,
    "variacion": -49,
    "situación": "Disminución de Casos",
    "COMUNA": "Paillaco"
@@ -66,10 +66,10 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 14107,
-   "2024": 33,
+   "2024": 37,
    "2025": 33,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -11,
+   "situación": "Disminución de Casos",
    "COMUNA": "Paillaco"
   },
   {
@@ -84,27 +84,27 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 14107,
-   "2024": 82,
+   "2024": 85,
    "2025": 78,
-   "variacion": -5,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "Paillaco"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 14107,
-   "2024": 7,
+   "2024": 8,
    "2025": 9,
-   "variacion": 29,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "Paillaco"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 14107,
-   "2024": 117,
-   "2025": 38,
-   "variacion": -68,
+   "2024": 118,
+   "2025": 39,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "Paillaco"
   },
@@ -129,10 +129,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 14107,
-   "2024": 14,
-   "2025": 15,
-   "variacion": 7,
-   "situación": "Aumento de Casos",
+   "2024": 16,
+   "2025": 16,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Paillaco"
   },
   {
@@ -157,17 +157,17 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 14107,
    "2024": 15,
-   "2025": 17,
-   "variacion": 13,
+   "2025": 18,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "Paillaco"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 14107,
-   "2024": 123,
-   "2025": 83,
-   "variacion": -33,
+   "2024": 132,
+   "2025": 84,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "Paillaco"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 14107,
-   "2024": 14,
-   "2025": 18,
-   "variacion": 29,
+   "2024": 15,
+   "2025": 19,
+   "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "Paillaco"
   }
@@ -376,6 +376,14 @@
    "COMUNA": "Paillaco"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Paillaco"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14107,
    "anio": 2024,
@@ -557,6 +565,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 7,
+   "COMUNA": "Paillaco"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "Paillaco"
   },
   {
@@ -744,6 +760,14 @@
    "COMUNA": "Paillaco"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Paillaco"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 14107,
    "anio": 2024,
@@ -924,6 +948,14 @@
    "CODCOM": 14107,
    "anio": 2025,
    "mes": 11,
+   "casos": 4,
+   "COMUNA": "Paillaco"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 12,
    "casos": 4,
    "COMUNA": "Paillaco"
   },
@@ -1112,6 +1144,14 @@
    "COMUNA": "Paillaco"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "Paillaco"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 14107,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 14107,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Paillaco"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Paillaco"
   },
@@ -1480,6 +1528,14 @@
    "COMUNA": "Paillaco"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Paillaco"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 14107,
    "anio": 2024,
@@ -1664,6 +1720,14 @@
    "COMUNA": "Paillaco"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Paillaco"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 14107,
    "anio": 2024,
@@ -1844,6 +1908,14 @@
    "CODCOM": 14107,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Paillaco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Paillaco"
   },
@@ -2032,6 +2104,14 @@
    "COMUNA": "Paillaco"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Paillaco"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 14107,
    "anio": 2024,
@@ -2212,6 +2292,14 @@
    "CODCOM": 14107,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Paillaco"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Paillaco"
   },
@@ -2400,6 +2488,14 @@
    "COMUNA": "Paillaco"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Paillaco"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 14107,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "Paillaco"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Paillaco"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 14107,
    "anio": 2024,
@@ -2764,6 +2868,14 @@
    "CODCOM": 14107,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Paillaco"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Paillaco"
   },
@@ -2952,6 +3064,14 @@
    "COMUNA": "Paillaco"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Paillaco"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 14107,
    "anio": 2024,
@@ -3133,6 +3253,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Paillaco"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Paillaco"
   },
   {
@@ -3316,6 +3444,14 @@
    "CODCOM": 14107,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Paillaco"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Paillaco"
   },
@@ -3501,6 +3637,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 0,
+   "COMUNA": "Paillaco"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "Paillaco"
   },
   {
@@ -3688,6 +3832,14 @@
    "COMUNA": "Paillaco"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Paillaco"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 14107,
    "anio": 2024,
@@ -3868,6 +4020,14 @@
    "CODCOM": 14107,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Paillaco"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Paillaco"
   },
@@ -4054,6 +4214,14 @@
    "mes": 11,
    "casos": 2,
    "COMUNA": "Paillaco"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Paillaco"
   }
  ],
  "info": [
@@ -4062,7 +4230,7 @@
    "CODCOM": 14107,
    "delito": "AMENAZAS CON ARMAS",
    "2023": 6,
-   "2024": 2,
+   "2024": 3,
    "2025": 4,
    "COMUNA": "Paillaco"
   },
@@ -4070,36 +4238,36 @@
    "informacion": "Casos",
    "CODCOM": 14107,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 111,
-   "2024": 138,
-   "2025": 135,
+   "2023": 114,
+   "2024": 142,
+   "2025": 136,
    "COMUNA": "Paillaco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14107,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 151,
-   "2024": 313,
-   "2025": 213,
+   "2023": 153,
+   "2024": 315,
+   "2025": 214,
    "COMUNA": "Paillaco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14107,
    "delito": "DAÑOS",
-   "2023": 179,
-   "2024": 153,
-   "2025": 118,
+   "2023": 183,
+   "2024": 156,
+   "2025": 122,
    "COMUNA": "Paillaco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14107,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 164,
-   "2024": 142,
-   "2025": 157,
+   "2023": 168,
+   "2024": 146,
+   "2025": 160,
    "COMUNA": "Paillaco"
   },
   {
@@ -4116,16 +4284,16 @@
    "CODCOM": 14107,
    "delito": "HURTOS",
    "2023": 125,
-   "2024": 152,
-   "2025": 77,
+   "2024": 154,
+   "2025": 78,
    "COMUNA": "Paillaco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14107,
    "delito": "INCIVILIDADES",
-   "2023": 22,
-   "2024": 33,
+   "2023": 23,
+   "2024": 37,
    "2025": 33,
    "COMUNA": "Paillaco"
   },
@@ -4142,8 +4310,8 @@
    "informacion": "Casos",
    "CODCOM": 14107,
    "delito": "LESIONES LEVES",
-   "2023": 75,
-   "2024": 82,
+   "2023": 76,
+   "2024": 85,
    "2025": 78,
    "COMUNA": "Paillaco"
   },
@@ -4152,7 +4320,7 @@
    "CODCOM": 14107,
    "delito": "LESIONES MENOS GRAVES",
    "2023": 13,
-   "2024": 7,
+   "2024": 8,
    "2025": 9,
    "COMUNA": "Paillaco"
   },
@@ -4161,8 +4329,8 @@
    "CODCOM": 14107,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 8,
-   "2024": 117,
-   "2025": 38,
+   "2024": 118,
+   "2025": 39,
    "COMUNA": "Paillaco"
   },
   {
@@ -4188,8 +4356,8 @@
    "CODCOM": 14107,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 15,
-   "2024": 14,
-   "2025": 15,
+   "2024": 16,
+   "2025": 16,
    "COMUNA": "Paillaco"
   },
   {
@@ -4214,18 +4382,18 @@
    "informacion": "Casos",
    "CODCOM": 14107,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 16,
+   "2023": 17,
    "2024": 15,
-   "2025": 17,
+   "2025": 18,
    "COMUNA": "Paillaco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14107,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 81,
-   "2024": 123,
-   "2025": 83,
+   "2023": 82,
+   "2024": 132,
+   "2025": 84,
    "COMUNA": "Paillaco"
   },
   {
@@ -4241,14 +4409,14 @@
    "informacion": "Casos",
    "CODCOM": 14107,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 17,
-   "2024": 14,
-   "2025": 18,
+   "2023": 18,
+   "2024": 15,
+   "2025": 19,
    "COMUNA": "Paillaco"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Los Ríos"
  }
 }

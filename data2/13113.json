@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13113,
-   "2024": 336,
-   "2025": 292,
-   "variacion": -13,
+   "2024": 343,
+   "2025": 295,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "La Reina"
   },
@@ -22,25 +22,25 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13113,
    "2024": 191,
-   "2025": 138,
-   "variacion": -28,
+   "2025": 139,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "La Reina"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 13113,
-   "2024": 537,
-   "2025": 510,
-   "variacion": -5,
+   "2024": 555,
+   "2025": 522,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "La Reina"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13113,
-   "2024": 396,
-   "2025": 343,
+   "2024": 402,
+   "2025": 351,
    "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "La Reina"
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13113,
-   "2024": 743,
-   "2025": 665,
-   "variacion": -10,
+   "2024": 764,
+   "2025": 675,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "La Reina"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 13113,
-   "2024": 58,
-   "2025": 47,
-   "variacion": -19,
+   "2024": 60,
+   "2025": 48,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "La Reina"
   },
@@ -84,8 +84,8 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 13113,
-   "2024": 174,
-   "2025": 164,
+   "2024": 176,
+   "2025": 165,
    "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "La Reina"
@@ -93,18 +93,18 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 13113,
-   "2024": 15,
+   "2024": 16,
    "2025": 15,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -6,
+   "situación": "Disminución de Casos",
    "COMUNA": "La Reina"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 13113,
-   "2024": 110,
-   "2025": 89,
-   "variacion": -19,
+   "2024": 114,
+   "2025": 90,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "La Reina"
   },
@@ -129,8 +129,8 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 13113,
-   "2024": 70,
-   "2025": 72,
+   "2024": 71,
+   "2025": 73,
    "variacion": 3,
    "situación": "Aumento de Casos",
    "COMUNA": "La Reina"
@@ -147,8 +147,8 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 13113,
-   "2024": 266,
-   "2025": 201,
+   "2024": 268,
+   "2025": 205,
    "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "La Reina"
@@ -156,8 +156,8 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 13113,
-   "2024": 614,
-   "2025": 541,
+   "2024": 628,
+   "2025": 551,
    "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "La Reina"
@@ -165,8 +165,8 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13113,
-   "2024": 319,
-   "2025": 398,
+   "2024": 326,
+   "2025": 406,
    "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "La Reina"
@@ -174,8 +174,8 @@
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13113,
-   "2024": 146,
-   "2025": 141,
+   "2024": 147,
+   "2025": 142,
    "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "La Reina"
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 13113,
-   "2024": 44,
-   "2025": 39,
-   "variacion": -11,
+   "2024": 45,
+   "2025": 41,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "La Reina"
   }
@@ -376,6 +376,14 @@
    "COMUNA": "La Reina"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "La Reina"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13113,
    "anio": 2024,
@@ -557,6 +565,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 20,
+   "COMUNA": "La Reina"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 3,
    "COMUNA": "La Reina"
   },
   {
@@ -744,6 +760,14 @@
    "COMUNA": "La Reina"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "La Reina"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 13113,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 40,
+   "COMUNA": "La Reina"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 12,
    "COMUNA": "La Reina"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "La Reina"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 8,
+   "COMUNA": "La Reina"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 13113,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 13113,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "La Reina"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "La Reina"
   },
@@ -1480,6 +1528,14 @@
    "COMUNA": "La Reina"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 10,
+   "COMUNA": "La Reina"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 13113,
    "anio": 2024,
@@ -1664,6 +1720,14 @@
    "COMUNA": "La Reina"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "La Reina"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 13113,
    "anio": 2024,
@@ -1844,6 +1908,14 @@
    "CODCOM": 13113,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "La Reina"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "La Reina"
   },
@@ -2032,6 +2104,14 @@
    "COMUNA": "La Reina"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "La Reina"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 13113,
    "anio": 2024,
@@ -2212,6 +2292,14 @@
    "CODCOM": 13113,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "La Reina"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "La Reina"
   },
@@ -2400,6 +2488,14 @@
    "COMUNA": "La Reina"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "La Reina"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 13113,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "La Reina"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "La Reina"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 13113,
    "anio": 2024,
@@ -2764,6 +2868,14 @@
    "CODCOM": 13113,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "La Reina"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "La Reina"
   },
@@ -2952,6 +3064,14 @@
    "COMUNA": "La Reina"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "La Reina"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 13113,
    "anio": 2024,
@@ -3132,6 +3252,14 @@
    "CODCOM": 13113,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "La Reina"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "La Reina"
   },
@@ -3320,6 +3448,14 @@
    "COMUNA": "La Reina"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "La Reina"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 13113,
    "anio": 2024,
@@ -3501,6 +3637,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 21,
+   "COMUNA": "La Reina"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 10,
    "COMUNA": "La Reina"
   },
   {
@@ -3688,6 +3832,14 @@
    "COMUNA": "La Reina"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 8,
+   "COMUNA": "La Reina"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13113,
    "anio": 2024,
@@ -3869,6 +4021,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 4,
+   "COMUNA": "La Reina"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "La Reina"
   },
   {
@@ -4054,6 +4214,14 @@
    "mes": 11,
    "casos": 2,
    "COMUNA": "La Reina"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "La Reina"
   }
  ],
  "info": [
@@ -4070,36 +4238,36 @@
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 282,
-   "2024": 336,
-   "2025": 292,
+   "2023": 287,
+   "2024": 343,
+   "2025": 295,
    "COMUNA": "La Reina"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 408,
+   "2023": 435,
    "2024": 191,
-   "2025": 138,
+   "2025": 139,
    "COMUNA": "La Reina"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "DAÑOS",
-   "2023": 490,
-   "2024": 537,
-   "2025": 510,
+   "2023": 500,
+   "2024": 555,
+   "2025": 522,
    "COMUNA": "La Reina"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 309,
-   "2024": 396,
-   "2025": 343,
+   "2023": 317,
+   "2024": 402,
+   "2025": 351,
    "COMUNA": "La Reina"
   },
   {
@@ -4115,9 +4283,9 @@
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "HURTOS",
-   "2023": 914,
-   "2024": 743,
-   "2025": 665,
+   "2023": 933,
+   "2024": 764,
+   "2025": 675,
    "COMUNA": "La Reina"
   },
   {
@@ -4125,15 +4293,15 @@
    "CODCOM": 13113,
    "delito": "INCIVILIDADES",
    "2023": 105,
-   "2024": 58,
-   "2025": 47,
+   "2024": 60,
+   "2025": 48,
    "COMUNA": "La Reina"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "LESIONES GRAVES",
-   "2023": 16,
+   "2023": 17,
    "2024": 25,
    "2025": 21,
    "COMUNA": "La Reina"
@@ -4142,9 +4310,9 @@
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "LESIONES LEVES",
-   "2023": 166,
-   "2024": 174,
-   "2025": 164,
+   "2023": 171,
+   "2024": 176,
+   "2025": 165,
    "COMUNA": "La Reina"
   },
   {
@@ -4152,7 +4320,7 @@
    "CODCOM": 13113,
    "delito": "LESIONES MENOS GRAVES",
    "2023": 9,
-   "2024": 15,
+   "2024": 16,
    "2025": 15,
    "COMUNA": "La Reina"
   },
@@ -4161,8 +4329,8 @@
    "CODCOM": 13113,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 25,
-   "2024": 110,
-   "2025": 89,
+   "2024": 114,
+   "2025": 90,
    "COMUNA": "La Reina"
   },
   {
@@ -4188,8 +4356,8 @@
    "CODCOM": 13113,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 51,
-   "2024": 70,
-   "2025": 72,
+   "2024": 71,
+   "2025": 73,
    "COMUNA": "La Reina"
   },
   {
@@ -4205,50 +4373,50 @@
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 255,
-   "2024": 266,
-   "2025": 201,
+   "2023": 262,
+   "2024": 268,
+   "2025": 205,
    "COMUNA": "La Reina"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 430,
-   "2024": 614,
-   "2025": 541,
+   "2023": 439,
+   "2024": 628,
+   "2025": 551,
    "COMUNA": "La Reina"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 344,
-   "2024": 319,
-   "2025": 398,
+   "2023": 354,
+   "2024": 326,
+   "2025": 406,
    "COMUNA": "La Reina"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "ROBOS POR SORPRESA",
-   "2023": 127,
-   "2024": 146,
-   "2025": 141,
+   "2023": 129,
+   "2024": 147,
+   "2025": 142,
    "COMUNA": "La Reina"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 43,
-   "2024": 44,
-   "2025": 39,
+   "2023": 44,
+   "2024": 45,
+   "2025": 41,
    "COMUNA": "La Reina"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Metropolitana"
  }
 }

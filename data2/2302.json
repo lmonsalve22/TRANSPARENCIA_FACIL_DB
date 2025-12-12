@@ -12,27 +12,27 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 2302,
-   "2024": 58,
+   "2024": 59,
    "2025": 64,
-   "variacion": 10,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "María Elena"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 2302,
-   "2024": 241,
+   "2024": 254,
    "2025": 320,
-   "variacion": 33,
+   "variacion": 26,
    "situación": "Aumento de Casos",
    "COMUNA": "María Elena"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 2302,
-   "2024": 40,
+   "2024": 41,
    "2025": 32,
-   "variacion": -20,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "María Elena"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 2302,
-   "2024": 28,
-   "2025": 35,
-   "variacion": 25,
+   "2024": 30,
+   "2025": 37,
+   "variacion": 23,
    "situación": "Aumento de Casos",
    "COMUNA": "María Elena"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 2302,
    "2024": 50,
-   "2025": 58,
-   "variacion": 16,
+   "2025": 61,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "María Elena"
   },
@@ -85,26 +85,26 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 2302,
    "2024": 42,
-   "2025": 27,
-   "variacion": -36,
+   "2025": 28,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "María Elena"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 2302,
-   "2024": 3,
+   "2024": 4,
    "2025": 4,
-   "variacion": 33,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "María Elena"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 2302,
    "2024": 0,
-   "2025": 1,
-   "variacion": 100,
+   "2025": 2,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "María Elena"
   },
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 2302,
-   "2024": 12,
+   "2024": 13,
    "2025": 15,
-   "variacion": 25,
+   "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "María Elena"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 2302,
-   "2024": 60,
+   "2024": 61,
    "2025": 79,
-   "variacion": 32,
+   "variacion": 30,
    "situación": "Aumento de Casos",
    "COMUNA": "María Elena"
   },
@@ -376,6 +376,14 @@
    "COMUNA": "María Elena"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "María Elena"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 2302,
    "anio": 2024,
@@ -557,6 +565,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 7,
+   "COMUNA": "María Elena"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "María Elena"
   },
   {
@@ -744,6 +760,14 @@
    "COMUNA": "María Elena"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "María Elena"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 2302,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 2,
+   "COMUNA": "María Elena"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "María Elena"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "María Elena"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "María Elena"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 2302,
    "anio": 2024,
@@ -1397,6 +1437,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 3,
+   "COMUNA": "María Elena"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
    "COMUNA": "María Elena"
   },
   {
@@ -1584,6 +1632,14 @@
    "COMUNA": "María Elena"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "María Elena"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 2302,
    "anio": 2024,
@@ -1764,6 +1820,14 @@
    "CODCOM": 2302,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "María Elena"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "María Elena"
   },
@@ -1952,6 +2016,14 @@
    "COMUNA": "María Elena"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "María Elena"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 2302,
    "anio": 2024,
@@ -2136,6 +2208,14 @@
    "COMUNA": "María Elena"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "María Elena"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 2302,
    "anio": 2024,
@@ -2317,6 +2397,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 0,
+   "COMUNA": "María Elena"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "María Elena"
   },
   {
@@ -2504,6 +2592,14 @@
    "COMUNA": "María Elena"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "María Elena"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 2302,
    "anio": 2024,
@@ -2684,6 +2780,14 @@
    "CODCOM": 2302,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "María Elena"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "María Elena"
   },
@@ -2872,6 +2976,14 @@
    "COMUNA": "María Elena"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "María Elena"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 2302,
    "anio": 2024,
@@ -3052,6 +3164,14 @@
    "CODCOM": 2302,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "María Elena"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "María Elena"
   },
@@ -3237,6 +3357,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "María Elena"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "María Elena"
   },
   {
@@ -3420,6 +3548,14 @@
    "CODCOM": 2302,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "María Elena"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "María Elena"
   },
@@ -3608,6 +3744,14 @@
    "COMUNA": "María Elena"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "María Elena"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 2302,
    "anio": 2024,
@@ -3788,6 +3932,14 @@
    "CODCOM": 2302,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "María Elena"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "María Elena"
   },
@@ -3973,6 +4125,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "María Elena"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "María Elena"
   }
  ],
@@ -3991,7 +4151,7 @@
    "CODCOM": 2302,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 51,
-   "2024": 58,
+   "2024": 59,
    "2025": 64,
    "COMUNA": "María Elena"
   },
@@ -3999,8 +4159,8 @@
    "informacion": "Casos",
    "CODCOM": 2302,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 228,
-   "2024": 241,
+   "2023": 232,
+   "2024": 254,
    "2025": 320,
    "COMUNA": "María Elena"
   },
@@ -4008,8 +4168,8 @@
    "informacion": "Casos",
    "CODCOM": 2302,
    "delito": "DAÑOS",
-   "2023": 58,
-   "2024": 40,
+   "2023": 59,
+   "2024": 41,
    "2025": 32,
    "COMUNA": "María Elena"
   },
@@ -4017,7 +4177,7 @@
    "informacion": "Casos",
    "CODCOM": 2302,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 56,
+   "2023": 57,
    "2024": 54,
    "2025": 47,
    "COMUNA": "María Elena"
@@ -4036,8 +4196,8 @@
    "CODCOM": 2302,
    "delito": "HURTOS",
    "2023": 23,
-   "2024": 28,
-   "2025": 35,
+   "2024": 30,
+   "2025": 37,
    "COMUNA": "María Elena"
   },
   {
@@ -4046,7 +4206,7 @@
    "delito": "INCIVILIDADES",
    "2023": 32,
    "2024": 50,
-   "2025": 58,
+   "2025": 61,
    "COMUNA": "María Elena"
   },
   {
@@ -4064,7 +4224,7 @@
    "delito": "LESIONES LEVES",
    "2023": 41,
    "2024": 42,
-   "2025": 27,
+   "2025": 28,
    "COMUNA": "María Elena"
   },
   {
@@ -4072,7 +4232,7 @@
    "CODCOM": 2302,
    "delito": "LESIONES MENOS GRAVES",
    "2023": 3,
-   "2024": 3,
+   "2024": 4,
    "2025": 4,
    "COMUNA": "María Elena"
   },
@@ -4082,7 +4242,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 2,
    "2024": 0,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "María Elena"
   },
   {
@@ -4126,7 +4286,7 @@
    "CODCOM": 2302,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 14,
-   "2024": 12,
+   "2024": 13,
    "2025": 15,
    "COMUNA": "María Elena"
   },
@@ -4134,7 +4294,7 @@
    "informacion": "Casos",
    "CODCOM": 2302,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 23,
+   "2023": 25,
    "2024": 23,
    "2025": 22,
    "COMUNA": "María Elena"
@@ -4143,8 +4303,8 @@
    "informacion": "Casos",
    "CODCOM": 2302,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 54,
-   "2024": 60,
+   "2023": 56,
+   "2024": 61,
    "2025": 79,
    "COMUNA": "María Elena"
   },
@@ -4168,7 +4328,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Antofagasta"
  }
 }

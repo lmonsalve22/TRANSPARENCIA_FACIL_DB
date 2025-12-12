@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7203,
-   "2024": 60,
-   "2025": 84,
-   "variacion": 40,
+   "2024": 68,
+   "2025": 87,
+   "variacion": 28,
    "situación": "Aumento de Casos",
    "COMUNA": "Pelluhue"
   },
@@ -22,17 +22,17 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7203,
    "2024": 164,
-   "2025": 158,
-   "variacion": -4,
+   "2025": 162,
+   "variacion": -1,
    "situación": "Disminución de Casos",
    "COMUNA": "Pelluhue"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7203,
-   "2024": 81,
-   "2025": 77,
-   "variacion": -5,
+   "2024": 83,
+   "2025": 78,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "Pelluhue"
   },
@@ -40,9 +40,9 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7203,
    "2024": 75,
-   "2025": 75,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 77,
+   "variacion": 3,
+   "situación": "Aumento de Casos",
    "COMUNA": "Pelluhue"
   },
   {
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 7203,
    "2024": 37,
-   "2025": 62,
-   "variacion": 68,
+   "2025": 64,
+   "variacion": 73,
    "situación": "Aumento de Casos",
    "COMUNA": "Pelluhue"
   },
@@ -76,8 +76,8 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 7203,
    "2024": 11,
-   "2025": 4,
-   "variacion": -64,
+   "2025": 5,
+   "variacion": -55,
    "situación": "Disminución de Casos",
    "COMUNA": "Pelluhue"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 7203,
    "2024": 49,
-   "2025": 41,
-   "variacion": -16,
+   "2025": 44,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "Pelluhue"
   },
@@ -139,8 +139,8 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 7203,
    "2024": 2,
-   "2025": 3,
-   "variacion": 50,
+   "2025": 4,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Pelluhue"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7203,
-   "2024": 57,
+   "2024": 59,
    "2025": 47,
-   "variacion": -18,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Pelluhue"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 7203,
    "2024": 11,
-   "2025": 5,
-   "variacion": -55,
+   "2025": 6,
+   "variacion": -45,
    "situación": "Disminución de Casos",
    "COMUNA": "Pelluhue"
   }
@@ -376,6 +376,14 @@
    "COMUNA": "Pelluhue"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7203,
    "anio": 2024,
@@ -557,6 +565,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 5,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 3,
    "COMUNA": "Pelluhue"
   },
   {
@@ -744,6 +760,14 @@
    "COMUNA": "Pelluhue"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "Pelluhue"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 7203,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 2,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "Pelluhue"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "Pelluhue"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Pelluhue"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 7203,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 7203,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Pelluhue"
   },
@@ -1476,6 +1524,14 @@
    "CODCOM": 7203,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Pelluhue"
   },
@@ -1664,6 +1720,14 @@
    "COMUNA": "Pelluhue"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Pelluhue"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 7203,
    "anio": 2024,
@@ -1844,6 +1908,14 @@
    "CODCOM": 7203,
    "anio": 2025,
    "mes": 11,
+   "casos": 1,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
    "casos": 1,
    "COMUNA": "Pelluhue"
   },
@@ -2032,6 +2104,14 @@
    "COMUNA": "Pelluhue"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "Pelluhue"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7203,
    "anio": 2024,
@@ -2216,6 +2296,14 @@
    "COMUNA": "Pelluhue"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7203,
    "anio": 2024,
@@ -2400,6 +2488,14 @@
    "COMUNA": "Pelluhue"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7203,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "Pelluhue"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 7203,
    "anio": 2024,
@@ -2764,6 +2868,14 @@
    "CODCOM": 7203,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Pelluhue"
   },
@@ -2952,6 +3064,14 @@
    "COMUNA": "Pelluhue"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 7203,
    "anio": 2024,
@@ -3133,6 +3253,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "Pelluhue"
   },
   {
@@ -3320,6 +3448,14 @@
    "COMUNA": "Pelluhue"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 7203,
    "anio": 2024,
@@ -3500,6 +3636,14 @@
    "CODCOM": 7203,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Pelluhue"
   },
@@ -3688,6 +3832,14 @@
    "COMUNA": "Pelluhue"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 7203,
    "anio": 2024,
@@ -3868,6 +4020,14 @@
    "CODCOM": 7203,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Pelluhue"
   },
@@ -4053,6 +4213,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "Pelluhue"
   }
  ],
@@ -4070,36 +4238,36 @@
    "informacion": "Casos",
    "CODCOM": 7203,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 88,
-   "2024": 60,
-   "2025": 84,
+   "2023": 91,
+   "2024": 68,
+   "2025": 87,
    "COMUNA": "Pelluhue"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7203,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 172,
+   "2023": 174,
    "2024": 164,
-   "2025": 158,
+   "2025": 162,
    "COMUNA": "Pelluhue"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7203,
    "delito": "DAÑOS",
-   "2023": 102,
-   "2024": 81,
-   "2025": 77,
+   "2023": 104,
+   "2024": 83,
+   "2025": 78,
    "COMUNA": "Pelluhue"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7203,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 89,
+   "2023": 93,
    "2024": 75,
-   "2025": 75,
+   "2025": 77,
    "COMUNA": "Pelluhue"
   },
   {
@@ -4115,7 +4283,7 @@
    "informacion": "Casos",
    "CODCOM": 7203,
    "delito": "HURTOS",
-   "2023": 52,
+   "2023": 54,
    "2024": 46,
    "2025": 32,
    "COMUNA": "Pelluhue"
@@ -4126,7 +4294,7 @@
    "delito": "INCIVILIDADES",
    "2023": 35,
    "2024": 37,
-   "2025": 62,
+   "2025": 64,
    "COMUNA": "Pelluhue"
   },
   {
@@ -4135,16 +4303,16 @@
    "delito": "LESIONES GRAVES",
    "2023": 3,
    "2024": 11,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "Pelluhue"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7203,
    "delito": "LESIONES LEVES",
-   "2023": 47,
+   "2023": 49,
    "2024": 49,
-   "2025": 41,
+   "2025": 44,
    "COMUNA": "Pelluhue"
   },
   {
@@ -4160,7 +4328,7 @@
    "informacion": "Casos",
    "CODCOM": 7203,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 10,
+   "2023": 11,
    "2024": 8,
    "2025": 4,
    "COMUNA": "Pelluhue"
@@ -4198,7 +4366,7 @@
    "delito": "RECEPTACIÓN",
    "2023": 5,
    "2024": 2,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "Pelluhue"
   },
   {
@@ -4214,7 +4382,7 @@
    "informacion": "Casos",
    "CODCOM": 7203,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 5,
+   "2023": 6,
    "2024": 10,
    "2025": 7,
    "COMUNA": "Pelluhue"
@@ -4224,7 +4392,7 @@
    "CODCOM": 7203,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 63,
-   "2024": 57,
+   "2024": 59,
    "2025": 47,
    "COMUNA": "Pelluhue"
   },
@@ -4243,12 +4411,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 15,
    "2024": 11,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "Pelluhue"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Maule"
  }
 }

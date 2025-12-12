@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13105,
-   "2024": 1568,
-   "2025": 1373,
+   "2024": 1602,
+   "2025": 1404,
    "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "El Bosque"
@@ -21,17 +21,17 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13105,
-   "2024": 262,
+   "2024": 269,
    "2025": 182,
-   "variacion": -31,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "El Bosque"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 13105,
-   "2024": 646,
-   "2025": 533,
+   "2024": 654,
+   "2025": 541,
    "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "El Bosque"
@@ -39,8 +39,8 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13105,
-   "2024": 953,
-   "2025": 954,
+   "2024": 968,
+   "2025": 966,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "El Bosque"
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13105,
-   "2024": 620,
-   "2025": 578,
-   "variacion": -7,
+   "2024": 633,
+   "2025": 592,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "El Bosque"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 13105,
-   "2024": 104,
+   "2024": 106,
    "2025": 70,
-   "variacion": -33,
+   "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "El Bosque"
   },
@@ -76,17 +76,17 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 13105,
    "2024": 56,
-   "2025": 29,
-   "variacion": -48,
+   "2025": 30,
+   "variacion": -46,
    "situación": "Disminución de Casos",
    "COMUNA": "El Bosque"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 13105,
-   "2024": 355,
-   "2025": 381,
-   "variacion": 7,
+   "2024": 359,
+   "2025": 393,
+   "variacion": 9,
    "situación": "Aumento de Casos",
    "COMUNA": "El Bosque"
   },
@@ -94,16 +94,16 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 13105,
    "2024": 51,
-   "2025": 73,
-   "variacion": 43,
+   "2025": 77,
+   "variacion": 51,
    "situación": "Aumento de Casos",
    "COMUNA": "El Bosque"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 13105,
-   "2024": 163,
-   "2025": 234,
+   "2024": 165,
+   "2025": 238,
    "variacion": 44,
    "situación": "Aumento de Casos",
    "COMUNA": "El Bosque"
@@ -111,9 +111,9 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 13105,
-   "2024": 117,
-   "2025": 139,
-   "variacion": 19,
+   "2024": 118,
+   "2025": 144,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "El Bosque"
   },
@@ -147,17 +147,17 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 13105,
-   "2024": 872,
-   "2025": 634,
-   "variacion": -27,
+   "2024": 880,
+   "2025": 649,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "El Bosque"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 13105,
-   "2024": 653,
-   "2025": 598,
+   "2024": 666,
+   "2025": 614,
    "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "El Bosque"
@@ -165,18 +165,18 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13105,
-   "2024": 319,
-   "2025": 400,
-   "variacion": 25,
+   "2024": 324,
+   "2025": 407,
+   "variacion": 26,
    "situación": "Aumento de Casos",
    "COMUNA": "El Bosque"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13105,
-   "2024": 236,
-   "2025": 208,
-   "variacion": -12,
+   "2024": 242,
+   "2025": 210,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "El Bosque"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 13105,
    "2024": 128,
-   "2025": 119,
-   "variacion": -7,
+   "2025": 120,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "El Bosque"
   }
@@ -376,6 +376,14 @@
    "COMUNA": "El Bosque"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "El Bosque"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13105,
    "anio": 2024,
@@ -557,6 +565,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 72,
+   "COMUNA": "El Bosque"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 31,
    "COMUNA": "El Bosque"
   },
   {
@@ -744,6 +760,14 @@
    "COMUNA": "El Bosque"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "El Bosque"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 13105,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 39,
+   "COMUNA": "El Bosque"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 8,
    "COMUNA": "El Bosque"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "El Bosque"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 12,
+   "COMUNA": "El Bosque"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 13105,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 13105,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "El Bosque"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "El Bosque"
   },
@@ -1480,6 +1528,14 @@
    "COMUNA": "El Bosque"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 14,
+   "COMUNA": "El Bosque"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 13105,
    "anio": 2024,
@@ -1664,6 +1720,14 @@
    "COMUNA": "El Bosque"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "El Bosque"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 13105,
    "anio": 2024,
@@ -1844,6 +1908,14 @@
    "CODCOM": 13105,
    "anio": 2025,
    "mes": 11,
+   "casos": 1,
+   "COMUNA": "El Bosque"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 12,
    "casos": 1,
    "COMUNA": "El Bosque"
   },
@@ -2032,6 +2104,14 @@
    "COMUNA": "El Bosque"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 12,
+   "COMUNA": "El Bosque"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 13105,
    "anio": 2024,
@@ -2213,6 +2293,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 7,
+   "COMUNA": "El Bosque"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 4,
    "COMUNA": "El Bosque"
   },
   {
@@ -2400,6 +2488,14 @@
    "COMUNA": "El Bosque"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "El Bosque"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 13105,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "El Bosque"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 5,
+   "COMUNA": "El Bosque"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 13105,
    "anio": 2024,
@@ -2764,6 +2868,14 @@
    "CODCOM": 13105,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "El Bosque"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "El Bosque"
   },
@@ -2948,6 +3060,14 @@
    "CODCOM": 13105,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "El Bosque"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "El Bosque"
   },
@@ -3136,6 +3256,14 @@
    "COMUNA": "El Bosque"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "El Bosque"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 13105,
    "anio": 2024,
@@ -3317,6 +3445,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 37,
+   "COMUNA": "El Bosque"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 15,
    "COMUNA": "El Bosque"
   },
   {
@@ -3504,6 +3640,14 @@
    "COMUNA": "El Bosque"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 16,
+   "COMUNA": "El Bosque"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13105,
    "anio": 2024,
@@ -3685,6 +3829,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 30,
+   "COMUNA": "El Bosque"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 7,
    "COMUNA": "El Bosque"
   },
   {
@@ -3872,6 +4024,14 @@
    "COMUNA": "El Bosque"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "El Bosque"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 13105,
    "anio": 2024,
@@ -4054,6 +4214,14 @@
    "mes": 11,
    "casos": 4,
    "COMUNA": "El Bosque"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "El Bosque"
   }
  ],
  "info": [
@@ -4070,9 +4238,9 @@
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 1364,
-   "2024": 1568,
-   "2025": 1373,
+   "2023": 1406,
+   "2024": 1602,
+   "2025": 1404,
    "COMUNA": "El Bosque"
   },
   {
@@ -4080,7 +4248,7 @@
    "CODCOM": 13105,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 172,
-   "2024": 262,
+   "2024": 269,
    "2025": 182,
    "COMUNA": "El Bosque"
   },
@@ -4088,18 +4256,18 @@
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "DAÑOS",
-   "2023": 488,
-   "2024": 646,
-   "2025": 533,
+   "2023": 502,
+   "2024": 654,
+   "2025": 541,
    "COMUNA": "El Bosque"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 823,
-   "2024": 953,
-   "2025": 954,
+   "2023": 846,
+   "2024": 968,
+   "2025": 966,
    "COMUNA": "El Bosque"
   },
   {
@@ -4115,9 +4283,9 @@
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "HURTOS",
-   "2023": 470,
-   "2024": 620,
-   "2025": 578,
+   "2023": 480,
+   "2024": 633,
+   "2025": 592,
    "COMUNA": "El Bosque"
   },
   {
@@ -4125,7 +4293,7 @@
    "CODCOM": 13105,
    "delito": "INCIVILIDADES",
    "2023": 58,
-   "2024": 104,
+   "2024": 106,
    "2025": 70,
    "COMUNA": "El Bosque"
   },
@@ -4133,18 +4301,18 @@
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "LESIONES GRAVES",
-   "2023": 77,
+   "2023": 78,
    "2024": 56,
-   "2025": 29,
+   "2025": 30,
    "COMUNA": "El Bosque"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "LESIONES LEVES",
-   "2023": 387,
-   "2024": 355,
-   "2025": 381,
+   "2023": 400,
+   "2024": 359,
+   "2025": 393,
    "COMUNA": "El Bosque"
   },
   {
@@ -4153,7 +4321,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2023": 46,
    "2024": 51,
-   "2025": 73,
+   "2025": 77,
    "COMUNA": "El Bosque"
   },
   {
@@ -4161,17 +4329,17 @@
    "CODCOM": 13105,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 100,
-   "2024": 163,
-   "2025": 234,
+   "2024": 165,
+   "2025": 238,
    "COMUNA": "El Bosque"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "LEY DE DROGAS",
-   "2023": 97,
-   "2024": 117,
-   "2025": 139,
+   "2023": 100,
+   "2024": 118,
+   "2025": 144,
    "COMUNA": "El Bosque"
   },
   {
@@ -4187,7 +4355,7 @@
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "2023": 18,
+   "2023": 19,
    "2024": 25,
    "2025": 36,
    "COMUNA": "El Bosque"
@@ -4196,7 +4364,7 @@
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "RECEPTACIÓN",
-   "2023": 78,
+   "2023": 79,
    "2024": 48,
    "2025": 58,
    "COMUNA": "El Bosque"
@@ -4205,50 +4373,50 @@
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 900,
-   "2024": 872,
-   "2025": 634,
+   "2023": 928,
+   "2024": 880,
+   "2025": 649,
    "COMUNA": "El Bosque"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 583,
-   "2024": 653,
-   "2025": 598,
+   "2023": 593,
+   "2024": 666,
+   "2025": 614,
    "COMUNA": "El Bosque"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 276,
-   "2024": 319,
-   "2025": 400,
+   "2023": 283,
+   "2024": 324,
+   "2025": 407,
    "COMUNA": "El Bosque"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "ROBOS POR SORPRESA",
-   "2023": 226,
-   "2024": 236,
-   "2025": 208,
+   "2023": 232,
+   "2024": 242,
+   "2025": 210,
    "COMUNA": "El Bosque"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 96,
+   "2023": 98,
    "2024": 128,
-   "2025": 119,
+   "2025": 120,
    "COMUNA": "El Bosque"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Metropolitana"
  }
 }

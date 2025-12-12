@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8310,
-   "2024": 44,
+   "2024": 45,
    "2025": 51,
-   "variacion": 16,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "San Rosendo"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 8310,
-   "2024": 60,
+   "2024": 61,
    "2025": 57,
-   "variacion": -5,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rosendo"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8310,
    "2024": 37,
-   "2025": 32,
-   "variacion": -14,
+   "2025": 33,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rosendo"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8310,
-   "2024": 24,
+   "2024": 26,
    "2025": 13,
-   "variacion": -46,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rosendo"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8310,
-   "2024": 14,
+   "2024": 15,
    "2025": 22,
-   "variacion": 57,
+   "variacion": 47,
    "situación": "Aumento de Casos",
    "COMUNA": "San Rosendo"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 8310,
    "2024": 17,
-   "2025": 31,
-   "variacion": 82,
+   "2025": 32,
+   "variacion": 88,
    "situación": "Aumento de Casos",
    "COMUNA": "San Rosendo"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 8310,
    "2024": 13,
-   "2025": 15,
-   "variacion": 15,
+   "2025": 16,
+   "variacion": 23,
    "situación": "Aumento de Casos",
    "COMUNA": "San Rosendo"
   },
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8310,
-   "2024": 4,
+   "2024": 5,
    "2025": 6,
-   "variacion": 50,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "San Rosendo"
   },
@@ -148,26 +148,26 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8310,
    "2024": 7,
-   "2025": 5,
-   "variacion": -29,
+   "2025": 6,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rosendo"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8310,
-   "2024": 8,
+   "2024": 9,
    "2025": 8,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -11,
+   "situación": "Disminución de Casos",
    "COMUNA": "San Rosendo"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8310,
-   "2024": 27,
-   "2025": 33,
-   "variacion": 22,
+   "2024": 28,
+   "2025": 34,
+   "variacion": 21,
    "situación": "Aumento de Casos",
    "COMUNA": "San Rosendo"
   },
@@ -376,6 +376,14 @@
    "COMUNA": "San Rosendo"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Rosendo"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8310,
    "anio": 2024,
@@ -560,6 +568,14 @@
    "COMUNA": "San Rosendo"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Rosendo"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8310,
    "anio": 2024,
@@ -740,6 +756,14 @@
    "CODCOM": 8310,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Rosendo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "San Rosendo"
   },
@@ -928,6 +952,14 @@
    "COMUNA": "San Rosendo"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Rosendo"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8310,
    "anio": 2024,
@@ -1112,6 +1144,14 @@
    "COMUNA": "San Rosendo"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "San Rosendo"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 8310,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 8310,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Rosendo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "San Rosendo"
   },
@@ -1476,6 +1524,14 @@
    "CODCOM": 8310,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Rosendo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "San Rosendo"
   },
@@ -1664,6 +1720,14 @@
    "COMUNA": "San Rosendo"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Rosendo"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8310,
    "anio": 2024,
@@ -1844,6 +1908,14 @@
    "CODCOM": 8310,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Rosendo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "San Rosendo"
   },
@@ -2032,6 +2104,14 @@
    "COMUNA": "San Rosendo"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "San Rosendo"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8310,
    "anio": 2024,
@@ -2212,6 +2292,14 @@
    "CODCOM": 8310,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Rosendo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "San Rosendo"
   },
@@ -2400,6 +2488,14 @@
    "COMUNA": "San Rosendo"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "San Rosendo"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8310,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "San Rosendo"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Rosendo"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 8310,
    "anio": 2024,
@@ -2768,6 +2872,14 @@
    "COMUNA": "San Rosendo"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Rosendo"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8310,
    "anio": 2024,
@@ -2952,6 +3064,14 @@
    "COMUNA": "San Rosendo"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Rosendo"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8310,
    "anio": 2024,
@@ -3132,6 +3252,14 @@
    "CODCOM": 8310,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Rosendo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "San Rosendo"
   },
@@ -3320,6 +3448,14 @@
    "COMUNA": "San Rosendo"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "San Rosendo"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8310,
    "anio": 2024,
@@ -3500,6 +3636,14 @@
    "CODCOM": 8310,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Rosendo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "San Rosendo"
   },
@@ -3688,6 +3832,14 @@
    "COMUNA": "San Rosendo"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "San Rosendo"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8310,
    "anio": 2024,
@@ -3872,6 +4024,14 @@
    "COMUNA": "San Rosendo"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Rosendo"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8310,
    "anio": 2024,
@@ -4052,6 +4212,14 @@
    "CODCOM": 8310,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Rosendo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "San Rosendo"
   }
@@ -4070,8 +4238,8 @@
    "informacion": "Casos",
    "CODCOM": 8310,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 33,
-   "2024": 44,
+   "2023": 36,
+   "2024": 45,
    "2025": 51,
    "COMUNA": "San Rosendo"
   },
@@ -4079,7 +4247,7 @@
    "informacion": "Casos",
    "CODCOM": 8310,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 26,
+   "2023": 27,
    "2024": 36,
    "2025": 33,
    "COMUNA": "San Rosendo"
@@ -4089,7 +4257,7 @@
    "CODCOM": 8310,
    "delito": "DAÑOS",
    "2023": 45,
-   "2024": 60,
+   "2024": 61,
    "2025": 57,
    "COMUNA": "San Rosendo"
   },
@@ -4097,9 +4265,9 @@
    "informacion": "Casos",
    "CODCOM": 8310,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 38,
+   "2023": 39,
    "2024": 37,
-   "2025": 32,
+   "2025": 33,
    "COMUNA": "San Rosendo"
   },
   {
@@ -4116,7 +4284,7 @@
    "CODCOM": 8310,
    "delito": "HURTOS",
    "2023": 8,
-   "2024": 24,
+   "2024": 26,
    "2025": 13,
    "COMUNA": "San Rosendo"
   },
@@ -4125,7 +4293,7 @@
    "CODCOM": 8310,
    "delito": "INCIVILIDADES",
    "2023": 9,
-   "2024": 14,
+   "2024": 15,
    "2025": 22,
    "COMUNA": "San Rosendo"
   },
@@ -4144,7 +4312,7 @@
    "delito": "LESIONES LEVES",
    "2023": 15,
    "2024": 17,
-   "2025": 31,
+   "2025": 32,
    "COMUNA": "San Rosendo"
   },
   {
@@ -4162,7 +4330,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 3,
    "2024": 13,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "San Rosendo"
   },
   {
@@ -4188,7 +4356,7 @@
    "CODCOM": 8310,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 13,
-   "2024": 4,
+   "2024": 5,
    "2025": 6,
    "COMUNA": "San Rosendo"
   },
@@ -4207,7 +4375,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 5,
    "2024": 7,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "San Rosendo"
   },
   {
@@ -4215,7 +4383,7 @@
    "CODCOM": 8310,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 9,
-   "2024": 8,
+   "2024": 9,
    "2025": 8,
    "COMUNA": "San Rosendo"
   },
@@ -4224,8 +4392,8 @@
    "CODCOM": 8310,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 33,
-   "2024": 27,
-   "2025": 33,
+   "2024": 28,
+   "2025": 34,
    "COMUNA": "San Rosendo"
   },
   {
@@ -4248,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Biobío"
  }
 }

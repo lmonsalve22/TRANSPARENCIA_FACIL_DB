@@ -12,16 +12,16 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16102,
-   "2024": 192,
-   "2025": 211,
-   "variacion": 10,
+   "2024": 195,
+   "2025": 212,
+   "variacion": 9,
    "situación": "Aumento de Casos",
    "COMUNA": "Bulnes"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16102,
-   "2024": 184,
+   "2024": 185,
    "2025": 142,
    "variacion": -23,
    "situación": "Disminución de Casos",
@@ -30,8 +30,8 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16102,
-   "2024": 137,
-   "2025": 117,
+   "2024": 140,
+   "2025": 119,
    "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "Bulnes"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16102,
-   "2024": 211,
-   "2025": 192,
-   "variacion": -9,
+   "2024": 219,
+   "2025": 194,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "Bulnes"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 16102,
-   "2024": 64,
+   "2024": 65,
    "2025": 53,
-   "variacion": -17,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "Bulnes"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16102,
-   "2024": 50,
+   "2024": 53,
    "2025": 76,
-   "variacion": 52,
+   "variacion": 43,
    "situación": "Aumento de Casos",
    "COMUNA": "Bulnes"
   },
@@ -94,17 +94,17 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16102,
    "2024": 11,
-   "2025": 12,
-   "variacion": 9,
+   "2025": 14,
+   "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "Bulnes"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 16102,
-   "2024": 60,
+   "2024": 62,
    "2025": 24,
-   "variacion": -60,
+   "variacion": -61,
    "situación": "Disminución de Casos",
    "COMUNA": "Bulnes"
   },
@@ -129,10 +129,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16102,
-   "2024": 13,
+   "2024": 15,
    "2025": 13,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -13,
+   "situación": "Disminución de Casos",
    "COMUNA": "Bulnes"
   },
   {
@@ -147,18 +147,18 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 16102,
-   "2024": 28,
+   "2024": 30,
    "2025": 17,
-   "variacion": -39,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "Bulnes"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16102,
-   "2024": 24,
+   "2024": 26,
    "2025": 36,
-   "variacion": 50,
+   "variacion": 38,
    "situación": "Aumento de Casos",
    "COMUNA": "Bulnes"
   },
@@ -376,6 +376,14 @@
    "COMUNA": "Bulnes"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Bulnes"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16102,
    "anio": 2024,
@@ -557,6 +565,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 7,
+   "COMUNA": "Bulnes"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "Bulnes"
   },
   {
@@ -744,6 +760,14 @@
    "COMUNA": "Bulnes"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Bulnes"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 16102,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 6,
+   "COMUNA": "Bulnes"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
    "COMUNA": "Bulnes"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "Bulnes"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Bulnes"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 16102,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 16102,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Bulnes"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Bulnes"
   },
@@ -1480,6 +1528,14 @@
    "COMUNA": "Bulnes"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Bulnes"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 16102,
    "anio": 2024,
@@ -1664,6 +1720,14 @@
    "COMUNA": "Bulnes"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Bulnes"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16102,
    "anio": 2024,
@@ -1845,6 +1909,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Bulnes"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Bulnes"
   },
   {
@@ -2032,6 +2104,14 @@
    "COMUNA": "Bulnes"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Bulnes"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16102,
    "anio": 2024,
@@ -2213,6 +2293,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Bulnes"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
    "COMUNA": "Bulnes"
   },
   {
@@ -2400,6 +2488,14 @@
    "COMUNA": "Bulnes"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Bulnes"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 16102,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "Bulnes"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Bulnes"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 16102,
    "anio": 2024,
@@ -2764,6 +2868,14 @@
    "CODCOM": 16102,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Bulnes"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Bulnes"
   },
@@ -2952,6 +3064,14 @@
    "COMUNA": "Bulnes"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Bulnes"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 16102,
    "anio": 2024,
@@ -3132,6 +3252,14 @@
    "CODCOM": 16102,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Bulnes"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Bulnes"
   },
@@ -3320,6 +3448,14 @@
    "COMUNA": "Bulnes"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Bulnes"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16102,
    "anio": 2024,
@@ -3501,6 +3637,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Bulnes"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Bulnes"
   },
   {
@@ -3688,6 +3832,14 @@
    "COMUNA": "Bulnes"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Bulnes"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 16102,
    "anio": 2024,
@@ -3869,6 +4021,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 3,
+   "COMUNA": "Bulnes"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Bulnes"
   },
   {
@@ -4054,6 +4214,14 @@
    "mes": 11,
    "casos": 1,
    "COMUNA": "Bulnes"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Bulnes"
   }
  ],
  "info": [
@@ -4070,9 +4238,9 @@
    "informacion": "Casos",
    "CODCOM": 16102,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 197,
-   "2024": 192,
-   "2025": 211,
+   "2023": 202,
+   "2024": 195,
+   "2025": 212,
    "COMUNA": "Bulnes"
   },
   {
@@ -4080,7 +4248,7 @@
    "CODCOM": 16102,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 225,
-   "2024": 184,
+   "2024": 185,
    "2025": 142,
    "COMUNA": "Bulnes"
   },
@@ -4088,18 +4256,18 @@
    "informacion": "Casos",
    "CODCOM": 16102,
    "delito": "DAÑOS",
-   "2023": 126,
-   "2024": 137,
-   "2025": 117,
+   "2023": 130,
+   "2024": 140,
+   "2025": 119,
    "COMUNA": "Bulnes"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16102,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 187,
-   "2024": 211,
-   "2025": 192,
+   "2023": 191,
+   "2024": 219,
+   "2025": 194,
    "COMUNA": "Bulnes"
   },
   {
@@ -4115,7 +4283,7 @@
    "informacion": "Casos",
    "CODCOM": 16102,
    "delito": "HURTOS",
-   "2023": 92,
+   "2023": 93,
    "2024": 103,
    "2025": 84,
    "COMUNA": "Bulnes"
@@ -4124,8 +4292,8 @@
    "informacion": "Casos",
    "CODCOM": 16102,
    "delito": "INCIVILIDADES",
-   "2023": 69,
-   "2024": 64,
+   "2023": 70,
+   "2024": 65,
    "2025": 53,
    "COMUNA": "Bulnes"
   },
@@ -4142,8 +4310,8 @@
    "informacion": "Casos",
    "CODCOM": 16102,
    "delito": "LESIONES LEVES",
-   "2023": 85,
-   "2024": 50,
+   "2023": 87,
+   "2024": 53,
    "2025": 76,
    "COMUNA": "Bulnes"
   },
@@ -4153,15 +4321,15 @@
    "delito": "LESIONES MENOS GRAVES",
    "2023": 15,
    "2024": 11,
-   "2025": 12,
+   "2025": 14,
    "COMUNA": "Bulnes"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16102,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 40,
-   "2024": 60,
+   "2023": 41,
+   "2024": 62,
    "2025": 24,
    "COMUNA": "Bulnes"
   },
@@ -4188,7 +4356,7 @@
    "CODCOM": 16102,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 2,
-   "2024": 13,
+   "2024": 15,
    "2025": 13,
    "COMUNA": "Bulnes"
   },
@@ -4205,8 +4373,8 @@
    "informacion": "Casos",
    "CODCOM": 16102,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 19,
-   "2024": 28,
+   "2023": 20,
+   "2024": 30,
    "2025": 17,
    "COMUNA": "Bulnes"
   },
@@ -4215,7 +4383,7 @@
    "CODCOM": 16102,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 32,
-   "2024": 24,
+   "2024": 26,
    "2025": 36,
    "COMUNA": "Bulnes"
   },
@@ -4223,7 +4391,7 @@
    "informacion": "Casos",
    "CODCOM": 16102,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 105,
+   "2023": 107,
    "2024": 137,
    "2025": 133,
    "COMUNA": "Bulnes"
@@ -4248,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Ñuble"
  }
 }

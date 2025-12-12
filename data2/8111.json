@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8111,
-   "2024": 458,
-   "2025": 354,
-   "variacion": -23,
+   "2024": 466,
+   "2025": 365,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "Tomé"
   },
@@ -22,7 +22,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8111,
    "2024": 257,
-   "2025": 251,
+   "2025": 253,
    "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "Tomé"
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 8111,
-   "2024": 399,
-   "2025": 373,
-   "variacion": -7,
+   "2024": 411,
+   "2025": 380,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "Tomé"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8111,
-   "2024": 484,
-   "2025": 496,
-   "variacion": 2,
+   "2024": 497,
+   "2025": 504,
+   "variacion": 1,
    "situación": "Aumento de Casos",
    "COMUNA": "Tomé"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8111,
-   "2024": 233,
-   "2025": 216,
+   "2024": 240,
+   "2025": 224,
    "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "Tomé"
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8111,
-   "2024": 146,
-   "2025": 183,
-   "variacion": 25,
+   "2024": 149,
+   "2025": 189,
+   "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "Tomé"
   },
@@ -76,17 +76,17 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 8111,
    "2024": 28,
-   "2025": 28,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 29,
+   "variacion": 4,
+   "situación": "Aumento de Casos",
    "COMUNA": "Tomé"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8111,
-   "2024": 173,
-   "2025": 167,
-   "variacion": -3,
+   "2024": 178,
+   "2025": 169,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "Tomé"
   },
@@ -94,8 +94,8 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8111,
    "2024": 56,
-   "2025": 48,
-   "variacion": -14,
+   "2025": 50,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "Tomé"
   },
@@ -103,17 +103,17 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 8111,
    "2024": 69,
-   "2025": 106,
-   "variacion": 54,
+   "2025": 107,
+   "variacion": 55,
    "situación": "Aumento de Casos",
    "COMUNA": "Tomé"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8111,
-   "2024": 62,
+   "2024": 63,
    "2025": 99,
-   "variacion": 60,
+   "variacion": 57,
    "situación": "Aumento de Casos",
    "COMUNA": "Tomé"
   },
@@ -139,8 +139,8 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 8111,
    "2024": 16,
-   "2025": 29,
-   "variacion": 81,
+   "2025": 31,
+   "variacion": 94,
    "situación": "Aumento de Casos",
    "COMUNA": "Tomé"
   },
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8111,
    "2024": 83,
-   "2025": 68,
-   "variacion": -18,
+   "2025": 72,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "Tomé"
   },
@@ -157,17 +157,17 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8111,
    "2024": 103,
-   "2025": 67,
-   "variacion": -35,
+   "2025": 68,
+   "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "Tomé"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8111,
-   "2024": 277,
-   "2025": 211,
-   "variacion": -24,
+   "2024": 281,
+   "2025": 215,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "Tomé"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8111,
-   "2024": 41,
+   "2024": 42,
    "2025": 32,
-   "variacion": -22,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "Tomé"
   }
@@ -376,6 +376,14 @@
    "COMUNA": "Tomé"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Tomé"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8111,
    "anio": 2024,
@@ -557,6 +565,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 15,
+   "COMUNA": "Tomé"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 11,
    "COMUNA": "Tomé"
   },
   {
@@ -744,6 +760,14 @@
    "COMUNA": "Tomé"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Tomé"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 8111,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 18,
+   "COMUNA": "Tomé"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 7,
    "COMUNA": "Tomé"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "Tomé"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 8,
+   "COMUNA": "Tomé"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 8111,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 8111,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Tomé"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Tomé"
   },
@@ -1480,6 +1528,14 @@
    "COMUNA": "Tomé"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 8,
+   "COMUNA": "Tomé"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 8111,
    "anio": 2024,
@@ -1664,6 +1720,14 @@
    "COMUNA": "Tomé"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 6,
+   "COMUNA": "Tomé"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8111,
    "anio": 2024,
@@ -1845,6 +1909,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 3,
+   "COMUNA": "Tomé"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "Tomé"
   },
   {
@@ -2032,6 +2104,14 @@
    "COMUNA": "Tomé"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Tomé"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8111,
    "anio": 2024,
@@ -2213,6 +2293,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 3,
+   "COMUNA": "Tomé"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
    "COMUNA": "Tomé"
   },
   {
@@ -2400,6 +2488,14 @@
    "COMUNA": "Tomé"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Tomé"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8111,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "Tomé"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Tomé"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 8111,
    "anio": 2024,
@@ -2768,6 +2872,14 @@
    "COMUNA": "Tomé"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Tomé"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8111,
    "anio": 2024,
@@ -2948,6 +3060,14 @@
    "CODCOM": 8111,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Tomé"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Tomé"
   },
@@ -3133,6 +3253,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 4,
+   "COMUNA": "Tomé"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
    "COMUNA": "Tomé"
   },
   {
@@ -3316,6 +3444,14 @@
    "CODCOM": 8111,
    "anio": 2025,
    "mes": 11,
+   "casos": 4,
+   "COMUNA": "Tomé"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 12,
    "casos": 4,
    "COMUNA": "Tomé"
   },
@@ -3504,6 +3640,14 @@
    "COMUNA": "Tomé"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Tomé"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8111,
    "anio": 2024,
@@ -3688,6 +3832,14 @@
    "COMUNA": "Tomé"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "Tomé"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8111,
    "anio": 2024,
@@ -3872,6 +4024,14 @@
    "COMUNA": "Tomé"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Tomé"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8111,
    "anio": 2024,
@@ -4053,6 +4213,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Tomé"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Tomé"
   }
  ],
@@ -4070,36 +4238,36 @@
    "informacion": "Casos",
    "CODCOM": 8111,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 447,
-   "2024": 458,
-   "2025": 354,
+   "2023": 454,
+   "2024": 466,
+   "2025": 365,
    "COMUNA": "Tomé"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8111,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 222,
+   "2023": 224,
    "2024": 257,
-   "2025": 251,
+   "2025": 253,
    "COMUNA": "Tomé"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8111,
    "delito": "DAÑOS",
-   "2023": 388,
-   "2024": 399,
-   "2025": 373,
+   "2023": 397,
+   "2024": 411,
+   "2025": 380,
    "COMUNA": "Tomé"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8111,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 446,
-   "2024": 484,
-   "2025": 496,
+   "2023": 459,
+   "2024": 497,
+   "2025": 504,
    "COMUNA": "Tomé"
   },
   {
@@ -4115,36 +4283,36 @@
    "informacion": "Casos",
    "CODCOM": 8111,
    "delito": "HURTOS",
-   "2023": 211,
-   "2024": 233,
-   "2025": 216,
+   "2023": 215,
+   "2024": 240,
+   "2025": 224,
    "COMUNA": "Tomé"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8111,
    "delito": "INCIVILIDADES",
-   "2023": 122,
-   "2024": 146,
-   "2025": 183,
+   "2023": 126,
+   "2024": 149,
+   "2025": 189,
    "COMUNA": "Tomé"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8111,
    "delito": "LESIONES GRAVES",
-   "2023": 22,
+   "2023": 24,
    "2024": 28,
-   "2025": 28,
+   "2025": 29,
    "COMUNA": "Tomé"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8111,
    "delito": "LESIONES LEVES",
-   "2023": 157,
-   "2024": 173,
-   "2025": 167,
+   "2023": 159,
+   "2024": 178,
+   "2025": 169,
    "COMUNA": "Tomé"
   },
   {
@@ -4153,7 +4321,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2023": 37,
    "2024": 56,
-   "2025": 48,
+   "2025": 50,
    "COMUNA": "Tomé"
   },
   {
@@ -4162,7 +4330,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 44,
    "2024": 69,
-   "2025": 106,
+   "2025": 107,
    "COMUNA": "Tomé"
   },
   {
@@ -4170,7 +4338,7 @@
    "CODCOM": 8111,
    "delito": "LEY DE DROGAS",
    "2023": 39,
-   "2024": 62,
+   "2024": 63,
    "2025": 99,
    "COMUNA": "Tomé"
   },
@@ -4198,34 +4366,34 @@
    "delito": "RECEPTACIÓN",
    "2023": 17,
    "2024": 16,
-   "2025": 29,
+   "2025": 31,
    "COMUNA": "Tomé"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8111,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 61,
+   "2023": 66,
    "2024": 83,
-   "2025": 68,
+   "2025": 72,
    "COMUNA": "Tomé"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8111,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 56,
+   "2023": 57,
    "2024": 103,
-   "2025": 67,
+   "2025": 68,
    "COMUNA": "Tomé"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8111,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 229,
-   "2024": 277,
-   "2025": 211,
+   "2023": 235,
+   "2024": 281,
+   "2025": 215,
    "COMUNA": "Tomé"
   },
   {
@@ -4241,14 +4409,14 @@
    "informacion": "Casos",
    "CODCOM": 8111,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 30,
-   "2024": 41,
+   "2023": 32,
+   "2024": 42,
    "2025": 32,
    "COMUNA": "Tomé"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Biobío"
  }
 }

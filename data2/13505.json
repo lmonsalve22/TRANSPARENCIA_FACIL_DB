@@ -12,26 +12,26 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13505,
-   "2024": 59,
+   "2024": 62,
    "2025": 83,
-   "variacion": 41,
+   "variacion": 34,
    "situación": "Aumento de Casos",
    "COMUNA": "San Pedro"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13505,
-   "2024": 25,
-   "2025": 36,
-   "variacion": 44,
+   "2024": 29,
+   "2025": 37,
+   "variacion": 28,
    "situación": "Aumento de Casos",
    "COMUNA": "San Pedro"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 13505,
-   "2024": 88,
-   "2025": 104,
+   "2024": 90,
+   "2025": 106,
    "variacion": 18,
    "situación": "Aumento de Casos",
    "COMUNA": "San Pedro"
@@ -39,10 +39,10 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13505,
-   "2024": 77,
+   "2024": 81,
    "2025": 78,
-   "variacion": 1,
-   "situación": "Aumento de Casos",
+   "variacion": -4,
+   "situación": "Disminución de Casos",
    "COMUNA": "San Pedro"
   },
   {
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 13505,
-   "2024": 33,
+   "2024": 36,
    "2025": 40,
-   "variacion": 21,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "San Pedro"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 13505,
-   "2024": 35,
+   "2024": 37,
    "2025": 38,
-   "variacion": 9,
+   "variacion": 3,
    "situación": "Aumento de Casos",
    "COMUNA": "San Pedro"
   },
@@ -157,17 +157,17 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 13505,
    "2024": 10,
-   "2025": 8,
-   "variacion": -20,
+   "2025": 9,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pedro"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13505,
-   "2024": 88,
-   "2025": 76,
-   "variacion": -14,
+   "2024": 90,
+   "2025": 79,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pedro"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 13505,
    "2024": 18,
-   "2025": 20,
-   "variacion": 11,
+   "2025": 21,
+   "variacion": 17,
    "situación": "Aumento de Casos",
    "COMUNA": "San Pedro"
   }
@@ -376,6 +376,14 @@
    "COMUNA": "San Pedro"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Pedro"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13505,
    "anio": 2024,
@@ -560,6 +568,14 @@
    "COMUNA": "San Pedro"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Pedro"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13505,
    "anio": 2024,
@@ -741,6 +757,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 2,
+   "COMUNA": "San Pedro"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "San Pedro"
   },
   {
@@ -928,6 +952,14 @@
    "COMUNA": "San Pedro"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "San Pedro"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13505,
    "anio": 2024,
@@ -1112,6 +1144,14 @@
    "COMUNA": "San Pedro"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Pedro"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 13505,
    "anio": 2024,
@@ -1213,6 +1253,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "San Pedro"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "San Pedro"
   },
   {
@@ -1397,6 +1445,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "San Pedro"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "San Pedro"
   },
   {
@@ -1584,6 +1640,14 @@
    "COMUNA": "San Pedro"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Pedro"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 13505,
    "anio": 2024,
@@ -1764,6 +1828,14 @@
    "CODCOM": 13505,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Pedro"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "San Pedro"
   },
@@ -1952,6 +2024,14 @@
    "COMUNA": "San Pedro"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Pedro"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 13505,
    "anio": 2024,
@@ -2132,6 +2212,14 @@
    "CODCOM": 13505,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Pedro"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "San Pedro"
   },
@@ -2320,6 +2408,14 @@
    "COMUNA": "San Pedro"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Pedro"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 13505,
    "anio": 2024,
@@ -2500,6 +2596,14 @@
    "CODCOM": 13505,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Pedro"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "San Pedro"
   },
@@ -2688,6 +2792,14 @@
    "COMUNA": "San Pedro"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Pedro"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 13505,
    "anio": 2024,
@@ -2868,6 +2980,14 @@
    "CODCOM": 13505,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Pedro"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "San Pedro"
   },
@@ -3056,6 +3176,14 @@
    "COMUNA": "San Pedro"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Pedro"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 13505,
    "anio": 2024,
@@ -3236,6 +3364,14 @@
    "CODCOM": 13505,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Pedro"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "San Pedro"
   },
@@ -3421,6 +3557,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 0,
+   "COMUNA": "San Pedro"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "San Pedro"
   },
   {
@@ -3608,6 +3752,14 @@
    "COMUNA": "San Pedro"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "San Pedro"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13505,
    "anio": 2024,
@@ -3788,6 +3940,14 @@
    "CODCOM": 13505,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Pedro"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "San Pedro"
   },
@@ -3974,6 +4134,14 @@
    "mes": 11,
    "casos": 0,
    "COMUNA": "San Pedro"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "San Pedro"
   }
  ],
  "info": [
@@ -3990,8 +4158,8 @@
    "informacion": "Casos",
    "CODCOM": 13505,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 84,
-   "2024": 59,
+   "2023": 86,
+   "2024": 62,
    "2025": 83,
    "COMUNA": "San Pedro"
   },
@@ -4000,25 +4168,25 @@
    "CODCOM": 13505,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 20,
-   "2024": 25,
-   "2025": 36,
+   "2024": 29,
+   "2025": 37,
    "COMUNA": "San Pedro"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13505,
    "delito": "DAÑOS",
-   "2023": 80,
-   "2024": 88,
-   "2025": 104,
+   "2023": 81,
+   "2024": 90,
+   "2025": 106,
    "COMUNA": "San Pedro"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13505,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 86,
-   "2024": 77,
+   "2023": 87,
+   "2024": 81,
    "2025": 78,
    "COMUNA": "San Pedro"
   },
@@ -4035,7 +4203,7 @@
    "informacion": "Casos",
    "CODCOM": 13505,
    "delito": "HURTOS",
-   "2023": 22,
+   "2023": 24,
    "2024": 26,
    "2025": 27,
    "COMUNA": "San Pedro"
@@ -4045,7 +4213,7 @@
    "CODCOM": 13505,
    "delito": "INCIVILIDADES",
    "2023": 19,
-   "2024": 33,
+   "2024": 36,
    "2025": 40,
    "COMUNA": "San Pedro"
   },
@@ -4063,7 +4231,7 @@
    "CODCOM": 13505,
    "delito": "LESIONES LEVES",
    "2023": 23,
-   "2024": 35,
+   "2024": 37,
    "2025": 38,
    "COMUNA": "San Pedro"
   },
@@ -4125,7 +4293,7 @@
    "informacion": "Casos",
    "CODCOM": 13505,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 14,
+   "2023": 15,
    "2024": 9,
    "2025": 9,
    "COMUNA": "San Pedro"
@@ -4136,16 +4304,16 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 6,
    "2024": 10,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "San Pedro"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13505,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 61,
-   "2024": 88,
-   "2025": 76,
+   "2023": 63,
+   "2024": 90,
+   "2025": 79,
    "COMUNA": "San Pedro"
   },
   {
@@ -4161,14 +4329,14 @@
    "informacion": "Casos",
    "CODCOM": 13505,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 16,
+   "2023": 17,
    "2024": 18,
-   "2025": 20,
+   "2025": 21,
    "COMUNA": "San Pedro"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Metropolitana"
  }
 }

@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5706,
-   "2024": 143,
+   "2024": 145,
    "2025": 133,
-   "variacion": -7,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa María"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 5706,
    "2024": 81,
-   "2025": 80,
-   "variacion": -1,
-   "situación": "Disminución de Casos",
+   "2025": 84,
+   "variacion": 4,
+   "situación": "Aumento de Casos",
    "COMUNA": "Santa María"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5706,
-   "2024": 149,
-   "2025": 124,
-   "variacion": -17,
+   "2024": 151,
+   "2025": 127,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa María"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 5706,
    "2024": 31,
-   "2025": 28,
-   "variacion": -10,
+   "2025": 29,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa María"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5706,
-   "2024": 46,
-   "2025": 50,
-   "variacion": 9,
+   "2024": 47,
+   "2025": 54,
+   "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa María"
   },
@@ -148,9 +148,9 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5706,
    "2024": 14,
-   "2025": 14,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 15,
+   "variacion": 7,
+   "situación": "Aumento de Casos",
    "COMUNA": "Santa María"
   },
   {
@@ -165,8 +165,8 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5706,
-   "2024": 106,
-   "2025": 84,
+   "2024": 108,
+   "2025": 85,
    "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa María"
@@ -175,8 +175,8 @@
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5706,
    "2024": 2,
-   "2025": 5,
-   "variacion": 150,
+   "2025": 6,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa María"
   },
@@ -376,6 +376,14 @@
    "COMUNA": "Santa María"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Santa María"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5706,
    "anio": 2024,
@@ -560,6 +568,14 @@
    "COMUNA": "Santa María"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Santa María"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5706,
    "anio": 2024,
@@ -741,6 +757,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 2,
+   "COMUNA": "Santa María"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Santa María"
   },
   {
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 7,
+   "COMUNA": "Santa María"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 4,
    "COMUNA": "Santa María"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "Santa María"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "Santa María"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 5706,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 5706,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Santa María"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Santa María"
   },
@@ -1476,6 +1524,14 @@
    "CODCOM": 5706,
    "anio": 2025,
    "mes": 11,
+   "casos": 1,
+   "COMUNA": "Santa María"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 12,
    "casos": 1,
    "COMUNA": "Santa María"
   },
@@ -1664,6 +1720,14 @@
    "COMUNA": "Santa María"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Santa María"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5706,
    "anio": 2024,
@@ -1845,6 +1909,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Santa María"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Santa María"
   },
   {
@@ -2032,6 +2104,14 @@
    "COMUNA": "Santa María"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "Santa María"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5706,
    "anio": 2024,
@@ -2216,6 +2296,14 @@
    "COMUNA": "Santa María"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Santa María"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5706,
    "anio": 2024,
@@ -2400,6 +2488,14 @@
    "COMUNA": "Santa María"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Santa María"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 5706,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "Santa María"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Santa María"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 5706,
    "anio": 2024,
@@ -2768,6 +2872,14 @@
    "COMUNA": "Santa María"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Santa María"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 5706,
    "anio": 2024,
@@ -2948,6 +3060,14 @@
    "CODCOM": 5706,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Santa María"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Santa María"
   },
@@ -3136,6 +3256,14 @@
    "COMUNA": "Santa María"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Santa María"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5706,
    "anio": 2024,
@@ -3320,6 +3448,14 @@
    "COMUNA": "Santa María"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Santa María"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5706,
    "anio": 2024,
@@ -3501,6 +3637,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Santa María"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Santa María"
   },
   {
@@ -3688,6 +3832,14 @@
    "COMUNA": "Santa María"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Santa María"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5706,
    "anio": 2024,
@@ -3872,6 +4024,14 @@
    "COMUNA": "Santa María"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Santa María"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5706,
    "anio": 2024,
@@ -4052,6 +4212,14 @@
    "CODCOM": 5706,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Santa María"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Santa María"
   }
@@ -4070,8 +4238,8 @@
    "informacion": "Casos",
    "CODCOM": 5706,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 134,
-   "2024": 143,
+   "2023": 139,
+   "2024": 145,
    "2025": 133,
    "COMUNA": "Santa María"
   },
@@ -4090,16 +4258,16 @@
    "delito": "DAÑOS",
    "2023": 79,
    "2024": 81,
-   "2025": 80,
+   "2025": 84,
    "COMUNA": "Santa María"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5706,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 137,
-   "2024": 149,
-   "2025": 124,
+   "2023": 143,
+   "2024": 151,
+   "2025": 127,
    "COMUNA": "Santa María"
   },
   {
@@ -4117,7 +4285,7 @@
    "delito": "HURTOS",
    "2023": 43,
    "2024": 31,
-   "2025": 28,
+   "2025": 29,
    "COMUNA": "Santa María"
   },
   {
@@ -4143,8 +4311,8 @@
    "CODCOM": 5706,
    "delito": "LESIONES LEVES",
    "2023": 32,
-   "2024": 46,
-   "2025": 50,
+   "2024": 47,
+   "2025": 54,
    "COMUNA": "Santa María"
   },
   {
@@ -4207,7 +4375,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 14,
    "2024": 14,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "Santa María"
   },
   {
@@ -4224,17 +4392,17 @@
    "CODCOM": 5706,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 85,
-   "2024": 106,
-   "2025": 84,
+   "2024": 108,
+   "2025": 85,
    "COMUNA": "Santa María"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5706,
    "delito": "ROBOS POR SORPRESA",
-   "2023": 1,
+   "2023": 2,
    "2024": 2,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "Santa María"
   },
   {
@@ -4248,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Valparaíso"
  }
 }

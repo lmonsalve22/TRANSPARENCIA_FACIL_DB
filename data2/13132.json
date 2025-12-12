@@ -12,35 +12,35 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13132,
-   "2024": 162,
-   "2025": 138,
-   "variacion": -15,
+   "2024": 167,
+   "2025": 141,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "Vitacura"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13132,
-   "2024": 89,
-   "2025": 134,
-   "variacion": 51,
+   "2024": 91,
+   "2025": 135,
+   "variacion": 48,
    "situación": "Aumento de Casos",
    "COMUNA": "Vitacura"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 13132,
-   "2024": 398,
-   "2025": 407,
-   "variacion": 2,
+   "2024": 404,
+   "2025": 410,
+   "variacion": 1,
    "situación": "Aumento de Casos",
    "COMUNA": "Vitacura"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13132,
-   "2024": 195,
-   "2025": 149,
+   "2024": 198,
+   "2025": 150,
    "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "Vitacura"
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13132,
-   "2024": 518,
-   "2025": 503,
-   "variacion": -3,
+   "2024": 533,
+   "2025": 511,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "Vitacura"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 13132,
-   "2024": 63,
+   "2024": 65,
    "2025": 52,
-   "variacion": -17,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Vitacura"
   },
@@ -76,17 +76,17 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 13132,
    "2024": 18,
-   "2025": 10,
-   "variacion": -44,
+   "2025": 11,
+   "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "Vitacura"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 13132,
-   "2024": 105,
-   "2025": 79,
-   "variacion": -25,
+   "2024": 108,
+   "2025": 82,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "Vitacura"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 13132,
    "2024": 31,
-   "2025": 109,
-   "variacion": 252,
+   "2025": 111,
+   "variacion": 258,
    "situación": "Aumento de Casos",
    "COMUNA": "Vitacura"
   },
@@ -121,17 +121,17 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 13132,
    "2024": 0,
-   "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Vitacura"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 13132,
-   "2024": 54,
+   "2024": 59,
    "2025": 38,
-   "variacion": -30,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "Vitacura"
   },
@@ -147,35 +147,35 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 13132,
-   "2024": 176,
-   "2025": 191,
-   "variacion": 9,
+   "2024": 180,
+   "2025": 195,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "Vitacura"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 13132,
-   "2024": 505,
-   "2025": 379,
-   "variacion": -25,
+   "2024": 522,
+   "2025": 383,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "Vitacura"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13132,
-   "2024": 221,
-   "2025": 208,
-   "variacion": -6,
+   "2024": 225,
+   "2025": 210,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "Vitacura"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13132,
-   "2024": 83,
-   "2025": 74,
+   "2024": 84,
+   "2025": 75,
    "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "Vitacura"
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 13132,
-   "2024": 33,
+   "2024": 34,
    "2025": 30,
-   "variacion": -9,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "Vitacura"
   }
@@ -376,6 +376,14 @@
    "COMUNA": "Vitacura"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Vitacura"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13132,
    "anio": 2024,
@@ -557,6 +565,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 9,
+   "COMUNA": "Vitacura"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 3,
    "COMUNA": "Vitacura"
   },
   {
@@ -744,6 +760,14 @@
    "COMUNA": "Vitacura"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Vitacura"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 13132,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 16,
+   "COMUNA": "Vitacura"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 3,
    "COMUNA": "Vitacura"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "Vitacura"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Vitacura"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 13132,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 13132,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Vitacura"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Vitacura"
   },
@@ -1480,6 +1528,14 @@
    "COMUNA": "Vitacura"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 8,
+   "COMUNA": "Vitacura"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 13132,
    "anio": 2024,
@@ -1664,6 +1720,14 @@
    "COMUNA": "Vitacura"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Vitacura"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 13132,
    "anio": 2024,
@@ -1844,6 +1908,14 @@
    "CODCOM": 13132,
    "anio": 2025,
    "mes": 11,
+   "casos": 1,
+   "COMUNA": "Vitacura"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 12,
    "casos": 1,
    "COMUNA": "Vitacura"
   },
@@ -2032,6 +2104,14 @@
    "COMUNA": "Vitacura"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "Vitacura"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 13132,
    "anio": 2024,
@@ -2213,6 +2293,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Vitacura"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Vitacura"
   },
   {
@@ -2400,6 +2488,14 @@
    "COMUNA": "Vitacura"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Vitacura"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 13132,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "Vitacura"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Vitacura"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 13132,
    "anio": 2024,
@@ -2765,6 +2869,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 0,
+   "COMUNA": "Vitacura"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "Vitacura"
   },
   {
@@ -2952,6 +3064,14 @@
    "COMUNA": "Vitacura"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Vitacura"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 13132,
    "anio": 2024,
@@ -3133,6 +3253,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 2,
+   "COMUNA": "Vitacura"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Vitacura"
   },
   {
@@ -3320,6 +3448,14 @@
    "COMUNA": "Vitacura"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "Vitacura"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 13132,
    "anio": 2024,
@@ -3501,6 +3637,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 22,
+   "COMUNA": "Vitacura"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 4,
    "COMUNA": "Vitacura"
   },
   {
@@ -3688,6 +3832,14 @@
    "COMUNA": "Vitacura"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Vitacura"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13132,
    "anio": 2024,
@@ -3872,6 +4024,14 @@
    "COMUNA": "Vitacura"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Vitacura"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 13132,
    "anio": 2024,
@@ -4054,6 +4214,14 @@
    "mes": 11,
    "casos": 1,
    "COMUNA": "Vitacura"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Vitacura"
   }
  ],
  "info": [
@@ -4070,9 +4238,9 @@
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 140,
-   "2024": 162,
-   "2025": 138,
+   "2023": 142,
+   "2024": 167,
+   "2025": 141,
    "COMUNA": "Vitacura"
   },
   {
@@ -4080,26 +4248,26 @@
    "CODCOM": 13132,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 73,
-   "2024": 89,
-   "2025": 134,
+   "2024": 91,
+   "2025": 135,
    "COMUNA": "Vitacura"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "DAÑOS",
-   "2023": 411,
-   "2024": 398,
-   "2025": 407,
+   "2023": 423,
+   "2024": 404,
+   "2025": 410,
    "COMUNA": "Vitacura"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 158,
-   "2024": 195,
-   "2025": 149,
+   "2023": 163,
+   "2024": 198,
+   "2025": 150,
    "COMUNA": "Vitacura"
   },
   {
@@ -4115,17 +4283,17 @@
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "HURTOS",
-   "2023": 555,
-   "2024": 518,
-   "2025": 503,
+   "2023": 572,
+   "2024": 533,
+   "2025": 511,
    "COMUNA": "Vitacura"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "INCIVILIDADES",
-   "2023": 41,
-   "2024": 63,
+   "2023": 42,
+   "2024": 65,
    "2025": 52,
    "COMUNA": "Vitacura"
   },
@@ -4135,16 +4303,16 @@
    "delito": "LESIONES GRAVES",
    "2023": 11,
    "2024": 18,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "Vitacura"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "LESIONES LEVES",
-   "2023": 94,
-   "2024": 105,
-   "2025": 79,
+   "2023": 97,
+   "2024": 108,
+   "2025": 82,
    "COMUNA": "Vitacura"
   },
   {
@@ -4162,14 +4330,14 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 11,
    "2024": 31,
-   "2025": 109,
+   "2025": 111,
    "COMUNA": "Vitacura"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "LEY DE DROGAS",
-   "2023": 10,
+   "2023": 11,
    "2024": 21,
    "2025": 16,
    "COMUNA": "Vitacura"
@@ -4180,15 +4348,15 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2023": 2,
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "Vitacura"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "2023": 62,
-   "2024": 54,
+   "2023": 63,
+   "2024": 59,
    "2025": 38,
    "COMUNA": "Vitacura"
   },
@@ -4205,50 +4373,50 @@
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 191,
-   "2024": 176,
-   "2025": 191,
+   "2023": 199,
+   "2024": 180,
+   "2025": 195,
    "COMUNA": "Vitacura"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 557,
-   "2024": 505,
-   "2025": 379,
+   "2023": 562,
+   "2024": 522,
+   "2025": 383,
    "COMUNA": "Vitacura"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 191,
-   "2024": 221,
-   "2025": 208,
+   "2023": 193,
+   "2024": 225,
+   "2025": 210,
    "COMUNA": "Vitacura"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "ROBOS POR SORPRESA",
-   "2023": 64,
-   "2024": 83,
-   "2025": 74,
+   "2023": 66,
+   "2024": 84,
+   "2025": 75,
    "COMUNA": "Vitacura"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 22,
-   "2024": 33,
+   "2023": 23,
+   "2024": 34,
    "2025": 30,
    "COMUNA": "Vitacura"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Metropolitana"
  }
 }

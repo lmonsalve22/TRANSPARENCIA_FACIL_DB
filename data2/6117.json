@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6117,
-   "2024": 481,
-   "2025": 360,
+   "2024": 493,
+   "2025": 368,
    "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "San Vicente"
@@ -21,27 +21,27 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6117,
-   "2024": 390,
-   "2025": 595,
-   "variacion": 53,
+   "2024": 407,
+   "2025": 602,
+   "variacion": 48,
    "situación": "Aumento de Casos",
    "COMUNA": "San Vicente"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6117,
-   "2024": 429,
-   "2025": 303,
-   "variacion": -29,
+   "2024": 437,
+   "2025": 307,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "San Vicente"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6117,
-   "2024": 500,
-   "2025": 395,
-   "variacion": -21,
+   "2024": 509,
+   "2025": 405,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "San Vicente"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6117,
-   "2024": 272,
+   "2024": 275,
    "2025": 244,
-   "variacion": -10,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "San Vicente"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6117,
-   "2024": 144,
+   "2024": 145,
    "2025": 128,
-   "variacion": -11,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "San Vicente"
   },
@@ -76,27 +76,27 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 6117,
    "2024": 25,
-   "2025": 22,
-   "variacion": -12,
+   "2025": 23,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "San Vicente"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6117,
-   "2024": 187,
-   "2025": 162,
-   "variacion": -13,
+   "2024": 193,
+   "2025": 164,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "San Vicente"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6117,
-   "2024": 24,
+   "2024": 26,
    "2025": 26,
-   "variacion": 8,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "San Vicente"
   },
   {
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 6117,
    "2024": 25,
-   "2025": 27,
-   "variacion": 8,
+   "2025": 28,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "San Vicente"
   },
@@ -129,8 +129,8 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 6117,
-   "2024": 24,
-   "2025": 23,
+   "2024": 25,
+   "2025": 24,
    "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "San Vicente"
@@ -147,8 +147,8 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6117,
-   "2024": 49,
-   "2025": 45,
+   "2024": 50,
+   "2025": 46,
    "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "San Vicente"
@@ -156,17 +156,17 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6117,
-   "2024": 35,
-   "2025": 56,
-   "variacion": 60,
+   "2024": 36,
+   "2025": 57,
+   "variacion": 58,
    "situación": "Aumento de Casos",
    "COMUNA": "San Vicente"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6117,
-   "2024": 225,
-   "2025": 202,
+   "2024": 229,
+   "2025": 205,
    "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "San Vicente"
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6117,
    "2024": 45,
-   "2025": 29,
-   "variacion": -36,
+   "2025": 31,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "San Vicente"
   }
@@ -376,6 +376,14 @@
    "COMUNA": "San Vicente"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Vicente"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6117,
    "anio": 2024,
@@ -557,6 +565,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 20,
+   "COMUNA": "San Vicente"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 8,
    "COMUNA": "San Vicente"
   },
   {
@@ -744,6 +760,14 @@
    "COMUNA": "San Vicente"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 7,
+   "COMUNA": "San Vicente"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 6117,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 16,
+   "COMUNA": "San Vicente"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 4,
    "COMUNA": "San Vicente"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "San Vicente"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 10,
+   "COMUNA": "San Vicente"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6117,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 6117,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Vicente"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "San Vicente"
   },
@@ -1480,6 +1528,14 @@
    "COMUNA": "San Vicente"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Vicente"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 6117,
    "anio": 2024,
@@ -1664,6 +1720,14 @@
    "COMUNA": "San Vicente"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Vicente"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6117,
    "anio": 2024,
@@ -1845,6 +1909,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 0,
+   "COMUNA": "San Vicente"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "San Vicente"
   },
   {
@@ -2032,6 +2104,14 @@
    "COMUNA": "San Vicente"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "San Vicente"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6117,
    "anio": 2024,
@@ -2213,6 +2293,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 2,
+   "COMUNA": "San Vicente"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "San Vicente"
   },
   {
@@ -2400,6 +2488,14 @@
    "COMUNA": "San Vicente"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Vicente"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6117,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "San Vicente"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "San Vicente"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6117,
    "anio": 2024,
@@ -2764,6 +2868,14 @@
    "CODCOM": 6117,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Vicente"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "San Vicente"
   },
@@ -2952,6 +3064,14 @@
    "COMUNA": "San Vicente"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "San Vicente"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6117,
    "anio": 2024,
@@ -3133,6 +3253,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 3,
+   "COMUNA": "San Vicente"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "San Vicente"
   },
   {
@@ -3320,6 +3448,14 @@
    "COMUNA": "San Vicente"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "San Vicente"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6117,
    "anio": 2024,
@@ -3501,6 +3637,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 4,
+   "COMUNA": "San Vicente"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "San Vicente"
   },
   {
@@ -3688,6 +3832,14 @@
    "COMUNA": "San Vicente"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "San Vicente"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6117,
    "anio": 2024,
@@ -3869,6 +4021,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 2,
+   "COMUNA": "San Vicente"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "San Vicente"
   },
   {
@@ -4054,6 +4214,14 @@
    "mes": 11,
    "casos": 3,
    "COMUNA": "San Vicente"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "San Vicente"
   }
  ],
  "info": [
@@ -4070,43 +4238,43 @@
    "informacion": "Casos",
    "CODCOM": 6117,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 378,
-   "2024": 481,
-   "2025": 360,
+   "2023": 384,
+   "2024": 493,
+   "2025": 368,
    "COMUNA": "San Vicente"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6117,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 361,
-   "2024": 390,
-   "2025": 595,
+   "2023": 369,
+   "2024": 407,
+   "2025": 602,
    "COMUNA": "San Vicente"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6117,
    "delito": "DAÑOS",
-   "2023": 366,
-   "2024": 429,
-   "2025": 303,
+   "2023": 370,
+   "2024": 437,
+   "2025": 307,
    "COMUNA": "San Vicente"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6117,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 414,
-   "2024": 500,
-   "2025": 395,
+   "2023": 421,
+   "2024": 509,
+   "2025": 405,
    "COMUNA": "San Vicente"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6117,
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "2023": 1,
+   "2023": 2,
    "2024": 1,
    "2025": 2,
    "COMUNA": "San Vicente"
@@ -4115,8 +4283,8 @@
    "informacion": "Casos",
    "CODCOM": 6117,
    "delito": "HURTOS",
-   "2023": 286,
-   "2024": 272,
+   "2023": 294,
+   "2024": 275,
    "2025": 244,
    "COMUNA": "San Vicente"
   },
@@ -4124,8 +4292,8 @@
    "informacion": "Casos",
    "CODCOM": 6117,
    "delito": "INCIVILIDADES",
-   "2023": 108,
-   "2024": 144,
+   "2023": 111,
+   "2024": 145,
    "2025": 128,
    "COMUNA": "San Vicente"
   },
@@ -4135,24 +4303,24 @@
    "delito": "LESIONES GRAVES",
    "2023": 12,
    "2024": 25,
-   "2025": 22,
+   "2025": 23,
    "COMUNA": "San Vicente"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6117,
    "delito": "LESIONES LEVES",
-   "2023": 151,
-   "2024": 187,
-   "2025": 162,
+   "2023": 156,
+   "2024": 193,
+   "2025": 164,
    "COMUNA": "San Vicente"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6117,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 16,
-   "2024": 24,
+   "2023": 18,
+   "2024": 26,
    "2025": 26,
    "COMUNA": "San Vicente"
   },
@@ -4171,7 +4339,7 @@
    "delito": "LEY DE DROGAS",
    "2023": 27,
    "2024": 25,
-   "2025": 27,
+   "2025": 28,
    "COMUNA": "San Vicente"
   },
   {
@@ -4187,16 +4355,16 @@
    "informacion": "Casos",
    "CODCOM": 6117,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "2023": 12,
-   "2024": 24,
-   "2025": 23,
+   "2023": 13,
+   "2024": 25,
+   "2025": 24,
    "COMUNA": "San Vicente"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6117,
    "delito": "RECEPTACIÓN",
-   "2023": 25,
+   "2023": 27,
    "2024": 31,
    "2025": 27,
    "COMUNA": "San Vicente"
@@ -4205,27 +4373,27 @@
    "informacion": "Casos",
    "CODCOM": 6117,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 44,
-   "2024": 49,
-   "2025": 45,
+   "2023": 45,
+   "2024": 50,
+   "2025": 46,
    "COMUNA": "San Vicente"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6117,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 32,
-   "2024": 35,
-   "2025": 56,
+   "2023": 33,
+   "2024": 36,
+   "2025": 57,
    "COMUNA": "San Vicente"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6117,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 174,
-   "2024": 225,
-   "2025": 202,
+   "2023": 179,
+   "2024": 229,
+   "2025": 205,
    "COMUNA": "San Vicente"
   },
   {
@@ -4243,12 +4411,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 37,
    "2024": 45,
-   "2025": 29,
+   "2025": 31,
    "COMUNA": "San Vicente"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "O'Higgins"
  }
 }

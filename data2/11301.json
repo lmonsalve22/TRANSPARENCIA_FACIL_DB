@@ -3,18 +3,18 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 11301,
-   "2024": 4,
+   "2024": 5,
    "2025": 1,
-   "variacion": -75,
+   "variacion": -80,
    "situación": "Disminución de Casos",
    "COMUNA": "Cochrane"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 11301,
-   "2024": 21,
-   "2025": 17,
-   "variacion": -19,
+   "2024": 22,
+   "2025": 18,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "Cochrane"
   },
@@ -22,17 +22,17 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11301,
    "2024": 52,
-   "2025": 31,
-   "variacion": -40,
+   "2025": 35,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Cochrane"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 11301,
-   "2024": 34,
+   "2024": 36,
    "2025": 29,
-   "variacion": -15,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "Cochrane"
   },
@@ -58,17 +58,17 @@
    "delito": "HURTOS",
    "CODCOM": 11301,
    "2024": 17,
-   "2025": 16,
-   "variacion": -6,
-   "situación": "Disminución de Casos",
+   "2025": 17,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cochrane"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 11301,
-   "2024": 127,
+   "2024": 130,
    "2025": 55,
-   "variacion": -57,
+   "variacion": -58,
    "situación": "Disminución de Casos",
    "COMUNA": "Cochrane"
   },
@@ -120,9 +120,9 @@
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 11301,
-   "2024": 0,
+   "2024": 1,
    "2025": 2,
-   "variacion": 200,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochrane"
   },
@@ -376,6 +376,14 @@
    "COMUNA": "Cochrane"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Cochrane"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 11301,
    "anio": 2024,
@@ -556,6 +564,14 @@
    "CODCOM": 11301,
    "anio": 2025,
    "mes": 11,
+   "casos": 1,
+   "COMUNA": "Cochrane"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 12,
    "casos": 1,
    "COMUNA": "Cochrane"
   },
@@ -744,6 +760,14 @@
    "COMUNA": "Cochrane"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "Cochrane"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 11301,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 2,
+   "COMUNA": "Cochrane"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Cochrane"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "Cochrane"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Cochrane"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 11301,
    "anio": 2024,
@@ -1296,6 +1336,14 @@
    "COMUNA": "Cochrane"
   },
   {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Cochrane"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 11301,
    "anio": 2024,
@@ -1476,6 +1524,14 @@
    "CODCOM": 11301,
    "anio": 2025,
    "mes": 11,
+   "casos": 1,
+   "COMUNA": "Cochrane"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 12,
    "casos": 1,
    "COMUNA": "Cochrane"
   },
@@ -1664,6 +1720,14 @@
    "COMUNA": "Cochrane"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Cochrane"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 11301,
    "anio": 2024,
@@ -1844,6 +1908,14 @@
    "CODCOM": 11301,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Cochrane"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Cochrane"
   },
@@ -2032,6 +2104,14 @@
    "COMUNA": "Cochrane"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Cochrane"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 11301,
    "anio": 2024,
@@ -2213,6 +2293,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Cochrane"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Cochrane"
   },
   {
@@ -2400,6 +2488,14 @@
    "COMUNA": "Cochrane"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Cochrane"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 11301,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "Cochrane"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Cochrane"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 11301,
    "anio": 2024,
@@ -2768,6 +2872,14 @@
    "COMUNA": "Cochrane"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Cochrane"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 11301,
    "anio": 2024,
@@ -2952,6 +3064,14 @@
    "COMUNA": "Cochrane"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Cochrane"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 11301,
    "anio": 2024,
@@ -3136,6 +3256,14 @@
    "COMUNA": "Cochrane"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Cochrane"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 11301,
    "anio": 2024,
@@ -3320,6 +3448,14 @@
    "COMUNA": "Cochrane"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Cochrane"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 11301,
    "anio": 2024,
@@ -3500,6 +3636,14 @@
    "CODCOM": 11301,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Cochrane"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Cochrane"
   },
@@ -3688,6 +3832,14 @@
    "COMUNA": "Cochrane"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Cochrane"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 11301,
    "anio": 2024,
@@ -3964,6 +4116,14 @@
    "CODCOM": 11301,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Cochrane"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Cochrane"
   }
@@ -3974,7 +4134,7 @@
    "CODCOM": 11301,
    "delito": "AMENAZAS CON ARMAS",
    "2023": 1,
-   "2024": 4,
+   "2024": 5,
    "2025": 1,
    "COMUNA": "Cochrane"
   },
@@ -3983,17 +4143,17 @@
    "CODCOM": 11301,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 23,
-   "2024": 21,
-   "2025": 17,
+   "2024": 22,
+   "2025": 18,
    "COMUNA": "Cochrane"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11301,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 119,
+   "2023": 123,
    "2024": 52,
-   "2025": 31,
+   "2025": 35,
    "COMUNA": "Cochrane"
   },
   {
@@ -4001,7 +4161,7 @@
    "CODCOM": 11301,
    "delito": "DAÑOS",
    "2023": 39,
-   "2024": 34,
+   "2024": 36,
    "2025": 29,
    "COMUNA": "Cochrane"
   },
@@ -4009,7 +4169,7 @@
    "informacion": "Casos",
    "CODCOM": 11301,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 29,
+   "2023": 30,
    "2024": 18,
    "2025": 35,
    "COMUNA": "Cochrane"
@@ -4027,17 +4187,17 @@
    "informacion": "Casos",
    "CODCOM": 11301,
    "delito": "HURTOS",
-   "2023": 15,
+   "2023": 16,
    "2024": 17,
-   "2025": 16,
+   "2025": 17,
    "COMUNA": "Cochrane"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11301,
    "delito": "INCIVILIDADES",
-   "2023": 160,
-   "2024": 127,
+   "2023": 161,
+   "2024": 130,
    "2025": 55,
    "COMUNA": "Cochrane"
   },
@@ -4091,7 +4251,7 @@
    "CODCOM": 11301,
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2023": 2,
-   "2024": 0,
+   "2024": 1,
    "2025": 2,
    "COMUNA": "Cochrane"
   },
@@ -4135,7 +4295,7 @@
    "informacion": "Casos",
    "CODCOM": 11301,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 17,
+   "2023": 18,
    "2024": 7,
    "2025": 8,
    "COMUNA": "Cochrane"
@@ -4160,7 +4320,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Aysén"
  }
 }

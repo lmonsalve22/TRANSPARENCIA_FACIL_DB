@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5705,
-   "2024": 187,
-   "2025": 164,
-   "variacion": -12,
+   "2024": 191,
+   "2025": 166,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "Putaendo"
   },
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5705,
    "2024": 34,
-   "2025": 20,
-   "variacion": -41,
+   "2025": 21,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "Putaendo"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5705,
-   "2024": 99,
-   "2025": 118,
-   "variacion": 19,
+   "2024": 103,
+   "2025": 121,
+   "variacion": 17,
    "situación": "Aumento de Casos",
    "COMUNA": "Putaendo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5705,
-   "2024": 106,
-   "2025": 129,
-   "variacion": 22,
+   "2024": 110,
+   "2025": 130,
+   "variacion": 18,
    "situación": "Aumento de Casos",
    "COMUNA": "Putaendo"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 5705,
    "2024": 38,
-   "2025": 28,
-   "variacion": -26,
+   "2025": 29,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "Putaendo"
   },
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5705,
-   "2024": 34,
+   "2024": 37,
    "2025": 34,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -8,
+   "situación": "Disminución de Casos",
    "COMUNA": "Putaendo"
   },
   {
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5705,
-   "2024": 11,
+   "2024": 12,
    "2025": 5,
-   "variacion": -55,
+   "variacion": -58,
    "situación": "Disminución de Casos",
    "COMUNA": "Putaendo"
   },
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5705,
    "2024": 12,
-   "2025": 17,
-   "variacion": 42,
+   "2025": 18,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "Putaendo"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5705,
-   "2024": 38,
-   "2025": 60,
-   "variacion": 58,
+   "2024": 39,
+   "2025": 61,
+   "variacion": 56,
    "situación": "Aumento de Casos",
    "COMUNA": "Putaendo"
   },
@@ -376,6 +376,14 @@
    "COMUNA": "Putaendo"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Putaendo"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5705,
    "anio": 2024,
@@ -557,6 +565,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 7,
+   "COMUNA": "Putaendo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
    "COMUNA": "Putaendo"
   },
   {
@@ -744,6 +760,14 @@
    "COMUNA": "Putaendo"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Putaendo"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 5705,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 6,
+   "COMUNA": "Putaendo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 3,
    "COMUNA": "Putaendo"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "Putaendo"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Putaendo"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 5705,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 5705,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Putaendo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Putaendo"
   },
@@ -1480,6 +1528,14 @@
    "COMUNA": "Putaendo"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Putaendo"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 5705,
    "anio": 2024,
@@ -1664,6 +1720,14 @@
    "COMUNA": "Putaendo"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Putaendo"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5705,
    "anio": 2024,
@@ -1844,6 +1908,14 @@
    "CODCOM": 5705,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Putaendo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Putaendo"
   },
@@ -2032,6 +2104,14 @@
    "COMUNA": "Putaendo"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Putaendo"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5705,
    "anio": 2024,
@@ -2216,6 +2296,14 @@
    "COMUNA": "Putaendo"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Putaendo"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5705,
    "anio": 2024,
@@ -2396,6 +2484,14 @@
    "CODCOM": 5705,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Putaendo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Putaendo"
   },
@@ -2584,6 +2680,14 @@
    "COMUNA": "Putaendo"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Putaendo"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 5705,
    "anio": 2024,
@@ -2768,6 +2872,14 @@
    "COMUNA": "Putaendo"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Putaendo"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 5705,
    "anio": 2024,
@@ -2952,6 +3064,14 @@
    "COMUNA": "Putaendo"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Putaendo"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 5705,
    "anio": 2024,
@@ -3133,6 +3253,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 2,
+   "COMUNA": "Putaendo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Putaendo"
   },
   {
@@ -3320,6 +3448,14 @@
    "COMUNA": "Putaendo"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Putaendo"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5705,
    "anio": 2024,
@@ -3500,6 +3636,14 @@
    "CODCOM": 5705,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Putaendo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Putaendo"
   },
@@ -3688,6 +3832,14 @@
    "COMUNA": "Putaendo"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Putaendo"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5705,
    "anio": 2024,
@@ -3868,6 +4020,14 @@
    "CODCOM": 5705,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Putaendo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Putaendo"
   },
@@ -4054,6 +4214,14 @@
    "mes": 11,
    "casos": 0,
    "COMUNA": "Putaendo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Putaendo"
   }
  ],
  "info": [
@@ -4070,9 +4238,9 @@
    "informacion": "Casos",
    "CODCOM": 5705,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 148,
-   "2024": 187,
-   "2025": 164,
+   "2023": 151,
+   "2024": 191,
+   "2025": 166,
    "COMUNA": "Putaendo"
   },
   {
@@ -4081,25 +4249,25 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 32,
    "2024": 34,
-   "2025": 20,
+   "2025": 21,
    "COMUNA": "Putaendo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5705,
    "delito": "DAÑOS",
-   "2023": 151,
-   "2024": 99,
-   "2025": 118,
+   "2023": 157,
+   "2024": 103,
+   "2025": 121,
    "COMUNA": "Putaendo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5705,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 138,
-   "2024": 106,
-   "2025": 129,
+   "2023": 144,
+   "2024": 110,
+   "2025": 130,
    "COMUNA": "Putaendo"
   },
   {
@@ -4117,14 +4285,14 @@
    "delito": "HURTOS",
    "2023": 35,
    "2024": 38,
-   "2025": 28,
+   "2025": 29,
    "COMUNA": "Putaendo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5705,
    "delito": "INCIVILIDADES",
-   "2023": 40,
+   "2023": 42,
    "2024": 43,
    "2025": 30,
    "COMUNA": "Putaendo"
@@ -4133,7 +4301,7 @@
    "informacion": "Casos",
    "CODCOM": 5705,
    "delito": "LESIONES GRAVES",
-   "2023": 4,
+   "2023": 5,
    "2024": 3,
    "2025": 6,
    "COMUNA": "Putaendo"
@@ -4142,8 +4310,8 @@
    "informacion": "Casos",
    "CODCOM": 5705,
    "delito": "LESIONES LEVES",
-   "2023": 61,
-   "2024": 34,
+   "2023": 62,
+   "2024": 37,
    "2025": 34,
    "COMUNA": "Putaendo"
   },
@@ -4161,7 +4329,7 @@
    "CODCOM": 5705,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 11,
-   "2024": 11,
+   "2024": 12,
    "2025": 5,
    "COMUNA": "Putaendo"
   },
@@ -4207,7 +4375,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 10,
    "2024": 12,
-   "2025": 17,
+   "2025": 18,
    "COMUNA": "Putaendo"
   },
   {
@@ -4224,15 +4392,15 @@
    "CODCOM": 5705,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 71,
-   "2024": 38,
-   "2025": 60,
+   "2024": 39,
+   "2025": 61,
    "COMUNA": "Putaendo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5705,
    "delito": "ROBOS POR SORPRESA",
-   "2023": 2,
+   "2023": 3,
    "2024": 1,
    "2025": 3,
    "COMUNA": "Putaendo"
@@ -4248,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Valparaíso"
  }
 }

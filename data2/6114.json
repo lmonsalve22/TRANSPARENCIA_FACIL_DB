@@ -12,26 +12,26 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6114,
-   "2024": 104,
-   "2025": 97,
-   "variacion": -7,
+   "2024": 105,
+   "2025": 99,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "Quinta de Tilcoco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6114,
-   "2024": 127,
-   "2025": 142,
-   "variacion": 12,
+   "2024": 128,
+   "2025": 148,
+   "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "Quinta de Tilcoco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6114,
-   "2024": 68,
-   "2025": 52,
+   "2024": 71,
+   "2025": 54,
    "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "Quinta de Tilcoco"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6114,
-   "2024": 136,
-   "2025": 97,
-   "variacion": -29,
+   "2024": 137,
+   "2025": 99,
+   "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "Quinta de Tilcoco"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6114,
-   "2024": 50,
-   "2025": 36,
-   "variacion": -28,
+   "2024": 52,
+   "2025": 38,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "Quinta de Tilcoco"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6114,
-   "2024": 34,
-   "2025": 37,
-   "variacion": 9,
+   "2024": 35,
+   "2025": 39,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "Quinta de Tilcoco"
   },
@@ -94,8 +94,8 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6114,
    "2024": 8,
-   "2025": 14,
-   "variacion": 75,
+   "2025": 15,
+   "variacion": 88,
    "situación": "Aumento de Casos",
    "COMUNA": "Quinta de Tilcoco"
   },
@@ -129,10 +129,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 6114,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6114,
-   "2024": 9,
+   "2024": 10,
    "2025": 16,
-   "variacion": 78,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "Quinta de Tilcoco"
   }
@@ -376,6 +376,14 @@
    "COMUNA": "Quinta de Tilcoco"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 6114,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6114,
    "anio": 2024,
@@ -557,6 +565,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 8,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 6114,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -744,6 +760,14 @@
    "COMUNA": "Quinta de Tilcoco"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 6114,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 6,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 6114,
    "anio": 2024,
@@ -924,6 +948,14 @@
    "CODCOM": 6114,
    "anio": 2025,
    "mes": 11,
+   "casos": 2,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 6114,
+   "anio": 2025,
+   "mes": 12,
    "casos": 2,
    "COMUNA": "Quinta de Tilcoco"
   },
@@ -1112,6 +1144,14 @@
    "COMUNA": "Quinta de Tilcoco"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6114,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6114,
    "anio": 2024,
@@ -1392,6 +1432,14 @@
    "COMUNA": "Quinta de Tilcoco"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6114,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 6114,
    "anio": 2024,
@@ -1576,6 +1624,14 @@
    "COMUNA": "Quinta de Tilcoco"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 6114,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6114,
    "anio": 2024,
@@ -1757,6 +1813,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 6114,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -1944,6 +2008,14 @@
    "COMUNA": "Quinta de Tilcoco"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 6114,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6114,
    "anio": 2024,
@@ -2128,6 +2200,14 @@
    "COMUNA": "Quinta de Tilcoco"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 6114,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6114,
    "anio": 2024,
@@ -2312,6 +2392,14 @@
    "COMUNA": "Quinta de Tilcoco"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 6114,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6114,
    "anio": 2024,
@@ -2496,6 +2584,14 @@
    "COMUNA": "Quinta de Tilcoco"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 6114,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6114,
    "anio": 2024,
@@ -2676,6 +2772,14 @@
    "CODCOM": 6114,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 6114,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Quinta de Tilcoco"
   },
@@ -2860,6 +2964,14 @@
    "CODCOM": 6114,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6114,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Quinta de Tilcoco"
   },
@@ -3044,6 +3156,14 @@
    "CODCOM": 6114,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 6114,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Quinta de Tilcoco"
   },
@@ -3229,6 +3349,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6114,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -3416,6 +3544,14 @@
    "COMUNA": "Quinta de Tilcoco"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 6114,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6114,
    "anio": 2024,
@@ -3600,6 +3736,14 @@
    "COMUNA": "Quinta de Tilcoco"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 6114,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6114,
    "anio": 2024,
@@ -3784,6 +3928,14 @@
    "COMUNA": "Quinta de Tilcoco"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6114,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6114,
    "anio": 2024,
@@ -3964,6 +4116,14 @@
    "CODCOM": 6114,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 6114,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Quinta de Tilcoco"
   }
@@ -3982,18 +4142,18 @@
    "informacion": "Casos",
    "CODCOM": 6114,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 104,
-   "2024": 104,
-   "2025": 97,
+   "2023": 107,
+   "2024": 105,
+   "2025": 99,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6114,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 249,
-   "2024": 127,
-   "2025": 142,
+   "2023": 251,
+   "2024": 128,
+   "2025": 148,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -4001,8 +4161,8 @@
    "CODCOM": 6114,
    "delito": "DAÑOS",
    "2023": 52,
-   "2024": 68,
-   "2025": 52,
+   "2024": 71,
+   "2025": 54,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -4010,8 +4170,8 @@
    "CODCOM": 6114,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 88,
-   "2024": 136,
-   "2025": 97,
+   "2024": 137,
+   "2025": 99,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -4027,16 +4187,16 @@
    "informacion": "Casos",
    "CODCOM": 6114,
    "delito": "HURTOS",
-   "2023": 44,
-   "2024": 50,
-   "2025": 36,
+   "2023": 47,
+   "2024": 52,
+   "2025": 38,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6114,
    "delito": "INCIVILIDADES",
-   "2023": 60,
+   "2023": 62,
    "2024": 46,
    "2025": 39,
    "COMUNA": "Quinta de Tilcoco"
@@ -4055,24 +4215,24 @@
    "CODCOM": 6114,
    "delito": "LESIONES LEVES",
    "2023": 44,
-   "2024": 34,
-   "2025": 37,
+   "2024": 35,
+   "2025": 39,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6114,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 7,
+   "2023": 8,
    "2024": 8,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6114,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 4,
+   "2023": 5,
    "2024": 7,
    "2025": 3,
    "COMUNA": "Quinta de Tilcoco"
@@ -4100,7 +4260,7 @@
    "CODCOM": 6114,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 0,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
    "COMUNA": "Quinta de Tilcoco"
   },
@@ -4135,7 +4295,7 @@
    "informacion": "Casos",
    "CODCOM": 6114,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 29,
+   "2023": 30,
    "2024": 35,
    "2025": 40,
    "COMUNA": "Quinta de Tilcoco"
@@ -4153,14 +4313,14 @@
    "informacion": "Casos",
    "CODCOM": 6114,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 5,
-   "2024": 9,
+   "2023": 6,
+   "2024": 10,
    "2025": 16,
    "COMUNA": "Quinta de Tilcoco"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "O'Higgins"
  }
 }

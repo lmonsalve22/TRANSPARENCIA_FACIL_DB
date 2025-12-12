@@ -4,17 +4,17 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 6102,
    "2024": 2,
-   "2025": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 3,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
    "COMUNA": "Codegua"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6102,
-   "2024": 123,
-   "2025": 138,
-   "variacion": 12,
+   "2024": 126,
+   "2025": 143,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "Codegua"
   },
@@ -31,18 +31,18 @@
    "delito": "DAÑOS",
    "CODCOM": 6102,
    "2024": 110,
-   "2025": 91,
-   "variacion": -17,
+   "2025": 94,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "Codegua"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6102,
-   "2024": 116,
-   "2025": 112,
-   "variacion": -3,
-   "situación": "Disminución de Casos",
+   "2024": 117,
+   "2025": 117,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Codegua"
   },
   {
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6102,
-   "2024": 59,
-   "2025": 48,
-   "variacion": -19,
+   "2024": 61,
+   "2025": 50,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "Codegua"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 6102,
    "2024": 12,
-   "2025": 24,
-   "variacion": 100,
+   "2025": 27,
+   "variacion": 125,
    "situación": "Aumento de Casos",
    "COMUNA": "Codegua"
   },
@@ -76,17 +76,17 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 6102,
    "2024": 5,
-   "2025": 6,
-   "variacion": 20,
+   "2025": 7,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "Codegua"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6102,
-   "2024": 44,
-   "2025": 45,
-   "variacion": 2,
+   "2024": 45,
+   "2025": 47,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "Codegua"
   },
@@ -94,8 +94,8 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6102,
    "2024": 8,
-   "2025": 3,
-   "variacion": -62,
+   "2025": 4,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Codegua"
   },
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 6102,
-   "2024": 7,
-   "2025": 33,
-   "variacion": 371,
+   "2024": 9,
+   "2025": 34,
+   "variacion": 278,
    "situación": "Aumento de Casos",
    "COMUNA": "Codegua"
   },
@@ -147,26 +147,26 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6102,
-   "2024": 31,
-   "2025": 18,
-   "variacion": -42,
+   "2024": 32,
+   "2025": 20,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "Codegua"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6102,
-   "2024": 14,
+   "2024": 15,
    "2025": 17,
-   "variacion": 21,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "Codegua"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6102,
-   "2024": 138,
-   "2025": 170,
+   "2024": 141,
+   "2025": 174,
    "variacion": 23,
    "situación": "Aumento de Casos",
    "COMUNA": "Codegua"
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6102,
    "2024": 14,
-   "2025": 7,
-   "variacion": -50,
+   "2025": 8,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "Codegua"
   }
@@ -376,6 +376,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6102,
    "anio": 2024,
@@ -557,6 +565,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 8,
+   "COMUNA": "Codegua"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 5,
    "COMUNA": "Codegua"
   },
   {
@@ -744,6 +760,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 6102,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Codegua"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 3,
    "COMUNA": "Codegua"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 5,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6102,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 6102,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Codegua"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Codegua"
   },
@@ -1480,6 +1528,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 6102,
    "anio": 2024,
@@ -1664,6 +1720,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6102,
    "anio": 2024,
@@ -1844,6 +1908,14 @@
    "CODCOM": 6102,
    "anio": 2025,
    "mes": 11,
+   "casos": 1,
+   "COMUNA": "Codegua"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 12,
    "casos": 1,
    "COMUNA": "Codegua"
   },
@@ -2032,6 +2104,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6102,
    "anio": 2024,
@@ -2213,6 +2293,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 0,
+   "COMUNA": "Codegua"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "Codegua"
   },
   {
@@ -2400,6 +2488,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6102,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6102,
    "anio": 2024,
@@ -2764,6 +2868,14 @@
    "CODCOM": 6102,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Codegua"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Codegua"
   },
@@ -2952,6 +3064,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6102,
    "anio": 2024,
@@ -3133,6 +3253,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Codegua"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Codegua"
   },
   {
@@ -3320,6 +3448,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6102,
    "anio": 2024,
@@ -3501,6 +3637,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 2,
+   "COMUNA": "Codegua"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Codegua"
   },
   {
@@ -3688,6 +3832,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6102,
    "anio": 2024,
@@ -3872,6 +4024,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6102,
    "anio": 2024,
@@ -4052,6 +4212,14 @@
    "CODCOM": 6102,
    "anio": 2025,
    "mes": 11,
+   "casos": 1,
+   "COMUNA": "Codegua"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 12,
    "casos": 1,
    "COMUNA": "Codegua"
   }
@@ -4061,18 +4229,18 @@
    "informacion": "Casos",
    "CODCOM": 6102,
    "delito": "AMENAZAS CON ARMAS",
-   "2023": 6,
+   "2023": 7,
    "2024": 2,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "Codegua"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6102,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 131,
-   "2024": 123,
-   "2025": 138,
+   "2023": 133,
+   "2024": 126,
+   "2025": 143,
    "COMUNA": "Codegua"
   },
   {
@@ -4088,18 +4256,18 @@
    "informacion": "Casos",
    "CODCOM": 6102,
    "delito": "DAÑOS",
-   "2023": 106,
+   "2023": 109,
    "2024": 110,
-   "2025": 91,
+   "2025": 94,
    "COMUNA": "Codegua"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6102,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 88,
-   "2024": 116,
-   "2025": 112,
+   "2023": 89,
+   "2024": 117,
+   "2025": 117,
    "COMUNA": "Codegua"
   },
   {
@@ -4115,18 +4283,18 @@
    "informacion": "Casos",
    "CODCOM": 6102,
    "delito": "HURTOS",
-   "2023": 49,
-   "2024": 59,
-   "2025": 48,
+   "2023": 50,
+   "2024": 61,
+   "2025": 50,
    "COMUNA": "Codegua"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6102,
    "delito": "INCIVILIDADES",
-   "2023": 15,
+   "2023": 17,
    "2024": 12,
-   "2025": 24,
+   "2025": 27,
    "COMUNA": "Codegua"
   },
   {
@@ -4135,7 +4303,7 @@
    "delito": "LESIONES GRAVES",
    "2023": 5,
    "2024": 5,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "Codegua"
   },
   {
@@ -4143,8 +4311,8 @@
    "CODCOM": 6102,
    "delito": "LESIONES LEVES",
    "2023": 51,
-   "2024": 44,
-   "2025": 45,
+   "2024": 45,
+   "2025": 47,
    "COMUNA": "Codegua"
   },
   {
@@ -4153,7 +4321,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2023": 10,
    "2024": 8,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "Codegua"
   },
   {
@@ -4188,15 +4356,15 @@
    "CODCOM": 6102,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 3,
-   "2024": 7,
-   "2025": 33,
+   "2024": 9,
+   "2025": 34,
    "COMUNA": "Codegua"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6102,
    "delito": "RECEPTACIÓN",
-   "2023": 13,
+   "2023": 14,
    "2024": 5,
    "2025": 13,
    "COMUNA": "Codegua"
@@ -4206,16 +4374,16 @@
    "CODCOM": 6102,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 24,
-   "2024": 31,
-   "2025": 18,
+   "2024": 32,
+   "2025": 20,
    "COMUNA": "Codegua"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6102,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 19,
-   "2024": 14,
+   "2023": 20,
+   "2024": 15,
    "2025": 17,
    "COMUNA": "Codegua"
   },
@@ -4223,9 +4391,9 @@
    "informacion": "Casos",
    "CODCOM": 6102,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 159,
-   "2024": 138,
-   "2025": 170,
+   "2023": 162,
+   "2024": 141,
+   "2025": 174,
    "COMUNA": "Codegua"
   },
   {
@@ -4243,12 +4411,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 10,
    "2024": 14,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "Codegua"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "O'Higgins"
  }
 }

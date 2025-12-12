@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6303,
-   "2024": 229,
-   "2025": 235,
+   "2024": 232,
+   "2025": 240,
    "variacion": 3,
    "situación": "Aumento de Casos",
    "COMUNA": "Chimbarongo"
@@ -21,26 +21,26 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6303,
-   "2024": 213,
-   "2025": 217,
-   "variacion": 2,
+   "2024": 214,
+   "2025": 224,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "Chimbarongo"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6303,
-   "2024": 190,
-   "2025": 191,
-   "variacion": 1,
+   "2024": 194,
+   "2025": 200,
+   "variacion": 3,
    "situación": "Aumento de Casos",
    "COMUNA": "Chimbarongo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6303,
-   "2024": 301,
-   "2025": 256,
+   "2024": 306,
+   "2025": 259,
    "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "Chimbarongo"
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6303,
-   "2024": 184,
-   "2025": 132,
-   "variacion": -28,
+   "2024": 189,
+   "2025": 133,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "Chimbarongo"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6303,
-   "2024": 50,
-   "2025": 85,
-   "variacion": 70,
+   "2024": 53,
+   "2025": 87,
+   "variacion": 64,
    "situación": "Aumento de Casos",
    "COMUNA": "Chimbarongo"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 6303,
    "2024": 96,
-   "2025": 77,
-   "variacion": -20,
+   "2025": 78,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "Chimbarongo"
   },
@@ -94,8 +94,8 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6303,
    "2024": 14,
-   "2025": 12,
-   "variacion": -14,
+   "2025": 13,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "Chimbarongo"
   },
@@ -103,18 +103,18 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6303,
    "2024": 32,
-   "2025": 32,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 33,
+   "variacion": 3,
+   "situación": "Aumento de Casos",
    "COMUNA": "Chimbarongo"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6303,
-   "2024": 20,
+   "2024": 21,
    "2025": 21,
-   "variacion": 5,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Chimbarongo"
   },
   {
@@ -130,8 +130,8 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 6303,
    "2024": 7,
-   "2025": 26,
-   "variacion": 271,
+   "2025": 28,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "Chimbarongo"
   },
@@ -156,8 +156,8 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6303,
-   "2024": 104,
-   "2025": 56,
+   "2024": 108,
+   "2025": 58,
    "variacion": -46,
    "situación": "Disminución de Casos",
    "COMUNA": "Chimbarongo"
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6303,
-   "2024": 179,
+   "2024": 181,
    "2025": 179,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -1,
+   "situación": "Disminución de Casos",
    "COMUNA": "Chimbarongo"
   },
   {
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6303,
-   "2024": 30,
-   "2025": 28,
-   "variacion": -7,
+   "2024": 32,
+   "2025": 29,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "Chimbarongo"
   }
@@ -376,6 +376,14 @@
    "COMUNA": "Chimbarongo"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Chimbarongo"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6303,
    "anio": 2024,
@@ -557,6 +565,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 12,
+   "COMUNA": "Chimbarongo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 5,
    "COMUNA": "Chimbarongo"
   },
   {
@@ -744,6 +760,14 @@
    "COMUNA": "Chimbarongo"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 7,
+   "COMUNA": "Chimbarongo"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 6303,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 8,
+   "COMUNA": "Chimbarongo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 9,
    "COMUNA": "Chimbarongo"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "Chimbarongo"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "Chimbarongo"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6303,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 6303,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Chimbarongo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Chimbarongo"
   },
@@ -1480,6 +1528,14 @@
    "COMUNA": "Chimbarongo"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Chimbarongo"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 6303,
    "anio": 2024,
@@ -1664,6 +1720,14 @@
    "COMUNA": "Chimbarongo"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Chimbarongo"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6303,
    "anio": 2024,
@@ -1845,6 +1909,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Chimbarongo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Chimbarongo"
   },
   {
@@ -2032,6 +2104,14 @@
    "COMUNA": "Chimbarongo"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Chimbarongo"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6303,
    "anio": 2024,
@@ -2213,6 +2293,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 0,
+   "COMUNA": "Chimbarongo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "Chimbarongo"
   },
   {
@@ -2400,6 +2488,14 @@
    "COMUNA": "Chimbarongo"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Chimbarongo"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6303,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "Chimbarongo"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Chimbarongo"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6303,
    "anio": 2024,
@@ -2764,6 +2868,14 @@
    "CODCOM": 6303,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Chimbarongo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Chimbarongo"
   },
@@ -2952,6 +3064,14 @@
    "COMUNA": "Chimbarongo"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Chimbarongo"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6303,
    "anio": 2024,
@@ -3133,6 +3253,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Chimbarongo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Chimbarongo"
   },
   {
@@ -3317,6 +3445,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 7,
+   "COMUNA": "Chimbarongo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Chimbarongo"
   },
   {
@@ -3500,6 +3636,14 @@
    "CODCOM": 6303,
    "anio": 2025,
    "mes": 11,
+   "casos": 2,
+   "COMUNA": "Chimbarongo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 12,
    "casos": 2,
    "COMUNA": "Chimbarongo"
   },
@@ -3688,6 +3832,14 @@
    "COMUNA": "Chimbarongo"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Chimbarongo"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6303,
    "anio": 2024,
@@ -3868,6 +4020,14 @@
    "CODCOM": 6303,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Chimbarongo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Chimbarongo"
   },
@@ -4054,6 +4214,14 @@
    "mes": 11,
    "casos": 2,
    "COMUNA": "Chimbarongo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Chimbarongo"
   }
  ],
  "info": [
@@ -4070,36 +4238,36 @@
    "informacion": "Casos",
    "CODCOM": 6303,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 252,
-   "2024": 229,
-   "2025": 235,
+   "2023": 256,
+   "2024": 232,
+   "2025": 240,
    "COMUNA": "Chimbarongo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6303,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 416,
-   "2024": 213,
-   "2025": 217,
+   "2023": 430,
+   "2024": 214,
+   "2025": 224,
    "COMUNA": "Chimbarongo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6303,
    "delito": "DAÑOS",
-   "2023": 199,
-   "2024": 190,
-   "2025": 191,
+   "2023": 204,
+   "2024": 194,
+   "2025": 200,
    "COMUNA": "Chimbarongo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6303,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 320,
-   "2024": 301,
-   "2025": 256,
+   "2023": 322,
+   "2024": 306,
+   "2025": 259,
    "COMUNA": "Chimbarongo"
   },
   {
@@ -4115,18 +4283,18 @@
    "informacion": "Casos",
    "CODCOM": 6303,
    "delito": "HURTOS",
-   "2023": 186,
-   "2024": 184,
-   "2025": 132,
+   "2023": 188,
+   "2024": 189,
+   "2025": 133,
    "COMUNA": "Chimbarongo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6303,
    "delito": "INCIVILIDADES",
-   "2023": 54,
-   "2024": 50,
-   "2025": 85,
+   "2023": 57,
+   "2024": 53,
+   "2025": 87,
    "COMUNA": "Chimbarongo"
   },
   {
@@ -4142,9 +4310,9 @@
    "informacion": "Casos",
    "CODCOM": 6303,
    "delito": "LESIONES LEVES",
-   "2023": 88,
+   "2023": 91,
    "2024": 96,
-   "2025": 77,
+   "2025": 78,
    "COMUNA": "Chimbarongo"
   },
   {
@@ -4153,7 +4321,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2023": 17,
    "2024": 14,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "Chimbarongo"
   },
   {
@@ -4162,7 +4330,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 18,
    "2024": 32,
-   "2025": 32,
+   "2025": 33,
    "COMUNA": "Chimbarongo"
   },
   {
@@ -4170,7 +4338,7 @@
    "CODCOM": 6303,
    "delito": "LEY DE DROGAS",
    "2023": 10,
-   "2024": 20,
+   "2024": 21,
    "2025": 21,
    "COMUNA": "Chimbarongo"
   },
@@ -4189,7 +4357,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 18,
    "2024": 7,
-   "2025": 26,
+   "2025": 28,
    "COMUNA": "Chimbarongo"
   },
   {
@@ -4205,7 +4373,7 @@
    "informacion": "Casos",
    "CODCOM": 6303,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 32,
+   "2023": 33,
    "2024": 35,
    "2025": 40,
    "COMUNA": "Chimbarongo"
@@ -4214,17 +4382,17 @@
    "informacion": "Casos",
    "CODCOM": 6303,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 65,
-   "2024": 104,
-   "2025": 56,
+   "2023": 66,
+   "2024": 108,
+   "2025": 58,
    "COMUNA": "Chimbarongo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6303,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 250,
-   "2024": 179,
+   "2023": 251,
+   "2024": 181,
    "2025": 179,
    "COMUNA": "Chimbarongo"
   },
@@ -4241,14 +4409,14 @@
    "informacion": "Casos",
    "CODCOM": 6303,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 34,
-   "2024": 30,
-   "2025": 28,
+   "2023": 35,
+   "2024": 32,
+   "2025": 29,
    "COMUNA": "Chimbarongo"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "O'Higgins"
  }
 }

@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 11202,
-   "2024": 45,
+   "2024": 46,
    "2025": 42,
-   "variacion": -7,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "Cisnes"
   },
@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11202,
    "2024": 142,
-   "2025": 163,
-   "variacion": 15,
+   "2025": 170,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "Cisnes"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 11202,
    "2024": 51,
-   "2025": 50,
-   "variacion": -2,
-   "situación": "Disminución de Casos",
+   "2025": 52,
+   "variacion": 2,
+   "situación": "Aumento de Casos",
    "COMUNA": "Cisnes"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11202,
-   "2024": 54,
-   "2025": 47,
-   "variacion": -13,
+   "2024": 55,
+   "2025": 49,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "Cisnes"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 11202,
    "2024": 36,
-   "2025": 65,
-   "variacion": 81,
+   "2025": 67,
+   "variacion": 86,
    "situación": "Aumento de Casos",
    "COMUNA": "Cisnes"
   },
@@ -376,6 +376,14 @@
    "COMUNA": "Cisnes"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Cisnes"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 11202,
    "anio": 2024,
@@ -556,6 +564,14 @@
    "CODCOM": 11202,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Cisnes"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Cisnes"
   },
@@ -744,6 +760,14 @@
    "COMUNA": "Cisnes"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 7,
+   "COMUNA": "Cisnes"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 11202,
    "anio": 2024,
@@ -925,6 +949,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 4,
+   "COMUNA": "Cisnes"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
    "COMUNA": "Cisnes"
   },
   {
@@ -1112,6 +1144,14 @@
    "COMUNA": "Cisnes"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Cisnes"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 11202,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 11202,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Cisnes"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Cisnes"
   },
@@ -1477,6 +1525,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 2,
+   "COMUNA": "Cisnes"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Cisnes"
   },
   {
@@ -1664,6 +1720,14 @@
    "COMUNA": "Cisnes"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Cisnes"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 11202,
    "anio": 2024,
@@ -1844,6 +1908,14 @@
    "CODCOM": 11202,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Cisnes"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Cisnes"
   },
@@ -2032,6 +2104,14 @@
    "COMUNA": "Cisnes"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Cisnes"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 11202,
    "anio": 2024,
@@ -2216,6 +2296,14 @@
    "COMUNA": "Cisnes"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Cisnes"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 11202,
    "anio": 2024,
@@ -2396,6 +2484,14 @@
    "CODCOM": 11202,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Cisnes"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Cisnes"
   },
@@ -2584,6 +2680,14 @@
    "COMUNA": "Cisnes"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Cisnes"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 11202,
    "anio": 2024,
@@ -2764,6 +2868,14 @@
    "CODCOM": 11202,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Cisnes"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Cisnes"
   },
@@ -2952,6 +3064,14 @@
    "COMUNA": "Cisnes"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Cisnes"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 11202,
    "anio": 2024,
@@ -3136,6 +3256,14 @@
    "COMUNA": "Cisnes"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Cisnes"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 11202,
    "anio": 2024,
@@ -3320,6 +3448,14 @@
    "COMUNA": "Cisnes"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Cisnes"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 11202,
    "anio": 2024,
@@ -3500,6 +3636,14 @@
    "CODCOM": 11202,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Cisnes"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Cisnes"
   },
@@ -3688,6 +3832,14 @@
    "COMUNA": "Cisnes"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Cisnes"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 11202,
    "anio": 2024,
@@ -3964,6 +4116,14 @@
    "CODCOM": 11202,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Cisnes"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Cisnes"
   }
@@ -3982,8 +4142,8 @@
    "informacion": "Casos",
    "CODCOM": 11202,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 38,
-   "2024": 45,
+   "2023": 39,
+   "2024": 46,
    "2025": 42,
    "COMUNA": "Cisnes"
   },
@@ -3991,27 +4151,27 @@
    "informacion": "Casos",
    "CODCOM": 11202,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 132,
+   "2023": 134,
    "2024": 142,
-   "2025": 163,
+   "2025": 170,
    "COMUNA": "Cisnes"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11202,
    "delito": "DAÑOS",
-   "2023": 41,
+   "2023": 42,
    "2024": 51,
-   "2025": 50,
+   "2025": 52,
    "COMUNA": "Cisnes"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11202,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 54,
-   "2024": 54,
-   "2025": 47,
+   "2023": 55,
+   "2024": 55,
+   "2025": 49,
    "COMUNA": "Cisnes"
   },
   {
@@ -4038,7 +4198,7 @@
    "delito": "INCIVILIDADES",
    "2023": 45,
    "2024": 36,
-   "2025": 65,
+   "2025": 67,
    "COMUNA": "Cisnes"
   },
   {
@@ -4054,7 +4214,7 @@
    "informacion": "Casos",
    "CODCOM": 11202,
    "delito": "LESIONES LEVES",
-   "2023": 24,
+   "2023": 25,
    "2024": 31,
    "2025": 25,
    "COMUNA": "Cisnes"
@@ -4126,7 +4286,7 @@
    "informacion": "Casos",
    "CODCOM": 11202,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 1,
+   "2023": 2,
    "2024": 1,
    "2025": 2,
    "COMUNA": "Cisnes"
@@ -4160,7 +4320,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Aysén"
  }
 }

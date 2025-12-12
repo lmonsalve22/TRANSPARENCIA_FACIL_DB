@@ -3,44 +3,44 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 7105,
-   "2024": 5,
+   "2024": 6,
    "2025": 7,
-   "variacion": 40,
+   "variacion": 17,
    "situación": "Aumento de Casos",
    "COMUNA": "Maule"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7105,
-   "2024": 324,
-   "2025": 280,
-   "variacion": -14,
+   "2024": 329,
+   "2025": 286,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "Maule"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7105,
-   "2024": 38,
-   "2025": 38,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 39,
+   "2025": 40,
+   "variacion": 3,
+   "situación": "Aumento de Casos",
    "COMUNA": "Maule"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7105,
-   "2024": 271,
-   "2025": 226,
-   "variacion": -17,
+   "2024": 279,
+   "2025": 235,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "Maule"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7105,
-   "2024": 432,
-   "2025": 389,
+   "2024": 437,
+   "2025": 395,
    "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "Maule"
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7105,
-   "2024": 115,
-   "2025": 91,
+   "2024": 118,
+   "2025": 93,
    "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "Maule"
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 7105,
    "2024": 80,
-   "2025": 102,
-   "variacion": 28,
+   "2025": 103,
+   "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "Maule"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 7105,
-   "2024": 145,
-   "2025": 114,
-   "variacion": -21,
+   "2024": 149,
+   "2025": 116,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "Maule"
   },
@@ -111,9 +111,9 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7105,
-   "2024": 11,
+   "2024": 12,
    "2025": 10,
-   "variacion": -9,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "Maule"
   },
@@ -147,27 +147,27 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 7105,
-   "2024": 48,
+   "2024": 49,
    "2025": 39,
-   "variacion": -19,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Maule"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 7105,
-   "2024": 86,
-   "2025": 56,
-   "variacion": -35,
+   "2024": 87,
+   "2025": 59,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "Maule"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7105,
-   "2024": 202,
-   "2025": 176,
-   "variacion": -13,
+   "2024": 207,
+   "2025": 178,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Maule"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 7105,
-   "2024": 24,
+   "2024": 25,
    "2025": 20,
-   "variacion": -17,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Maule"
   }
@@ -376,6 +376,14 @@
    "COMUNA": "Maule"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 7105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Maule"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7105,
    "anio": 2024,
@@ -560,6 +568,14 @@
    "COMUNA": "Maule"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 7105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 6,
+   "COMUNA": "Maule"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7105,
    "anio": 2024,
@@ -741,6 +757,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 0,
+   "COMUNA": "Maule"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 7105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
    "COMUNA": "Maule"
   },
   {
@@ -928,6 +952,14 @@
    "COMUNA": "Maule"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 7105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 9,
+   "COMUNA": "Maule"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7105,
    "anio": 2024,
@@ -1112,6 +1144,14 @@
    "COMUNA": "Maule"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 7105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 6,
+   "COMUNA": "Maule"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 7105,
    "anio": 2024,
@@ -1292,6 +1332,14 @@
    "CODCOM": 7105,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Maule"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 7105,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Maule"
   },
@@ -1480,6 +1528,14 @@
    "COMUNA": "Maule"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 7105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Maule"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 7105,
    "anio": 2024,
@@ -1664,6 +1720,14 @@
    "COMUNA": "Maule"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 7105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Maule"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 7105,
    "anio": 2024,
@@ -1844,6 +1908,14 @@
    "CODCOM": 7105,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Maule"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 7105,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Maule"
   },
@@ -2032,6 +2104,14 @@
    "COMUNA": "Maule"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 7105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Maule"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7105,
    "anio": 2024,
@@ -2212,6 +2292,14 @@
    "CODCOM": 7105,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Maule"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7105,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Maule"
   },
@@ -2400,6 +2488,14 @@
    "COMUNA": "Maule"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Maule"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7105,
    "anio": 2024,
@@ -2584,6 +2680,14 @@
    "COMUNA": "Maule"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 7105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Maule"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 7105,
    "anio": 2024,
@@ -2764,6 +2868,14 @@
    "CODCOM": 7105,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Maule"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 7105,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Maule"
   },
@@ -2952,6 +3064,14 @@
    "COMUNA": "Maule"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 7105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Maule"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 7105,
    "anio": 2024,
@@ -3133,6 +3253,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 1,
+   "COMUNA": "Maule"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 7105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Maule"
   },
   {
@@ -3317,6 +3445,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 3,
+   "COMUNA": "Maule"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 7105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
    "COMUNA": "Maule"
   },
   {
@@ -3501,6 +3637,14 @@
    "anio": 2025,
    "mes": 11,
    "casos": 2,
+   "COMUNA": "Maule"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 7105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 3,
    "COMUNA": "Maule"
   },
   {
@@ -3688,6 +3832,14 @@
    "COMUNA": "Maule"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Maule"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 7105,
    "anio": 2024,
@@ -3868,6 +4020,14 @@
    "CODCOM": 7105,
    "anio": 2025,
    "mes": 11,
+   "casos": 0,
+   "COMUNA": "Maule"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 7105,
+   "anio": 2025,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Maule"
   },
@@ -4054,6 +4214,14 @@
    "mes": 11,
    "casos": 0,
    "COMUNA": "Maule"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7105,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Maule"
   }
  ],
  "info": [
@@ -4062,7 +4230,7 @@
    "CODCOM": 7105,
    "delito": "AMENAZAS CON ARMAS",
    "2023": 8,
-   "2024": 5,
+   "2024": 6,
    "2025": 7,
    "COMUNA": "Maule"
   },
@@ -4070,9 +4238,9 @@
    "informacion": "Casos",
    "CODCOM": 7105,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 374,
-   "2024": 324,
-   "2025": 280,
+   "2023": 384,
+   "2024": 329,
+   "2025": 286,
    "COMUNA": "Maule"
   },
   {
@@ -4080,26 +4248,26 @@
    "CODCOM": 7105,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 50,
-   "2024": 38,
-   "2025": 38,
+   "2024": 39,
+   "2025": 40,
    "COMUNA": "Maule"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7105,
    "delito": "DAÑOS",
-   "2023": 260,
-   "2024": 271,
-   "2025": 226,
+   "2023": 264,
+   "2024": 279,
+   "2025": 235,
    "COMUNA": "Maule"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7105,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 470,
-   "2024": 432,
-   "2025": 389,
+   "2023": 480,
+   "2024": 437,
+   "2025": 395,
    "COMUNA": "Maule"
   },
   {
@@ -4115,9 +4283,9 @@
    "informacion": "Casos",
    "CODCOM": 7105,
    "delito": "HURTOS",
-   "2023": 142,
-   "2024": 115,
-   "2025": 91,
+   "2023": 148,
+   "2024": 118,
+   "2025": 93,
    "COMUNA": "Maule"
   },
   {
@@ -4126,7 +4294,7 @@
    "delito": "INCIVILIDADES",
    "2023": 113,
    "2024": 80,
-   "2025": 102,
+   "2025": 103,
    "COMUNA": "Maule"
   },
   {
@@ -4142,9 +4310,9 @@
    "informacion": "Casos",
    "CODCOM": 7105,
    "delito": "LESIONES LEVES",
-   "2023": 142,
-   "2024": 145,
-   "2025": 114,
+   "2023": 144,
+   "2024": 149,
+   "2025": 116,
    "COMUNA": "Maule"
   },
   {
@@ -4170,7 +4338,7 @@
    "CODCOM": 7105,
    "delito": "LEY DE DROGAS",
    "2023": 5,
-   "2024": 11,
+   "2024": 12,
    "2025": 10,
    "COMUNA": "Maule"
   },
@@ -4206,7 +4374,7 @@
    "CODCOM": 7105,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 52,
-   "2024": 48,
+   "2024": 49,
    "2025": 39,
    "COMUNA": "Maule"
   },
@@ -4214,18 +4382,18 @@
    "informacion": "Casos",
    "CODCOM": 7105,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 84,
-   "2024": 86,
-   "2025": 56,
+   "2023": 85,
+   "2024": 87,
+   "2025": 59,
    "COMUNA": "Maule"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7105,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 269,
-   "2024": 202,
-   "2025": 176,
+   "2023": 273,
+   "2024": 207,
+   "2025": 178,
    "COMUNA": "Maule"
   },
   {
@@ -4242,13 +4410,13 @@
    "CODCOM": 7105,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 20,
-   "2024": 24,
+   "2024": 25,
    "2025": 20,
    "COMUNA": "Maule"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 48/2025 (del 24/11/2025 al 30/11/2025)",
+  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
   "region": "Maule"
  }
 }
