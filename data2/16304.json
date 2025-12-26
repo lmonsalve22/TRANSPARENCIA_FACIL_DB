@@ -12,26 +12,26 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16304,
-   "2024": 41,
+   "2024": 42,
    "2025": 37,
-   "variacion": -10,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16304,
-   "2024": 34,
+   "2024": 38,
    "2025": 32,
-   "variacion": -6,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 16304,
-   "2024": 44,
-   "2025": 49,
+   "2024": 45,
+   "2025": 50,
    "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "San Fabián"
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16304,
    "2024": 45,
-   "2025": 42,
-   "variacion": -7,
+   "2025": 43,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 16304,
    "2024": 18,
-   "2025": 16,
-   "variacion": -11,
+   "2025": 17,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16304,
-   "2024": 11,
+   "2024": 12,
    "2025": 8,
-   "variacion": -27,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
   },
@@ -157,8 +157,8 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16304,
    "2024": 1,
-   "2025": 3,
-   "variacion": 200,
+   "2025": 4,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "San Fabián"
   },
@@ -956,7 +956,7 @@
    "CODCOM": 16304,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "San Fabián"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 16304,
    "anio": 2025,
    "mes": 12,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "San Fabián"
   },
   {
@@ -1532,7 +1532,7 @@
    "CODCOM": 16304,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "San Fabián"
   },
   {
@@ -3644,7 +3644,7 @@
    "CODCOM": 16304,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "San Fabián"
   },
   {
@@ -4238,8 +4238,8 @@
    "informacion": "Casos",
    "CODCOM": 16304,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 40,
-   "2024": 41,
+   "2023": 41,
+   "2024": 42,
    "2025": 37,
    "COMUNA": "San Fabián"
   },
@@ -4248,7 +4248,7 @@
    "CODCOM": 16304,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 27,
-   "2024": 34,
+   "2024": 38,
    "2025": 32,
    "COMUNA": "San Fabián"
   },
@@ -4256,18 +4256,18 @@
    "informacion": "Casos",
    "CODCOM": 16304,
    "delito": "DAÑOS",
-   "2023": 35,
-   "2024": 44,
-   "2025": 49,
+   "2023": 37,
+   "2024": 45,
+   "2025": 50,
    "COMUNA": "San Fabián"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16304,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 46,
+   "2023": 48,
    "2024": 45,
-   "2025": 42,
+   "2025": 43,
    "COMUNA": "San Fabián"
   },
   {
@@ -4283,9 +4283,9 @@
    "informacion": "Casos",
    "CODCOM": 16304,
    "delito": "HURTOS",
-   "2023": 20,
+   "2023": 21,
    "2024": 18,
-   "2025": 16,
+   "2025": 17,
    "COMUNA": "San Fabián"
   },
   {
@@ -4311,7 +4311,7 @@
    "CODCOM": 16304,
    "delito": "LESIONES LEVES",
    "2023": 9,
-   "2024": 11,
+   "2024": 12,
    "2025": 8,
    "COMUNA": "San Fabián"
   },
@@ -4384,14 +4384,14 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 5,
    "2024": 1,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "San Fabián"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16304,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 25,
+   "2023": 26,
    "2024": 18,
    "2025": 13,
    "COMUNA": "San Fabián"
@@ -4416,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
+  "semana_id": "SEMANA 50/2025 (del 08/12/2025 al 14/12/2025)",
   "region": "Ñuble"
  }
 }

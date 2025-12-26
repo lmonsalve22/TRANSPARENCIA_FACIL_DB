@@ -30,8 +30,8 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 12402,
-   "2024": 6,
-   "2025": 6,
+   "2024": 7,
+   "2025": 7,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Torres del Paine"
@@ -58,9 +58,9 @@
    "delito": "HURTOS",
    "CODCOM": 12402,
    "2024": 2,
-   "2025": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 3,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
    "COMUNA": "Torres del Paine"
   },
   {
@@ -956,7 +956,7 @@
    "CODCOM": 12402,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Torres del Paine"
   },
   {
@@ -1436,7 +1436,7 @@
    "CODCOM": 12402,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Torres del Paine"
   },
   {
@@ -3681,8 +3681,8 @@
    "CODCOM": 12402,
    "delito": "DAÑOS",
    "2023": 9,
-   "2024": 6,
-   "2025": 6,
+   "2024": 7,
+   "2025": 7,
    "COMUNA": "Torres del Paine"
   },
   {
@@ -3709,7 +3709,7 @@
    "delito": "HURTOS",
    "2023": 5,
    "2024": 2,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "Torres del Paine"
   },
   {
@@ -3840,7 +3840,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
+  "semana_id": "SEMANA 50/2025 (del 08/12/2025 al 14/12/2025)",
   "region": "Magallanes"
  }
 }

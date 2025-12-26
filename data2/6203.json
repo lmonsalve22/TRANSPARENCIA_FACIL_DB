@@ -22,25 +22,25 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6203,
    "2024": 30,
-   "2025": 35,
-   "variacion": 17,
+   "2025": 38,
+   "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "Litueche"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6203,
-   "2024": 118,
+   "2024": 119,
    "2025": 80,
-   "variacion": -32,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Litueche"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6203,
-   "2024": 74,
-   "2025": 80,
+   "2024": 76,
+   "2025": 82,
    "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "Litueche"
@@ -66,10 +66,10 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6203,
-   "2024": 29,
+   "2024": 31,
    "2025": 31,
-   "variacion": 7,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Litueche"
   },
   {
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6203,
-   "2024": 14,
+   "2024": 16,
    "2025": 8,
-   "variacion": -43,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Litueche"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6203,
-   "2024": 60,
+   "2024": 61,
    "2025": 68,
-   "variacion": 13,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "Litueche"
   },
@@ -764,7 +764,7 @@
    "CODCOM": 6203,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "Litueche"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 6203,
    "anio": 2025,
    "mes": 12,
-   "casos": 4,
+   "casos": 6,
    "COMUNA": "Litueche"
   },
   {
@@ -4238,7 +4238,7 @@
    "informacion": "Casos",
    "CODCOM": 6203,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 95,
+   "2023": 98,
    "2024": 91,
    "2025": 75,
    "COMUNA": "Litueche"
@@ -4249,15 +4249,15 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 47,
    "2024": 30,
-   "2025": 35,
+   "2025": 38,
    "COMUNA": "Litueche"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6203,
    "delito": "DAÑOS",
-   "2023": 96,
-   "2024": 118,
+   "2023": 98,
+   "2024": 119,
    "2025": 80,
    "COMUNA": "Litueche"
   },
@@ -4265,9 +4265,9 @@
    "informacion": "Casos",
    "CODCOM": 6203,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 64,
-   "2024": 74,
-   "2025": 80,
+   "2023": 65,
+   "2024": 76,
+   "2025": 82,
    "COMUNA": "Litueche"
   },
   {
@@ -4283,7 +4283,7 @@
    "informacion": "Casos",
    "CODCOM": 6203,
    "delito": "HURTOS",
-   "2023": 27,
+   "2023": 28,
    "2024": 16,
    "2025": 17,
    "COMUNA": "Litueche"
@@ -4292,8 +4292,8 @@
    "informacion": "Casos",
    "CODCOM": 6203,
    "delito": "INCIVILIDADES",
-   "2023": 25,
-   "2024": 29,
+   "2023": 28,
+   "2024": 31,
    "2025": 31,
    "COMUNA": "Litueche"
   },
@@ -4301,7 +4301,7 @@
    "informacion": "Casos",
    "CODCOM": 6203,
    "delito": "LESIONES GRAVES",
-   "2023": 2,
+   "2023": 3,
    "2024": 1,
    "2025": 4,
    "COMUNA": "Litueche"
@@ -4329,7 +4329,7 @@
    "CODCOM": 6203,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 4,
-   "2024": 14,
+   "2024": 16,
    "2025": 8,
    "COMUNA": "Litueche"
   },
@@ -4391,8 +4391,8 @@
    "informacion": "Casos",
    "CODCOM": 6203,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 40,
-   "2024": 60,
+   "2023": 41,
+   "2024": 61,
    "2025": 68,
    "COMUNA": "Litueche"
   },
@@ -4416,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
+  "semana_id": "SEMANA 50/2025 (del 08/12/2025 al 14/12/2025)",
   "region": "O'Higgins"
  }
 }

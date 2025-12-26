@@ -4,9 +4,9 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 11401,
    "2024": 3,
-   "2025": 2,
-   "variacion": -33,
-   "situación": "Disminución de Casos",
+   "2025": 4,
+   "variacion": 33,
+   "situación": "Aumento de Casos",
    "COMUNA": "Chile Chico"
   },
   {
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11401,
    "2024": 128,
-   "2025": 93,
-   "variacion": -27,
+   "2025": 99,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 11401,
-   "2024": 57,
+   "2024": 59,
    "2025": 47,
-   "variacion": -18,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11401,
-   "2024": 50,
-   "2025": 45,
-   "variacion": -10,
+   "2024": 53,
+   "2025": 46,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 11401,
-   "2024": 17,
+   "2024": 18,
    "2025": 22,
-   "variacion": 29,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "Chile Chico"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 11401,
-   "2024": 95,
+   "2024": 96,
    "2025": 75,
-   "variacion": -21,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 11401,
    "2024": 7,
-   "2025": 10,
-   "variacion": 43,
+   "2025": 11,
+   "variacion": 57,
    "situación": "Aumento de Casos",
    "COMUNA": "Chile Chico"
   },
@@ -380,7 +380,7 @@
    "CODCOM": 11401,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Chile Chico"
   },
   {
@@ -764,7 +764,7 @@
    "CODCOM": 11401,
    "anio": 2025,
    "mes": 12,
-   "casos": 3,
+   "casos": 9,
    "COMUNA": "Chile Chico"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 11401,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2492,7 +2492,7 @@
    "CODCOM": 11401,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Chile Chico"
   },
   {
@@ -4135,14 +4135,14 @@
    "delito": "AMENAZAS CON ARMAS",
    "2023": 2,
    "2024": 3,
-   "2025": 2,
+   "2025": 4,
    "COMUNA": "Chile Chico"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11401,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 44,
+   "2023": 45,
    "2024": 37,
    "2025": 27,
    "COMUNA": "Chile Chico"
@@ -4151,17 +4151,17 @@
    "informacion": "Casos",
    "CODCOM": 11401,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 189,
+   "2023": 204,
    "2024": 128,
-   "2025": 93,
+   "2025": 99,
    "COMUNA": "Chile Chico"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11401,
    "delito": "DAÑOS",
-   "2023": 52,
-   "2024": 57,
+   "2023": 54,
+   "2024": 59,
    "2025": 47,
    "COMUNA": "Chile Chico"
   },
@@ -4170,8 +4170,8 @@
    "CODCOM": 11401,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 22,
-   "2024": 50,
-   "2025": 45,
+   "2024": 53,
+   "2025": 46,
    "COMUNA": "Chile Chico"
   },
   {
@@ -4187,8 +4187,8 @@
    "informacion": "Casos",
    "CODCOM": 11401,
    "delito": "HURTOS",
-   "2023": 26,
-   "2024": 17,
+   "2023": 28,
+   "2024": 18,
    "2025": 22,
    "COMUNA": "Chile Chico"
   },
@@ -4196,8 +4196,8 @@
    "informacion": "Casos",
    "CODCOM": 11401,
    "delito": "INCIVILIDADES",
-   "2023": 91,
-   "2024": 95,
+   "2023": 93,
+   "2024": 96,
    "2025": 75,
    "COMUNA": "Chile Chico"
   },
@@ -4223,7 +4223,7 @@
    "informacion": "Casos",
    "CODCOM": 11401,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 4,
+   "2023": 5,
    "2024": 2,
    "2025": 3,
    "COMUNA": "Chile Chico"
@@ -4234,7 +4234,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 3,
    "2024": 7,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "Chile Chico"
   },
   {
@@ -4320,7 +4320,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
+  "semana_id": "SEMANA 50/2025 (del 08/12/2025 al 14/12/2025)",
   "region": "Aysén"
  }
 }

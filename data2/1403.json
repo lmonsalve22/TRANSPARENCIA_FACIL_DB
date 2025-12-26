@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 1403,
-   "2024": 24,
+   "2024": 25,
    "2025": 31,
-   "variacion": 29,
+   "variacion": 24,
    "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 1403,
-   "2024": 11,
+   "2024": 12,
    "2025": 11,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -8,
+   "situación": "Disminución de Casos",
    "COMUNA": "Colchane"
   },
   {
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 1403,
-   "2024": 4,
+   "2024": 5,
    "2025": 10,
-   "variacion": 150,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
@@ -166,9 +166,9 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 1403,
    "2024": 7,
-   "2025": 7,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 8,
+   "variacion": 14,
+   "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
   {
@@ -3836,7 +3836,7 @@
    "CODCOM": 1403,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Colchane"
   },
   {
@@ -4257,7 +4257,7 @@
    "CODCOM": 1403,
    "delito": "DAÑOS",
    "2023": 22,
-   "2024": 24,
+   "2024": 25,
    "2025": 31,
    "COMUNA": "Colchane"
   },
@@ -4283,7 +4283,7 @@
    "informacion": "Casos",
    "CODCOM": 1403,
    "delito": "HURTOS",
-   "2023": 16,
+   "2023": 19,
    "2024": 15,
    "2025": 8,
    "COMUNA": "Colchane"
@@ -4311,7 +4311,7 @@
    "CODCOM": 1403,
    "delito": "LESIONES LEVES",
    "2023": 11,
-   "2024": 11,
+   "2024": 12,
    "2025": 11,
    "COMUNA": "Colchane"
   },
@@ -4329,7 +4329,7 @@
    "CODCOM": 1403,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 6,
-   "2024": 4,
+   "2024": 5,
    "2025": 10,
    "COMUNA": "Colchane"
   },
@@ -4393,7 +4393,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 9,
    "2024": 7,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "Colchane"
   },
   {
@@ -4409,14 +4409,14 @@
    "informacion": "Casos",
    "CODCOM": 1403,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 1,
+   "2023": 2,
    "2024": 3,
    "2025": 0,
    "COMUNA": "Colchane"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
+  "semana_id": "SEMANA 50/2025 (del 08/12/2025 al 14/12/2025)",
   "region": "Tarapacá"
  }
 }

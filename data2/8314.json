@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8314,
-   "2024": 52,
-   "2025": 48,
-   "variacion": -8,
+   "2024": 54,
+   "2025": 49,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "Alto Biobío"
   },
@@ -22,25 +22,25 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8314,
    "2024": 91,
-   "2025": 115,
-   "variacion": 26,
+   "2025": 122,
+   "variacion": 34,
    "situación": "Aumento de Casos",
    "COMUNA": "Alto Biobío"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 8314,
-   "2024": 44,
+   "2024": 46,
    "2025": 21,
-   "variacion": -52,
+   "variacion": -54,
    "situación": "Disminución de Casos",
    "COMUNA": "Alto Biobío"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8314,
-   "2024": 52,
-   "2025": 53,
+   "2024": 55,
+   "2025": 56,
    "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "Alto Biobío"
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8314,
-   "2024": 18,
+   "2024": 19,
    "2025": 9,
-   "variacion": -50,
+   "variacion": -53,
    "situación": "Disminución de Casos",
    "COMUNA": "Alto Biobío"
   },
@@ -572,7 +572,7 @@
    "CODCOM": 8314,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -764,7 +764,7 @@
    "CODCOM": 8314,
    "anio": 2025,
    "mes": 12,
-   "casos": 5,
+   "casos": 12,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 8314,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 3,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -4238,26 +4238,26 @@
    "informacion": "Casos",
    "CODCOM": 8314,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 48,
-   "2024": 52,
-   "2025": 48,
+   "2023": 50,
+   "2024": 54,
+   "2025": 49,
    "COMUNA": "Alto Biobío"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8314,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 61,
+   "2023": 63,
    "2024": 91,
-   "2025": 115,
+   "2025": 122,
    "COMUNA": "Alto Biobío"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8314,
    "delito": "DAÑOS",
-   "2023": 50,
-   "2024": 44,
+   "2023": 52,
+   "2024": 46,
    "2025": 21,
    "COMUNA": "Alto Biobío"
   },
@@ -4266,8 +4266,8 @@
    "CODCOM": 8314,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 56,
-   "2024": 52,
-   "2025": 53,
+   "2024": 55,
+   "2025": 56,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -4283,7 +4283,7 @@
    "informacion": "Casos",
    "CODCOM": 8314,
    "delito": "HURTOS",
-   "2023": 16,
+   "2023": 17,
    "2024": 15,
    "2025": 21,
    "COMUNA": "Alto Biobío"
@@ -4292,7 +4292,7 @@
    "informacion": "Casos",
    "CODCOM": 8314,
    "delito": "INCIVILIDADES",
-   "2023": 3,
+   "2023": 4,
    "2024": 4,
    "2025": 6,
    "COMUNA": "Alto Biobío"
@@ -4301,7 +4301,7 @@
    "informacion": "Casos",
    "CODCOM": 8314,
    "delito": "LESIONES GRAVES",
-   "2023": 0,
+   "2023": 1,
    "2024": 0,
    "2025": 2,
    "COMUNA": "Alto Biobío"
@@ -4311,7 +4311,7 @@
    "CODCOM": 8314,
    "delito": "LESIONES LEVES",
    "2023": 22,
-   "2024": 18,
+   "2024": 19,
    "2025": 9,
    "COMUNA": "Alto Biobío"
   },
@@ -4416,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
+  "semana_id": "SEMANA 50/2025 (del 08/12/2025 al 14/12/2025)",
   "region": "Biobío"
  }
 }

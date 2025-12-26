@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5201,
-   "2024": 148,
+   "2024": 150,
    "2025": 169,
-   "variacion": 14,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "Isla de Pascua"
   },
@@ -30,8 +30,8 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 5201,
-   "2024": 63,
-   "2025": 68,
+   "2024": 64,
+   "2025": 69,
    "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "Isla de Pascua"
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5201,
    "2024": 151,
-   "2025": 141,
-   "variacion": -7,
+   "2025": 143,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "Isla de Pascua"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5201,
-   "2024": 39,
+   "2024": 41,
    "2025": 39,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -5,
+   "situación": "Disminución de Casos",
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5201,
-   "2024": 67,
+   "2024": 69,
    "2025": 78,
-   "variacion": 16,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "Isla de Pascua"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5201,
-   "2024": 9,
+   "2024": 10,
    "2025": 11,
-   "variacion": 22,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "Isla de Pascua"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5201,
    "2024": 7,
-   "2025": 10,
-   "variacion": 43,
+   "2025": 11,
+   "variacion": 57,
    "situación": "Aumento de Casos",
    "COMUNA": "Isla de Pascua"
   }
@@ -956,7 +956,7 @@
    "CODCOM": 5201,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 5201,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -4220,7 +4220,7 @@
    "CODCOM": 5201,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Isla de Pascua"
   }
  ],
@@ -4238,8 +4238,8 @@
    "informacion": "Casos",
    "CODCOM": 5201,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 129,
-   "2024": 148,
+   "2023": 134,
+   "2024": 150,
    "2025": 169,
    "COMUNA": "Isla de Pascua"
   },
@@ -4247,7 +4247,7 @@
    "informacion": "Casos",
    "CODCOM": 5201,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 63,
+   "2023": 66,
    "2024": 159,
    "2025": 33,
    "COMUNA": "Isla de Pascua"
@@ -4256,9 +4256,9 @@
    "informacion": "Casos",
    "CODCOM": 5201,
    "delito": "DAÑOS",
-   "2023": 71,
-   "2024": 63,
-   "2025": 68,
+   "2023": 72,
+   "2024": 64,
+   "2025": 69,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -4267,7 +4267,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 103,
    "2024": 151,
-   "2025": 141,
+   "2025": 143,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -4284,7 +4284,7 @@
    "CODCOM": 5201,
    "delito": "HURTOS",
    "2023": 31,
-   "2024": 39,
+   "2024": 41,
    "2025": 39,
    "COMUNA": "Isla de Pascua"
   },
@@ -4292,7 +4292,7 @@
    "informacion": "Casos",
    "CODCOM": 5201,
    "delito": "INCIVILIDADES",
-   "2023": 11,
+   "2023": 12,
    "2024": 32,
    "2025": 34,
    "COMUNA": "Isla de Pascua"
@@ -4311,7 +4311,7 @@
    "CODCOM": 5201,
    "delito": "LESIONES LEVES",
    "2023": 64,
-   "2024": 67,
+   "2024": 69,
    "2025": 78,
    "COMUNA": "Isla de Pascua"
   },
@@ -4392,7 +4392,7 @@
    "CODCOM": 5201,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 14,
-   "2024": 9,
+   "2024": 10,
    "2025": 11,
    "COMUNA": "Isla de Pascua"
   },
@@ -4411,12 +4411,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 9,
    "2024": 7,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "Isla de Pascua"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
+  "semana_id": "SEMANA 50/2025 (del 08/12/2025 al 14/12/2025)",
   "region": "Valparaíso"
  }
 }

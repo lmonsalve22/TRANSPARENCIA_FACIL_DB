@@ -30,8 +30,8 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16105,
-   "2024": 55,
-   "2025": 60,
+   "2024": 56,
+   "2025": 61,
    "variacion": 9,
    "situación": "Aumento de Casos",
    "COMUNA": "Pemuco"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16105,
-   "2024": 50,
+   "2024": 51,
    "2025": 58,
-   "variacion": 16,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "Pemuco"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16105,
-   "2024": 16,
+   "2024": 17,
    "2025": 25,
-   "variacion": 56,
+   "variacion": 47,
    "situación": "Aumento de Casos",
    "COMUNA": "Pemuco"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 16105,
    "2024": 24,
-   "2025": 19,
-   "variacion": -21,
+   "2025": 20,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "Pemuco"
   },
@@ -129,10 +129,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16105,
-   "2024": 10,
+   "2024": 11,
    "2025": 11,
-   "variacion": 10,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Pemuco"
   },
   {
@@ -157,8 +157,8 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16105,
    "2024": 13,
-   "2025": 14,
-   "variacion": 8,
+   "2025": 15,
+   "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "Pemuco"
   },
@@ -956,7 +956,7 @@
    "CODCOM": 16105,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Pemuco"
   },
   {
@@ -2108,7 +2108,7 @@
    "CODCOM": 16105,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Pemuco"
   },
   {
@@ -3644,7 +3644,7 @@
    "CODCOM": 16105,
    "anio": 2025,
    "mes": 12,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Pemuco"
   },
   {
@@ -4238,7 +4238,7 @@
    "informacion": "Casos",
    "CODCOM": 16105,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 70,
+   "2023": 73,
    "2024": 76,
    "2025": 60,
    "COMUNA": "Pemuco"
@@ -4256,17 +4256,17 @@
    "informacion": "Casos",
    "CODCOM": 16105,
    "delito": "DAÑOS",
-   "2023": 58,
-   "2024": 55,
-   "2025": 60,
+   "2023": 60,
+   "2024": 56,
+   "2025": 61,
    "COMUNA": "Pemuco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16105,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 54,
-   "2024": 50,
+   "2023": 57,
+   "2024": 51,
    "2025": 58,
    "COMUNA": "Pemuco"
   },
@@ -4284,7 +4284,7 @@
    "CODCOM": 16105,
    "delito": "HURTOS",
    "2023": 34,
-   "2024": 16,
+   "2024": 17,
    "2025": 25,
    "COMUNA": "Pemuco"
   },
@@ -4312,7 +4312,7 @@
    "delito": "LESIONES LEVES",
    "2023": 29,
    "2024": 24,
-   "2025": 19,
+   "2025": 20,
    "COMUNA": "Pemuco"
   },
   {
@@ -4356,7 +4356,7 @@
    "CODCOM": 16105,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 5,
-   "2024": 10,
+   "2024": 11,
    "2025": 11,
    "COMUNA": "Pemuco"
   },
@@ -4384,14 +4384,14 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 17,
    "2024": 13,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "Pemuco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16105,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 43,
+   "2023": 44,
    "2024": 33,
    "2025": 42,
    "COMUNA": "Pemuco"
@@ -4416,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
+  "semana_id": "SEMANA 50/2025 (del 08/12/2025 al 14/12/2025)",
   "region": "Ñuble"
  }
 }

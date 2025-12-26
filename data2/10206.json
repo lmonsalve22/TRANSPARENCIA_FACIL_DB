@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10206,
-   "2024": 17,
+   "2024": 19,
    "2025": 20,
-   "variacion": 18,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "Puqueldón"
   },
@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10206,
    "2024": 116,
-   "2025": 90,
-   "variacion": -22,
+   "2025": 93,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Puqueldón"
   },
@@ -66,19 +66,19 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10206,
-   "2024": 15,
+   "2024": 16,
    "2025": 15,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -6,
+   "situación": "Disminución de Casos",
    "COMUNA": "Puqueldón"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10206,
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Puqueldón"
   },
   {
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10206,
    "2024": 8,
-   "2025": 9,
-   "variacion": 12,
+   "2025": 10,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "Puqueldón"
   },
@@ -764,7 +764,7 @@
    "CODCOM": 10206,
    "anio": 2025,
    "mes": 12,
-   "casos": 6,
+   "casos": 9,
    "COMUNA": "Puqueldón"
   },
   {
@@ -3740,7 +3740,7 @@
    "CODCOM": 10206,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Puqueldón"
   },
   {
@@ -4047,7 +4047,7 @@
    "CODCOM": 10206,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 14,
-   "2024": 17,
+   "2024": 19,
    "2025": 20,
    "COMUNA": "Puqueldón"
   },
@@ -4055,9 +4055,9 @@
    "informacion": "Casos",
    "CODCOM": 10206,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 58,
+   "2023": 63,
    "2024": 116,
-   "2025": 90,
+   "2025": 93,
    "COMUNA": "Puqueldón"
   },
   {
@@ -4073,7 +4073,7 @@
    "informacion": "Casos",
    "CODCOM": 10206,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 21,
+   "2023": 23,
    "2024": 19,
    "2025": 20,
    "COMUNA": "Puqueldón"
@@ -4101,7 +4101,7 @@
    "CODCOM": 10206,
    "delito": "INCIVILIDADES",
    "2023": 9,
-   "2024": 15,
+   "2024": 16,
    "2025": 15,
    "COMUNA": "Puqueldón"
   },
@@ -4110,7 +4110,7 @@
    "CODCOM": 10206,
    "delito": "LESIONES GRAVES",
    "2023": 1,
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
    "COMUNA": "Puqueldón"
   },
@@ -4201,7 +4201,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 5,
    "2024": 8,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "Puqueldón"
   },
   {
@@ -4224,7 +4224,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
+  "semana_id": "SEMANA 50/2025 (del 08/12/2025 al 14/12/2025)",
   "region": "Los Lagos"
  }
 }

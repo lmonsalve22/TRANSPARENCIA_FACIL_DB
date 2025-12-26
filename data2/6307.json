@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6307,
-   "2024": 121,
-   "2025": 118,
+   "2024": 123,
+   "2025": 120,
    "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "Peralillo"
@@ -21,8 +21,8 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6307,
-   "2024": 81,
-   "2025": 68,
+   "2024": 82,
+   "2025": 69,
    "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "Peralillo"
@@ -30,28 +30,28 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6307,
-   "2024": 59,
+   "2024": 62,
    "2025": 49,
-   "variacion": -17,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "Peralillo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6307,
-   "2024": 120,
-   "2025": 93,
-   "variacion": -22,
+   "2024": 122,
+   "2025": 94,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "Peralillo"
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6307,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Peralillo"
   },
   {
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 6307,
    "2024": 50,
-   "2025": 38,
-   "variacion": -24,
+   "2025": 39,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "Peralillo"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6307,
    "2024": 13,
-   "2025": 20,
-   "variacion": 54,
+   "2025": 21,
+   "variacion": 62,
    "situación": "Aumento de Casos",
    "COMUNA": "Peralillo"
   },
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6307,
    "2024": 4,
-   "2025": 9,
-   "variacion": 125,
+   "2025": 10,
+   "variacion": 150,
    "situación": "Aumento de Casos",
    "COMUNA": "Peralillo"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6307,
    "2024": 49,
-   "2025": 55,
-   "variacion": 12,
+   "2025": 56,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "Peralillo"
   },
@@ -572,7 +572,7 @@
    "CODCOM": 6307,
    "anio": 2025,
    "mes": 12,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "Peralillo"
   },
   {
@@ -764,7 +764,7 @@
    "CODCOM": 6307,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Peralillo"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 6307,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Peralillo"
   },
   {
@@ -2108,7 +2108,7 @@
    "CODCOM": 6307,
    "anio": 2025,
    "mes": 12,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Peralillo"
   },
   {
@@ -2492,7 +2492,7 @@
    "CODCOM": 6307,
    "anio": 2025,
    "mes": 12,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Peralillo"
   },
   {
@@ -3452,7 +3452,7 @@
    "CODCOM": 6307,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Peralillo"
   },
   {
@@ -3836,7 +3836,7 @@
    "CODCOM": 6307,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Peralillo"
   },
   {
@@ -4238,26 +4238,26 @@
    "informacion": "Casos",
    "CODCOM": 6307,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 118,
-   "2024": 121,
-   "2025": 118,
+   "2023": 123,
+   "2024": 123,
+   "2025": 120,
    "COMUNA": "Peralillo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6307,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 118,
-   "2024": 81,
-   "2025": 68,
+   "2023": 120,
+   "2024": 82,
+   "2025": 69,
    "COMUNA": "Peralillo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6307,
    "delito": "DAÑOS",
-   "2023": 84,
-   "2024": 59,
+   "2023": 85,
+   "2024": 62,
    "2025": 49,
    "COMUNA": "Peralillo"
   },
@@ -4265,9 +4265,9 @@
    "informacion": "Casos",
    "CODCOM": 6307,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 118,
-   "2024": 120,
-   "2025": 93,
+   "2023": 120,
+   "2024": 122,
+   "2025": 94,
    "COMUNA": "Peralillo"
   },
   {
@@ -4275,7 +4275,7 @@
    "CODCOM": 6307,
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "2023": 1,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
    "COMUNA": "Peralillo"
   },
@@ -4292,7 +4292,7 @@
    "informacion": "Casos",
    "CODCOM": 6307,
    "delito": "INCIVILIDADES",
-   "2023": 33,
+   "2023": 34,
    "2024": 21,
    "2025": 18,
    "COMUNA": "Peralillo"
@@ -4310,9 +4310,9 @@
    "informacion": "Casos",
    "CODCOM": 6307,
    "delito": "LESIONES LEVES",
-   "2023": 38,
+   "2023": 42,
    "2024": 50,
-   "2025": 38,
+   "2025": 39,
    "COMUNA": "Peralillo"
   },
   {
@@ -4330,7 +4330,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 8,
    "2024": 13,
-   "2025": 20,
+   "2025": 21,
    "COMUNA": "Peralillo"
   },
   {
@@ -4375,7 +4375,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 5,
    "2024": 4,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "Peralillo"
   },
   {
@@ -4393,7 +4393,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 42,
    "2024": 49,
-   "2025": 55,
+   "2025": 56,
    "COMUNA": "Peralillo"
   },
   {
@@ -4416,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 49/2025 (del 01/12/2025 al 07/12/2025)",
+  "semana_id": "SEMANA 50/2025 (del 08/12/2025 al 14/12/2025)",
   "region": "O'Higgins"
  }
 }
