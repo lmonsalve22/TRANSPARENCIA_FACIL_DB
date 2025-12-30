@@ -21,9 +21,9 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11301,
-   "2024": 52,
+   "2024": 53,
    "2025": 35,
-   "variacion": -33,
+   "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "Cochrane"
   },
@@ -66,7 +66,7 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 11301,
-   "2024": 130,
+   "2024": 132,
    "2025": 55,
    "variacion": -58,
    "situación": "Disminución de Casos",
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 11301,
    "2024": 2,
-   "2025": 4,
-   "variacion": 100,
+   "2025": 5,
+   "variacion": 150,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochrane"
   },
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 11301,
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cochrane"
   }
  ],
@@ -2492,7 +2492,7 @@
    "CODCOM": 11301,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Cochrane"
   },
   {
@@ -4151,8 +4151,8 @@
    "informacion": "Casos",
    "CODCOM": 11301,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 130,
-   "2024": 52,
+   "2023": 132,
+   "2024": 53,
    "2025": 35,
    "COMUNA": "Cochrane"
   },
@@ -4169,7 +4169,7 @@
    "informacion": "Casos",
    "CODCOM": 11301,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 30,
+   "2023": 31,
    "2024": 18,
    "2025": 35,
    "COMUNA": "Cochrane"
@@ -4196,8 +4196,8 @@
    "informacion": "Casos",
    "CODCOM": 11301,
    "delito": "INCIVILIDADES",
-   "2023": 164,
-   "2024": 130,
+   "2023": 167,
+   "2024": 132,
    "2025": 55,
    "COMUNA": "Cochrane"
   },
@@ -4234,7 +4234,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 5,
    "2024": 2,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "Cochrane"
   },
   {
@@ -4313,14 +4313,14 @@
    "informacion": "Casos",
    "CODCOM": 11301,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 2,
-   "2024": 1,
+   "2023": 3,
+   "2024": 2,
    "2025": 2,
    "COMUNA": "Cochrane"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 50/2025 (del 08/12/2025 al 14/12/2025)",
+  "semana_id": "SEMANA 51/2025 (del 15/12/2025 al 21/12/2025)",
   "region": "Aysén"
  }
 }

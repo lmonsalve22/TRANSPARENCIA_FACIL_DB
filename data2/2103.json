@@ -12,27 +12,27 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 2103,
-   "2024": 21,
+   "2024": 22,
    "2025": 31,
-   "variacion": 48,
+   "variacion": 41,
    "situación": "Aumento de Casos",
    "COMUNA": "Sierra Gorda"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 2103,
-   "2024": 203,
-   "2025": 232,
-   "variacion": 14,
+   "2024": 207,
+   "2025": 234,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "Sierra Gorda"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 2103,
-   "2024": 80,
+   "2024": 82,
    "2025": 71,
-   "variacion": -11,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "Sierra Gorda"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 2103,
    "2024": 26,
-   "2025": 14,
-   "variacion": -46,
+   "2025": 15,
+   "variacion": -42,
    "situación": "Disminución de Casos",
    "COMUNA": "Sierra Gorda"
   },
@@ -94,17 +94,17 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 2103,
    "2024": 1,
-   "2025": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Sierra Gorda"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 2103,
    "2024": 1,
-   "2025": 2,
-   "variacion": 100,
+   "2025": 3,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Sierra Gorda"
   },
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 2103,
-   "2024": 62,
+   "2024": 65,
    "2025": 46,
-   "variacion": -26,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Sierra Gorda"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 2103,
-   "2024": 39,
+   "2024": 43,
    "2025": 50,
-   "variacion": 28,
+   "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "Sierra Gorda"
   },
@@ -764,7 +764,7 @@
    "CODCOM": 2103,
    "anio": 2025,
    "mes": 12,
-   "casos": 11,
+   "casos": 13,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -1436,7 +1436,7 @@
    "CODCOM": 2103,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -2204,7 +2204,7 @@
    "CODCOM": 2103,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -2396,7 +2396,7 @@
    "CODCOM": 2103,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -4142,8 +4142,8 @@
    "informacion": "Casos",
    "CODCOM": 2103,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 54,
-   "2024": 21,
+   "2023": 55,
+   "2024": 22,
    "2025": 31,
    "COMUNA": "Sierra Gorda"
   },
@@ -4151,17 +4151,17 @@
    "informacion": "Casos",
    "CODCOM": 2103,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 212,
-   "2024": 203,
-   "2025": 232,
+   "2023": 213,
+   "2024": 207,
+   "2025": 234,
    "COMUNA": "Sierra Gorda"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2103,
    "delito": "DAÑOS",
-   "2023": 90,
-   "2024": 80,
+   "2023": 93,
+   "2024": 82,
    "2025": 71,
    "COMUNA": "Sierra Gorda"
   },
@@ -4169,7 +4169,7 @@
    "informacion": "Casos",
    "CODCOM": 2103,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 26,
+   "2023": 27,
    "2024": 19,
    "2025": 17,
    "COMUNA": "Sierra Gorda"
@@ -4187,9 +4187,9 @@
    "informacion": "Casos",
    "CODCOM": 2103,
    "delito": "HURTOS",
-   "2023": 36,
+   "2023": 37,
    "2024": 26,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -4225,16 +4225,16 @@
    "delito": "LESIONES MENOS GRAVES",
    "2023": 3,
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "Sierra Gorda"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2103,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 3,
+   "2023": 4,
    "2024": 1,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -4286,8 +4286,8 @@
    "informacion": "Casos",
    "CODCOM": 2103,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 74,
-   "2024": 62,
+   "2023": 75,
+   "2024": 65,
    "2025": 46,
    "COMUNA": "Sierra Gorda"
   },
@@ -4295,8 +4295,8 @@
    "informacion": "Casos",
    "CODCOM": 2103,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 43,
-   "2024": 39,
+   "2023": 44,
+   "2024": 43,
    "2025": 50,
    "COMUNA": "Sierra Gorda"
   },
@@ -4320,7 +4320,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 50/2025 (del 08/12/2025 al 14/12/2025)",
+  "semana_id": "SEMANA 51/2025 (del 15/12/2025 al 21/12/2025)",
   "region": "Antofagasta"
  }
 }

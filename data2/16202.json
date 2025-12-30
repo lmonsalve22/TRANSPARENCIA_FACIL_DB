@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16202,
-   "2024": 57,
-   "2025": 55,
-   "variacion": -4,
+   "2024": 59,
+   "2025": 56,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "Cobquecura"
   },
@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 16202,
    "2024": 51,
-   "2025": 61,
-   "variacion": 20,
+   "2025": 62,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "Cobquecura"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16202,
-   "2024": 26,
+   "2024": 27,
    "2025": 15,
-   "variacion": -42,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "Cobquecura"
   },
@@ -166,9 +166,9 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16202,
    "2024": 12,
-   "2025": 11,
-   "variacion": -8,
-   "situación": "Disminución de Casos",
+   "2025": 12,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cobquecura"
   },
   {
@@ -572,7 +572,7 @@
    "CODCOM": 16202,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Cobquecura"
   },
   {
@@ -956,7 +956,7 @@
    "CODCOM": 16202,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Cobquecura"
   },
   {
@@ -3836,7 +3836,7 @@
    "CODCOM": 16202,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Cobquecura"
   },
   {
@@ -4238,16 +4238,16 @@
    "informacion": "Casos",
    "CODCOM": 16202,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 34,
-   "2024": 57,
-   "2025": 55,
+   "2023": 35,
+   "2024": 59,
+   "2025": 56,
    "COMUNA": "Cobquecura"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16202,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 101,
+   "2023": 102,
    "2024": 69,
    "2025": 63,
    "COMUNA": "Cobquecura"
@@ -4256,9 +4256,9 @@
    "informacion": "Casos",
    "CODCOM": 16202,
    "delito": "DAÑOS",
-   "2023": 49,
+   "2023": 51,
    "2024": 51,
-   "2025": 61,
+   "2025": 62,
    "COMUNA": "Cobquecura"
   },
   {
@@ -4311,7 +4311,7 @@
    "CODCOM": 16202,
    "delito": "LESIONES LEVES",
    "2023": 28,
-   "2024": 26,
+   "2024": 27,
    "2025": 15,
    "COMUNA": "Cobquecura"
   },
@@ -4391,9 +4391,9 @@
    "informacion": "Casos",
    "CODCOM": 16202,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 14,
+   "2023": 15,
    "2024": 12,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "Cobquecura"
   },
   {
@@ -4416,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 50/2025 (del 08/12/2025 al 14/12/2025)",
+  "semana_id": "SEMANA 51/2025 (del 15/12/2025 al 21/12/2025)",
   "region": "Ñuble"
  }
 }

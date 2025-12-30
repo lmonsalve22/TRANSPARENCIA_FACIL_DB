@@ -12,17 +12,17 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14203,
-   "2024": 85,
-   "2025": 74,
-   "variacion": -13,
+   "2024": 88,
+   "2025": 75,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "Lago Ranco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 14203,
-   "2024": 307,
-   "2025": 317,
+   "2024": 312,
+   "2025": 320,
    "variacion": 3,
    "situación": "Aumento de Casos",
    "COMUNA": "Lago Ranco"
@@ -30,17 +30,17 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 14203,
-   "2024": 86,
-   "2025": 70,
-   "variacion": -19,
+   "2024": 89,
+   "2025": 71,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Lago Ranco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 14203,
-   "2024": 120,
-   "2025": 83,
+   "2024": 122,
+   "2025": 84,
    "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "Lago Ranco"
@@ -48,18 +48,18 @@
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 14203,
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Lago Ranco"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 14203,
-   "2024": 32,
-   "2025": 20,
-   "variacion": -38,
+   "2024": 33,
+   "2025": 21,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "Lago Ranco"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 14203,
    "2024": 46,
-   "2025": 37,
-   "variacion": -20,
+   "2025": 38,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "Lago Ranco"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 14203,
-   "2024": 19,
+   "2024": 20,
    "2025": 2,
-   "variacion": -89,
+   "variacion": -90,
    "situación": "Disminución de Casos",
    "COMUNA": "Lago Ranco"
   },
@@ -572,7 +572,7 @@
    "CODCOM": 14203,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -764,7 +764,7 @@
    "CODCOM": 14203,
    "anio": 2025,
    "mes": 12,
-   "casos": 11,
+   "casos": 14,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -956,7 +956,7 @@
    "CODCOM": 14203,
    "anio": 2025,
    "mes": 12,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 14203,
    "anio": 2025,
    "mes": 12,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -1532,7 +1532,7 @@
    "CODCOM": 14203,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -1724,7 +1724,7 @@
    "CODCOM": 14203,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -4238,18 +4238,18 @@
    "informacion": "Casos",
    "CODCOM": 14203,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 106,
-   "2024": 85,
-   "2025": 74,
+   "2023": 107,
+   "2024": 88,
+   "2025": 75,
    "COMUNA": "Lago Ranco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14203,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 203,
-   "2024": 307,
-   "2025": 317,
+   "2023": 208,
+   "2024": 312,
+   "2025": 320,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -4257,8 +4257,8 @@
    "CODCOM": 14203,
    "delito": "DAÑOS",
    "2023": 103,
-   "2024": 86,
-   "2025": 70,
+   "2024": 89,
+   "2025": 71,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -4266,8 +4266,8 @@
    "CODCOM": 14203,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 98,
-   "2024": 120,
-   "2025": 83,
+   "2024": 122,
+   "2025": 84,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -4275,7 +4275,7 @@
    "CODCOM": 14203,
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "2023": 0,
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "Lago Ranco"
   },
@@ -4284,8 +4284,8 @@
    "CODCOM": 14203,
    "delito": "HURTOS",
    "2023": 44,
-   "2024": 32,
-   "2025": 20,
+   "2024": 33,
+   "2025": 21,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -4294,7 +4294,7 @@
    "delito": "INCIVILIDADES",
    "2023": 27,
    "2024": 46,
-   "2025": 37,
+   "2025": 38,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -4329,7 +4329,7 @@
    "CODCOM": 14203,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 9,
-   "2024": 19,
+   "2024": 20,
    "2025": 2,
    "COMUNA": "Lago Ranco"
   },
@@ -4409,14 +4409,14 @@
    "informacion": "Casos",
    "CODCOM": 14203,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 6,
+   "2023": 7,
    "2024": 8,
    "2025": 7,
    "COMUNA": "Lago Ranco"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 50/2025 (del 08/12/2025 al 14/12/2025)",
+  "semana_id": "SEMANA 51/2025 (del 15/12/2025 al 21/12/2025)",
   "region": "Los Ríos"
  }
 }

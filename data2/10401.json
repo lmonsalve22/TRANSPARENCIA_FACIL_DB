@@ -3,18 +3,18 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 10401,
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Chaitén"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10401,
    "2024": 34,
-   "2025": 17,
-   "variacion": -50,
+   "2025": 18,
+   "variacion": -47,
    "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10401,
    "2024": 41,
-   "2025": 29,
-   "variacion": -29,
+   "2025": 36,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 10401,
    "2024": 45,
-   "2025": 32,
-   "variacion": -29,
+   "2025": 35,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
@@ -40,9 +40,9 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10401,
    "2024": 33,
-   "2025": 33,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 35,
+   "variacion": 6,
+   "situación": "Aumento de Casos",
    "COMUNA": "Chaitén"
   },
   {
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10401,
-   "2024": 21,
+   "2024": 22,
    "2025": 19,
-   "variacion": -10,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 10401,
    "2024": 16,
-   "2025": 9,
-   "variacion": -44,
+   "2025": 10,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
@@ -572,7 +572,7 @@
    "CODCOM": 10401,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Chaitén"
   },
   {
@@ -764,7 +764,7 @@
    "CODCOM": 10401,
    "anio": 2025,
    "mes": 12,
-   "casos": 2,
+   "casos": 9,
    "COMUNA": "Chaitén"
   },
   {
@@ -956,7 +956,7 @@
    "CODCOM": 10401,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "Chaitén"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 10401,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Chaitén"
   },
   {
@@ -2012,7 +2012,7 @@
    "CODCOM": 10401,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Chaitén"
   },
   {
@@ -4038,7 +4038,7 @@
    "CODCOM": 10401,
    "delito": "AMENAZAS CON ARMAS",
    "2023": 1,
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "Chaitén"
   },
@@ -4048,25 +4048,25 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 26,
    "2024": 34,
-   "2025": 17,
+   "2025": 18,
    "COMUNA": "Chaitén"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10401,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 34,
+   "2023": 35,
    "2024": 41,
-   "2025": 29,
+   "2025": 36,
    "COMUNA": "Chaitén"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10401,
    "delito": "DAÑOS",
-   "2023": 48,
+   "2023": 49,
    "2024": 45,
-   "2025": 32,
+   "2025": 35,
    "COMUNA": "Chaitén"
   },
   {
@@ -4075,7 +4075,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 43,
    "2024": 33,
-   "2025": 33,
+   "2025": 35,
    "COMUNA": "Chaitén"
   },
   {
@@ -4091,7 +4091,7 @@
    "informacion": "Casos",
    "CODCOM": 10401,
    "delito": "HURTOS",
-   "2023": 18,
+   "2023": 19,
    "2024": 13,
    "2025": 13,
    "COMUNA": "Chaitén"
@@ -4100,8 +4100,8 @@
    "informacion": "Casos",
    "CODCOM": 10401,
    "delito": "INCIVILIDADES",
-   "2023": 32,
-   "2024": 21,
+   "2023": 33,
+   "2024": 22,
    "2025": 19,
    "COMUNA": "Chaitén"
   },
@@ -4120,7 +4120,7 @@
    "delito": "LESIONES LEVES",
    "2023": 12,
    "2024": 16,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "Chaitén"
   },
   {
@@ -4199,7 +4199,7 @@
    "informacion": "Casos",
    "CODCOM": 10401,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 11,
+   "2023": 12,
    "2024": 17,
    "2025": 6,
    "COMUNA": "Chaitén"
@@ -4224,7 +4224,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 50/2025 (del 08/12/2025 al 14/12/2025)",
+  "semana_id": "SEMANA 51/2025 (del 15/12/2025 al 21/12/2025)",
   "region": "Los Lagos"
  }
 }
