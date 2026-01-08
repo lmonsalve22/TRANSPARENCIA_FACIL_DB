@@ -12,35 +12,35 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10203,
-   "2024": 128,
-   "2025": 141,
-   "variacion": 10,
+   "2024": 133,
+   "2025": 143,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "Chonchi"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10203,
-   "2024": 320,
-   "2025": 142,
-   "variacion": -56,
+   "2024": 325,
+   "2025": 149,
+   "variacion": -54,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10203,
-   "2024": 117,
+   "2024": 118,
    "2025": 70,
-   "variacion": -40,
+   "variacion": -41,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10203,
-   "2024": 131,
-   "2025": 113,
+   "2024": 135,
+   "2025": 116,
    "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
@@ -58,17 +58,17 @@
    "delito": "HURTOS",
    "CODCOM": 10203,
    "2024": 43,
-   "2025": 30,
-   "variacion": -30,
+   "2025": 31,
+   "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10203,
-   "2024": 25,
-   "2025": 17,
-   "variacion": -32,
+   "2024": 26,
+   "2025": 18,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 10203,
    "2024": 46,
-   "2025": 27,
-   "variacion": -41,
+   "2025": 28,
+   "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10203,
-   "2024": 47,
+   "2024": 48,
    "2025": 34,
-   "variacion": -28,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
   },
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10203,
-   "2024": 10,
+   "2024": 11,
    "2025": 11,
-   "variacion": 10,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Chonchi"
   }
  ],
@@ -572,7 +572,7 @@
    "CODCOM": 10203,
    "anio": 2025,
    "mes": 12,
-   "casos": 12,
+   "casos": 14,
    "COMUNA": "Chonchi"
   },
   {
@@ -764,7 +764,7 @@
    "CODCOM": 10203,
    "anio": 2025,
    "mes": 12,
-   "casos": 11,
+   "casos": 18,
    "COMUNA": "Chonchi"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 10203,
    "anio": 2025,
    "mes": 12,
-   "casos": 10,
+   "casos": 13,
    "COMUNA": "Chonchi"
   },
   {
@@ -1532,7 +1532,7 @@
    "CODCOM": 10203,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Chonchi"
   },
   {
@@ -1724,7 +1724,7 @@
    "CODCOM": 10203,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Chonchi"
   },
   {
@@ -2108,7 +2108,7 @@
    "CODCOM": 10203,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Chonchi"
   },
   {
@@ -4229,7 +4229,7 @@
    "informacion": "Casos",
    "CODCOM": 10203,
    "delito": "AMENAZAS CON ARMAS",
-   "2023": 3,
+   "2023": 4,
    "2024": 8,
    "2025": 2,
    "COMUNA": "Chonchi"
@@ -4238,26 +4238,26 @@
    "informacion": "Casos",
    "CODCOM": 10203,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 134,
-   "2024": 128,
-   "2025": 141,
+   "2023": 135,
+   "2024": 133,
+   "2025": 143,
    "COMUNA": "Chonchi"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10203,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 192,
-   "2024": 320,
-   "2025": 142,
+   "2023": 198,
+   "2024": 325,
+   "2025": 149,
    "COMUNA": "Chonchi"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10203,
    "delito": "DAÑOS",
-   "2023": 108,
-   "2024": 117,
+   "2023": 110,
+   "2024": 118,
    "2025": 70,
    "COMUNA": "Chonchi"
   },
@@ -4265,9 +4265,9 @@
    "informacion": "Casos",
    "CODCOM": 10203,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 148,
-   "2024": 131,
-   "2025": 113,
+   "2023": 151,
+   "2024": 135,
+   "2025": 116,
    "COMUNA": "Chonchi"
   },
   {
@@ -4283,18 +4283,18 @@
    "informacion": "Casos",
    "CODCOM": 10203,
    "delito": "HURTOS",
-   "2023": 50,
+   "2023": 52,
    "2024": 43,
-   "2025": 30,
+   "2025": 31,
    "COMUNA": "Chonchi"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10203,
    "delito": "INCIVILIDADES",
-   "2023": 17,
-   "2024": 25,
-   "2025": 17,
+   "2023": 18,
+   "2024": 26,
+   "2025": 18,
    "COMUNA": "Chonchi"
   },
   {
@@ -4310,9 +4310,9 @@
    "informacion": "Casos",
    "CODCOM": 10203,
    "delito": "LESIONES LEVES",
-   "2023": 58,
+   "2023": 60,
    "2024": 46,
-   "2025": 27,
+   "2025": 28,
    "COMUNA": "Chonchi"
   },
   {
@@ -4373,7 +4373,7 @@
    "informacion": "Casos",
    "CODCOM": 10203,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 6,
+   "2023": 7,
    "2024": 5,
    "2025": 6,
    "COMUNA": "Chonchi"
@@ -4392,7 +4392,7 @@
    "CODCOM": 10203,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 40,
-   "2024": 47,
+   "2024": 48,
    "2025": 34,
    "COMUNA": "Chonchi"
   },
@@ -4410,13 +4410,13 @@
    "CODCOM": 10203,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 13,
-   "2024": 10,
+   "2024": 11,
    "2025": 11,
    "COMUNA": "Chonchi"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 51/2025 (del 15/12/2025 al 21/12/2025)",
+  "semana_id": "SEMANA 52/2025 (del 22/12/2025 al 28/12/2025)",
   "region": "Los Lagos"
  }
 }

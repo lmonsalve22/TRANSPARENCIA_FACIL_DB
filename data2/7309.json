@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7309,
-   "2024": 23,
-   "2025": 36,
-   "variacion": 57,
+   "2024": 24,
+   "2025": 37,
+   "variacion": 54,
    "situación": "Aumento de Casos",
    "COMUNA": "Vichuquén"
   },
@@ -30,8 +30,8 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 7309,
-   "2024": 72,
-   "2025": 77,
+   "2024": 75,
+   "2025": 80,
    "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "Vichuquén"
@@ -66,10 +66,10 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 7309,
-   "2024": 31,
+   "2024": 33,
    "2025": 32,
-   "variacion": 3,
-   "situación": "Aumento de Casos",
+   "variacion": -3,
+   "situación": "Disminución de Casos",
    "COMUNA": "Vichuquén"
   },
   {
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7309,
-   "2024": 46,
+   "2024": 52,
    "2025": 25,
-   "variacion": -46,
+   "variacion": -52,
    "situación": "Disminución de Casos",
    "COMUNA": "Vichuquén"
   },
@@ -112,9 +112,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 7309,
    "2024": 5,
-   "2025": 5,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 6,
+   "variacion": 20,
+   "situación": "Aumento de Casos",
    "COMUNA": "Vichuquén"
   },
   {
@@ -572,7 +572,7 @@
    "CODCOM": 7309,
    "anio": 2025,
    "mes": 12,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Vichuquén"
   },
   {
@@ -956,7 +956,7 @@
    "CODCOM": 7309,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "Vichuquén"
   },
   {
@@ -2588,7 +2588,7 @@
    "CODCOM": 7309,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Vichuquén"
   },
   {
@@ -4143,8 +4143,8 @@
    "CODCOM": 7309,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 31,
-   "2024": 23,
-   "2025": 36,
+   "2024": 24,
+   "2025": 37,
    "COMUNA": "Vichuquén"
   },
   {
@@ -4160,16 +4160,16 @@
    "informacion": "Casos",
    "CODCOM": 7309,
    "delito": "DAÑOS",
-   "2023": 70,
-   "2024": 72,
-   "2025": 77,
+   "2023": 71,
+   "2024": 75,
+   "2025": 80,
    "COMUNA": "Vichuquén"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7309,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 32,
+   "2023": 34,
    "2024": 30,
    "2025": 40,
    "COMUNA": "Vichuquén"
@@ -4187,7 +4187,7 @@
    "informacion": "Casos",
    "CODCOM": 7309,
    "delito": "HURTOS",
-   "2023": 25,
+   "2023": 26,
    "2024": 25,
    "2025": 14,
    "COMUNA": "Vichuquén"
@@ -4197,7 +4197,7 @@
    "CODCOM": 7309,
    "delito": "INCIVILIDADES",
    "2023": 16,
-   "2024": 31,
+   "2024": 33,
    "2025": 32,
    "COMUNA": "Vichuquén"
   },
@@ -4233,7 +4233,7 @@
    "CODCOM": 7309,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 22,
-   "2024": 46,
+   "2024": 52,
    "2025": 25,
    "COMUNA": "Vichuquén"
   },
@@ -4243,7 +4243,7 @@
    "delito": "LEY DE DROGAS",
    "2023": 2,
    "2024": 5,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "Vichuquén"
   },
   {
@@ -4320,7 +4320,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 51/2025 (del 15/12/2025 al 21/12/2025)",
+  "semana_id": "SEMANA 52/2025 (del 22/12/2025 al 28/12/2025)",
   "region": "Maule"
  }
 }

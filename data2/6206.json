@@ -3,9 +3,9 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 6206,
-   "2024": 4,
+   "2024": 5,
    "2025": 1,
-   "variacion": -75,
+   "variacion": -80,
    "situación": "Disminución de Casos",
    "COMUNA": "Paredones"
   },
@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6206,
    "2024": 65,
-   "2025": 25,
-   "variacion": -62,
+   "2025": 26,
+   "variacion": -60,
    "situación": "Disminución de Casos",
    "COMUNA": "Paredones"
   },
@@ -31,16 +31,16 @@
    "delito": "DAÑOS",
    "CODCOM": 6206,
    "2024": 66,
-   "2025": 45,
-   "variacion": -32,
+   "2025": 47,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Paredones"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6206,
-   "2024": 48,
-   "2025": 42,
+   "2024": 50,
+   "2025": 44,
    "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "Paredones"
@@ -58,9 +58,9 @@
    "delito": "HURTOS",
    "CODCOM": 6206,
    "2024": 27,
-   "2025": 26,
-   "variacion": -4,
-   "situación": "Disminución de Casos",
+   "2025": 27,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Paredones"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6206,
-   "2024": 52,
+   "2024": 55,
    "2025": 33,
-   "variacion": -37,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Paredones"
   },
@@ -764,7 +764,7 @@
    "CODCOM": 6206,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Paredones"
   },
   {
@@ -956,7 +956,7 @@
    "CODCOM": 6206,
    "anio": 2025,
    "mes": 12,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "Paredones"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 6206,
    "anio": 2025,
    "mes": 12,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "Paredones"
   },
   {
@@ -1532,7 +1532,7 @@
    "CODCOM": 6206,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Paredones"
   },
   {
@@ -4230,7 +4230,7 @@
    "CODCOM": 6206,
    "delito": "AMENAZAS CON ARMAS",
    "2023": 1,
-   "2024": 4,
+   "2024": 5,
    "2025": 1,
    "COMUNA": "Paredones"
   },
@@ -4238,7 +4238,7 @@
    "informacion": "Casos",
    "CODCOM": 6206,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 48,
+   "2023": 51,
    "2024": 38,
    "2025": 46,
    "COMUNA": "Paredones"
@@ -4247,18 +4247,18 @@
    "informacion": "Casos",
    "CODCOM": 6206,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 53,
+   "2023": 55,
    "2024": 65,
-   "2025": 25,
+   "2025": 26,
    "COMUNA": "Paredones"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6206,
    "delito": "DAÑOS",
-   "2023": 49,
+   "2023": 53,
    "2024": 66,
-   "2025": 45,
+   "2025": 47,
    "COMUNA": "Paredones"
   },
   {
@@ -4266,8 +4266,8 @@
    "CODCOM": 6206,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 61,
-   "2024": 48,
-   "2025": 42,
+   "2024": 50,
+   "2025": 44,
    "COMUNA": "Paredones"
   },
   {
@@ -4283,9 +4283,9 @@
    "informacion": "Casos",
    "CODCOM": 6206,
    "delito": "HURTOS",
-   "2023": 24,
+   "2023": 25,
    "2024": 27,
-   "2025": 26,
+   "2025": 27,
    "COMUNA": "Paredones"
   },
   {
@@ -4328,7 +4328,7 @@
    "informacion": "Casos",
    "CODCOM": 6206,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 1,
+   "2023": 2,
    "2024": 9,
    "2025": 1,
    "COMUNA": "Paredones"
@@ -4391,8 +4391,8 @@
    "informacion": "Casos",
    "CODCOM": 6206,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 54,
-   "2024": 52,
+   "2023": 55,
+   "2024": 55,
    "2025": 33,
    "COMUNA": "Paredones"
   },
@@ -4416,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 51/2025 (del 15/12/2025 al 21/12/2025)",
+  "semana_id": "SEMANA 52/2025 (del 22/12/2025 al 28/12/2025)",
   "region": "O'Higgins"
  }
 }

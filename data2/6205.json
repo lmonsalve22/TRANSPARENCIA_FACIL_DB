@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6205,
-   "2024": 100,
-   "2025": 74,
+   "2024": 101,
+   "2025": 75,
    "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "Navidad"
@@ -22,25 +22,25 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6205,
    "2024": 96,
-   "2025": 81,
-   "variacion": -16,
+   "2025": 83,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Navidad"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6205,
-   "2024": 89,
+   "2024": 93,
    "2025": 77,
-   "variacion": -13,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "Navidad"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6205,
-   "2024": 62,
-   "2025": 80,
+   "2024": 63,
+   "2025": 81,
    "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "Navidad"
@@ -85,9 +85,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 6205,
    "2024": 40,
-   "2025": 40,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 41,
+   "variacion": 2,
+   "situación": "Aumento de Casos",
    "COMUNA": "Navidad"
   },
   {
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 6205,
    "2024": 4,
-   "2025": 1,
-   "variacion": -75,
+   "2025": 2,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Navidad"
   },
@@ -572,7 +572,7 @@
    "CODCOM": 6205,
    "anio": 2025,
    "mes": 12,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "Navidad"
   },
   {
@@ -764,7 +764,7 @@
    "CODCOM": 6205,
    "anio": 2025,
    "mes": 12,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "Navidad"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 6205,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Navidad"
   },
   {
@@ -2108,7 +2108,7 @@
    "CODCOM": 6205,
    "anio": 2025,
    "mes": 12,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "Navidad"
   },
   {
@@ -2684,7 +2684,7 @@
    "CODCOM": 6205,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Navidad"
   },
   {
@@ -4238,26 +4238,26 @@
    "informacion": "Casos",
    "CODCOM": 6205,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 84,
-   "2024": 100,
-   "2025": 74,
+   "2023": 87,
+   "2024": 101,
+   "2025": 75,
    "COMUNA": "Navidad"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6205,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 136,
+   "2023": 137,
    "2024": 96,
-   "2025": 81,
+   "2025": 83,
    "COMUNA": "Navidad"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6205,
    "delito": "DAÑOS",
-   "2023": 77,
-   "2024": 89,
+   "2023": 79,
+   "2024": 93,
    "2025": 77,
    "COMUNA": "Navidad"
   },
@@ -4265,9 +4265,9 @@
    "informacion": "Casos",
    "CODCOM": 6205,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 60,
-   "2024": 62,
-   "2025": 80,
+   "2023": 62,
+   "2024": 63,
+   "2025": 81,
    "COMUNA": "Navidad"
   },
   {
@@ -4283,7 +4283,7 @@
    "informacion": "Casos",
    "CODCOM": 6205,
    "delito": "HURTOS",
-   "2023": 31,
+   "2023": 33,
    "2024": 37,
    "2025": 24,
    "COMUNA": "Navidad"
@@ -4310,9 +4310,9 @@
    "informacion": "Casos",
    "CODCOM": 6205,
    "delito": "LESIONES LEVES",
-   "2023": 40,
+   "2023": 41,
    "2024": 40,
-   "2025": 40,
+   "2025": 41,
    "COMUNA": "Navidad"
   },
   {
@@ -4339,7 +4339,7 @@
    "delito": "LEY DE DROGAS",
    "2023": 9,
    "2024": 4,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "Navidad"
   },
   {
@@ -4355,7 +4355,7 @@
    "informacion": "Casos",
    "CODCOM": 6205,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "2023": 3,
+   "2023": 4,
    "2024": 2,
    "2025": 1,
    "COMUNA": "Navidad"
@@ -4416,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 51/2025 (del 15/12/2025 al 21/12/2025)",
+  "semana_id": "SEMANA 52/2025 (del 22/12/2025 al 28/12/2025)",
   "region": "O'Higgins"
  }
 }

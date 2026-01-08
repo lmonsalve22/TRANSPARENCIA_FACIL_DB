@@ -12,37 +12,37 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8314,
-   "2024": 55,
-   "2025": 51,
-   "variacion": -7,
+   "2024": 58,
+   "2025": 53,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "Alto Biobío"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8314,
-   "2024": 93,
-   "2025": 123,
-   "variacion": 32,
+   "2024": 94,
+   "2025": 129,
+   "variacion": 37,
    "situación": "Aumento de Casos",
    "COMUNA": "Alto Biobío"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 8314,
-   "2024": 46,
-   "2025": 21,
-   "variacion": -54,
+   "2024": 47,
+   "2025": 23,
+   "variacion": -51,
    "situación": "Disminución de Casos",
    "COMUNA": "Alto Biobío"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8314,
-   "2024": 57,
+   "2024": 59,
    "2025": 58,
-   "variacion": 2,
-   "situación": "Aumento de Casos",
+   "variacion": -2,
+   "situación": "Disminución de Casos",
    "COMUNA": "Alto Biobío"
   },
   {
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8314,
-   "2024": 4,
-   "2025": 6,
-   "variacion": 50,
+   "2024": 5,
+   "2025": 7,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "Alto Biobío"
   },
@@ -93,10 +93,10 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8314,
-   "2024": 3,
+   "2024": 4,
    "2025": 4,
-   "variacion": 33,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Alto Biobío"
   },
   {
@@ -156,10 +156,10 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8314,
-   "2024": 2,
+   "2024": 3,
    "2025": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33,
+   "situación": "Disminución de Casos",
    "COMUNA": "Alto Biobío"
   },
   {
@@ -572,7 +572,7 @@
    "CODCOM": 8314,
    "anio": 2025,
    "mes": 12,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -764,7 +764,7 @@
    "CODCOM": 8314,
    "anio": 2025,
    "mes": 12,
-   "casos": 13,
+   "casos": 19,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -956,7 +956,7 @@
    "CODCOM": 8314,
    "anio": 2025,
    "mes": 12,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -1724,7 +1724,7 @@
    "CODCOM": 8314,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -4239,26 +4239,26 @@
    "CODCOM": 8314,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 51,
-   "2024": 55,
-   "2025": 51,
+   "2024": 58,
+   "2025": 53,
    "COMUNA": "Alto Biobío"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8314,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 70,
-   "2024": 93,
-   "2025": 123,
+   "2023": 77,
+   "2024": 94,
+   "2025": 129,
    "COMUNA": "Alto Biobío"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8314,
    "delito": "DAÑOS",
-   "2023": 52,
-   "2024": 46,
-   "2025": 21,
+   "2023": 53,
+   "2024": 47,
+   "2025": 23,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -4266,7 +4266,7 @@
    "CODCOM": 8314,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 57,
-   "2024": 57,
+   "2024": 59,
    "2025": 58,
    "COMUNA": "Alto Biobío"
   },
@@ -4293,8 +4293,8 @@
    "CODCOM": 8314,
    "delito": "INCIVILIDADES",
    "2023": 4,
-   "2024": 4,
-   "2025": 6,
+   "2024": 5,
+   "2025": 7,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -4319,8 +4319,8 @@
    "informacion": "Casos",
    "CODCOM": 8314,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 3,
-   "2024": 3,
+   "2023": 4,
+   "2024": 4,
    "2025": 4,
    "COMUNA": "Alto Biobío"
   },
@@ -4383,7 +4383,7 @@
    "CODCOM": 8314,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 1,
-   "2024": 2,
+   "2024": 3,
    "2025": 2,
    "COMUNA": "Alto Biobío"
   },
@@ -4416,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 51/2025 (del 15/12/2025 al 21/12/2025)",
+  "semana_id": "SEMANA 52/2025 (del 22/12/2025 al 28/12/2025)",
   "region": "Biobío"
  }
 }

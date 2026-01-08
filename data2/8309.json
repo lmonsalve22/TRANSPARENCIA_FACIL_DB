@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8309,
-   "2024": 38,
+   "2024": 39,
    "2025": 35,
-   "variacion": -8,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "Quilleco"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 8309,
-   "2024": 55,
+   "2024": 56,
    "2025": 40,
-   "variacion": -27,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Quilleco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8309,
-   "2024": 52,
-   "2025": 65,
-   "variacion": 25,
+   "2024": 55,
+   "2025": 67,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "Quilleco"
   },
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 8309,
    "2024": 20,
-   "2025": 19,
-   "variacion": -5,
-   "situación": "Disminución de Casos",
+   "2025": 20,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Quilleco"
   },
   {
@@ -84,19 +84,19 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8309,
-   "2024": 18,
+   "2024": 19,
    "2025": 18,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -5,
+   "situación": "Disminución de Casos",
    "COMUNA": "Quilleco"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8309,
-   "2024": 2,
+   "2024": 3,
    "2025": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33,
+   "situación": "Disminución de Casos",
    "COMUNA": "Quilleco"
   },
   {
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 8309,
    "2024": 16,
-   "2025": 8,
-   "variacion": -50,
+   "2025": 9,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "Quilleco"
   },
@@ -1148,7 +1148,7 @@
    "CODCOM": 8309,
    "anio": 2025,
    "mes": 12,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "Quilleco"
   },
   {
@@ -1724,7 +1724,7 @@
    "CODCOM": 8309,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Quilleco"
   },
   {
@@ -2684,7 +2684,7 @@
    "CODCOM": 8309,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Quilleco"
   },
   {
@@ -4238,8 +4238,8 @@
    "informacion": "Casos",
    "CODCOM": 8309,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 47,
-   "2024": 38,
+   "2023": 48,
+   "2024": 39,
    "2025": 35,
    "COMUNA": "Quilleco"
   },
@@ -4257,7 +4257,7 @@
    "CODCOM": 8309,
    "delito": "DAÑOS",
    "2023": 49,
-   "2024": 55,
+   "2024": 56,
    "2025": 40,
    "COMUNA": "Quilleco"
   },
@@ -4265,9 +4265,9 @@
    "informacion": "Casos",
    "CODCOM": 8309,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 73,
-   "2024": 52,
-   "2025": 65,
+   "2023": 74,
+   "2024": 55,
+   "2025": 67,
    "COMUNA": "Quilleco"
   },
   {
@@ -4292,9 +4292,9 @@
    "informacion": "Casos",
    "CODCOM": 8309,
    "delito": "INCIVILIDADES",
-   "2023": 11,
+   "2023": 12,
    "2024": 20,
-   "2025": 19,
+   "2025": 20,
    "COMUNA": "Quilleco"
   },
   {
@@ -4310,8 +4310,8 @@
    "informacion": "Casos",
    "CODCOM": 8309,
    "delito": "LESIONES LEVES",
-   "2023": 20,
-   "2024": 18,
+   "2023": 21,
+   "2024": 19,
    "2025": 18,
    "COMUNA": "Quilleco"
   },
@@ -4320,7 +4320,7 @@
    "CODCOM": 8309,
    "delito": "LESIONES MENOS GRAVES",
    "2023": 0,
-   "2024": 2,
+   "2024": 3,
    "2025": 2,
    "COMUNA": "Quilleco"
   },
@@ -4339,7 +4339,7 @@
    "delito": "LEY DE DROGAS",
    "2023": 4,
    "2024": 16,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "Quilleco"
   },
   {
@@ -4416,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 51/2025 (del 15/12/2025 al 21/12/2025)",
+  "semana_id": "SEMANA 52/2025 (del 22/12/2025 al 28/12/2025)",
   "region": "Biobío"
  }
 }

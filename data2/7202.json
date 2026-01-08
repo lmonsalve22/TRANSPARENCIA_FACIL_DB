@@ -3,18 +3,18 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 7202,
-   "2024": 5,
+   "2024": 6,
    "2025": 3,
-   "variacion": -40,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Chanco"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7202,
-   "2024": 55,
-   "2025": 58,
-   "variacion": 5,
+   "2024": 57,
+   "2025": 59,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "Chanco"
   },
@@ -22,16 +22,16 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7202,
    "2024": 32,
-   "2025": 43,
-   "variacion": 34,
+   "2025": 44,
+   "variacion": 38,
    "situación": "Aumento de Casos",
    "COMUNA": "Chanco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7202,
-   "2024": 48,
-   "2025": 53,
+   "2024": 49,
+   "2025": 54,
    "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "Chanco"
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 7202,
    "2024": 8,
-   "2025": 12,
-   "variacion": 50,
+   "2025": 13,
+   "variacion": 62,
    "situación": "Aumento de Casos",
    "COMUNA": "Chanco"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 7202,
    "2024": 14,
-   "2025": 24,
-   "variacion": 71,
+   "2025": 26,
+   "variacion": 86,
    "situación": "Aumento de Casos",
    "COMUNA": "Chanco"
   },
@@ -174,10 +174,10 @@
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 7202,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Chanco"
   },
   {
@@ -572,7 +572,7 @@
    "CODCOM": 7202,
    "anio": 2025,
    "mes": 12,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "Chanco"
   },
   {
@@ -764,7 +764,7 @@
    "CODCOM": 7202,
    "anio": 2025,
    "mes": 12,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Chanco"
   },
   {
@@ -956,7 +956,7 @@
    "CODCOM": 7202,
    "anio": 2025,
    "mes": 12,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Chanco"
   },
   {
@@ -1724,7 +1724,7 @@
    "CODCOM": 7202,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Chanco"
   },
   {
@@ -2108,7 +2108,7 @@
    "CODCOM": 7202,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Chanco"
   },
   {
@@ -4230,7 +4230,7 @@
    "CODCOM": 7202,
    "delito": "AMENAZAS CON ARMAS",
    "2023": 2,
-   "2024": 5,
+   "2024": 6,
    "2025": 3,
    "COMUNA": "Chanco"
   },
@@ -4238,18 +4238,18 @@
    "informacion": "Casos",
    "CODCOM": 7202,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 63,
-   "2024": 55,
-   "2025": 58,
+   "2023": 65,
+   "2024": 57,
+   "2025": 59,
    "COMUNA": "Chanco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7202,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 25,
+   "2023": 27,
    "2024": 32,
-   "2025": 43,
+   "2025": 44,
    "COMUNA": "Chanco"
   },
   {
@@ -4257,8 +4257,8 @@
    "CODCOM": 7202,
    "delito": "DAÑOS",
    "2023": 37,
-   "2024": 48,
-   "2025": 53,
+   "2024": 49,
+   "2025": 54,
    "COMUNA": "Chanco"
   },
   {
@@ -4274,7 +4274,7 @@
    "informacion": "Casos",
    "CODCOM": 7202,
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "2023": 0,
+   "2023": 1,
    "2024": 0,
    "2025": 0,
    "COMUNA": "Chanco"
@@ -4294,7 +4294,7 @@
    "delito": "INCIVILIDADES",
    "2023": 7,
    "2024": 8,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "Chanco"
   },
   {
@@ -4312,7 +4312,7 @@
    "delito": "LESIONES LEVES",
    "2023": 10,
    "2024": 14,
-   "2025": 24,
+   "2025": 26,
    "COMUNA": "Chanco"
   },
   {
@@ -4373,7 +4373,7 @@
    "informacion": "Casos",
    "CODCOM": 7202,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 0,
+   "2023": 1,
    "2024": 1,
    "2025": 1,
    "COMUNA": "Chanco"
@@ -4391,7 +4391,7 @@
    "informacion": "Casos",
    "CODCOM": 7202,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 11,
+   "2023": 15,
    "2024": 16,
    "2025": 11,
    "COMUNA": "Chanco"
@@ -4401,7 +4401,7 @@
    "CODCOM": 7202,
    "delito": "ROBOS POR SORPRESA",
    "2023": 0,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
    "COMUNA": "Chanco"
   },
@@ -4416,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 51/2025 (del 15/12/2025 al 21/12/2025)",
+  "semana_id": "SEMANA 52/2025 (del 22/12/2025 al 28/12/2025)",
   "region": "Maule"
  }
 }

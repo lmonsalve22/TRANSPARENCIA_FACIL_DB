@@ -31,9 +31,9 @@
    "delito": "DAÑOS",
    "CODCOM": 4305,
    "2024": 24,
-   "2025": 22,
-   "variacion": -8,
-   "situación": "Disminución de Casos",
+   "2025": 24,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Río Hurtado"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 4305,
-   "2024": 10,
+   "2024": 11,
    "2025": 2,
-   "variacion": -80,
+   "variacion": -82,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Hurtado"
   },
@@ -956,7 +956,7 @@
    "CODCOM": 4305,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Río Hurtado"
   },
   {
@@ -4160,9 +4160,9 @@
    "informacion": "Casos",
    "CODCOM": 4305,
    "delito": "DAÑOS",
-   "2023": 26,
+   "2023": 28,
    "2024": 24,
-   "2025": 22,
+   "2025": 24,
    "COMUNA": "Río Hurtado"
   },
   {
@@ -4187,7 +4187,7 @@
    "informacion": "Casos",
    "CODCOM": 4305,
    "delito": "HURTOS",
-   "2023": 11,
+   "2023": 12,
    "2024": 8,
    "2025": 7,
    "COMUNA": "Río Hurtado"
@@ -4215,7 +4215,7 @@
    "CODCOM": 4305,
    "delito": "LESIONES LEVES",
    "2023": 7,
-   "2024": 10,
+   "2024": 11,
    "2025": 2,
    "COMUNA": "Río Hurtado"
   },
@@ -4320,7 +4320,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 51/2025 (del 15/12/2025 al 21/12/2025)",
+  "semana_id": "SEMANA 52/2025 (del 22/12/2025 al 28/12/2025)",
   "region": "Coquimbo"
  }
 }

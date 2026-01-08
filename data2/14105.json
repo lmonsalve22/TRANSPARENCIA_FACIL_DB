@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14105,
-   "2024": 76,
-   "2025": 50,
+   "2024": 77,
+   "2025": 51,
    "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "Máfil"
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 14105,
-   "2024": 88,
+   "2024": 90,
    "2025": 89,
-   "variacion": 1,
-   "situación": "Aumento de Casos",
+   "variacion": -1,
+   "situación": "Disminución de Casos",
    "COMUNA": "Máfil"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 14105,
-   "2024": 55,
-   "2025": 59,
-   "variacion": 7,
+   "2024": 56,
+   "2025": 61,
+   "variacion": 9,
    "situación": "Aumento de Casos",
    "COMUNA": "Máfil"
   },
@@ -75,18 +75,18 @@
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 14105,
-   "2024": 3,
+   "2024": 4,
    "2025": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -25,
+   "situación": "Disminución de Casos",
    "COMUNA": "Máfil"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 14105,
-   "2024": 31,
+   "2024": 33,
    "2025": 19,
-   "variacion": -39,
+   "variacion": -42,
    "situación": "Disminución de Casos",
    "COMUNA": "Máfil"
   },
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 14105,
-   "2024": 8,
+   "2024": 9,
    "2025": 8,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -11,
+   "situación": "Disminución de Casos",
    "COMUNA": "Máfil"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 14105,
-   "2024": 45,
+   "2024": 46,
    "2025": 38,
-   "variacion": -16,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "Máfil"
   },
@@ -572,7 +572,7 @@
    "CODCOM": 14105,
    "anio": 2025,
    "mes": 12,
-   "casos": 6,
+   "casos": 7,
    "COMUNA": "Máfil"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 14105,
    "anio": 2025,
    "mes": 12,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "Máfil"
   },
   {
@@ -4238,9 +4238,9 @@
    "informacion": "Casos",
    "CODCOM": 14105,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 46,
-   "2024": 76,
-   "2025": 50,
+   "2023": 47,
+   "2024": 77,
+   "2025": 51,
    "COMUNA": "Máfil"
   },
   {
@@ -4256,8 +4256,8 @@
    "informacion": "Casos",
    "CODCOM": 14105,
    "delito": "DAÑOS",
-   "2023": 92,
-   "2024": 88,
+   "2023": 93,
+   "2024": 90,
    "2025": 89,
    "COMUNA": "Máfil"
   },
@@ -4266,8 +4266,8 @@
    "CODCOM": 14105,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 46,
-   "2024": 55,
-   "2025": 59,
+   "2024": 56,
+   "2025": 61,
    "COMUNA": "Máfil"
   },
   {
@@ -4283,7 +4283,7 @@
    "informacion": "Casos",
    "CODCOM": 14105,
    "delito": "HURTOS",
-   "2023": 36,
+   "2023": 37,
    "2024": 41,
    "2025": 26,
    "COMUNA": "Máfil"
@@ -4292,7 +4292,7 @@
    "informacion": "Casos",
    "CODCOM": 14105,
    "delito": "INCIVILIDADES",
-   "2023": 17,
+   "2023": 18,
    "2024": 15,
    "2025": 20,
    "COMUNA": "Máfil"
@@ -4302,7 +4302,7 @@
    "CODCOM": 14105,
    "delito": "LESIONES GRAVES",
    "2023": 4,
-   "2024": 3,
+   "2024": 4,
    "2025": 3,
    "COMUNA": "Máfil"
   },
@@ -4311,7 +4311,7 @@
    "CODCOM": 14105,
    "delito": "LESIONES LEVES",
    "2023": 34,
-   "2024": 31,
+   "2024": 33,
    "2025": 19,
    "COMUNA": "Máfil"
   },
@@ -4383,7 +4383,7 @@
    "CODCOM": 14105,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 7,
-   "2024": 8,
+   "2024": 9,
    "2025": 8,
    "COMUNA": "Máfil"
   },
@@ -4392,7 +4392,7 @@
    "CODCOM": 14105,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 46,
-   "2024": 45,
+   "2024": 46,
    "2025": 38,
    "COMUNA": "Máfil"
   },
@@ -4416,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 51/2025 (del 15/12/2025 al 21/12/2025)",
+  "semana_id": "SEMANA 52/2025 (del 22/12/2025 al 28/12/2025)",
   "region": "Los Ríos"
  }
 }

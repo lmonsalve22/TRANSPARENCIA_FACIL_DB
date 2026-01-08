@@ -3,18 +3,18 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 16203,
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Coelemu"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16203,
    "2024": 112,
-   "2025": 80,
-   "variacion": -29,
+   "2025": 83,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "Coelemu"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16203,
-   "2024": 111,
+   "2024": 113,
    "2025": 103,
-   "variacion": -7,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "Coelemu"
   },
@@ -57,27 +57,27 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16203,
-   "2024": 68,
+   "2024": 69,
    "2025": 43,
-   "variacion": -37,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "Coelemu"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 16203,
-   "2024": 28,
+   "2024": 29,
    "2025": 38,
-   "variacion": 36,
+   "variacion": 31,
    "situación": "Aumento de Casos",
    "COMUNA": "Coelemu"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16203,
-   "2024": 9,
+   "2024": 11,
    "2025": 6,
-   "variacion": -33,
+   "variacion": -45,
    "situación": "Disminución de Casos",
    "COMUNA": "Coelemu"
   },
@@ -130,9 +130,9 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16203,
    "2024": 11,
-   "2025": 11,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 12,
+   "variacion": 9,
+   "situación": "Aumento de Casos",
    "COMUNA": "Coelemu"
   },
   {
@@ -147,10 +147,10 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 16203,
-   "2024": 5,
+   "2024": 6,
    "2025": 5,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -17,
+   "situación": "Disminución de Casos",
    "COMUNA": "Coelemu"
   },
   {
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 16203,
-   "2024": 13,
-   "2025": 8,
-   "variacion": -38,
+   "2024": 14,
+   "2025": 9,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "Coelemu"
   }
@@ -572,7 +572,7 @@
    "CODCOM": 16203,
    "anio": 2025,
    "mes": 12,
-   "casos": 2,
+   "casos": 5,
    "COMUNA": "Coelemu"
   },
   {
@@ -3068,7 +3068,7 @@
    "CODCOM": 16203,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Coelemu"
   },
   {
@@ -4220,7 +4220,7 @@
    "CODCOM": 16203,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Coelemu"
   }
  ],
@@ -4230,7 +4230,7 @@
    "CODCOM": 16203,
    "delito": "AMENAZAS CON ARMAS",
    "2023": 2,
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
    "COMUNA": "Coelemu"
   },
@@ -4238,16 +4238,16 @@
    "informacion": "Casos",
    "CODCOM": 16203,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 91,
+   "2023": 92,
    "2024": 112,
-   "2025": 80,
+   "2025": 83,
    "COMUNA": "Coelemu"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16203,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 38,
+   "2023": 39,
    "2024": 57,
    "2025": 38,
    "COMUNA": "Coelemu"
@@ -4266,7 +4266,7 @@
    "CODCOM": 16203,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 83,
-   "2024": 111,
+   "2024": 113,
    "2025": 103,
    "COMUNA": "Coelemu"
   },
@@ -4283,8 +4283,8 @@
    "informacion": "Casos",
    "CODCOM": 16203,
    "delito": "HURTOS",
-   "2023": 77,
-   "2024": 68,
+   "2023": 80,
+   "2024": 69,
    "2025": 43,
    "COMUNA": "Coelemu"
   },
@@ -4293,7 +4293,7 @@
    "CODCOM": 16203,
    "delito": "INCIVILIDADES",
    "2023": 34,
-   "2024": 28,
+   "2024": 29,
    "2025": 38,
    "COMUNA": "Coelemu"
   },
@@ -4302,7 +4302,7 @@
    "CODCOM": 16203,
    "delito": "LESIONES GRAVES",
    "2023": 8,
-   "2024": 9,
+   "2024": 11,
    "2025": 6,
    "COMUNA": "Coelemu"
   },
@@ -4357,7 +4357,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 1,
    "2024": 11,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "Coelemu"
   },
   {
@@ -4374,7 +4374,7 @@
    "CODCOM": 16203,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 11,
-   "2024": 5,
+   "2024": 6,
    "2025": 5,
    "COMUNA": "Coelemu"
   },
@@ -4410,13 +4410,13 @@
    "CODCOM": 16203,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 11,
-   "2024": 13,
-   "2025": 8,
+   "2024": 14,
+   "2025": 9,
    "COMUNA": "Coelemu"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 51/2025 (del 15/12/2025 al 21/12/2025)",
+  "semana_id": "SEMANA 52/2025 (del 22/12/2025 al 28/12/2025)",
   "region": "Ñuble"
  }
 }
