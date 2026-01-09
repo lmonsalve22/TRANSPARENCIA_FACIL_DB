@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14106,
    "2024": 228,
-   "2025": 230,
-   "variacion": 1,
+   "2025": 233,
+   "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "Mariquina"
   },
@@ -22,7 +22,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 14106,
    "2024": 269,
-   "2025": 271,
+   "2025": 273,
    "variacion": 1,
    "situación": "Aumento de Casos",
    "COMUNA": "Mariquina"
@@ -30,8 +30,8 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 14106,
-   "2024": 270,
-   "2025": 189,
+   "2024": 272,
+   "2025": 191,
    "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "Mariquina"
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 14106,
    "2024": 205,
-   "2025": 183,
-   "variacion": -11,
+   "2025": 185,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "Mariquina"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 14106,
-   "2024": 107,
+   "2024": 109,
    "2025": 98,
-   "variacion": -8,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "Mariquina"
   },
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 14106,
-   "2024": 47,
+   "2024": 48,
    "2025": 20,
-   "variacion": -57,
+   "variacion": -58,
    "situación": "Disminución de Casos",
    "COMUNA": "Mariquina"
   },
@@ -165,7 +165,7 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 14106,
-   "2024": 174,
+   "2024": 175,
    "2025": 138,
    "variacion": -21,
    "situación": "Disminución de Casos",
@@ -572,7 +572,7 @@
    "CODCOM": 14106,
    "anio": 2025,
    "mes": 12,
-   "casos": 24,
+   "casos": 27,
    "COMUNA": "Mariquina"
   },
   {
@@ -764,7 +764,7 @@
    "CODCOM": 14106,
    "anio": 2025,
    "mes": 12,
-   "casos": 10,
+   "casos": 12,
    "COMUNA": "Mariquina"
   },
   {
@@ -956,7 +956,7 @@
    "CODCOM": 14106,
    "anio": 2025,
    "mes": 12,
-   "casos": 12,
+   "casos": 14,
    "COMUNA": "Mariquina"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 14106,
    "anio": 2025,
    "mes": 12,
-   "casos": 9,
+   "casos": 11,
    "COMUNA": "Mariquina"
   },
   {
@@ -4238,36 +4238,36 @@
    "informacion": "Casos",
    "CODCOM": 14106,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 236,
+   "2023": 242,
    "2024": 228,
-   "2025": 230,
+   "2025": 233,
    "COMUNA": "Mariquina"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14106,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 300,
+   "2023": 302,
    "2024": 269,
-   "2025": 271,
+   "2025": 273,
    "COMUNA": "Mariquina"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14106,
    "delito": "DAÑOS",
-   "2023": 257,
-   "2024": 270,
-   "2025": 189,
+   "2023": 259,
+   "2024": 272,
+   "2025": 191,
    "COMUNA": "Mariquina"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14106,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 206,
+   "2023": 208,
    "2024": 205,
-   "2025": 183,
+   "2025": 185,
    "COMUNA": "Mariquina"
   },
   {
@@ -4283,7 +4283,7 @@
    "informacion": "Casos",
    "CODCOM": 14106,
    "delito": "HURTOS",
-   "2023": 203,
+   "2023": 209,
    "2024": 124,
    "2025": 110,
    "COMUNA": "Mariquina"
@@ -4301,7 +4301,7 @@
    "informacion": "Casos",
    "CODCOM": 14106,
    "delito": "LESIONES GRAVES",
-   "2023": 12,
+   "2023": 13,
    "2024": 7,
    "2025": 11,
    "COMUNA": "Mariquina"
@@ -4310,7 +4310,7 @@
    "informacion": "Casos",
    "CODCOM": 14106,
    "delito": "LESIONES LEVES",
-   "2023": 100,
+   "2023": 101,
    "2024": 88,
    "2025": 72,
    "COMUNA": "Mariquina"
@@ -4319,7 +4319,7 @@
    "informacion": "Casos",
    "CODCOM": 14106,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 12,
+   "2023": 13,
    "2024": 11,
    "2025": 14,
    "COMUNA": "Mariquina"
@@ -4328,8 +4328,8 @@
    "informacion": "Casos",
    "CODCOM": 14106,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 17,
-   "2024": 107,
+   "2023": 20,
+   "2024": 109,
    "2025": 98,
    "COMUNA": "Mariquina"
   },
@@ -4356,7 +4356,7 @@
    "CODCOM": 14106,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 19,
-   "2024": 47,
+   "2024": 48,
    "2025": 20,
    "COMUNA": "Mariquina"
   },
@@ -4364,7 +4364,7 @@
    "informacion": "Casos",
    "CODCOM": 14106,
    "delito": "RECEPTACIÓN",
-   "2023": 5,
+   "2023": 6,
    "2024": 4,
    "2025": 8,
    "COMUNA": "Mariquina"
@@ -4392,7 +4392,7 @@
    "CODCOM": 14106,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 183,
-   "2024": 174,
+   "2024": 175,
    "2025": 138,
    "COMUNA": "Mariquina"
   },
@@ -4416,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 52/2025 (del 22/12/2025 al 28/12/2025)",
+  "semana_id": "SEMANA 53/2025 (del 29/12/2025 al 31/12/2025)",
   "region": "Los Ríos"
  }
 }

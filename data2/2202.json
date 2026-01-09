@@ -85,9 +85,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 2202,
    "2024": 1,
-   "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Ollagüe"
   },
   {
@@ -102,10 +102,10 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 2202,
-   "2024": 4,
+   "2024": 5,
    "2025": 4,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -20,
+   "situación": "Disminución de Casos",
    "COMUNA": "Ollagüe"
   },
   {
@@ -1916,7 +1916,7 @@
    "CODCOM": 2202,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Ollagüe"
   },
   {
@@ -3832,7 +3832,7 @@
    "delito": "LESIONES LEVES",
    "2023": 1,
    "2024": 1,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "Ollagüe"
   },
   {
@@ -3849,7 +3849,7 @@
    "CODCOM": 2202,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 3,
-   "2024": 4,
+   "2024": 5,
    "2025": 4,
    "COMUNA": "Ollagüe"
   },
@@ -3936,7 +3936,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 52/2025 (del 22/12/2025 al 28/12/2025)",
+  "semana_id": "SEMANA 53/2025 (del 29/12/2025 al 31/12/2025)",
   "region": "Antofagasta"
  }
 }

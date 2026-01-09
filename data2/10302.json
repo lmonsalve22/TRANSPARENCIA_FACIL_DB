@@ -13,9 +13,9 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10302,
    "2024": 70,
-   "2025": 68,
-   "variacion": -3,
-   "situación": "Disminución de Casos",
+   "2025": 70,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Puerto Octay"
   },
   {
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10302,
    "2024": 96,
-   "2025": 94,
-   "variacion": -2,
+   "2025": 95,
+   "variacion": -1,
    "situación": "Disminución de Casos",
    "COMUNA": "Puerto Octay"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 10302,
    "2024": 41,
-   "2025": 23,
-   "variacion": -44,
+   "2025": 24,
+   "variacion": -41,
    "situación": "Disminución de Casos",
    "COMUNA": "Puerto Octay"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10302,
-   "2024": 37,
+   "2024": 38,
    "2025": 27,
-   "variacion": -27,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Puerto Octay"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10302,
    "2024": 8,
-   "2025": 5,
-   "variacion": -38,
+   "2025": 7,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "Puerto Octay"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10302,
    "2024": 36,
-   "2025": 37,
-   "variacion": 3,
+   "2025": 38,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "Puerto Octay"
   },
@@ -572,7 +572,7 @@
    "CODCOM": 10302,
    "anio": 2025,
    "mes": 12,
-   "casos": 10,
+   "casos": 12,
    "COMUNA": "Puerto Octay"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 10302,
    "anio": 2025,
    "mes": 12,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Puerto Octay"
   },
   {
@@ -1724,7 +1724,7 @@
    "CODCOM": 10302,
    "anio": 2025,
    "mes": 12,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Puerto Octay"
   },
   {
@@ -2492,7 +2492,7 @@
    "CODCOM": 10302,
    "anio": 2025,
    "mes": 12,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Puerto Octay"
   },
   {
@@ -3836,7 +3836,7 @@
    "CODCOM": 10302,
    "anio": 2025,
    "mes": 12,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Puerto Octay"
   },
   {
@@ -4238,16 +4238,16 @@
    "informacion": "Casos",
    "CODCOM": 10302,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 89,
+   "2023": 92,
    "2024": 70,
-   "2025": 68,
+   "2025": 70,
    "COMUNA": "Puerto Octay"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10302,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 90,
+   "2023": 95,
    "2024": 65,
    "2025": 89,
    "COMUNA": "Puerto Octay"
@@ -4256,7 +4256,7 @@
    "informacion": "Casos",
    "CODCOM": 10302,
    "delito": "DAÑOS",
-   "2023": 89,
+   "2023": 90,
    "2024": 88,
    "2025": 65,
    "COMUNA": "Puerto Octay"
@@ -4267,7 +4267,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 76,
    "2024": 96,
-   "2025": 94,
+   "2025": 95,
    "COMUNA": "Puerto Octay"
   },
   {
@@ -4294,7 +4294,7 @@
    "delito": "INCIVILIDADES",
    "2023": 30,
    "2024": 41,
-   "2025": 23,
+   "2025": 24,
    "COMUNA": "Puerto Octay"
   },
   {
@@ -4310,8 +4310,8 @@
    "informacion": "Casos",
    "CODCOM": 10302,
    "delito": "LESIONES LEVES",
-   "2023": 25,
-   "2024": 37,
+   "2023": 26,
+   "2024": 38,
    "2025": 27,
    "COMUNA": "Puerto Octay"
   },
@@ -4330,7 +4330,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 0,
    "2024": 8,
-   "2025": 5,
+   "2025": 7,
    "COMUNA": "Puerto Octay"
   },
   {
@@ -4355,7 +4355,7 @@
    "informacion": "Casos",
    "CODCOM": 10302,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "2023": 1,
+   "2023": 2,
    "2024": 1,
    "2025": 0,
    "COMUNA": "Puerto Octay"
@@ -4393,7 +4393,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 31,
    "2024": 36,
-   "2025": 37,
+   "2025": 38,
    "COMUNA": "Puerto Octay"
   },
   {
@@ -4416,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 52/2025 (del 22/12/2025 al 28/12/2025)",
+  "semana_id": "SEMANA 53/2025 (del 29/12/2025 al 31/12/2025)",
   "region": "Los Lagos"
  }
 }

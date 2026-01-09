@@ -21,8 +21,8 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9204,
-   "2024": 211,
-   "2025": 210,
+   "2024": 214,
+   "2025": 214,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Ercilla"
@@ -40,9 +40,9 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9204,
    "2024": 59,
-   "2025": 59,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 60,
+   "variacion": 2,
+   "situación": "Aumento de Casos",
    "COMUNA": "Ercilla"
   },
   {
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9204,
-   "2024": 20,
+   "2024": 21,
    "2025": 19,
-   "variacion": -5,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "Ercilla"
   },
@@ -764,7 +764,7 @@
    "CODCOM": 9204,
    "anio": 2025,
    "mes": 12,
-   "casos": 6,
+   "casos": 10,
    "COMUNA": "Ercilla"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 9204,
    "anio": 2025,
    "mes": 12,
-   "casos": 9,
+   "casos": 10,
    "COMUNA": "Ercilla"
   },
   {
@@ -4247,16 +4247,16 @@
    "informacion": "Casos",
    "CODCOM": 9204,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 53,
-   "2024": 211,
-   "2025": 210,
+   "2023": 54,
+   "2024": 214,
+   "2025": 214,
    "COMUNA": "Ercilla"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9204,
    "delito": "DAÑOS",
-   "2023": 84,
+   "2023": 85,
    "2024": 84,
    "2025": 72,
    "COMUNA": "Ercilla"
@@ -4265,9 +4265,9 @@
    "informacion": "Casos",
    "CODCOM": 9204,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 57,
+   "2023": 58,
    "2024": 59,
-   "2025": 59,
+   "2025": 60,
    "COMUNA": "Ercilla"
   },
   {
@@ -4292,8 +4292,8 @@
    "informacion": "Casos",
    "CODCOM": 9204,
    "delito": "INCIVILIDADES",
-   "2023": 16,
-   "2024": 20,
+   "2023": 17,
+   "2024": 21,
    "2025": 19,
    "COMUNA": "Ercilla"
   },
@@ -4310,7 +4310,7 @@
    "informacion": "Casos",
    "CODCOM": 9204,
    "delito": "LESIONES LEVES",
-   "2023": 24,
+   "2023": 25,
    "2024": 25,
    "2025": 21,
    "COMUNA": "Ercilla"
@@ -4319,7 +4319,7 @@
    "informacion": "Casos",
    "CODCOM": 9204,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 3,
+   "2023": 4,
    "2024": 5,
    "2025": 10,
    "COMUNA": "Ercilla"
@@ -4328,7 +4328,7 @@
    "informacion": "Casos",
    "CODCOM": 9204,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 30,
+   "2023": 31,
    "2024": 43,
    "2025": 59,
    "COMUNA": "Ercilla"
@@ -4373,7 +4373,7 @@
    "informacion": "Casos",
    "CODCOM": 9204,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 21,
+   "2023": 22,
    "2024": 11,
    "2025": 14,
    "COMUNA": "Ercilla"
@@ -4416,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 52/2025 (del 22/12/2025 al 28/12/2025)",
+  "semana_id": "SEMANA 53/2025 (del 29/12/2025 al 31/12/2025)",
   "region": "La Araucanía"
  }
 }

@@ -13,17 +13,17 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16302,
    "2024": 301,
-   "2025": 261,
-   "variacion": -13,
+   "2025": 266,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "Coihueco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16302,
-   "2024": 318,
+   "2024": 323,
    "2025": 183,
-   "variacion": -42,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "Coihueco"
   },
@@ -40,7 +40,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16302,
    "2024": 272,
-   "2025": 212,
+   "2025": 213,
    "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "Coihueco"
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 16302,
    "2024": 91,
-   "2025": 62,
-   "variacion": -32,
+   "2025": 63,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "Coihueco"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 16302,
    "2024": 31,
-   "2025": 18,
-   "variacion": -42,
+   "2025": 19,
+   "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "Coihueco"
   },
@@ -121,9 +121,9 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 16302,
    "2024": 2,
-   "2025": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 3,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
    "COMUNA": "Coihueco"
   },
   {
@@ -572,7 +572,7 @@
    "CODCOM": 16302,
    "anio": 2025,
    "mes": 12,
-   "casos": 20,
+   "casos": 25,
    "COMUNA": "Coihueco"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 16302,
    "anio": 2025,
    "mes": 12,
-   "casos": 11,
+   "casos": 12,
    "COMUNA": "Coihueco"
   },
   {
@@ -2108,7 +2108,7 @@
    "CODCOM": 16302,
    "anio": 2025,
    "mes": 12,
-   "casos": 8,
+   "casos": 9,
    "COMUNA": "Coihueco"
   },
   {
@@ -2684,7 +2684,7 @@
    "CODCOM": 16302,
    "anio": 2025,
    "mes": 12,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Coihueco"
   },
   {
@@ -2876,7 +2876,7 @@
    "CODCOM": 16302,
    "anio": 2025,
    "mes": 12,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Coihueco"
   },
   {
@@ -4238,17 +4238,17 @@
    "informacion": "Casos",
    "CODCOM": 16302,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 240,
+   "2023": 241,
    "2024": 301,
-   "2025": 261,
+   "2025": 266,
    "COMUNA": "Coihueco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16302,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 369,
-   "2024": 318,
+   "2023": 373,
+   "2024": 323,
    "2025": 183,
    "COMUNA": "Coihueco"
   },
@@ -4256,7 +4256,7 @@
    "informacion": "Casos",
    "CODCOM": 16302,
    "delito": "DAÑOS",
-   "2023": 190,
+   "2023": 195,
    "2024": 225,
    "2025": 182,
    "COMUNA": "Coihueco"
@@ -4265,9 +4265,9 @@
    "informacion": "Casos",
    "CODCOM": 16302,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 193,
+   "2023": 196,
    "2024": 272,
-   "2025": 212,
+   "2025": 213,
    "COMUNA": "Coihueco"
   },
   {
@@ -4283,7 +4283,7 @@
    "informacion": "Casos",
    "CODCOM": 16302,
    "delito": "HURTOS",
-   "2023": 82,
+   "2023": 83,
    "2024": 100,
    "2025": 72,
    "COMUNA": "Coihueco"
@@ -4310,9 +4310,9 @@
    "informacion": "Casos",
    "CODCOM": 16302,
    "delito": "LESIONES LEVES",
-   "2023": 91,
+   "2023": 92,
    "2024": 91,
-   "2025": 62,
+   "2025": 63,
    "COMUNA": "Coihueco"
   },
   {
@@ -4328,7 +4328,7 @@
    "informacion": "Casos",
    "CODCOM": 16302,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 26,
+   "2023": 27,
    "2024": 84,
    "2025": 41,
    "COMUNA": "Coihueco"
@@ -4339,7 +4339,7 @@
    "delito": "LEY DE DROGAS",
    "2023": 29,
    "2024": 31,
-   "2025": 18,
+   "2025": 19,
    "COMUNA": "Coihueco"
   },
   {
@@ -4348,7 +4348,7 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2023": 3,
    "2024": 2,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "Coihueco"
   },
   {
@@ -4364,7 +4364,7 @@
    "informacion": "Casos",
    "CODCOM": 16302,
    "delito": "RECEPTACIÓN",
-   "2023": 17,
+   "2023": 18,
    "2024": 7,
    "2025": 10,
    "COMUNA": "Coihueco"
@@ -4382,7 +4382,7 @@
    "informacion": "Casos",
    "CODCOM": 16302,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 21,
+   "2023": 22,
    "2024": 11,
    "2025": 8,
    "COMUNA": "Coihueco"
@@ -4416,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 52/2025 (del 22/12/2025 al 28/12/2025)",
+  "semana_id": "SEMANA 53/2025 (del 29/12/2025 al 31/12/2025)",
   "region": "Ñuble"
  }
 }

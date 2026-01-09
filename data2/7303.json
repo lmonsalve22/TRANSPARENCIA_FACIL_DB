@@ -3,18 +3,18 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 7303,
-   "2024": 4,
+   "2024": 5,
    "2025": 5,
-   "variacion": 25,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Licantén"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7303,
    "2024": 76,
-   "2025": 70,
-   "variacion": -8,
+   "2025": 71,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "Licantén"
   },
@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 7303,
    "2024": 91,
-   "2025": 109,
-   "variacion": 20,
+   "2025": 110,
+   "variacion": 21,
    "situación": "Aumento de Casos",
    "COMUNA": "Licantén"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7303,
    "2024": 46,
-   "2025": 51,
-   "variacion": 11,
+   "2025": 52,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "Licantén"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 7303,
    "2024": 10,
-   "2025": 17,
-   "variacion": 70,
+   "2025": 18,
+   "variacion": 80,
    "situación": "Aumento de Casos",
    "COMUNA": "Licantén"
   },
@@ -102,7 +102,7 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7303,
-   "2024": 99,
+   "2024": 100,
    "2025": 39,
    "variacion": -61,
    "situación": "Disminución de Casos",
@@ -165,8 +165,8 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7303,
-   "2024": 46,
-   "2025": 42,
+   "2024": 47,
+   "2025": 43,
    "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "Licantén"
@@ -572,7 +572,7 @@
    "CODCOM": 7303,
    "anio": 2025,
    "mes": 12,
-   "casos": 8,
+   "casos": 9,
    "COMUNA": "Licantén"
   },
   {
@@ -956,7 +956,7 @@
    "CODCOM": 7303,
    "anio": 2025,
    "mes": 12,
-   "casos": 10,
+   "casos": 11,
    "COMUNA": "Licantén"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 7303,
    "anio": 2025,
    "mes": 12,
-   "casos": 8,
+   "casos": 9,
    "COMUNA": "Licantén"
   },
   {
@@ -1724,7 +1724,7 @@
    "CODCOM": 7303,
    "anio": 2025,
    "mes": 12,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Licantén"
   },
   {
@@ -3836,7 +3836,7 @@
    "CODCOM": 7303,
    "anio": 2025,
    "mes": 12,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Licantén"
   },
   {
@@ -4230,7 +4230,7 @@
    "CODCOM": 7303,
    "delito": "AMENAZAS CON ARMAS",
    "2023": 7,
-   "2024": 4,
+   "2024": 5,
    "2025": 5,
    "COMUNA": "Licantén"
   },
@@ -4238,9 +4238,9 @@
    "informacion": "Casos",
    "CODCOM": 7303,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 61,
+   "2023": 62,
    "2024": 76,
-   "2025": 70,
+   "2025": 71,
    "COMUNA": "Licantén"
   },
   {
@@ -4258,7 +4258,7 @@
    "delito": "DAÑOS",
    "2023": 98,
    "2024": 91,
-   "2025": 109,
+   "2025": 110,
    "COMUNA": "Licantén"
   },
   {
@@ -4267,7 +4267,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 50,
    "2024": 46,
-   "2025": 51,
+   "2025": 52,
    "COMUNA": "Licantén"
   },
   {
@@ -4292,9 +4292,9 @@
    "informacion": "Casos",
    "CODCOM": 7303,
    "delito": "INCIVILIDADES",
-   "2023": 18,
+   "2023": 19,
    "2024": 10,
-   "2025": 17,
+   "2025": 18,
    "COMUNA": "Licantén"
   },
   {
@@ -4329,7 +4329,7 @@
    "CODCOM": 7303,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 61,
-   "2024": 99,
+   "2024": 100,
    "2025": 39,
    "COMUNA": "Licantén"
   },
@@ -4392,8 +4392,8 @@
    "CODCOM": 7303,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 72,
-   "2024": 46,
-   "2025": 42,
+   "2024": 47,
+   "2025": 43,
    "COMUNA": "Licantén"
   },
   {
@@ -4416,7 +4416,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 52/2025 (del 22/12/2025 al 28/12/2025)",
+  "semana_id": "SEMANA 53/2025 (del 29/12/2025 al 31/12/2025)",
   "region": "Maule"
  }
 }
