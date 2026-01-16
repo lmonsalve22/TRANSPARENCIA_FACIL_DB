@@ -1,37 +1,55 @@
 {
  "resumen": [
   {
-   "delito": "AMENAZAS Y RIÑAS",
+   "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 12102,
+   "2024": 0,
    "2025": 0,
-   "2026": 0,
    "variacion": 0,
    "situación": "Sin variación de Casos",
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 12102,
+   "2024": 0,
+   "2025": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
    "COMUNA": "Laguna Blanca"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 12102,
+   "2024": 1,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Laguna Blanca"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 12102,
-   "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 7,
+   "2025": 6,
+   "variacion": -14,
+   "situación": "Disminución de Casos",
    "COMUNA": "Laguna Blanca"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 12102,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 12102,
+   "2024": 0,
    "2025": 0,
-   "2026": 0,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Laguna Blanca"
@@ -39,17 +57,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 12102,
-   "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 1,
+   "2025": 3,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
    "COMUNA": "Laguna Blanca"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 12102,
+   "2024": 0,
    "2025": 0,
-   "2026": 0,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Laguna Blanca"
@@ -57,8 +75,8 @@
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 12102,
+   "2024": 0,
    "2025": 0,
-   "2026": 0,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Laguna Blanca"
@@ -66,8 +84,8 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 12102,
-   "2025": 0,
-   "2026": 0,
+   "2024": 1,
+   "2025": 1,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Laguna Blanca"
@@ -75,8 +93,8 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 12102,
+   "2024": 0,
    "2025": 0,
-   "2026": 0,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Laguna Blanca"
@@ -84,8 +102,8 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 12102,
+   "2024": 0,
    "2025": 0,
-   "2026": 0,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Laguna Blanca"
@@ -93,8 +111,17 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 12102,
+   "2024": 1,
    "2025": 0,
-   "2026": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 12102,
+   "2024": 0,
+   "2025": 0,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Laguna Blanca"
@@ -102,8 +129,8 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 12102,
+   "2024": 0,
    "2025": 0,
-   "2026": 0,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Laguna Blanca"
@@ -111,8 +138,17 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 12102,
+   "2024": 1,
    "2025": 0,
-   "2026": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 12102,
+   "2024": 0,
+   "2025": 0,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Laguna Blanca"
@@ -120,8 +156,8 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 12102,
+   "2024": 0,
    "2025": 0,
-   "2026": 0,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Laguna Blanca"
@@ -129,8 +165,17 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 12102,
+   "2024": 1,
    "2025": 0,
-   "2026": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 12102,
+   "2024": 0,
+   "2025": 0,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Laguna Blanca"
@@ -138,8 +183,8 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 12102,
+   "2024": 0,
    "2025": 0,
-   "2026": 0,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Laguna Blanca"
@@ -147,6 +192,198 @@
  ],
  "mensual": [
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 12102,
    "anio": 2025,
@@ -243,10 +480,98 @@
    "COMUNA": "Laguna Blanca"
   },
   {
-   "delito": "AMENAZAS Y RIÑAS",
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 12102,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Laguna Blanca"
   },
@@ -347,11 +672,99 @@
    "COMUNA": "Laguna Blanca"
   },
   {
-   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "delito": "DAÑOS",
    "CODCOM": 12102,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
    "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "Laguna Blanca"
   },
   {
@@ -451,10 +864,98 @@
    "COMUNA": "Laguna Blanca"
   },
   {
-   "delito": "DAÑOS",
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 12102,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Laguna Blanca"
   },
@@ -555,10 +1056,194 @@
    "COMUNA": "Laguna Blanca"
   },
   {
-   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 12102,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Laguna Blanca"
   },
@@ -659,10 +1344,98 @@
    "COMUNA": "Laguna Blanca"
   },
   {
-   "delito": "HURTOS",
+   "delito": "INCIVILIDADES",
    "CODCOM": 12102,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Laguna Blanca"
   },
@@ -763,10 +1536,98 @@
    "COMUNA": "Laguna Blanca"
   },
   {
-   "delito": "INCIVILIDADES",
+   "delito": "LESIONES GRAVES",
    "CODCOM": 12102,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Laguna Blanca"
   },
@@ -867,10 +1728,98 @@
    "COMUNA": "Laguna Blanca"
   },
   {
-   "delito": "LESIONES GRAVES",
+   "delito": "LESIONES LEVES",
    "CODCOM": 12102,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Laguna Blanca"
   },
@@ -971,10 +1920,98 @@
    "COMUNA": "Laguna Blanca"
   },
   {
-   "delito": "LESIONES LEVES",
+   "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 12102,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Laguna Blanca"
   },
@@ -1075,10 +2112,98 @@
    "COMUNA": "Laguna Blanca"
   },
   {
-   "delito": "LESIONES MENOS GRAVES",
+   "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 12102,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Laguna Blanca"
   },
@@ -1179,10 +2304,98 @@
    "COMUNA": "Laguna Blanca"
   },
   {
-   "delito": "LEY DE CONTROL DE ARMAS",
+   "delito": "LEY DE DROGAS",
    "CODCOM": 12102,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Laguna Blanca"
   },
@@ -1283,10 +2496,194 @@
    "COMUNA": "Laguna Blanca"
   },
   {
-   "delito": "LEY DE DROGAS",
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 12102,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Laguna Blanca"
   },
@@ -1387,10 +2784,98 @@
    "COMUNA": "Laguna Blanca"
   },
   {
-   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "delito": "RECEPTACIÓN",
    "CODCOM": 12102,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Laguna Blanca"
   },
@@ -1491,10 +2976,194 @@
    "COMUNA": "Laguna Blanca"
   },
   {
-   "delito": "RECEPTACIÓN",
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 12102,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Laguna Blanca"
   },
@@ -1595,10 +3264,98 @@
    "COMUNA": "Laguna Blanca"
   },
   {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 12102,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Laguna Blanca"
   },
@@ -1699,10 +3456,194 @@
    "COMUNA": "Laguna Blanca"
   },
   {
-   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "delito": "ROBOS POR SORPRESA",
    "CODCOM": 12102,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Laguna Blanca"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Laguna Blanca"
   },
@@ -1799,14 +3740,6 @@
    "CODCOM": 12102,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
-   "COMUNA": "Laguna Blanca"
-  },
-  {
-   "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "CODCOM": 12102,
-   "anio": 2026,
-   "mes": 1,
    "casos": 0,
    "COMUNA": "Laguna Blanca"
   }
@@ -1816,194 +3749,194 @@
    "informacion": "Casos",
    "CODCOM": 12102,
    "delito": "AMENAZAS CON ARMAS",
+   "2023": 0,
    "2024": 0,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Laguna Blanca"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12102,
    "delito": "AMENAZAS Y RIÑAS",
+   "2023": 0,
    "2024": 0,
    "2025": 2,
-   "2026": 0,
    "COMUNA": "Laguna Blanca"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12102,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "2023": 4,
    "2024": 1,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Laguna Blanca"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12102,
    "delito": "DAÑOS",
+   "2023": 7,
    "2024": 7,
    "2025": 6,
-   "2026": 0,
    "COMUNA": "Laguna Blanca"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12102,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "2023": 0,
    "2024": 0,
    "2025": 1,
-   "2026": 0,
    "COMUNA": "Laguna Blanca"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12102,
    "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "2023": 0,
    "2024": 0,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Laguna Blanca"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12102,
    "delito": "HURTOS",
+   "2023": 0,
    "2024": 1,
    "2025": 3,
-   "2026": 0,
    "COMUNA": "Laguna Blanca"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12102,
    "delito": "INCIVILIDADES",
+   "2023": 1,
    "2024": 0,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Laguna Blanca"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12102,
    "delito": "LESIONES GRAVES",
+   "2023": 2,
    "2024": 0,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Laguna Blanca"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12102,
    "delito": "LESIONES LEVES",
+   "2023": 0,
    "2024": 1,
    "2025": 1,
-   "2026": 0,
    "COMUNA": "Laguna Blanca"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12102,
    "delito": "LESIONES MENOS GRAVES",
+   "2023": 0,
    "2024": 0,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Laguna Blanca"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12102,
    "delito": "LEY DE CONTROL DE ARMAS",
+   "2023": 0,
    "2024": 0,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Laguna Blanca"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12102,
    "delito": "LEY DE DROGAS",
+   "2023": 1,
    "2024": 1,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Laguna Blanca"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12102,
    "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "2023": 0,
    "2024": 0,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Laguna Blanca"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12102,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "2023": 0,
    "2024": 0,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Laguna Blanca"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12102,
    "delito": "RECEPTACIÓN",
+   "2023": 0,
    "2024": 1,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Laguna Blanca"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12102,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "2023": 0,
    "2024": 0,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Laguna Blanca"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12102,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "2023": 0,
    "2024": 0,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Laguna Blanca"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12102,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "2023": 0,
    "2024": 1,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Laguna Blanca"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12102,
    "delito": "ROBOS POR SORPRESA",
+   "2023": 0,
    "2024": 0,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Laguna Blanca"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12102,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "2023": 0,
    "2024": 0,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Laguna Blanca"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
+  "semana_id": "SEMANA 53/2025 (del 29/12/2025 al 31/12/2025)",
   "region": "Magallanes"
  }
 }

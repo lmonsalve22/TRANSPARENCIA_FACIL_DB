@@ -1,28 +1,37 @@
 {
  "resumen": [
   {
-   "delito": "AMENAZAS Y RIÑAS",
+   "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 2202,
+   "2024": 0,
    "2025": 0,
-   "2026": 0,
    "variacion": 0,
    "situación": "Sin variación de Casos",
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 2202,
+   "2024": 1,
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Ollagüe"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 2202,
-   "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 1,
+   "2025": 4,
+   "variacion": 300,
+   "situación": "Aumento de Casos",
    "COMUNA": "Ollagüe"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 2202,
-   "2025": 0,
-   "2026": 0,
+   "2024": 5,
+   "2025": 5,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Ollagüe"
@@ -30,8 +39,17 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 2202,
+   "2024": 1,
    "2025": 0,
-   "2026": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 2202,
+   "2024": 0,
+   "2025": 0,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Ollagüe"
@@ -39,35 +57,44 @@
   {
    "delito": "HURTOS",
    "CODCOM": 2202,
+   "2024": 1,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Ollagüe"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 2202,
-   "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Ollagüe"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 2202,
+   "2024": 1,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Ollagüe"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 2202,
+   "2024": 1,
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 2202,
+   "2024": 0,
    "2025": 0,
-   "2026": 0,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Ollagüe"
@@ -75,17 +102,26 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 2202,
-   "2025": 1,
-   "2026": 0,
-   "variacion": -100,
+   "2024": 5,
+   "2025": 4,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Ollagüe"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 2202,
+   "2024": 8,
+   "2025": 10,
+   "variacion": 25,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 2202,
+   "2024": 0,
    "2025": 0,
-   "2026": 0,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Ollagüe"
@@ -93,26 +129,26 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 2202,
-   "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 1,
+   "2025": 3,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
    "COMUNA": "Ollagüe"
   },
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 2202,
+   "2024": 3,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Ollagüe"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 2202,
-   "2025": 0,
-   "2026": 0,
+   "2024": 1,
+   "2025": 1,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Ollagüe"
@@ -120,17 +156,26 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 2202,
+   "2024": 1,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Ollagüe"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 2202,
+   "2024": 4,
+   "2025": 2,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 2202,
+   "2024": 0,
    "2025": 0,
-   "2026": 0,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Ollagüe"
@@ -138,14 +183,206 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 2202,
-   "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 0,
+   "2025": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
    "COMUNA": "Ollagüe"
   }
  ],
  "mensual": [
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 2202,
@@ -243,10 +480,98 @@
    "COMUNA": "Ollagüe"
   },
   {
-   "delito": "AMENAZAS Y RIÑAS",
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 2202,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Ollagüe"
   },
@@ -347,10 +672,98 @@
    "COMUNA": "Ollagüe"
   },
   {
-   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "delito": "DAÑOS",
    "CODCOM": 2202,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Ollagüe"
   },
@@ -451,10 +864,98 @@
    "COMUNA": "Ollagüe"
   },
   {
-   "delito": "DAÑOS",
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 2202,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Ollagüe"
   },
@@ -555,10 +1056,194 @@
    "COMUNA": "Ollagüe"
   },
   {
-   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 2202,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Ollagüe"
   },
@@ -659,10 +1344,98 @@
    "COMUNA": "Ollagüe"
   },
   {
-   "delito": "HURTOS",
+   "delito": "INCIVILIDADES",
    "CODCOM": 2202,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Ollagüe"
   },
@@ -763,10 +1536,98 @@
    "COMUNA": "Ollagüe"
   },
   {
-   "delito": "INCIVILIDADES",
+   "delito": "LESIONES GRAVES",
    "CODCOM": 2202,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Ollagüe"
   },
@@ -867,10 +1728,98 @@
    "COMUNA": "Ollagüe"
   },
   {
-   "delito": "LESIONES GRAVES",
+   "delito": "LESIONES LEVES",
    "CODCOM": 2202,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Ollagüe"
   },
@@ -971,11 +1920,195 @@
    "COMUNA": "Ollagüe"
   },
   {
-   "delito": "LESIONES LEVES",
+   "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 2202,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
    "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "Ollagüe"
   },
   {
@@ -1075,11 +2208,99 @@
    "COMUNA": "Ollagüe"
   },
   {
-   "delito": "LEY DE CONTROL DE ARMAS",
+   "delito": "LEY DE DROGAS",
    "CODCOM": 2202,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 3,
    "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "Ollagüe"
   },
   {
@@ -1179,10 +2400,194 @@
    "COMUNA": "Ollagüe"
   },
   {
-   "delito": "LEY DE DROGAS",
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 2202,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Ollagüe"
   },
@@ -1283,10 +2688,98 @@
    "COMUNA": "Ollagüe"
   },
   {
-   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "delito": "RECEPTACIÓN",
    "CODCOM": 2202,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Ollagüe"
   },
@@ -1387,11 +2880,99 @@
    "COMUNA": "Ollagüe"
   },
   {
-   "delito": "RECEPTACIÓN",
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 2202,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
    "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
    "COMUNA": "Ollagüe"
   },
   {
@@ -1491,10 +3072,98 @@
    "COMUNA": "Ollagüe"
   },
   {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 2202,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Ollagüe"
   },
@@ -1595,10 +3264,98 @@
    "COMUNA": "Ollagüe"
   },
   {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 2202,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Ollagüe"
   },
@@ -1699,10 +3456,194 @@
    "COMUNA": "Ollagüe"
   },
   {
-   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "delito": "ROBOS POR SORPRESA",
    "CODCOM": 2202,
-   "anio": 2026,
+   "anio": 2024,
    "mes": 1,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Ollagüe"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 2202,
+   "anio": 2024,
+   "mes": 12,
    "casos": 0,
    "COMUNA": "Ollagüe"
   },
@@ -1799,14 +3740,6 @@
    "CODCOM": 2202,
    "anio": 2025,
    "mes": 12,
-   "casos": 0,
-   "COMUNA": "Ollagüe"
-  },
-  {
-   "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "CODCOM": 2202,
-   "anio": 2026,
-   "mes": 1,
    "casos": 0,
    "COMUNA": "Ollagüe"
   }
@@ -1816,194 +3749,194 @@
    "informacion": "Casos",
    "CODCOM": 2202,
    "delito": "AMENAZAS CON ARMAS",
+   "2023": 0,
    "2024": 0,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Ollagüe"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2202,
    "delito": "AMENAZAS Y RIÑAS",
+   "2023": 0,
    "2024": 1,
    "2025": 2,
-   "2026": 0,
    "COMUNA": "Ollagüe"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2202,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "2023": 0,
    "2024": 1,
    "2025": 4,
-   "2026": 0,
    "COMUNA": "Ollagüe"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2202,
    "delito": "DAÑOS",
+   "2023": 4,
    "2024": 5,
    "2025": 5,
-   "2026": 0,
    "COMUNA": "Ollagüe"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2202,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "2023": 0,
    "2024": 1,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Ollagüe"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2202,
    "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "2023": 0,
    "2024": 0,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Ollagüe"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2202,
    "delito": "HURTOS",
+   "2023": 0,
    "2024": 1,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Ollagüe"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2202,
    "delito": "INCIVILIDADES",
+   "2023": 0,
    "2024": 0,
    "2025": 1,
-   "2026": 0,
    "COMUNA": "Ollagüe"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2202,
    "delito": "LESIONES GRAVES",
+   "2023": 0,
    "2024": 1,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Ollagüe"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2202,
    "delito": "LESIONES LEVES",
+   "2023": 1,
    "2024": 1,
    "2025": 2,
-   "2026": 0,
    "COMUNA": "Ollagüe"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2202,
    "delito": "LESIONES MENOS GRAVES",
+   "2023": 0,
    "2024": 0,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Ollagüe"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2202,
    "delito": "LEY DE CONTROL DE ARMAS",
+   "2023": 3,
    "2024": 5,
    "2025": 4,
-   "2026": 0,
    "COMUNA": "Ollagüe"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2202,
    "delito": "LEY DE DROGAS",
+   "2023": 5,
    "2024": 8,
    "2025": 10,
-   "2026": 0,
    "COMUNA": "Ollagüe"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2202,
    "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "2023": 0,
    "2024": 0,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Ollagüe"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2202,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "2023": 0,
    "2024": 1,
    "2025": 3,
-   "2026": 0,
    "COMUNA": "Ollagüe"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2202,
    "delito": "RECEPTACIÓN",
+   "2023": 6,
    "2024": 3,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Ollagüe"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2202,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "2023": 0,
    "2024": 1,
    "2025": 1,
-   "2026": 0,
    "COMUNA": "Ollagüe"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2202,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "2023": 0,
    "2024": 1,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Ollagüe"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2202,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "2023": 5,
    "2024": 4,
    "2025": 2,
-   "2026": 0,
    "COMUNA": "Ollagüe"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2202,
    "delito": "ROBOS POR SORPRESA",
+   "2023": 0,
    "2024": 0,
    "2025": 0,
-   "2026": 0,
    "COMUNA": "Ollagüe"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2202,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "2023": 2,
    "2024": 0,
    "2025": 2,
-   "2026": 0,
    "COMUNA": "Ollagüe"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
+  "semana_id": "SEMANA 53/2025 (del 29/12/2025 al 31/12/2025)",
   "region": "Antofagasta"
  }
 }
