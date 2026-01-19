@@ -12,23 +12,14 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6113,
-   "2025": 7,
-   "2026": 8,
-   "variacion": 14,
+   "2025": 5,
+   "2026": 7,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "Pichidegua"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "CODCOM": 6113,
-   "2025": 4,
-   "2026": 3,
-   "variacion": -25,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Pichidegua"
-  },
-  {
-   "delito": "DAÑOS",
    "CODCOM": 6113,
    "2025": 3,
    "2026": 1,
@@ -37,12 +28,21 @@
    "COMUNA": "Pichidegua"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 6113,
+   "2025": 2,
+   "2026": 1,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Pichidegua"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6113,
-   "2025": 7,
-   "2026": 7,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 4,
+   "2026": 5,
+   "variacion": 25,
+   "situación": "Aumento de Casos",
    "COMUNA": "Pichidegua"
   },
   {
@@ -57,19 +57,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6113,
-   "2025": 4,
+   "2025": 2,
    "2026": 1,
-   "variacion": -75,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Pichidegua"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6113,
-   "2025": 3,
-   "2026": 1,
-   "variacion": -67,
-   "situación": "Disminución de Casos",
+   "2025": 0,
+   "2026": 0,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Pichidegua"
   },
   {
@@ -111,10 +111,10 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6113,
-   "2025": 1,
+   "2025": 0,
    "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Pichidegua"
   },
   {
@@ -148,9 +148,9 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6113,
    "2025": 0,
-   "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "2026": 0,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Pichidegua"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6113,
-   "2025": 1,
-   "2026": 4,
-   "variacion": 300,
+   "2025": 0,
+   "2026": 2,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Pichidegua"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6113,
    "2025": 0,
-   "2026": 2,
-   "variacion": 200,
+   "2026": 1,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Pichidegua"
   }
@@ -396,7 +396,7 @@
    "CODCOM": 6113,
    "anio": 2026,
    "mes": 1,
-   "casos": 8,
+   "casos": 7,
    "COMUNA": "Pichidegua"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 6113,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 1,
    "COMUNA": "Pichidegua"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 6113,
    "anio": 2026,
    "mes": 1,
-   "casos": 7,
+   "casos": 5,
    "COMUNA": "Pichidegua"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 6113,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Pichidegua"
   },
   {
@@ -1956,7 +1956,7 @@
    "CODCOM": 6113,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Pichidegua"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 6113,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 2,
    "COMUNA": "Pichidegua"
   },
   {
@@ -2372,7 +2372,7 @@
    "CODCOM": 6113,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 1,
    "COMUNA": "Pichidegua"
   }
  ],
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 166,
    "2025": 138,
-   "2026": 8,
+   "2026": 7,
    "COMUNA": "Pichidegua"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 88,
    "2025": 104,
-   "2026": 3,
+   "2026": 1,
    "COMUNA": "Pichidegua"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 171,
    "2025": 148,
-   "2026": 7,
+   "2026": 5,
    "COMUNA": "Pichidegua"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 47,
    "2025": 42,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Pichidegua"
   },
   {
@@ -2527,7 +2527,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 7,
    "2025": 4,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Pichidegua"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 66,
    "2025": 68,
-   "2026": 4,
+   "2026": 2,
    "COMUNA": "Pichidegua"
   },
   {
@@ -2563,12 +2563,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 13,
    "2025": 27,
-   "2026": 2,
+   "2026": 1,
    "COMUNA": "Pichidegua"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
   "region": "O'Higgins"
  }
 }

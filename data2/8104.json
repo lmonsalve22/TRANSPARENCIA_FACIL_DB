@@ -12,7 +12,7 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8104,
-   "2025": 7,
+   "2025": 2,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8104,
    "2025": 0,
+   "2026": 0,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "Florida"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8104,
+   "2025": 0,
    "2026": 1,
    "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Florida"
   },
   {
-   "delito": "DAÑOS",
-   "CODCOM": 8104,
-   "2025": 2,
-   "2026": 1,
-   "variacion": -50,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Florida"
-  },
-  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8104,
-   "2025": 2,
-   "2026": 5,
-   "variacion": 150,
+   "2025": 0,
+   "2026": 3,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "Florida"
   },
@@ -57,16 +57,16 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8104,
-   "2025": 1,
+   "2025": 0,
    "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Florida"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8104,
-   "2025": 2,
+   "2025": 1,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -76,9 +76,9 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 8104,
    "2025": 0,
-   "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "2026": 0,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Florida"
   },
   {
@@ -112,9 +112,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 8104,
    "2025": 0,
-   "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "2026": 0,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Florida"
   },
   {
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8104,
-   "2025": 4,
-   "2026": 4,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 0,
+   "2026": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
    "COMUNA": "Florida"
   },
   {
@@ -183,7 +183,7 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8104,
-   "2025": 3,
+   "2025": 1,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -500,7 +500,7 @@
    "CODCOM": 8104,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Florida"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 8104,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 3,
    "COMUNA": "Florida"
   },
   {
@@ -1124,7 +1124,7 @@
    "CODCOM": 8104,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Florida"
   },
   {
@@ -1540,7 +1540,7 @@
    "CODCOM": 8104,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Florida"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 8104,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 2,
    "COMUNA": "Florida"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 12,
    "2025": 39,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Florida"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 93,
    "2025": 83,
-   "2026": 5,
+   "2026": 3,
    "COMUNA": "Florida"
   },
   {
@@ -2455,7 +2455,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 4,
    "2025": 6,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Florida"
   },
   {
@@ -2491,7 +2491,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 5,
    "2025": 2,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Florida"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 68,
    "2025": 72,
-   "2026": 4,
+   "2026": 2,
    "COMUNA": "Florida"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
   "region": "Biobío"
  }
 }

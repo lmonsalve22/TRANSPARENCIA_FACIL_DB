@@ -12,10 +12,10 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9102,
-   "2025": 4,
-   "2026": 4,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 2,
+   "2026": 3,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
    "COMUNA": "Carahue"
   },
   {
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 9102,
-   "2025": 3,
-   "2026": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 2,
+   "2026": 1,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "Carahue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9102,
-   "2025": 6,
-   "2026": 4,
-   "variacion": -33,
+   "2025": 5,
+   "2026": 3,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Carahue"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9102,
-   "2025": 7,
-   "2026": 4,
-   "variacion": -43,
+   "2025": 5,
+   "2026": 1,
+   "variacion": -80,
    "situación": "Disminución de Casos",
    "COMUNA": "Carahue"
   },
@@ -103,9 +103,9 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9102,
    "2025": 0,
-   "2026": 2,
-   "variacion": 200,
-   "situación": "Aumento de Casos",
+   "2026": 0,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Carahue"
   },
   {
@@ -138,10 +138,10 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9102,
-   "2025": 1,
+   "2025": 0,
    "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Carahue"
   },
   {
@@ -156,19 +156,19 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9102,
-   "2025": 1,
+   "2025": 0,
    "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Carahue"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9102,
    "2025": 0,
-   "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "2026": 0,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Carahue"
   },
   {
@@ -396,7 +396,7 @@
    "CODCOM": 9102,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 3,
    "COMUNA": "Carahue"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 9102,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 1,
    "COMUNA": "Carahue"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 9102,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 3,
    "COMUNA": "Carahue"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 9102,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 1,
    "COMUNA": "Carahue"
   },
   {
@@ -1436,7 +1436,7 @@
    "CODCOM": 9102,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 0,
    "COMUNA": "Carahue"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 9102,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Carahue"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 181,
    "2025": 153,
-   "2026": 4,
+   "2026": 3,
    "COMUNA": "Carahue"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 114,
    "2025": 125,
-   "2026": 3,
+   "2026": 1,
    "COMUNA": "Carahue"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 135,
    "2025": 146,
-   "2026": 4,
+   "2026": 3,
    "COMUNA": "Carahue"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 86,
    "2025": 94,
-   "2026": 4,
+   "2026": 1,
    "COMUNA": "Carahue"
   },
   {
@@ -2482,7 +2482,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 16,
    "2025": 39,
-   "2026": 2,
+   "2026": 0,
    "COMUNA": "Carahue"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 59,
    "2025": 39,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Carahue"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
   "region": "La Araucanía"
  }
 }

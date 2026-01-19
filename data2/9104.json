@@ -12,17 +12,17 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9104,
-   "2025": 4,
-   "2026": 1,
-   "variacion": -75,
+   "2025": 3,
+   "2026": 0,
+   "variacion": -100,
    "situación": "Disminución de Casos",
    "COMUNA": "Curarrehue"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9104,
-   "2025": 1,
-   "2026": 1,
+   "2025": 0,
+   "2026": 0,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Curarrehue"
@@ -30,19 +30,19 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 9104,
-   "2025": 3,
-   "2026": 1,
-   "variacion": -67,
+   "2025": 2,
+   "2026": 0,
+   "variacion": -100,
    "situación": "Disminución de Casos",
    "COMUNA": "Curarrehue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9104,
-   "2025": 4,
-   "2026": 4,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 2,
+   "2026": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Curarrehue"
   },
   {
@@ -66,7 +66,7 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9104,
-   "2025": 4,
+   "2025": 1,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -93,10 +93,10 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9104,
-   "2025": 1,
+   "2025": 0,
    "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Curarrehue"
   },
   {
@@ -112,9 +112,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 9104,
    "2025": 0,
-   "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "2026": 0,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Curarrehue"
   },
   {
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9104,
-   "2025": 2,
-   "2026": 3,
-   "variacion": 50,
-   "situación": "Aumento de Casos",
+   "2025": 0,
+   "2026": 0,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Curarrehue"
   },
   {
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9104,
-   "2025": 1,
+   "2025": 0,
    "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Curarrehue"
   }
  ],
@@ -396,7 +396,7 @@
    "CODCOM": 9104,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Curarrehue"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 9104,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Curarrehue"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 9104,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Curarrehue"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 9104,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 0,
    "COMUNA": "Curarrehue"
   },
   {
@@ -1540,7 +1540,7 @@
    "CODCOM": 9104,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Curarrehue"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 9104,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 0,
    "COMUNA": "Curarrehue"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 78,
    "2025": 91,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Curarrehue"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 92,
    "2025": 73,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Curarrehue"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 82,
    "2025": 61,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Curarrehue"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 87,
    "2025": 83,
-   "2026": 4,
+   "2026": 0,
    "COMUNA": "Curarrehue"
   },
   {
@@ -2491,7 +2491,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 4,
    "2025": 2,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Curarrehue"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 32,
    "2025": 18,
-   "2026": 3,
+   "2026": 0,
    "COMUNA": "Curarrehue"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
   "region": "La Araucanía"
  }
 }

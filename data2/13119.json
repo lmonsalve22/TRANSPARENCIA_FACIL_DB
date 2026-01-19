@@ -3,25 +3,25 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 13119,
-   "2025": 2,
-   "2026": 1,
-   "variacion": -50,
+   "2025": 1,
+   "2026": 0,
+   "variacion": -100,
    "situación": "Disminución de Casos",
    "COMUNA": "Maipú"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13119,
-   "2025": 112,
-   "2026": 117,
-   "variacion": 4,
+   "2025": 49,
+   "2026": 65,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "Maipú"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13119,
-   "2025": 16,
+   "2025": 3,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 13119,
-   "2025": 74,
-   "2026": 71,
-   "variacion": -4,
+   "2025": 37,
+   "2026": 29,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "Maipú"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13119,
-   "2025": 146,
-   "2026": 111,
-   "variacion": -24,
+   "2025": 77,
+   "2026": 60,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "Maipú"
   },
@@ -57,68 +57,23 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13119,
-   "2025": 68,
-   "2026": 55,
-   "variacion": -19,
+   "2025": 23,
+   "2026": 18,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "Maipú"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 13119,
-   "2025": 14,
-   "2026": 11,
-   "variacion": -21,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Maipú"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 13119,
-   "2025": 3,
-   "2026": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
-   "COMUNA": "Maipú"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 13119,
-   "2025": 34,
-   "2026": 17,
-   "variacion": -50,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Maipú"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 13119,
-   "2025": 8,
-   "2026": 3,
-   "variacion": -62,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Maipú"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 13119,
-   "2025": 5,
-   "2026": 11,
-   "variacion": 120,
+   "2025": 4,
+   "2026": 5,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "Maipú"
   },
   {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 13119,
-   "2025": 3,
-   "2026": 1,
-   "variacion": -67,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Maipú"
-  },
-  {
-   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "delito": "LESIONES GRAVES",
    "CODCOM": 13119,
    "2025": 2,
    "2026": 0,
@@ -127,65 +82,110 @@
    "COMUNA": "Maipú"
   },
   {
-   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "delito": "LESIONES LEVES",
+   "CODCOM": 13119,
+   "2025": 15,
+   "2026": 6,
+   "variacion": -60,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Maipú"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 13119,
+   "2025": 1,
+   "2026": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Maipú"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 13119,
    "2025": 4,
-   "2026": 6,
-   "variacion": 50,
+   "2026": 7,
+   "variacion": 75,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Maipú"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 13119,
+   "2025": 1,
+   "2026": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Maipú"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 13119,
+   "2025": 1,
+   "2026": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Maipú"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 13119,
+   "2025": 1,
+   "2026": 4,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "Maipú"
   },
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 13119,
-   "2025": 6,
-   "2026": 2,
-   "variacion": -67,
+   "2025": 2,
+   "2026": 1,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Maipú"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 13119,
-   "2025": 106,
-   "2026": 119,
-   "variacion": 12,
-   "situación": "Aumento de Casos",
+   "2025": 45,
+   "2026": 43,
+   "variacion": -4,
+   "situación": "Disminución de Casos",
    "COMUNA": "Maipú"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 13119,
-   "2025": 80,
-   "2026": 68,
-   "variacion": -15,
+   "2025": 39,
+   "2026": 21,
+   "variacion": -46,
    "situación": "Disminución de Casos",
    "COMUNA": "Maipú"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13119,
-   "2025": 54,
-   "2026": 41,
-   "variacion": -24,
+   "2025": 20,
+   "2026": 15,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Maipú"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13119,
-   "2025": 38,
-   "2026": 33,
-   "variacion": -13,
-   "situación": "Disminución de Casos",
+   "2025": 7,
+   "2026": 10,
+   "variacion": 43,
+   "situación": "Aumento de Casos",
    "COMUNA": "Maipú"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 13119,
-   "2025": 8,
-   "2026": 7,
-   "variacion": -12,
+   "2025": 5,
+   "2026": 4,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Maipú"
   }
@@ -292,7 +292,7 @@
    "CODCOM": 13119,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Maipú"
   },
   {
@@ -396,7 +396,7 @@
    "CODCOM": 13119,
    "anio": 2026,
    "mes": 1,
-   "casos": 117,
+   "casos": 65,
    "COMUNA": "Maipú"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 13119,
    "anio": 2026,
    "mes": 1,
-   "casos": 71,
+   "casos": 29,
    "COMUNA": "Maipú"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 13119,
    "anio": 2026,
    "mes": 1,
-   "casos": 111,
+   "casos": 60,
    "COMUNA": "Maipú"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 13119,
    "anio": 2026,
    "mes": 1,
-   "casos": 55,
+   "casos": 18,
    "COMUNA": "Maipú"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 13119,
    "anio": 2026,
    "mes": 1,
-   "casos": 11,
+   "casos": 5,
    "COMUNA": "Maipú"
   },
   {
@@ -1124,7 +1124,7 @@
    "CODCOM": 13119,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 0,
    "COMUNA": "Maipú"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 13119,
    "anio": 2026,
    "mes": 1,
-   "casos": 17,
+   "casos": 6,
    "COMUNA": "Maipú"
   },
   {
@@ -1332,7 +1332,7 @@
    "CODCOM": 13119,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 0,
    "COMUNA": "Maipú"
   },
   {
@@ -1436,7 +1436,7 @@
    "CODCOM": 13119,
    "anio": 2026,
    "mes": 1,
-   "casos": 11,
+   "casos": 7,
    "COMUNA": "Maipú"
   },
   {
@@ -1540,7 +1540,7 @@
    "CODCOM": 13119,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Maipú"
   },
   {
@@ -1748,7 +1748,7 @@
    "CODCOM": 13119,
    "anio": 2026,
    "mes": 1,
-   "casos": 6,
+   "casos": 4,
    "COMUNA": "Maipú"
   },
   {
@@ -1852,7 +1852,7 @@
    "CODCOM": 13119,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 1,
    "COMUNA": "Maipú"
   },
   {
@@ -1956,7 +1956,7 @@
    "CODCOM": 13119,
    "anio": 2026,
    "mes": 1,
-   "casos": 119,
+   "casos": 43,
    "COMUNA": "Maipú"
   },
   {
@@ -2060,7 +2060,7 @@
    "CODCOM": 13119,
    "anio": 2026,
    "mes": 1,
-   "casos": 68,
+   "casos": 21,
    "COMUNA": "Maipú"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 13119,
    "anio": 2026,
    "mes": 1,
-   "casos": 41,
+   "casos": 15,
    "COMUNA": "Maipú"
   },
   {
@@ -2268,7 +2268,7 @@
    "CODCOM": 13119,
    "anio": 2026,
    "mes": 1,
-   "casos": 33,
+   "casos": 10,
    "COMUNA": "Maipú"
   },
   {
@@ -2372,7 +2372,7 @@
    "CODCOM": 13119,
    "anio": 2026,
    "mes": 1,
-   "casos": 7,
+   "casos": 4,
    "COMUNA": "Maipú"
   }
  ],
@@ -2383,7 +2383,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 50,
    "2025": 51,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Maipú"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 2881,
    "2025": 2798,
-   "2026": 117,
+   "2026": 65,
    "COMUNA": "Maipú"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 2300,
    "2025": 2461,
-   "2026": 71,
+   "2026": 29,
    "COMUNA": "Maipú"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 3040,
    "2025": 2772,
-   "2026": 111,
+   "2026": 60,
    "COMUNA": "Maipú"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 1859,
    "2025": 1884,
-   "2026": 55,
+   "2026": 18,
    "COMUNA": "Maipú"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 514,
    "2025": 496,
-   "2026": 11,
+   "2026": 5,
    "COMUNA": "Maipú"
   },
   {
@@ -2455,7 +2455,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 145,
    "2025": 120,
-   "2026": 3,
+   "2026": 0,
    "COMUNA": "Maipú"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 979,
    "2025": 924,
-   "2026": 17,
+   "2026": 6,
    "COMUNA": "Maipú"
   },
   {
@@ -2473,7 +2473,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 139,
    "2025": 105,
-   "2026": 3,
+   "2026": 0,
    "COMUNA": "Maipú"
   },
   {
@@ -2482,7 +2482,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 448,
    "2025": 389,
-   "2026": 11,
+   "2026": 7,
    "COMUNA": "Maipú"
   },
   {
@@ -2491,7 +2491,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 148,
    "2025": 148,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Maipú"
   },
   {
@@ -2509,7 +2509,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 114,
    "2025": 141,
-   "2026": 6,
+   "2026": 4,
    "COMUNA": "Maipú"
   },
   {
@@ -2518,7 +2518,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 104,
    "2025": 103,
-   "2026": 2,
+   "2026": 1,
    "COMUNA": "Maipú"
   },
   {
@@ -2527,7 +2527,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 3475,
    "2025": 3138,
-   "2026": 119,
+   "2026": 43,
    "COMUNA": "Maipú"
   },
   {
@@ -2536,7 +2536,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 2261,
    "2025": 2380,
-   "2026": 68,
+   "2026": 21,
    "COMUNA": "Maipú"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 1339,
    "2025": 1379,
-   "2026": 41,
+   "2026": 15,
    "COMUNA": "Maipú"
   },
   {
@@ -2554,7 +2554,7 @@
    "delito": "ROBOS POR SORPRESA",
    "2024": 856,
    "2025": 916,
-   "2026": 33,
+   "2026": 10,
    "COMUNA": "Maipú"
   },
   {
@@ -2563,12 +2563,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 313,
    "2025": 231,
-   "2026": 7,
+   "2026": 4,
    "COMUNA": "Maipú"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
   "region": "Metropolitana"
  }
 }

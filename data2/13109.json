@@ -3,45 +3,45 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 13109,
-   "2025": 1,
+   "2025": 0,
    "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "La Cisterna"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13109,
-   "2025": 39,
-   "2026": 24,
-   "variacion": -38,
+   "2025": 17,
+   "2026": 12,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "La Cisterna"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13109,
-   "2025": 3,
+   "2025": 0,
    "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "La Cisterna"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 13109,
-   "2025": 31,
-   "2026": 16,
-   "variacion": -48,
+   "2025": 11,
+   "2026": 8,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "La Cisterna"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13109,
-   "2025": 30,
-   "2026": 27,
-   "variacion": -10,
+   "2025": 19,
+   "2026": 17,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "La Cisterna"
   },
@@ -57,19 +57,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13109,
-   "2025": 19,
-   "2026": 16,
-   "variacion": -16,
+   "2025": 9,
+   "2026": 8,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "La Cisterna"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 13109,
-   "2025": 3,
+   "2025": 1,
    "2026": 1,
-   "variacion": -67,
-   "situación": "Disminución de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "La Cisterna"
   },
   {
@@ -84,14 +84,23 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 13109,
-   "2025": 23,
-   "2026": 15,
-   "variacion": -35,
+   "2025": 13,
+   "2026": 9,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "La Cisterna"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 13109,
+   "2025": 1,
+   "2026": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "La Cisterna"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 13109,
    "2025": 2,
    "2026": 1,
@@ -100,21 +109,12 @@
    "COMUNA": "La Cisterna"
   },
   {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 13109,
-   "2025": 2,
-   "2026": 3,
-   "variacion": 50,
-   "situación": "Aumento de Casos",
-   "COMUNA": "La Cisterna"
-  },
-  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 13109,
-   "2025": 1,
+   "2025": 0,
    "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "La Cisterna"
   },
   {
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 13109,
-   "2025": 2,
-   "2026": 5,
-   "variacion": 150,
+   "2025": 1,
+   "2026": 4,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "La Cisterna"
   },
@@ -139,44 +139,44 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 13109,
    "2025": 0,
-   "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "2026": 0,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "La Cisterna"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 13109,
-   "2025": 48,
-   "2026": 24,
-   "variacion": -50,
+   "2025": 23,
+   "2026": 8,
+   "variacion": -65,
    "situación": "Disminución de Casos",
    "COMUNA": "La Cisterna"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 13109,
-   "2025": 44,
-   "2026": 30,
-   "variacion": -32,
+   "2025": 20,
+   "2026": 12,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "La Cisterna"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13109,
-   "2025": 20,
-   "2026": 15,
-   "variacion": -25,
+   "2025": 11,
+   "2026": 6,
+   "variacion": -45,
    "situación": "Disminución de Casos",
    "COMUNA": "La Cisterna"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13109,
-   "2025": 16,
-   "2026": 13,
-   "variacion": -19,
+   "2025": 10,
+   "2026": 6,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "La Cisterna"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 13109,
    "2025": 0,
-   "2026": 4,
-   "variacion": 400,
+   "2026": 3,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "La Cisterna"
   }
@@ -396,7 +396,7 @@
    "CODCOM": 13109,
    "anio": 2026,
    "mes": 1,
-   "casos": 24,
+   "casos": 12,
    "COMUNA": "La Cisterna"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 13109,
    "anio": 2026,
    "mes": 1,
-   "casos": 16,
+   "casos": 8,
    "COMUNA": "La Cisterna"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 13109,
    "anio": 2026,
    "mes": 1,
-   "casos": 27,
+   "casos": 17,
    "COMUNA": "La Cisterna"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 13109,
    "anio": 2026,
    "mes": 1,
-   "casos": 16,
+   "casos": 8,
    "COMUNA": "La Cisterna"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 13109,
    "anio": 2026,
    "mes": 1,
-   "casos": 15,
+   "casos": 9,
    "COMUNA": "La Cisterna"
   },
   {
@@ -1332,7 +1332,7 @@
    "CODCOM": 13109,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "La Cisterna"
   },
   {
@@ -1436,7 +1436,7 @@
    "CODCOM": 13109,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 1,
    "COMUNA": "La Cisterna"
   },
   {
@@ -1748,7 +1748,7 @@
    "CODCOM": 13109,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 4,
    "COMUNA": "La Cisterna"
   },
   {
@@ -1852,7 +1852,7 @@
    "CODCOM": 13109,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "La Cisterna"
   },
   {
@@ -1956,7 +1956,7 @@
    "CODCOM": 13109,
    "anio": 2026,
    "mes": 1,
-   "casos": 24,
+   "casos": 8,
    "COMUNA": "La Cisterna"
   },
   {
@@ -2060,7 +2060,7 @@
    "CODCOM": 13109,
    "anio": 2026,
    "mes": 1,
-   "casos": 30,
+   "casos": 12,
    "COMUNA": "La Cisterna"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 13109,
    "anio": 2026,
    "mes": 1,
-   "casos": 15,
+   "casos": 6,
    "COMUNA": "La Cisterna"
   },
   {
@@ -2268,7 +2268,7 @@
    "CODCOM": 13109,
    "anio": 2026,
    "mes": 1,
-   "casos": 13,
+   "casos": 6,
    "COMUNA": "La Cisterna"
   },
   {
@@ -2372,7 +2372,7 @@
    "CODCOM": 13109,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 3,
    "COMUNA": "La Cisterna"
   }
  ],
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 1012,
    "2025": 804,
-   "2026": 24,
+   "2026": 12,
    "COMUNA": "La Cisterna"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 834,
    "2025": 705,
-   "2026": 16,
+   "2026": 8,
    "COMUNA": "La Cisterna"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 700,
    "2025": 621,
-   "2026": 27,
+   "2026": 17,
    "COMUNA": "La Cisterna"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 604,
    "2025": 459,
-   "2026": 16,
+   "2026": 8,
    "COMUNA": "La Cisterna"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 415,
    "2025": 393,
-   "2026": 15,
+   "2026": 9,
    "COMUNA": "La Cisterna"
   },
   {
@@ -2473,7 +2473,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 38,
    "2025": 41,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "La Cisterna"
   },
   {
@@ -2482,7 +2482,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 84,
    "2025": 168,
-   "2026": 3,
+   "2026": 1,
    "COMUNA": "La Cisterna"
   },
   {
@@ -2509,7 +2509,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 68,
    "2025": 154,
-   "2026": 5,
+   "2026": 4,
    "COMUNA": "La Cisterna"
   },
   {
@@ -2518,7 +2518,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 42,
    "2025": 31,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "La Cisterna"
   },
   {
@@ -2527,7 +2527,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 1323,
    "2025": 990,
-   "2026": 24,
+   "2026": 8,
    "COMUNA": "La Cisterna"
   },
   {
@@ -2536,7 +2536,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 969,
    "2025": 953,
-   "2026": 30,
+   "2026": 12,
    "COMUNA": "La Cisterna"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 400,
    "2025": 367,
-   "2026": 15,
+   "2026": 6,
    "COMUNA": "La Cisterna"
   },
   {
@@ -2554,7 +2554,7 @@
    "delito": "ROBOS POR SORPRESA",
    "2024": 551,
    "2025": 465,
-   "2026": 13,
+   "2026": 6,
    "COMUNA": "La Cisterna"
   },
   {
@@ -2563,12 +2563,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 83,
    "2025": 69,
-   "2026": 4,
+   "2026": 3,
    "COMUNA": "La Cisterna"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
   "region": "Metropolitana"
  }
 }

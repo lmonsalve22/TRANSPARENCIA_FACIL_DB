@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 11203,
    "2025": 2,
-   "2026": 1,
-   "variacion": -50,
+   "2026": 0,
+   "variacion": -100,
    "situación": "Disminución de Casos",
    "COMUNA": "Guaitecas"
   },
@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11203,
    "2025": 0,
-   "2026": 4,
-   "variacion": 400,
+   "2026": 2,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Guaitecas"
   },
@@ -40,9 +40,9 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11203,
    "2025": 0,
-   "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "2026": 0,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Guaitecas"
   },
   {
@@ -378,7 +378,7 @@
    "CODCOM": 11203,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Guaitecas"
   },
   {
@@ -482,7 +482,7 @@
    "CODCOM": 11203,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 2,
    "COMUNA": "Guaitecas"
   },
   {
@@ -690,7 +690,7 @@
    "CODCOM": 11203,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Guaitecas"
   },
   {
@@ -2166,7 +2166,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 11,
    "2025": 17,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Guaitecas"
   },
   {
@@ -2175,7 +2175,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 123,
    "2025": 47,
-   "2026": 4,
+   "2026": 2,
    "COMUNA": "Guaitecas"
   },
   {
@@ -2193,7 +2193,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 16,
    "2025": 18,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Guaitecas"
   },
   {
@@ -2342,7 +2342,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
   "region": "Aysén"
  }
 }

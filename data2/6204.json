@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6204,
-   "2025": 1,
-   "2026": 2,
+   "2025": 0,
+   "2026": 1,
    "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Marchihue"
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6204,
    "2025": 0,
-   "2026": 3,
-   "variacion": 300,
+   "2026": 2,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Marchihue"
   },
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 6204,
    "2025": 1,
-   "2026": 2,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "2026": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Marchihue"
   },
   {
@@ -102,10 +102,10 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6204,
-   "2025": 1,
+   "2025": 0,
    "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Marchihue"
   },
   {
@@ -157,9 +157,9 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6204,
    "2025": 0,
-   "2026": 2,
-   "variacion": 200,
-   "situación": "Aumento de Casos",
+   "2026": 0,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Marchihue"
   },
   {
@@ -396,7 +396,7 @@
    "CODCOM": 6204,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 1,
    "COMUNA": "Marchihue"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 6204,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 2,
    "COMUNA": "Marchihue"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 6204,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 1,
    "COMUNA": "Marchihue"
   },
   {
@@ -2060,7 +2060,7 @@
    "CODCOM": 6204,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 0,
    "COMUNA": "Marchihue"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 50,
    "2025": 48,
-   "2026": 2,
+   "2026": 1,
    "COMUNA": "Marchihue"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 66,
    "2025": 42,
-   "2026": 3,
+   "2026": 2,
    "COMUNA": "Marchihue"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 15,
    "2025": 17,
-   "2026": 2,
+   "2026": 1,
    "COMUNA": "Marchihue"
   },
   {
@@ -2536,7 +2536,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 3,
    "2025": 6,
-   "2026": 2,
+   "2026": 0,
    "COMUNA": "Marchihue"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
   "region": "O'Higgins"
  }
 }

@@ -12,16 +12,16 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7202,
-   "2025": 3,
-   "2026": 2,
-   "variacion": -33,
+   "2025": 2,
+   "2026": 1,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Chanco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7202,
-   "2025": 2,
+   "2025": 1,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -30,7 +30,7 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 7202,
-   "2025": 3,
+   "2025": 2,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -40,9 +40,9 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7202,
    "2025": 1,
-   "2026": 2,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "2026": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Chanco"
   },
   {
@@ -166,9 +166,9 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7202,
    "2025": 0,
-   "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "2026": 0,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Chanco"
   },
   {
@@ -396,7 +396,7 @@
    "CODCOM": 7202,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 1,
    "COMUNA": "Chanco"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 7202,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 0,
    "COMUNA": "Chanco"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 7202,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Chanco"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 57,
    "2025": 60,
-   "2026": 2,
+   "2026": 1,
    "COMUNA": "Chanco"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 45,
    "2025": 54,
-   "2026": 2,
+   "2026": 0,
    "COMUNA": "Chanco"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 16,
    "2025": 11,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Chanco"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
   "region": "Maule"
  }
 }

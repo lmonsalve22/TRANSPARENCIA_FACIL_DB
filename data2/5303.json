@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5303,
-   "2025": 3,
-   "2026": 1,
-   "variacion": -67,
+   "2025": 2,
+   "2026": 0,
+   "variacion": -100,
    "situación": "Disminución de Casos",
    "COMUNA": "Rinconada"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 5303,
-   "2025": 6,
-   "2026": 2,
-   "variacion": -67,
+   "2025": 2,
+   "2026": 1,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Rinconada"
   },
@@ -40,9 +40,9 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5303,
    "2025": 2,
-   "2026": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "Rinconada"
   },
   {
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5303,
-   "2025": 2,
-   "2026": 3,
-   "variacion": 50,
+   "2025": 1,
+   "2026": 2,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Rinconada"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5303,
-   "2025": 1,
-   "2026": 5,
-   "variacion": 400,
+   "2025": 0,
+   "2026": 3,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "Rinconada"
   },
@@ -147,27 +147,27 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5303,
-   "2025": 2,
+   "2025": 1,
    "2026": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Rinconada"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5303,
-   "2025": 1,
+   "2025": 0,
    "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Rinconada"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5303,
-   "2025": 2,
-   "2026": 7,
-   "variacion": 250,
+   "2025": 1,
+   "2026": 4,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "Rinconada"
   },
@@ -396,7 +396,7 @@
    "CODCOM": 5303,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Rinconada"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 5303,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 1,
    "COMUNA": "Rinconada"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 5303,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 1,
    "COMUNA": "Rinconada"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 5303,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 2,
    "COMUNA": "Rinconada"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 5303,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 3,
    "COMUNA": "Rinconada"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 5303,
    "anio": 2026,
    "mes": 1,
-   "casos": 7,
+   "casos": 4,
    "COMUNA": "Rinconada"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 117,
    "2025": 94,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Rinconada"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 96,
    "2025": 103,
-   "2026": 2,
+   "2026": 1,
    "COMUNA": "Rinconada"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 81,
    "2025": 72,
-   "2026": 2,
+   "2026": 1,
    "COMUNA": "Rinconada"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 51,
    "2025": 36,
-   "2026": 3,
+   "2026": 2,
    "COMUNA": "Rinconada"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 37,
    "2025": 39,
-   "2026": 5,
+   "2026": 3,
    "COMUNA": "Rinconada"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 89,
    "2025": 114,
-   "2026": 7,
+   "2026": 4,
    "COMUNA": "Rinconada"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
   "region": "Valparaíso"
  }
 }

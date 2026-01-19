@@ -13,25 +13,25 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7203,
    "2025": 2,
-   "2026": 6,
-   "variacion": 200,
+   "2026": 3,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "Pelluhue"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7203,
-   "2025": 14,
+   "2025": 8,
    "2026": 6,
-   "variacion": -57,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Pelluhue"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7203,
-   "2025": 4,
-   "2026": 4,
+   "2025": 1,
+   "2026": 1,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Pelluhue"
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7203,
    "2025": 1,
-   "2026": 3,
-   "variacion": 200,
+   "2026": 2,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Pelluhue"
   },
@@ -57,23 +57,14 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7203,
-   "2025": 4,
-   "2026": 3,
-   "variacion": -25,
+   "2025": 1,
+   "2026": 0,
+   "variacion": -100,
    "situación": "Disminución de Casos",
    "COMUNA": "Pelluhue"
   },
   {
    "delito": "INCIVILIDADES",
-   "CODCOM": 7203,
-   "2025": 13,
-   "2026": 6,
-   "variacion": -54,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LESIONES GRAVES",
    "CODCOM": 7203,
    "2025": 1,
    "2026": 2,
@@ -82,11 +73,20 @@
    "COMUNA": "Pelluhue"
   },
   {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 7203,
+   "2025": 0,
+   "2026": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Pelluhue"
+  },
+  {
    "delito": "LESIONES LEVES",
    "CODCOM": 7203,
    "2025": 0,
-   "2026": 3,
-   "variacion": 300,
+   "2026": 2,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Pelluhue"
   },
@@ -103,18 +103,18 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7203,
    "2025": 0,
-   "2026": 2,
-   "variacion": 200,
-   "situación": "Aumento de Casos",
+   "2026": 0,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Pelluhue"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7203,
    "2025": 0,
-   "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "2026": 0,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Pelluhue"
   },
   {
@@ -165,7 +165,7 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7203,
-   "2025": 3,
+   "2025": 1,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -396,7 +396,7 @@
    "CODCOM": 7203,
    "anio": 2026,
    "mes": 1,
-   "casos": 6,
+   "casos": 3,
    "COMUNA": "Pelluhue"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 7203,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 1,
    "COMUNA": "Pelluhue"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 7203,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 2,
    "COMUNA": "Pelluhue"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 7203,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 0,
    "COMUNA": "Pelluhue"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 7203,
    "anio": 2026,
    "mes": 1,
-   "casos": 6,
+   "casos": 2,
    "COMUNA": "Pelluhue"
   },
   {
@@ -1228,242 +1228,242 @@
    "CODCOM": 7203,
    "anio": 2026,
    "mes": 1,
+   "casos": 2,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7203,
+   "anio": 2026,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7203,
+   "anio": 2026,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Pelluhue"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 3,
    "casos": 3,
    "COMUNA": "Pelluhue"
   },
   {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 1,
-   "casos": 0,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 2,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 0,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 4,
-   "casos": 0,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 5,
-   "casos": 0,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 6,
-   "casos": 0,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 7,
-   "casos": 0,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 8,
-   "casos": 0,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 9,
-   "casos": 2,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 10,
-   "casos": 0,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 11,
-   "casos": 1,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 12,
-   "casos": 0,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 7203,
-   "anio": 2026,
-   "mes": 1,
-   "casos": 0,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 1,
-   "casos": 0,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 0,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 0,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 4,
-   "casos": 0,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 5,
-   "casos": 2,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 6,
-   "casos": 0,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 7,
-   "casos": 1,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 8,
-   "casos": 0,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 9,
-   "casos": 1,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 10,
-   "casos": 0,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 11,
-   "casos": 0,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 12,
-   "casos": 0,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 7203,
-   "anio": 2026,
-   "mes": 1,
-   "casos": 2,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 1,
-   "casos": 0,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 0,
-   "COMUNA": "Pelluhue"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 7203,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 3,
-   "COMUNA": "Pelluhue"
-  },
-  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7203,
    "anio": 2025,
@@ -1540,7 +1540,7 @@
    "CODCOM": 7203,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Pelluhue"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 73,
    "2025": 95,
-   "2026": 6,
+   "2026": 3,
    "COMUNA": "Pelluhue"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 89,
    "2025": 88,
-   "2026": 4,
+   "2026": 1,
    "COMUNA": "Pelluhue"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 78,
    "2025": 80,
-   "2026": 3,
+   "2026": 2,
    "COMUNA": "Pelluhue"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 48,
    "2025": 32,
-   "2026": 3,
+   "2026": 0,
    "COMUNA": "Pelluhue"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 43,
    "2025": 65,
-   "2026": 6,
+   "2026": 2,
    "COMUNA": "Pelluhue"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 51,
    "2025": 44,
-   "2026": 3,
+   "2026": 2,
    "COMUNA": "Pelluhue"
   },
   {
@@ -2482,7 +2482,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 9,
    "2025": 4,
-   "2026": 2,
+   "2026": 0,
    "COMUNA": "Pelluhue"
   },
   {
@@ -2491,7 +2491,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 3,
    "2025": 7,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Pelluhue"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
   "region": "Maule"
  }
 }

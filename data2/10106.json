@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10106,
-   "2025": 3,
+   "2025": 2,
    "2026": 1,
-   "variacion": -67,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Muermos"
   },
@@ -22,9 +22,9 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10106,
    "2025": 1,
-   "2026": 5,
-   "variacion": 400,
-   "situación": "Aumento de Casos",
+   "2026": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Los Muermos"
   },
   {
@@ -39,10 +39,10 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10106,
-   "2025": 4,
-   "2026": 7,
-   "variacion": 75,
-   "situación": "Aumento de Casos",
+   "2025": 3,
+   "2026": 3,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Los Muermos"
   },
   {
@@ -58,17 +58,17 @@
    "delito": "HURTOS",
    "CODCOM": 10106,
    "2025": 0,
-   "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "2026": 0,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Los Muermos"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10106,
    "2025": 0,
-   "2026": 2,
-   "variacion": 200,
+   "2026": 1,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Los Muermos"
   },
@@ -130,9 +130,9 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 10106,
    "2025": 0,
-   "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "2026": 0,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Los Muermos"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 10106,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 1,
    "COMUNA": "Los Muermos"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 10106,
    "anio": 2026,
    "mes": 1,
-   "casos": 7,
+   "casos": 3,
    "COMUNA": "Los Muermos"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 10106,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Los Muermos"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 10106,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 1,
    "COMUNA": "Los Muermos"
   },
   {
@@ -1748,7 +1748,7 @@
    "CODCOM": 10106,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Los Muermos"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 113,
    "2025": 151,
-   "2026": 5,
+   "2026": 1,
    "COMUNA": "Los Muermos"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 117,
    "2025": 129,
-   "2026": 7,
+   "2026": 3,
    "COMUNA": "Los Muermos"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 56,
    "2025": 45,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Los Muermos"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 27,
    "2025": 41,
-   "2026": 2,
+   "2026": 1,
    "COMUNA": "Los Muermos"
   },
   {
@@ -2509,7 +2509,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 2,
    "2025": 2,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Los Muermos"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
   "region": "Los Lagos"
  }
 }

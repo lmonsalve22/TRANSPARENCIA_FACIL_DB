@@ -4,17 +4,17 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 13116,
    "2025": 1,
-   "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Lo Espejo"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13116,
-   "2025": 30,
-   "2026": 47,
-   "variacion": 57,
+   "2025": 9,
+   "2026": 27,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Lo Espejo"
   },
@@ -30,63 +30,63 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 13116,
-   "2025": 12,
-   "2026": 10,
-   "variacion": -17,
+   "2025": 5,
+   "2026": 3,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Lo Espejo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13116,
-   "2025": 31,
-   "2026": 27,
-   "variacion": -13,
+   "2025": 12,
+   "2026": 11,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "Lo Espejo"
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 13116,
-   "2025": 4,
-   "2026": 1,
-   "variacion": -75,
+   "2025": 3,
+   "2026": 0,
+   "variacion": -100,
    "situación": "Disminución de Casos",
    "COMUNA": "Lo Espejo"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 13116,
-   "2025": 6,
+   "2025": 3,
    "2026": 3,
-   "variacion": -50,
-   "situación": "Disminución de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Lo Espejo"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 13116,
    "2025": 0,
-   "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "2026": 0,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Lo Espejo"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 13116,
    "2025": 1,
-   "2026": 2,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "2026": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Lo Espejo"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 13116,
-   "2025": 13,
-   "2026": 10,
-   "variacion": -23,
+   "2025": 7,
+   "2026": 5,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Lo Espejo"
   },
@@ -102,8 +102,8 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 13116,
-   "2025": 4,
-   "2026": 8,
+   "2025": 1,
+   "2026": 2,
    "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Lo Espejo"
@@ -111,9 +111,9 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 13116,
-   "2025": 2,
-   "2026": 5,
-   "variacion": 150,
+   "2025": 0,
+   "2026": 3,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "Lo Espejo"
   },
@@ -130,13 +130,40 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 13116,
    "2025": 1,
-   "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Lo Espejo"
   },
   {
    "delito": "RECEPTACIÓN",
+   "CODCOM": 13116,
+   "2025": 0,
+   "2026": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Lo Espejo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 13116,
+   "2025": 12,
+   "2026": 1,
+   "variacion": -92,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Lo Espejo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 13116,
+   "2025": 2,
+   "2026": 6,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Lo Espejo"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13116,
    "2025": 1,
    "2026": 3,
@@ -145,48 +172,21 @@
    "COMUNA": "Lo Espejo"
   },
   {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 13116,
-   "2025": 23,
-   "2026": 8,
-   "variacion": -65,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Lo Espejo"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 13116,
-   "2025": 8,
-   "2026": 16,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
-   "COMUNA": "Lo Espejo"
-  },
-  {
-   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "CODCOM": 13116,
-   "2025": 5,
-   "2026": 6,
-   "variacion": 20,
-   "situación": "Aumento de Casos",
-   "COMUNA": "Lo Espejo"
-  },
-  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13116,
-   "2025": 9,
-   "2026": 13,
-   "variacion": 44,
-   "situación": "Aumento de Casos",
+   "2025": 5,
+   "2026": 5,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Lo Espejo"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 13116,
-   "2025": 5,
-   "2026": 1,
-   "variacion": -80,
-   "situación": "Disminución de Casos",
+   "2025": 0,
+   "2026": 0,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Lo Espejo"
   }
  ],
@@ -292,7 +292,7 @@
    "CODCOM": 13116,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -396,7 +396,7 @@
    "CODCOM": 13116,
    "anio": 2026,
    "mes": 1,
-   "casos": 47,
+   "casos": 27,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 13116,
    "anio": 2026,
    "mes": 1,
-   "casos": 10,
+   "casos": 3,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 13116,
    "anio": 2026,
    "mes": 1,
-   "casos": 27,
+   "casos": 11,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -812,7 +812,7 @@
    "CODCOM": 13116,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 13116,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -1124,7 +1124,7 @@
    "CODCOM": 13116,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 1,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 13116,
    "anio": 2026,
    "mes": 1,
-   "casos": 10,
+   "casos": 5,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -1436,7 +1436,7 @@
    "CODCOM": 13116,
    "anio": 2026,
    "mes": 1,
-   "casos": 8,
+   "casos": 2,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -1540,7 +1540,7 @@
    "CODCOM": 13116,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 3,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -1748,7 +1748,7 @@
    "CODCOM": 13116,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -1852,7 +1852,7 @@
    "CODCOM": 13116,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 2,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -1956,7 +1956,7 @@
    "CODCOM": 13116,
    "anio": 2026,
    "mes": 1,
-   "casos": 8,
+   "casos": 1,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -2060,7 +2060,7 @@
    "CODCOM": 13116,
    "anio": 2026,
    "mes": 1,
-   "casos": 16,
+   "casos": 6,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 13116,
    "anio": 2026,
    "mes": 1,
-   "casos": 6,
+   "casos": 3,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -2268,7 +2268,7 @@
    "CODCOM": 13116,
    "anio": 2026,
    "mes": 1,
-   "casos": 13,
+   "casos": 5,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -2372,7 +2372,7 @@
    "CODCOM": 13116,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Lo Espejo"
   }
  ],
@@ -2383,7 +2383,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 24,
    "2025": 16,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 905,
    "2025": 997,
-   "2026": 47,
+   "2026": 27,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 444,
    "2025": 443,
-   "2026": 10,
+   "2026": 3,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 607,
    "2025": 634,
-   "2026": 27,
+   "2026": 11,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -2428,7 +2428,7 @@
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "2024": 4,
    "2025": 12,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 58,
    "2025": 57,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -2455,7 +2455,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 68,
    "2025": 47,
-   "2026": 2,
+   "2026": 1,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 335,
    "2025": 315,
-   "2026": 10,
+   "2026": 5,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -2482,7 +2482,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 190,
    "2025": 276,
-   "2026": 8,
+   "2026": 2,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -2491,7 +2491,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 58,
    "2025": 107,
-   "2026": 5,
+   "2026": 3,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -2509,7 +2509,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 20,
    "2025": 40,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -2518,7 +2518,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 50,
    "2025": 75,
-   "2026": 3,
+   "2026": 2,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -2527,7 +2527,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 679,
    "2025": 580,
-   "2026": 8,
+   "2026": 1,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -2536,7 +2536,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 306,
    "2025": 346,
-   "2026": 16,
+   "2026": 6,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 196,
    "2025": 184,
-   "2026": 6,
+   "2026": 3,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -2554,7 +2554,7 @@
    "delito": "ROBOS POR SORPRESA",
    "2024": 287,
    "2025": 250,
-   "2026": 13,
+   "2026": 5,
    "COMUNA": "Lo Espejo"
   },
   {
@@ -2563,12 +2563,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 64,
    "2025": 48,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Lo Espejo"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
   "region": "Metropolitana"
  }
 }

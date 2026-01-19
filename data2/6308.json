@@ -12,7 +12,7 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6308,
-   "2025": 6,
+   "2025": 5,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -21,27 +21,27 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6308,
-   "2025": 25,
+   "2025": 7,
    "2026": 2,
-   "variacion": -92,
+   "variacion": -71,
    "situación": "Disminución de Casos",
    "COMUNA": "Placilla"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6308,
-   "2025": 3,
+   "2025": 1,
    "2026": 2,
-   "variacion": -33,
-   "situación": "Disminución de Casos",
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Placilla"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6308,
-   "2025": 7,
-   "2026": 2,
-   "variacion": -71,
+   "2025": 4,
+   "2026": 0,
+   "variacion": -100,
    "situación": "Disminución de Casos",
    "COMUNA": "Placilla"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6308,
-   "2025": 4,
-   "2026": 1,
-   "variacion": -75,
+   "2025": 2,
+   "2026": 0,
+   "variacion": -100,
    "situación": "Disminución de Casos",
    "COMUNA": "Placilla"
   },
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6308,
-   "2025": 2,
+   "2025": 1,
    "2026": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Placilla"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 6308,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 0,
    "COMUNA": "Placilla"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 6308,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Placilla"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 102,
    "2025": 100,
-   "2026": 2,
+   "2026": 0,
    "COMUNA": "Placilla"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 45,
    "2025": 51,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Placilla"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
   "region": "O'Higgins"
  }
 }

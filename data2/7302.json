@@ -13,22 +13,13 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7302,
    "2025": 0,
-   "2026": 4,
-   "variacion": 400,
+   "2026": 2,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Hualañé"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "CODCOM": 7302,
-   "2025": 1,
-   "2026": 4,
-   "variacion": 300,
-   "situación": "Aumento de Casos",
-   "COMUNA": "Hualañé"
-  },
-  {
-   "delito": "DAÑOS",
    "CODCOM": 7302,
    "2025": 1,
    "2026": 2,
@@ -37,11 +28,20 @@
    "COMUNA": "Hualañé"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 7302,
+   "2025": 0,
+   "2026": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Hualañé"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7302,
-   "2025": 3,
-   "2026": 4,
-   "variacion": 33,
+   "2025": 2,
+   "2026": 3,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "Hualañé"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7302,
-   "2025": 2,
+   "2025": 1,
    "2026": 1,
-   "variacion": -50,
-   "situación": "Disminución de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Hualañé"
   },
   {
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 7302,
-   "2025": 3,
-   "2026": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 2,
+   "2026": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Hualañé"
   },
   {
@@ -111,10 +111,10 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7302,
-   "2025": 1,
+   "2025": 0,
    "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Hualañé"
   },
   {
@@ -165,8 +165,8 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7302,
-   "2025": 2,
-   "2026": 4,
+   "2025": 0,
+   "2026": 1,
    "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Hualañé"
@@ -174,10 +174,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 7302,
-   "2025": 1,
+   "2025": 0,
    "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Hualañé"
   }
  ],
@@ -387,7 +387,7 @@
    "CODCOM": 7302,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 2,
    "COMUNA": "Hualañé"
   },
   {
@@ -491,7 +491,7 @@
    "CODCOM": 7302,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 2,
    "COMUNA": "Hualañé"
   },
   {
@@ -699,7 +699,7 @@
    "CODCOM": 7302,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 3,
    "COMUNA": "Hualañé"
   },
   {
@@ -1219,7 +1219,7 @@
    "CODCOM": 7302,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 0,
    "COMUNA": "Hualañé"
   },
   {
@@ -2155,7 +2155,7 @@
    "CODCOM": 7302,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 1,
    "COMUNA": "Hualañé"
   },
   {
@@ -2279,7 +2279,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 86,
    "2025": 79,
-   "2026": 4,
+   "2026": 2,
    "COMUNA": "Hualañé"
   },
   {
@@ -2288,7 +2288,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 74,
    "2025": 51,
-   "2026": 4,
+   "2026": 2,
    "COMUNA": "Hualañé"
   },
   {
@@ -2306,7 +2306,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 87,
    "2025": 82,
-   "2026": 4,
+   "2026": 3,
    "COMUNA": "Hualañé"
   },
   {
@@ -2351,7 +2351,7 @@
    "delito": "LESIONES LEVES",
    "2024": 21,
    "2025": 38,
-   "2026": 3,
+   "2026": 0,
    "COMUNA": "Hualañé"
   },
   {
@@ -2432,7 +2432,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 47,
    "2025": 55,
-   "2026": 4,
+   "2026": 1,
    "COMUNA": "Hualañé"
   },
   {
@@ -2455,7 +2455,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
   "region": "Maule"
  }
 }

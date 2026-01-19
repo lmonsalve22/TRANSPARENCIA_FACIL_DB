@@ -13,9 +13,9 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8302,
    "2025": 1,
-   "2026": 2,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "2026": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Antuco"
   },
   {
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 8302,
-   "2025": 4,
-   "2026": 1,
-   "variacion": -75,
+   "2025": 2,
+   "2026": 0,
+   "variacion": -100,
    "situación": "Disminución de Casos",
    "COMUNA": "Antuco"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8302,
    "2025": 0,
-   "2026": 2,
-   "variacion": 200,
+   "2026": 1,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Antuco"
   },
@@ -66,8 +66,8 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8302,
-   "2025": 1,
-   "2026": 1,
+   "2025": 0,
+   "2026": 0,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Antuco"
@@ -396,7 +396,7 @@
    "CODCOM": 8302,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 0,
    "COMUNA": "Antuco"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 8302,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Antuco"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 8302,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 1,
    "COMUNA": "Antuco"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 8302,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Antuco"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 41,
    "2025": 18,
-   "2026": 2,
+   "2026": 0,
    "COMUNA": "Antuco"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 24,
    "2025": 31,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Antuco"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 46,
    "2025": 26,
-   "2026": 2,
+   "2026": 1,
    "COMUNA": "Antuco"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 8,
    "2025": 21,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Antuco"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
   "region": "Biobío"
  }
 }

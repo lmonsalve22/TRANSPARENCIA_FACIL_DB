@@ -4,44 +4,44 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 7305,
    "2025": 0,
-   "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "2026": 0,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Rauco"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7305,
-   "2025": 5,
-   "2026": 9,
-   "variacion": 80,
-   "situación": "Aumento de Casos",
+   "2025": 2,
+   "2026": 1,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "Rauco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7305,
-   "2025": 1,
+   "2025": 0,
    "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Rauco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7305,
-   "2025": 4,
-   "2026": 7,
-   "variacion": 75,
-   "situación": "Aumento de Casos",
+   "2025": 2,
+   "2026": 2,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Rauco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7305,
-   "2025": 4,
-   "2026": 10,
-   "variacion": 150,
+   "2025": 2,
+   "2026": 6,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Rauco"
   },
@@ -75,8 +75,8 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 7305,
-   "2025": 1,
-   "2026": 1,
+   "2025": 0,
+   "2026": 0,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Rauco"
@@ -94,9 +94,9 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7305,
    "2025": 0,
-   "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "2026": 0,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Rauco"
   },
   {
@@ -156,10 +156,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7305,
-   "2025": 2,
+   "2025": 1,
    "2026": 1,
-   "variacion": -50,
-   "situación": "Disminución de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Rauco"
   },
   {
@@ -283,7 +283,7 @@
    "CODCOM": 7305,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Rauco"
   },
   {
@@ -387,7 +387,7 @@
    "CODCOM": 7305,
    "anio": 2026,
    "mes": 1,
-   "casos": 9,
+   "casos": 1,
    "COMUNA": "Rauco"
   },
   {
@@ -595,7 +595,7 @@
    "CODCOM": 7305,
    "anio": 2026,
    "mes": 1,
-   "casos": 7,
+   "casos": 2,
    "COMUNA": "Rauco"
   },
   {
@@ -699,7 +699,7 @@
    "CODCOM": 7305,
    "anio": 2026,
    "mes": 1,
-   "casos": 10,
+   "casos": 6,
    "COMUNA": "Rauco"
   },
   {
@@ -1115,7 +1115,7 @@
    "CODCOM": 7305,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Rauco"
   },
   {
@@ -1323,7 +1323,7 @@
    "CODCOM": 7305,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "Rauco"
   },
   {
@@ -2270,7 +2270,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 3,
    "2025": 4,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Rauco"
   },
   {
@@ -2279,7 +2279,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 96,
    "2025": 91,
-   "2026": 9,
+   "2026": 1,
    "COMUNA": "Rauco"
   },
   {
@@ -2297,7 +2297,7 @@
    "delito": "DAÑOS",
    "2024": 74,
    "2025": 119,
-   "2026": 7,
+   "2026": 2,
    "COMUNA": "Rauco"
   },
   {
@@ -2306,7 +2306,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 81,
    "2025": 74,
-   "2026": 10,
+   "2026": 6,
    "COMUNA": "Rauco"
   },
   {
@@ -2351,7 +2351,7 @@
    "delito": "LESIONES LEVES",
    "2024": 26,
    "2025": 18,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Rauco"
   },
   {
@@ -2369,7 +2369,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 21,
    "2025": 35,
-   "2026": 1,
+   "2026": 0,
    "COMUNA": "Rauco"
   },
   {
@@ -2455,7 +2455,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
   "region": "Maule"
  }
 }
