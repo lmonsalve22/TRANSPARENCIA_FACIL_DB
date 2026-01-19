@@ -12,27 +12,27 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16305,
-   "2025": 0,
+   "2025": 1,
    "2026": 3,
-   "variacion": 300,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "San Nicolás"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16305,
-   "2025": 5,
-   "2026": 1,
-   "variacion": -80,
+   "2025": 6,
+   "2026": 4,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "San Nicolás"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 16305,
-   "2025": 1,
-   "2026": 5,
-   "variacion": 400,
+   "2025": 5,
+   "2026": 8,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "San Nicolás"
   },
@@ -40,9 +40,9 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16305,
    "2025": 3,
-   "2026": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 5,
+   "variacion": 67,
+   "situación": "Aumento de Casos",
    "COMUNA": "San Nicolás"
   },
   {
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16305,
-   "2025": 1,
-   "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 3,
+   "2026": 2,
+   "variacion": -33,
+   "situación": "Disminución de Casos",
    "COMUNA": "San Nicolás"
   },
   {
@@ -111,10 +111,10 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 16305,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "San Nicolás"
   },
   {
@@ -156,8 +156,8 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16305,
-   "2025": 0,
-   "2026": 0,
+   "2025": 1,
+   "2026": 1,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "San Nicolás"
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16305,
-   "2025": 2,
-   "2026": 1,
-   "variacion": -50,
+   "2025": 7,
+   "2026": 2,
+   "variacion": -71,
    "situación": "Disminución de Casos",
    "COMUNA": "San Nicolás"
   },
@@ -500,7 +500,7 @@
    "CODCOM": 16305,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "San Nicolás"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 16305,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 8,
    "COMUNA": "San Nicolás"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 16305,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "San Nicolás"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 16305,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "San Nicolás"
   },
   {
@@ -2060,7 +2060,7 @@
    "CODCOM": 16305,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "San Nicolás"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 16305,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "San Nicolás"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 131,
    "2025": 191,
-   "2026": 1,
+   "2026": 4,
    "COMUNA": "San Nicolás"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 120,
    "2025": 112,
-   "2026": 5,
+   "2026": 8,
    "COMUNA": "San Nicolás"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 114,
    "2025": 117,
-   "2026": 3,
+   "2026": 5,
    "COMUNA": "San Nicolás"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 38,
    "2025": 37,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "San Nicolás"
   },
   {
@@ -2536,7 +2536,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 18,
    "2025": 14,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "San Nicolás"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 78,
    "2025": 71,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "San Nicolás"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
+  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
   "region": "Ñuble"
  }
 }

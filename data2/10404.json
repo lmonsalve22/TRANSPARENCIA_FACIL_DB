@@ -12,25 +12,25 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10404,
-   "2025": 1,
+   "2025": 2,
    "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "Palena"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10404,
    "2025": 1,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2026": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Palena"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10404,
-   "2025": 1,
+   "2025": 2,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -473,7 +473,7 @@
    "CODCOM": 10404,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Palena"
   },
   {
@@ -2062,7 +2062,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 17,
    "2025": 15,
-   "2026": 0,
+   "2026": 2,
    "COMUNA": "Palena"
   },
   {
@@ -2229,7 +2229,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
+  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
   "region": "Los Lagos"
  }
 }

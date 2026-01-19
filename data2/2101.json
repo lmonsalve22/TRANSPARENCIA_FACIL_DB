@@ -4,52 +4,52 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 2101,
    "2025": 1,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2026": 3,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
    "COMUNA": "Antofagasta"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 2101,
-   "2025": 66,
-   "2026": 65,
-   "variacion": -2,
+   "2025": 114,
+   "2026": 106,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "Antofagasta"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 2101,
-   "2025": 33,
-   "2026": 67,
-   "variacion": 103,
+   "2025": 63,
+   "2026": 109,
+   "variacion": 73,
    "situación": "Aumento de Casos",
    "COMUNA": "Antofagasta"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 2101,
-   "2025": 43,
-   "2026": 33,
-   "variacion": -23,
-   "situación": "Disminución de Casos",
+   "2025": 76,
+   "2026": 85,
+   "variacion": 12,
+   "situación": "Aumento de Casos",
    "COMUNA": "Antofagasta"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 2101,
-   "2025": 91,
-   "2026": 66,
-   "variacion": -27,
+   "2025": 165,
+   "2026": 133,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "Antofagasta"
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 2101,
-   "2025": 0,
-   "2026": 0,
+   "2025": 1,
+   "2026": 1,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Antofagasta"
@@ -57,86 +57,68 @@
   {
    "delito": "HURTOS",
    "CODCOM": 2101,
-   "2025": 53,
-   "2026": 43,
-   "variacion": -19,
+   "2025": 108,
+   "2026": 102,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "Antofagasta"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 2101,
-   "2025": 28,
-   "2026": 30,
-   "variacion": 7,
-   "situación": "Aumento de Casos",
+   "2025": 63,
+   "2026": 50,
+   "variacion": -21,
+   "situación": "Disminución de Casos",
    "COMUNA": "Antofagasta"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 2101,
-   "2025": 5,
-   "2026": 2,
-   "variacion": -60,
+   "2025": 6,
+   "2026": 5,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "Antofagasta"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 2101,
-   "2025": 30,
-   "2026": 28,
-   "variacion": -7,
-   "situación": "Disminución de Casos",
+   "2025": 56,
+   "2026": 60,
+   "variacion": 7,
+   "situación": "Aumento de Casos",
    "COMUNA": "Antofagasta"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 2101,
-   "2025": 5,
-   "2026": 3,
-   "variacion": -40,
+   "2025": 11,
+   "2026": 6,
+   "variacion": -45,
    "situación": "Disminución de Casos",
    "COMUNA": "Antofagasta"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 2101,
-   "2025": 8,
-   "2026": 12,
-   "variacion": 50,
+   "2025": 14,
+   "2026": 15,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "Antofagasta"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 2101,
-   "2025": 5,
-   "2026": 2,
+   "2025": 10,
+   "2026": 4,
    "variacion": -60,
    "situación": "Disminución de Casos",
    "COMUNA": "Antofagasta"
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "CODCOM": 2101,
-   "2025": 1,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Antofagasta"
-  },
-  {
-   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "CODCOM": 2101,
-   "2025": 0,
-   "2026": 2,
-   "variacion": 200,
-   "situación": "Aumento de Casos",
-   "COMUNA": "Antofagasta"
-  },
-  {
-   "delito": "RECEPTACIÓN",
    "CODCOM": 2101,
    "2025": 2,
    "2026": 2,
@@ -145,47 +127,65 @@
    "COMUNA": "Antofagasta"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 2101,
+   "2025": 0,
+   "2026": 5,
+   "variacion": 500,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Antofagasta"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 2101,
+   "2025": 5,
+   "2026": 7,
+   "variacion": 40,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Antofagasta"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 2101,
-   "2025": 25,
-   "2026": 20,
-   "variacion": -20,
+   "2025": 43,
+   "2026": 40,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "Antofagasta"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 2101,
-   "2025": 46,
-   "2026": 38,
-   "variacion": -17,
+   "2025": 87,
+   "2026": 80,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "Antofagasta"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 2101,
-   "2025": 18,
-   "2026": 27,
-   "variacion": 50,
+   "2025": 37,
+   "2026": 47,
+   "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "Antofagasta"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 2101,
-   "2025": 4,
-   "2026": 7,
-   "variacion": 75,
-   "situación": "Aumento de Casos",
+   "2025": 15,
+   "2026": 9,
+   "variacion": -40,
+   "situación": "Disminución de Casos",
    "COMUNA": "Antofagasta"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 2101,
-   "2025": 8,
-   "2026": 5,
-   "variacion": -38,
+   "2025": 10,
+   "2026": 8,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Antofagasta"
   }
@@ -292,7 +292,7 @@
    "CODCOM": 2101,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 3,
    "COMUNA": "Antofagasta"
   },
   {
@@ -396,7 +396,7 @@
    "CODCOM": 2101,
    "anio": 2026,
    "mes": 1,
-   "casos": 65,
+   "casos": 106,
    "COMUNA": "Antofagasta"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 2101,
    "anio": 2026,
    "mes": 1,
-   "casos": 67,
+   "casos": 109,
    "COMUNA": "Antofagasta"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 2101,
    "anio": 2026,
    "mes": 1,
-   "casos": 33,
+   "casos": 85,
    "COMUNA": "Antofagasta"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 2101,
    "anio": 2026,
    "mes": 1,
-   "casos": 66,
+   "casos": 133,
    "COMUNA": "Antofagasta"
   },
   {
@@ -812,7 +812,7 @@
    "CODCOM": 2101,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Antofagasta"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 2101,
    "anio": 2026,
    "mes": 1,
-   "casos": 43,
+   "casos": 102,
    "COMUNA": "Antofagasta"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 2101,
    "anio": 2026,
    "mes": 1,
-   "casos": 30,
+   "casos": 50,
    "COMUNA": "Antofagasta"
   },
   {
@@ -1124,7 +1124,7 @@
    "CODCOM": 2101,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 5,
    "COMUNA": "Antofagasta"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 2101,
    "anio": 2026,
    "mes": 1,
-   "casos": 28,
+   "casos": 60,
    "COMUNA": "Antofagasta"
   },
   {
@@ -1332,7 +1332,7 @@
    "CODCOM": 2101,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 6,
    "COMUNA": "Antofagasta"
   },
   {
@@ -1436,7 +1436,7 @@
    "CODCOM": 2101,
    "anio": 2026,
    "mes": 1,
-   "casos": 12,
+   "casos": 15,
    "COMUNA": "Antofagasta"
   },
   {
@@ -1540,7 +1540,7 @@
    "CODCOM": 2101,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Antofagasta"
   },
   {
@@ -1644,7 +1644,7 @@
    "CODCOM": 2101,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Antofagasta"
   },
   {
@@ -1748,7 +1748,7 @@
    "CODCOM": 2101,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 5,
    "COMUNA": "Antofagasta"
   },
   {
@@ -1852,7 +1852,7 @@
    "CODCOM": 2101,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 7,
    "COMUNA": "Antofagasta"
   },
   {
@@ -1956,7 +1956,7 @@
    "CODCOM": 2101,
    "anio": 2026,
    "mes": 1,
-   "casos": 20,
+   "casos": 40,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2060,7 +2060,7 @@
    "CODCOM": 2101,
    "anio": 2026,
    "mes": 1,
-   "casos": 38,
+   "casos": 80,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 2101,
    "anio": 2026,
    "mes": 1,
-   "casos": 27,
+   "casos": 47,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2268,7 +2268,7 @@
    "CODCOM": 2101,
    "anio": 2026,
    "mes": 1,
-   "casos": 7,
+   "casos": 9,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2372,7 +2372,7 @@
    "CODCOM": 2101,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 8,
    "COMUNA": "Antofagasta"
   }
  ],
@@ -2383,7 +2383,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 33,
    "2025": 33,
-   "2026": 0,
+   "2026": 3,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 2970,
    "2025": 2715,
-   "2026": 65,
+   "2026": 106,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 2063,
    "2025": 2187,
-   "2026": 67,
+   "2026": 109,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 2384,
    "2025": 2251,
-   "2026": 33,
+   "2026": 85,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 3418,
    "2025": 3160,
-   "2026": 66,
+   "2026": 133,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2428,7 +2428,7 @@
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "2024": 29,
    "2025": 14,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 3264,
    "2025": 3186,
-   "2026": 43,
+   "2026": 102,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 2049,
    "2025": 2130,
-   "2026": 30,
+   "2026": 50,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2455,7 +2455,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 169,
    "2025": 122,
-   "2026": 2,
+   "2026": 5,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 1605,
    "2025": 1478,
-   "2026": 28,
+   "2026": 60,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2473,7 +2473,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 201,
    "2025": 227,
-   "2026": 3,
+   "2026": 6,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2482,7 +2482,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 939,
    "2025": 712,
-   "2026": 12,
+   "2026": 15,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2491,7 +2491,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 304,
    "2025": 265,
-   "2026": 2,
+   "2026": 4,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2500,7 +2500,7 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2024": 64,
    "2025": 59,
-   "2026": 0,
+   "2026": 2,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2509,7 +2509,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 54,
    "2025": 101,
-   "2026": 2,
+   "2026": 5,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2518,7 +2518,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 229,
    "2025": 227,
-   "2026": 2,
+   "2026": 7,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2527,7 +2527,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 1563,
    "2025": 1277,
-   "2026": 20,
+   "2026": 40,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2536,7 +2536,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 2324,
    "2025": 2066,
-   "2026": 38,
+   "2026": 80,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 1278,
    "2025": 1125,
-   "2026": 27,
+   "2026": 47,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2554,7 +2554,7 @@
    "delito": "ROBOS POR SORPRESA",
    "2024": 523,
    "2025": 424,
-   "2026": 7,
+   "2026": 9,
    "COMUNA": "Antofagasta"
   },
   {
@@ -2563,12 +2563,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 282,
    "2025": 283,
-   "2026": 5,
+   "2026": 8,
    "COMUNA": "Antofagasta"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
+  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
   "region": "Antofagasta"
  }
 }

@@ -12,28 +12,28 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9110,
-   "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 3,
+   "2026": 1,
+   "variacion": -67,
+   "situación": "Disminución de Casos",
    "COMUNA": "Melipeuco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9110,
-   "2025": 2,
+   "2025": 4,
    "2026": 4,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Melipeuco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9110,
-   "2025": 0,
+   "2025": 2,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Melipeuco"
   },
   {
@@ -66,10 +66,10 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9110,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Melipeuco"
   },
   {
@@ -93,10 +93,10 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9110,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Melipeuco"
   },
   {
@@ -165,8 +165,8 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9110,
-   "2025": 0,
-   "2026": 0,
+   "2025": 1,
+   "2026": 1,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Melipeuco"
@@ -175,9 +175,9 @@
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9110,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Melipeuco"
   },
   {
@@ -396,7 +396,7 @@
    "CODCOM": 9110,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Melipeuco"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 9110,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Melipeuco"
   },
   {
@@ -2268,7 +2268,7 @@
    "CODCOM": 9110,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Melipeuco"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 78,
    "2025": 77,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Melipeuco"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 12,
    "2025": 13,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Melipeuco"
   },
   {
@@ -2554,7 +2554,7 @@
    "delito": "ROBOS POR SORPRESA",
    "2024": 0,
    "2025": 0,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Melipeuco"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
+  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
   "region": "La Araucanía"
  }
 }

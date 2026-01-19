@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9207,
    "2025": 6,
-   "2026": 0,
-   "variacion": -100,
+   "2026": 1,
+   "variacion": -83,
    "situación": "Disminución de Casos",
    "COMUNA": "Lumaco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9207,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Lumaco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9207,
-   "2025": 0,
-   "2026": 3,
-   "variacion": 300,
+   "2025": 1,
+   "2026": 5,
+   "variacion": 400,
    "situación": "Aumento de Casos",
    "COMUNA": "Lumaco"
   },
@@ -66,10 +66,10 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9207,
-   "2025": 0,
+   "2025": 1,
    "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Lumaco"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9207,
-   "2025": 0,
-   "2026": 2,
-   "variacion": 200,
+   "2025": 1,
+   "2026": 4,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "Lumaco"
   },
@@ -103,9 +103,9 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9207,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Lumaco"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 9207,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Lumaco"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 9207,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "Lumaco"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 9207,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Lumaco"
   },
   {
@@ -1436,7 +1436,7 @@
    "CODCOM": 9207,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Lumaco"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 86,
    "2025": 91,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Lumaco"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 62,
    "2025": 45,
-   "2026": 3,
+   "2026": 5,
    "COMUNA": "Lumaco"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 38,
    "2025": 45,
-   "2026": 2,
+   "2026": 4,
    "COMUNA": "Lumaco"
   },
   {
@@ -2482,7 +2482,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 8,
    "2025": 18,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Lumaco"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
+  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
   "region": "La Araucanía"
  }
 }

@@ -21,19 +21,19 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 1404,
-   "2025": 0,
+   "2025": 21,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 1404,
-   "2025": 0,
+   "2025": 4,
    "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": -75,
+   "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
   {
@@ -58,9 +58,9 @@
    "delito": "HURTOS",
    "CODCOM": 1404,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Huara"
   },
   {
@@ -139,9 +139,9 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 1404,
    "2025": 1,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2026": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Huara"
   },
   {
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 1404,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   }
  ],
@@ -916,7 +916,7 @@
    "CODCOM": 1404,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Huara"
   },
   {
@@ -1852,7 +1852,7 @@
    "CODCOM": 1404,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Huara"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 31,
    "2025": 12,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Huara"
   },
   {
@@ -2518,7 +2518,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 11,
    "2025": 13,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Huara"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
+  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
   "region": "Tarapacá"
  }
 }

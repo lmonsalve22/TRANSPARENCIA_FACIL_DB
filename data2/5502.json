@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5502,
-   "2025": 5,
-   "2026": 8,
-   "variacion": 60,
+   "2025": 12,
+   "2026": 14,
+   "variacion": 17,
    "situación": "Aumento de Casos",
    "COMUNA": "Calera"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5502,
-   "2025": 13,
-   "2026": 3,
-   "variacion": -77,
+   "2025": 21,
+   "2026": 5,
+   "variacion": -76,
    "situación": "Disminución de Casos",
    "COMUNA": "Calera"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5502,
-   "2025": 6,
+   "2025": 10,
    "2026": 3,
-   "variacion": -50,
+   "variacion": -70,
    "situación": "Disminución de Casos",
    "COMUNA": "Calera"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5502,
-   "2025": 6,
-   "2026": 5,
-   "variacion": -17,
+   "2025": 12,
+   "2026": 8,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Calera"
   },
@@ -57,14 +57,50 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5502,
-   "2025": 6,
-   "2026": 4,
-   "variacion": -33,
+   "2025": 14,
+   "2026": 10,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Calera"
   },
   {
    "delito": "INCIVILIDADES",
+   "CODCOM": 5502,
+   "2025": 4,
+   "2026": 4,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "Calera"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 5502,
+   "2025": 4,
+   "2026": 1,
+   "variacion": -75,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Calera"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 5502,
+   "2025": 7,
+   "2026": 2,
+   "variacion": -71,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Calera"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 5502,
+   "2025": 5,
+   "2026": 1,
+   "variacion": -80,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Calera"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5502,
    "2025": 1,
    "2026": 2,
@@ -73,48 +109,12 @@
    "COMUNA": "Calera"
   },
   {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 5502,
-   "2025": 2,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Calera"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 5502,
-   "2025": 3,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Calera"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 5502,
-   "2025": 3,
-   "2026": 1,
-   "variacion": -67,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Calera"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 5502,
-   "2025": 1,
-   "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
-   "COMUNA": "Calera"
-  },
-  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 5502,
-   "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 1,
+   "2026": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Calera"
   },
   {
@@ -130,34 +130,34 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 5502,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Calera"
   },
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 5502,
-   "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
-   "COMUNA": "Calera"
-  },
-  {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 5502,
-   "2025": 3,
+   "2025": 1,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
    "COMUNA": "Calera"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 5502,
+   "2025": 8,
+   "2026": 1,
+   "variacion": -88,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Calera"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5502,
-   "2025": 3,
-   "2026": 1,
+   "2025": 9,
+   "2026": 3,
    "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "Calera"
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5502,
-   "2025": 8,
-   "2026": 5,
-   "variacion": -38,
+   "2025": 12,
+   "2026": 7,
+   "variacion": -42,
    "situación": "Disminución de Casos",
    "COMUNA": "Calera"
   },
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5502,
-   "2025": 0,
+   "2025": 2,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Calera"
   }
  ],
@@ -396,7 +396,7 @@
    "CODCOM": 5502,
    "anio": 2026,
    "mes": 1,
-   "casos": 8,
+   "casos": 14,
    "COMUNA": "Calera"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 5502,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "Calera"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 5502,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 8,
    "COMUNA": "Calera"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 5502,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 10,
    "COMUNA": "Calera"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 5502,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Calera"
   },
   {
@@ -1124,7 +1124,7 @@
    "CODCOM": 5502,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Calera"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 5502,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Calera"
   },
   {
@@ -1436,7 +1436,7 @@
    "CODCOM": 5502,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Calera"
   },
   {
@@ -1540,7 +1540,7 @@
    "CODCOM": 5502,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Calera"
   },
   {
@@ -1748,7 +1748,7 @@
    "CODCOM": 5502,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Calera"
   },
   {
@@ -1956,7 +1956,7 @@
    "CODCOM": 5502,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Calera"
   },
   {
@@ -2060,7 +2060,7 @@
    "CODCOM": 5502,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Calera"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 5502,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "Calera"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 479,
    "2025": 435,
-   "2026": 8,
+   "2026": 14,
    "COMUNA": "Calera"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 187,
    "2025": 222,
-   "2026": 3,
+   "2026": 5,
    "COMUNA": "Calera"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 250,
    "2025": 277,
-   "2026": 5,
+   "2026": 8,
    "COMUNA": "Calera"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 411,
    "2025": 329,
-   "2026": 4,
+   "2026": 10,
    "COMUNA": "Calera"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 182,
    "2025": 167,
-   "2026": 2,
+   "2026": 4,
    "COMUNA": "Calera"
   },
   {
@@ -2455,7 +2455,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 39,
    "2025": 35,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Calera"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 170,
    "2025": 146,
-   "2026": 0,
+   "2026": 2,
    "COMUNA": "Calera"
   },
   {
@@ -2482,7 +2482,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 184,
    "2025": 165,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Calera"
   },
   {
@@ -2491,7 +2491,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 12,
    "2025": 47,
-   "2026": 0,
+   "2026": 2,
    "COMUNA": "Calera"
   },
   {
@@ -2509,7 +2509,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 20,
    "2025": 21,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Calera"
   },
   {
@@ -2527,7 +2527,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 106,
    "2025": 111,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Calera"
   },
   {
@@ -2536,7 +2536,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 147,
    "2025": 183,
-   "2026": 1,
+   "2026": 3,
    "COMUNA": "Calera"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 283,
    "2025": 291,
-   "2026": 5,
+   "2026": 7,
    "COMUNA": "Calera"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
+  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
   "region": "Valparaíso"
  }
 }

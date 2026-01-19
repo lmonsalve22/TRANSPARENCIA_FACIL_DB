@@ -13,34 +13,34 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9117,
    "2025": 5,
-   "2026": 3,
-   "variacion": -40,
+   "2026": 4,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Teodoro Schmidt"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9117,
-   "2025": 11,
-   "2026": 6,
-   "variacion": -45,
+   "2025": 18,
+   "2026": 13,
+   "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "Teodoro Schmidt"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9117,
-   "2025": 1,
+   "2025": 3,
    "2026": 2,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": -33,
+   "situación": "Disminución de Casos",
    "COMUNA": "Teodoro Schmidt"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9117,
-   "2025": 2,
-   "2026": 2,
+   "2025": 3,
+   "2026": 3,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Teodoro Schmidt"
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9117,
-   "2025": 2,
-   "2026": 0,
-   "variacion": -100,
+   "2025": 3,
+   "2026": 1,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "Teodoro Schmidt"
   },
@@ -111,7 +111,7 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9117,
-   "2025": 1,
+   "2025": 3,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -396,7 +396,7 @@
    "CODCOM": 9117,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Teodoro Schmidt"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 9117,
    "anio": 2026,
    "mes": 1,
-   "casos": 6,
+   "casos": 13,
    "COMUNA": "Teodoro Schmidt"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 9117,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Teodoro Schmidt"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 9117,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Teodoro Schmidt"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 105,
    "2025": 119,
-   "2026": 3,
+   "2026": 4,
    "COMUNA": "Teodoro Schmidt"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 336,
    "2025": 439,
-   "2026": 6,
+   "2026": 13,
    "COMUNA": "Teodoro Schmidt"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 140,
    "2025": 116,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "Teodoro Schmidt"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 49,
    "2025": 21,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Teodoro Schmidt"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
+  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
   "region": "La Araucanía"
  }
 }
