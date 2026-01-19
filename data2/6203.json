@@ -12,7 +12,7 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6203,
-   "2025": 3,
+   "2025": 5,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -30,19 +30,19 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6203,
-   "2025": 0,
+   "2025": 1,
    "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Litueche"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6203,
-   "2025": 3,
-   "2026": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 7,
+   "2026": 6,
+   "variacion": -14,
+   "situación": "Disminución de Casos",
    "COMUNA": "Litueche"
   },
   {
@@ -57,7 +57,7 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6203,
-   "2025": 1,
+   "2025": 2,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -85,9 +85,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 6203,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Litueche"
   },
   {
@@ -157,15 +157,15 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6203,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Litueche"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6203,
-   "2025": 2,
+   "2025": 4,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -708,7 +708,7 @@
    "CODCOM": 6203,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 6,
    "COMUNA": "Litueche"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 6203,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Litueche"
   },
   {
@@ -2060,7 +2060,7 @@
    "CODCOM": 6203,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Litueche"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 80,
    "2025": 92,
-   "2026": 3,
+   "2026": 6,
    "COMUNA": "Litueche"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 19,
    "2025": 22,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Litueche"
   },
   {
@@ -2536,7 +2536,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 5,
    "2025": 3,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Litueche"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
+  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
   "region": "O'Higgins"
  }
 }

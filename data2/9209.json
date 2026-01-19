@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9209,
-   "2025": 0,
-   "2026": 2,
-   "variacion": 200,
+   "2025": 3,
+   "2026": 6,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Renaico"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 9209,
-   "2025": 3,
-   "2026": 5,
-   "variacion": 67,
+   "2025": 5,
+   "2026": 8,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "Renaico"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9209,
-   "2025": 1,
-   "2026": 4,
-   "variacion": 300,
+   "2025": 2,
+   "2026": 10,
+   "variacion": 400,
    "situación": "Aumento de Casos",
    "COMUNA": "Renaico"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9209,
-   "2025": 1,
-   "2026": 0,
-   "variacion": -100,
+   "2025": 3,
+   "2026": 2,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Renaico"
   },
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9209,
-   "2025": 1,
-   "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 3,
+   "2026": 2,
+   "variacion": -33,
+   "situación": "Disminución de Casos",
    "COMUNA": "Renaico"
   },
   {
@@ -102,19 +102,19 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9209,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Renaico"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9209,
-   "2025": 1,
+   "2025": 2,
    "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "Renaico"
   },
   {
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9209,
-   "2025": 1,
-   "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 5,
+   "2026": 2,
+   "variacion": -60,
+   "situación": "Disminución de Casos",
    "COMUNA": "Renaico"
   },
   {
@@ -396,7 +396,7 @@
    "CODCOM": 9209,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 6,
    "COMUNA": "Renaico"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 9209,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 8,
    "COMUNA": "Renaico"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 9209,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 10,
    "COMUNA": "Renaico"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 9209,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Renaico"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 9209,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Renaico"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 9209,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Renaico"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 126,
    "2025": 108,
-   "2026": 2,
+   "2026": 6,
    "COMUNA": "Renaico"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 96,
    "2025": 73,
-   "2026": 5,
+   "2026": 8,
    "COMUNA": "Renaico"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 127,
    "2025": 111,
-   "2026": 4,
+   "2026": 10,
    "COMUNA": "Renaico"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 60,
    "2025": 60,
-   "2026": 0,
+   "2026": 2,
    "COMUNA": "Renaico"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 43,
    "2025": 46,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Renaico"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 74,
    "2025": 88,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Renaico"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
+  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
   "region": "La Araucanía"
  }
 }

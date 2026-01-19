@@ -3,10 +3,10 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 15102,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Camarones"
   },
   {
@@ -67,9 +67,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 15102,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Camarones"
   },
   {
@@ -93,10 +93,10 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 15102,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Camarones"
   },
   {
@@ -1002,7 +1002,7 @@
    "CODCOM": 15102,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Camarones"
   },
   {
@@ -2238,7 +2238,7 @@
    "delito": "LESIONES LEVES",
    "2024": 1,
    "2025": 4,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Camarones"
   },
   {
@@ -2342,7 +2342,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 01/2026 (del 01/01/2026 al 04/01/2026)",
+  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
   "region": "Arica y Parinacota"
  }
 }
