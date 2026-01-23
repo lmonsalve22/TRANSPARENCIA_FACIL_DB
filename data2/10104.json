@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10104,
-   "2025": 6,
-   "2026": 3,
-   "variacion": -50,
+   "2025": 10,
+   "2026": 6,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Fresia"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10104,
-   "2025": 18,
-   "2026": 4,
-   "variacion": -78,
+   "2025": 20,
+   "2026": 12,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Fresia"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 10104,
    "2025": 3,
-   "2026": 2,
-   "variacion": -33,
-   "situación": "Disminución de Casos",
+   "2026": 4,
+   "variacion": 33,
+   "situación": "Aumento de Casos",
    "COMUNA": "Fresia"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10104,
-   "2025": 3,
-   "2026": 7,
-   "variacion": 133,
+   "2025": 5,
+   "2026": 10,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Fresia"
   },
@@ -58,17 +58,17 @@
    "delito": "HURTOS",
    "CODCOM": 10104,
    "2025": 1,
-   "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Fresia"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10104,
-   "2025": 4,
+   "2025": 5,
    "2026": 1,
-   "variacion": -75,
+   "variacion": -80,
    "situación": "Disminución de Casos",
    "COMUNA": "Fresia"
   },
@@ -85,17 +85,17 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 10104,
    "2025": 2,
-   "2026": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 3,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
    "COMUNA": "Fresia"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10104,
    "2025": 2,
-   "2026": 0,
-   "variacion": -100,
+   "2026": 1,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Fresia"
   },
@@ -396,7 +396,7 @@
    "CODCOM": 10104,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 6,
    "COMUNA": "Fresia"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 10104,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 12,
    "COMUNA": "Fresia"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 10104,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Fresia"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 10104,
    "anio": 2026,
    "mes": 1,
-   "casos": 7,
+   "casos": 10,
    "COMUNA": "Fresia"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 10104,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Fresia"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 10104,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Fresia"
   },
   {
@@ -1332,7 +1332,7 @@
    "CODCOM": 10104,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Fresia"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 122,
    "2025": 110,
-   "2026": 3,
+   "2026": 6,
    "COMUNA": "Fresia"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 266,
    "2025": 272,
-   "2026": 4,
+   "2026": 12,
    "COMUNA": "Fresia"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 89,
    "2025": 69,
-   "2026": 2,
+   "2026": 4,
    "COMUNA": "Fresia"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 92,
    "2025": 97,
-   "2026": 7,
+   "2026": 10,
    "COMUNA": "Fresia"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 45,
    "2025": 41,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Fresia"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 50,
    "2025": 35,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "Fresia"
   },
   {
@@ -2473,7 +2473,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 7,
    "2025": 8,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Fresia"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "Los Lagos"
  }
 }

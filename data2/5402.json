@@ -3,8 +3,8 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 5402,
-   "2025": 0,
-   "2026": 0,
+   "2025": 1,
+   "2026": 1,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Cabildo"
@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5402,
-   "2025": 8,
-   "2026": 5,
-   "variacion": -38,
+   "2025": 12,
+   "2026": 9,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabildo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5402,
-   "2025": 5,
-   "2026": 2,
-   "variacion": -60,
+   "2025": 9,
+   "2026": 5,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabildo"
   },
@@ -31,45 +31,45 @@
    "delito": "DAÑOS",
    "CODCOM": 5402,
    "2025": 2,
-   "2026": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 4,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Cabildo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5402,
-   "2025": 3,
-   "2026": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 8,
+   "2026": 6,
+   "variacion": -25,
+   "situación": "Disminución de Casos",
    "COMUNA": "Cabildo"
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 5402,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Cabildo"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 5402,
    "2025": 2,
-   "2026": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 5,
+   "variacion": 150,
+   "situación": "Aumento de Casos",
    "COMUNA": "Cabildo"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5402,
    "2025": 1,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2026": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cabildo"
   },
   {
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 5402,
    "2025": 5,
-   "2026": 1,
-   "variacion": -80,
+   "2026": 2,
+   "variacion": -60,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabildo"
   },
@@ -94,17 +94,17 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5402,
    "2025": 1,
-   "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Cabildo"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5402,
-   "2025": 0,
+   "2025": 1,
    "2026": 2,
-   "variacion": 200,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Cabildo"
   },
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5402,
-   "2025": 2,
-   "2026": 3,
-   "variacion": 50,
-   "situación": "Aumento de Casos",
+   "2025": 5,
+   "2026": 5,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cabildo"
   },
   {
@@ -292,7 +292,7 @@
    "CODCOM": 5402,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Cabildo"
   },
   {
@@ -396,7 +396,7 @@
    "CODCOM": 5402,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 9,
    "COMUNA": "Cabildo"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 5402,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 5,
    "COMUNA": "Cabildo"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 5402,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Cabildo"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 5402,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 6,
    "COMUNA": "Cabildo"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 5402,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 5,
    "COMUNA": "Cabildo"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 5402,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Cabildo"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 5402,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Cabildo"
   },
   {
@@ -1332,7 +1332,7 @@
    "CODCOM": 5402,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Cabildo"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 5402,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "Cabildo"
   },
   {
@@ -2383,7 +2383,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 0,
    "2025": 2,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Cabildo"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 157,
    "2025": 124,
-   "2026": 5,
+   "2026": 9,
    "COMUNA": "Cabildo"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 445,
    "2025": 300,
-   "2026": 2,
+   "2026": 5,
    "COMUNA": "Cabildo"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 80,
    "2025": 74,
-   "2026": 2,
+   "2026": 4,
    "COMUNA": "Cabildo"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 156,
    "2025": 143,
-   "2026": 3,
+   "2026": 6,
    "COMUNA": "Cabildo"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 61,
    "2025": 46,
-   "2026": 2,
+   "2026": 5,
    "COMUNA": "Cabildo"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 71,
    "2025": 106,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Cabildo"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 41,
    "2025": 57,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Cabildo"
   },
   {
@@ -2473,7 +2473,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 11,
    "2025": 9,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Cabildo"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 58,
    "2025": 66,
-   "2026": 3,
+   "2026": 5,
    "COMUNA": "Cabildo"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "Valparaíso"
  }
 }

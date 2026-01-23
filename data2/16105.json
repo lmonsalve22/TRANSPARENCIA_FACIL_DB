@@ -13,27 +13,27 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16105,
    "2025": 4,
-   "2026": 1,
-   "variacion": -75,
+   "2026": 3,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Pemuco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16105,
-   "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 1,
+   "2026": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Pemuco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 16105,
-   "2025": 3,
+   "2025": 4,
    "2026": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -25,
+   "situación": "Disminución de Casos",
    "COMUNA": "Pemuco"
   },
   {
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16105,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Pemuco"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16105,
-   "2025": 2,
+   "2025": 3,
    "2026": 1,
-   "variacion": -50,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "Pemuco"
   },
@@ -112,9 +112,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 16105,
    "2025": 1,
-   "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Pemuco"
   },
   {
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16105,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Pemuco"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16105,
    "2025": 0,
-   "2026": 3,
-   "variacion": 300,
+   "2026": 6,
+   "variacion": 600,
    "situación": "Aumento de Casos",
    "COMUNA": "Pemuco"
   },
@@ -396,7 +396,7 @@
    "CODCOM": 16105,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Pemuco"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 16105,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Pemuco"
   },
   {
@@ -1540,7 +1540,7 @@
    "CODCOM": 16105,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Pemuco"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 16105,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 6,
    "COMUNA": "Pemuco"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 77,
    "2025": 62,
-   "2026": 1,
+   "2026": 3,
    "COMUNA": "Pemuco"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 18,
    "2025": 28,
-   "2026": 0,
+   "2026": 2,
    "COMUNA": "Pemuco"
   },
   {
@@ -2491,7 +2491,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 2,
    "2025": 6,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Pemuco"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 33,
    "2025": 42,
-   "2026": 3,
+   "2026": 6,
    "COMUNA": "Pemuco"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "Ñuble"
  }
 }

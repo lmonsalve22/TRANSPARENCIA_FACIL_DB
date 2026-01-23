@@ -21,27 +21,27 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5404,
-   "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 2,
+   "2026": 1,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "Petorca"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5404,
-   "2025": 0,
+   "2025": 2,
    "2026": 2,
-   "variacion": 200,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Petorca"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5404,
-   "2025": 4,
-   "2026": 6,
-   "variacion": 50,
+   "2025": 5,
+   "2026": 8,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "Petorca"
   },
@@ -93,8 +93,8 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5404,
-   "2025": 0,
-   "2026": 1,
+   "2025": 1,
+   "2026": 2,
    "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Petorca"
@@ -157,17 +157,17 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5404,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Petorca"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5404,
-   "2025": 4,
+   "2025": 5,
    "2026": 1,
-   "variacion": -75,
+   "variacion": -80,
    "situación": "Disminución de Casos",
    "COMUNA": "Petorca"
   },
@@ -500,7 +500,7 @@
    "CODCOM": 5404,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Petorca"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 5404,
    "anio": 2026,
    "mes": 1,
-   "casos": 6,
+   "casos": 8,
    "COMUNA": "Petorca"
   },
   {
@@ -1332,7 +1332,7 @@
    "CODCOM": 5404,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Petorca"
   },
   {
@@ -2060,7 +2060,7 @@
    "CODCOM": 5404,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Petorca"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 39,
    "2025": 44,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Petorca"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 81,
    "2025": 74,
-   "2026": 6,
+   "2026": 8,
    "COMUNA": "Petorca"
   },
   {
@@ -2473,7 +2473,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 9,
    "2025": 9,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Petorca"
   },
   {
@@ -2536,7 +2536,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 7,
    "2025": 1,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Petorca"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "Valparaíso"
  }
 }

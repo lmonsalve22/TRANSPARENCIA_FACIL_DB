@@ -13,18 +13,18 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 1403,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 1403,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
   {
@@ -39,8 +39,8 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 1403,
-   "2025": 0,
-   "2026": 0,
+   "2025": 1,
+   "2026": 1,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Colchane"
@@ -57,19 +57,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 1403,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Colchane"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 1403,
-   "2025": 1,
-   "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 2,
+   "2026": 5,
+   "variacion": 150,
+   "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
   {
@@ -139,18 +139,18 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 1403,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 1403,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Colchane"
   },
   {
@@ -396,7 +396,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Colchane"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Colchane"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Colchane"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 5,
    "COMUNA": "Colchane"
   },
   {
@@ -1852,7 +1852,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Colchane"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 14,
    "2025": 9,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Colchane"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 9,
    "2025": 17,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Colchane"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 10,
    "2025": 8,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Colchane"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 17,
    "2025": 10,
-   "2026": 1,
+   "2026": 5,
    "COMUNA": "Colchane"
   },
   {
@@ -2518,7 +2518,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 14,
    "2025": 16,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Colchane"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "Tarapacá"
  }
 }

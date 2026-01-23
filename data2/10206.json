@@ -21,7 +21,7 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10206,
-   "2025": 6,
+   "2025": 8,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 10206,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Puqueldón"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10206,
-   "2025": 3,
-   "2026": 2,
-   "variacion": -33,
+   "2025": 5,
+   "2026": 3,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Puqueldón"
   },
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 10206,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Puqueldón"
   },
   {
@@ -690,7 +690,7 @@
    "CODCOM": 10206,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Puqueldón"
   },
   {
@@ -1002,7 +1002,7 @@
    "CODCOM": 10206,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Puqueldón"
   },
   {
@@ -2193,7 +2193,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 19,
    "2025": 22,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "Puqueldón"
   },
   {
@@ -2220,7 +2220,7 @@
    "delito": "INCIVILIDADES",
    "2024": 17,
    "2025": 15,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Puqueldón"
   },
   {
@@ -2342,7 +2342,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "Los Lagos"
  }
 }

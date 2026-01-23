@@ -12,27 +12,27 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9106,
-   "2025": 3,
-   "2026": 2,
-   "variacion": -33,
+   "2025": 5,
+   "2026": 4,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Galvarino"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9106,
-   "2025": 5,
-   "2026": 7,
-   "variacion": 40,
-   "situación": "Aumento de Casos",
+   "2025": 12,
+   "2026": 11,
+   "variacion": -8,
+   "situación": "Disminución de Casos",
    "COMUNA": "Galvarino"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9106,
    "2025": 0,
-   "2026": 4,
-   "variacion": 400,
+   "2026": 5,
+   "variacion": 500,
    "situación": "Aumento de Casos",
    "COMUNA": "Galvarino"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9106,
-   "2025": 0,
-   "2026": 3,
+   "2025": 1,
+   "2026": 4,
    "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "Galvarino"
@@ -111,10 +111,10 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9106,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Galvarino"
   },
   {
@@ -147,10 +147,10 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9106,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Galvarino"
   },
   {
@@ -165,8 +165,8 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9106,
-   "2025": 0,
-   "2026": 0,
+   "2025": 1,
+   "2026": 1,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Galvarino"
@@ -396,7 +396,7 @@
    "CODCOM": 9106,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Galvarino"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 9106,
    "anio": 2026,
    "mes": 1,
-   "casos": 7,
+   "casos": 11,
    "COMUNA": "Galvarino"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 9106,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Galvarino"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 9106,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Galvarino"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 9106,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Galvarino"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 88,
    "2025": 94,
-   "2026": 2,
+   "2026": 4,
    "COMUNA": "Galvarino"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 348,
    "2025": 148,
-   "2026": 7,
+   "2026": 11,
    "COMUNA": "Galvarino"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 57,
    "2025": 49,
-   "2026": 4,
+   "2026": 5,
    "COMUNA": "Galvarino"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 27,
    "2025": 31,
-   "2026": 3,
+   "2026": 4,
    "COMUNA": "Galvarino"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 35,
    "2025": 22,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Galvarino"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "La Araucanía"
  }
 }

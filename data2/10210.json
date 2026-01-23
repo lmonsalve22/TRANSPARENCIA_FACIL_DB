@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10210,
-   "2025": 5,
-   "2026": 2,
-   "variacion": -60,
+   "2025": 6,
+   "2026": 3,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Quinchao"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10210,
-   "2025": 4,
-   "2026": 14,
-   "variacion": 250,
+   "2025": 7,
+   "2026": 15,
+   "variacion": 114,
    "situación": "Aumento de Casos",
    "COMUNA": "Quinchao"
   },
@@ -39,10 +39,10 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10210,
-   "2025": 2,
+   "2025": 3,
    "2026": 3,
-   "variacion": 50,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Quinchao"
   },
   {
@@ -66,10 +66,10 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10210,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Quinchao"
   },
   {
@@ -85,9 +85,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 10210,
    "2025": 3,
-   "2026": 1,
-   "variacion": -67,
-   "situación": "Disminución de Casos",
+   "2026": 3,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Quinchao"
   },
   {
@@ -112,9 +112,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 10210,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Quinchao"
   },
   {
@@ -396,7 +396,7 @@
    "CODCOM": 10210,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Quinchao"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 10210,
    "anio": 2026,
    "mes": 1,
-   "casos": 14,
+   "casos": 15,
    "COMUNA": "Quinchao"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 10210,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Quinchao"
   },
   {
@@ -1540,7 +1540,7 @@
    "CODCOM": 10210,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Quinchao"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 62,
    "2025": 57,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "Quinchao"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 63,
    "2025": 36,
-   "2026": 14,
+   "2026": 15,
    "COMUNA": "Quinchao"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 32,
    "2025": 24,
-   "2026": 1,
+   "2026": 3,
    "COMUNA": "Quinchao"
   },
   {
@@ -2491,7 +2491,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 3,
    "2025": 1,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Quinchao"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "Los Lagos"
  }
 }

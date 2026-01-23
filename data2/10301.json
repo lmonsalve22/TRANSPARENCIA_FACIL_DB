@@ -4,16 +4,16 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 10301,
    "2025": 2,
-   "2026": 0,
-   "variacion": -100,
+   "2026": 1,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Osorno"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10301,
-   "2025": 51,
-   "2026": 61,
+   "2025": 74,
+   "2026": 89,
    "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "Osorno"
@@ -21,27 +21,27 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10301,
-   "2025": 98,
-   "2026": 63,
-   "variacion": -36,
+   "2025": 134,
+   "2026": 106,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "Osorno"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10301,
-   "2025": 40,
-   "2026": 54,
-   "variacion": 35,
+   "2025": 60,
+   "2026": 75,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "Osorno"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10301,
-   "2025": 77,
-   "2026": 82,
-   "variacion": 6,
+   "2025": 122,
+   "2026": 132,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "Osorno"
   },
@@ -57,70 +57,70 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10301,
-   "2025": 54,
-   "2026": 81,
-   "variacion": 50,
+   "2025": 92,
+   "2026": 119,
+   "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "Osorno"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10301,
-   "2025": 27,
-   "2026": 7,
-   "variacion": -74,
+   "2025": 39,
+   "2026": 15,
+   "variacion": -62,
    "situación": "Disminución de Casos",
    "COMUNA": "Osorno"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10301,
-   "2025": 3,
+   "2025": 6,
    "2026": 1,
-   "variacion": -67,
+   "variacion": -83,
    "situación": "Disminución de Casos",
    "COMUNA": "Osorno"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10301,
-   "2025": 20,
-   "2026": 16,
-   "variacion": -20,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Osorno"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 10301,
-   "2025": 4,
-   "2026": 4,
+   "2025": 28,
+   "2026": 28,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Osorno"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10301,
+   "2025": 6,
+   "2026": 4,
+   "variacion": -33,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Osorno"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10301,
-   "2025": 5,
-   "2026": 4,
-   "variacion": -20,
+   "2025": 9,
+   "2026": 8,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "Osorno"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 10301,
-   "2025": 3,
-   "2026": 2,
-   "variacion": -33,
+   "2025": 5,
+   "2026": 3,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Osorno"
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 10301,
-   "2025": 1,
+   "2025": 2,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -139,53 +139,53 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 10301,
    "2025": 1,
-   "2026": 5,
-   "variacion": 400,
+   "2026": 9,
+   "variacion": 800,
    "situación": "Aumento de Casos",
    "COMUNA": "Osorno"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 10301,
-   "2025": 14,
-   "2026": 8,
-   "variacion": -43,
+   "2025": 18,
+   "2026": 16,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "Osorno"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 10301,
-   "2025": 12,
-   "2026": 18,
-   "variacion": 50,
-   "situación": "Aumento de Casos",
+   "2025": 31,
+   "2026": 27,
+   "variacion": -13,
+   "situación": "Disminución de Casos",
    "COMUNA": "Osorno"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10301,
-   "2025": 32,
-   "2026": 25,
-   "variacion": -22,
+   "2025": 42,
+   "2026": 35,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "Osorno"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 10301,
-   "2025": 11,
-   "2026": 6,
-   "variacion": -45,
+   "2025": 13,
+   "2026": 12,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "Osorno"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10301,
-   "2025": 12,
-   "2026": 9,
-   "variacion": -25,
+   "2025": 16,
+   "2026": 10,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "Osorno"
   }
@@ -292,7 +292,7 @@
    "CODCOM": 10301,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Osorno"
   },
   {
@@ -396,7 +396,7 @@
    "CODCOM": 10301,
    "anio": 2026,
    "mes": 1,
-   "casos": 61,
+   "casos": 89,
    "COMUNA": "Osorno"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 10301,
    "anio": 2026,
    "mes": 1,
-   "casos": 63,
+   "casos": 106,
    "COMUNA": "Osorno"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 10301,
    "anio": 2026,
    "mes": 1,
-   "casos": 54,
+   "casos": 75,
    "COMUNA": "Osorno"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 10301,
    "anio": 2026,
    "mes": 1,
-   "casos": 82,
+   "casos": 132,
    "COMUNA": "Osorno"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 10301,
    "anio": 2026,
    "mes": 1,
-   "casos": 81,
+   "casos": 119,
    "COMUNA": "Osorno"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 10301,
    "anio": 2026,
    "mes": 1,
-   "casos": 7,
+   "casos": 15,
    "COMUNA": "Osorno"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 10301,
    "anio": 2026,
    "mes": 1,
-   "casos": 16,
+   "casos": 28,
    "COMUNA": "Osorno"
   },
   {
@@ -1436,7 +1436,7 @@
    "CODCOM": 10301,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 8,
    "COMUNA": "Osorno"
   },
   {
@@ -1540,7 +1540,7 @@
    "CODCOM": 10301,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Osorno"
   },
   {
@@ -1852,7 +1852,7 @@
    "CODCOM": 10301,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 9,
    "COMUNA": "Osorno"
   },
   {
@@ -1956,7 +1956,7 @@
    "CODCOM": 10301,
    "anio": 2026,
    "mes": 1,
-   "casos": 8,
+   "casos": 16,
    "COMUNA": "Osorno"
   },
   {
@@ -2060,7 +2060,7 @@
    "CODCOM": 10301,
    "anio": 2026,
    "mes": 1,
-   "casos": 18,
+   "casos": 27,
    "COMUNA": "Osorno"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 10301,
    "anio": 2026,
    "mes": 1,
-   "casos": 25,
+   "casos": 35,
    "COMUNA": "Osorno"
   },
   {
@@ -2268,7 +2268,7 @@
    "CODCOM": 10301,
    "anio": 2026,
    "mes": 1,
-   "casos": 6,
+   "casos": 12,
    "COMUNA": "Osorno"
   },
   {
@@ -2372,7 +2372,7 @@
    "CODCOM": 10301,
    "anio": 2026,
    "mes": 1,
-   "casos": 9,
+   "casos": 10,
    "COMUNA": "Osorno"
   }
  ],
@@ -2383,7 +2383,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 36,
    "2025": 28,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Osorno"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 1243,
    "2025": 1327,
-   "2026": 61,
+   "2026": 89,
    "COMUNA": "Osorno"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 1374,
    "2025": 1629,
-   "2026": 63,
+   "2026": 106,
    "COMUNA": "Osorno"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 1336,
    "2025": 1301,
-   "2026": 54,
+   "2026": 75,
    "COMUNA": "Osorno"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 2103,
    "2025": 2116,
-   "2026": 82,
+   "2026": 132,
    "COMUNA": "Osorno"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 2090,
    "2025": 2153,
-   "2026": 81,
+   "2026": 119,
    "COMUNA": "Osorno"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 597,
    "2025": 481,
-   "2026": 7,
+   "2026": 15,
    "COMUNA": "Osorno"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 485,
    "2025": 532,
-   "2026": 16,
+   "2026": 28,
    "COMUNA": "Osorno"
   },
   {
@@ -2482,7 +2482,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 133,
    "2025": 152,
-   "2026": 4,
+   "2026": 8,
    "COMUNA": "Osorno"
   },
   {
@@ -2491,7 +2491,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 116,
    "2025": 136,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "Osorno"
   },
   {
@@ -2518,7 +2518,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 60,
    "2025": 44,
-   "2026": 5,
+   "2026": 9,
    "COMUNA": "Osorno"
   },
   {
@@ -2527,7 +2527,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 315,
    "2025": 304,
-   "2026": 8,
+   "2026": 16,
    "COMUNA": "Osorno"
   },
   {
@@ -2536,7 +2536,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 569,
    "2025": 470,
-   "2026": 18,
+   "2026": 27,
    "COMUNA": "Osorno"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 955,
    "2025": 781,
-   "2026": 25,
+   "2026": 35,
    "COMUNA": "Osorno"
   },
   {
@@ -2554,7 +2554,7 @@
    "delito": "ROBOS POR SORPRESA",
    "2024": 153,
    "2025": 160,
-   "2026": 6,
+   "2026": 12,
    "COMUNA": "Osorno"
   },
   {
@@ -2563,12 +2563,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 225,
    "2025": 276,
-   "2026": 9,
+   "2026": 10,
    "COMUNA": "Osorno"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "Los Lagos"
  }
 }

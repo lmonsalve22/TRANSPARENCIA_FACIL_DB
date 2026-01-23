@@ -31,9 +31,9 @@
    "delito": "DAÑOS",
    "CODCOM": 15201,
    "2025": 1,
-   "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 5,
+   "variacion": 400,
+   "situación": "Aumento de Casos",
    "COMUNA": "Putre"
   },
   {
@@ -94,9 +94,9 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 15201,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Putre"
   },
   {
@@ -595,7 +595,7 @@
    "CODCOM": 15201,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 5,
    "COMUNA": "Putre"
   },
   {
@@ -1323,7 +1323,7 @@
    "CODCOM": 15201,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Putre"
   },
   {
@@ -2297,7 +2297,7 @@
    "delito": "DAÑOS",
    "2024": 55,
    "2025": 40,
-   "2026": 1,
+   "2026": 5,
    "COMUNA": "Putre"
   },
   {
@@ -2369,7 +2369,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 17,
    "2025": 4,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Putre"
   },
   {
@@ -2455,7 +2455,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "Arica y Parinacota"
  }
 }

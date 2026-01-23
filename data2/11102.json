@@ -31,9 +31,9 @@
    "delito": "DAÑOS",
    "CODCOM": 11102,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
    "COMUNA": "Lago Verde"
   },
   {
@@ -577,7 +577,7 @@
    "CODCOM": 11102,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Lago Verde"
   },
   {
@@ -2071,7 +2071,7 @@
    "delito": "DAÑOS",
    "2024": 13,
    "2025": 10,
-   "2026": 0,
+   "2026": 2,
    "COMUNA": "Lago Verde"
   },
   {
@@ -2229,7 +2229,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "Aysén"
  }
 }

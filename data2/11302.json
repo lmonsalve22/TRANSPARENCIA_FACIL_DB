@@ -22,9 +22,9 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11302,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 5,
+   "variacion": 500,
+   "situación": "Aumento de Casos",
    "COMUNA": "O'Higgins"
   },
   {
@@ -49,9 +49,9 @@
    "delito": "HURTOS",
    "CODCOM": 11302,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "O'Higgins"
   },
   {
@@ -455,7 +455,7 @@
    "CODCOM": 11302,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 5,
    "COMUNA": "O'Higgins"
   },
   {
@@ -767,7 +767,7 @@
    "CODCOM": 11302,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "O'Higgins"
   },
   {
@@ -1836,7 +1836,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 2,
    "2025": 2,
-   "2026": 0,
+   "2026": 5,
    "COMUNA": "O'Higgins"
   },
   {
@@ -1872,7 +1872,7 @@
    "delito": "HURTOS",
    "2024": 4,
    "2025": 6,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "O'Higgins"
   },
   {
@@ -2003,7 +2003,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "Aysén"
  }
 }

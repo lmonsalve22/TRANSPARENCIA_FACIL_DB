@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 12402,
    "2025": 0,
-   "2026": 1,
-   "variacion": 100,
+   "2026": 3,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "Torres del Paine"
   },
@@ -129,10 +129,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 12402,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Torres del Paine"
   }
  ],
@@ -550,7 +550,7 @@
    "CODCOM": 12402,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Torres del Paine"
   },
   {
@@ -1732,7 +1732,7 @@
    "delito": "DAÑOS",
    "2024": 7,
    "2025": 7,
-   "2026": 1,
+   "2026": 3,
    "COMUNA": "Torres del Paine"
   },
   {
@@ -1890,7 +1890,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "Magallanes"
  }
 }

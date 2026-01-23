@@ -21,25 +21,25 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11401,
-   "2025": 11,
-   "2026": 17,
-   "variacion": 55,
-   "situación": "Aumento de Casos",
-   "COMUNA": "Chile Chico"
-  },
-  {
-   "delito": "DAÑOS",
-   "CODCOM": 11401,
-   "2025": 0,
-   "2026": 0,
+   "2025": 18,
+   "2026": 18,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Chile Chico"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 11401,
+   "2025": 3,
+   "2026": 2,
+   "variacion": -33,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Chile Chico"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11401,
-   "2025": 1,
+   "2025": 4,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 11401,
-   "2025": 1,
-   "2026": 3,
-   "variacion": 200,
+   "2025": 2,
+   "2026": 4,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Chile Chico"
   },
@@ -129,7 +129,7 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 11401,
-   "2025": 1,
+   "2025": 2,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -491,7 +491,7 @@
    "CODCOM": 11401,
    "anio": 2026,
    "mes": 1,
-   "casos": 17,
+   "casos": 18,
    "COMUNA": "Chile Chico"
   },
   {
@@ -595,7 +595,7 @@
    "CODCOM": 11401,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Chile Chico"
   },
   {
@@ -1011,7 +1011,7 @@
    "CODCOM": 11401,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2288,7 +2288,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 136,
    "2025": 110,
-   "2026": 17,
+   "2026": 18,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2297,7 +2297,7 @@
    "delito": "DAÑOS",
    "2024": 62,
    "2025": 48,
-   "2026": 0,
+   "2026": 2,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2333,7 +2333,7 @@
    "delito": "INCIVILIDADES",
    "2024": 97,
    "2025": 83,
-   "2026": 3,
+   "2026": 4,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2455,7 +2455,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "Aysén"
  }
 }

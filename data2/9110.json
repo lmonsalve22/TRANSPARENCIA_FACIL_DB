@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9110,
-   "2025": 3,
-   "2026": 1,
-   "variacion": -67,
+   "2025": 4,
+   "2026": 2,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Melipeuco"
   },
@@ -31,18 +31,18 @@
    "delito": "DAÑOS",
    "CODCOM": 9110,
    "2025": 2,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2026": 3,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
    "COMUNA": "Melipeuco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9110,
-   "2025": 1,
+   "2025": 3,
    "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -67,
+   "situación": "Disminución de Casos",
    "COMUNA": "Melipeuco"
   },
   {
@@ -57,19 +57,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9110,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Melipeuco"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9110,
    "2025": 1,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2026": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Melipeuco"
   },
   {
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9110,
    "2025": 0,
-   "2026": 2,
-   "variacion": 200,
+   "2026": 4,
+   "variacion": 400,
    "situación": "Aumento de Casos",
    "COMUNA": "Melipeuco"
   }
@@ -396,7 +396,7 @@
    "CODCOM": 9110,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Melipeuco"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 9110,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 3,
    "COMUNA": "Melipeuco"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 9110,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Melipeuco"
   },
   {
@@ -2372,7 +2372,7 @@
    "CODCOM": 9110,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Melipeuco"
   }
  ],
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 78,
    "2025": 77,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Melipeuco"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 40,
    "2025": 33,
-   "2026": 0,
+   "2026": 3,
    "COMUNA": "Melipeuco"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 40,
    "2025": 34,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Melipeuco"
   },
   {
@@ -2563,12 +2563,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 16,
    "2025": 7,
-   "2026": 2,
+   "2026": 4,
    "COMUNA": "Melipeuco"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "La Araucanía"
  }
 }

@@ -12,10 +12,10 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10402,
-   "2025": 1,
+   "2025": 2,
    "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "Futaleufú"
   },
   {
@@ -40,9 +40,9 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10402,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Futaleufú"
   },
   {
@@ -84,28 +84,28 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10402,
-   "2025": 1,
+   "2025": 2,
    "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "Futaleufú"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10402,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Futaleufú"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10402,
    "2025": 1,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2026": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Futaleufú"
   },
   {
@@ -699,7 +699,7 @@
    "CODCOM": 10402,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Futaleufú"
   },
   {
@@ -1427,7 +1427,7 @@
    "CODCOM": 10402,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Futaleufú"
   },
   {
@@ -2306,7 +2306,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 30,
    "2025": 19,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Futaleufú"
   },
   {
@@ -2369,7 +2369,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 2,
    "2025": 6,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Futaleufú"
   },
   {
@@ -2455,7 +2455,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "Los Lagos"
  }
 }

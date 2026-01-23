@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16207,
-   "2025": 2,
+   "2025": 3,
    "2026": 1,
-   "variacion": -50,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16207,
-   "2025": 3,
-   "2026": 2,
-   "variacion": -33,
+   "2025": 5,
+   "2026": 3,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
@@ -66,8 +66,8 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 16207,
-   "2025": 1,
-   "2026": 2,
+   "2025": 2,
+   "2026": 4,
    "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Treguaco"
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 16207,
    "2025": 1,
-   "2026": 2,
-   "variacion": 100,
+   "2026": 3,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Treguaco"
   },
@@ -604,7 +604,7 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Treguaco"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Treguaco"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Treguaco"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 64,
    "2025": 70,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "Treguaco"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 12,
    "2025": 22,
-   "2026": 2,
+   "2026": 4,
    "COMUNA": "Treguaco"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 30,
    "2025": 20,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "Treguaco"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "Ñuble"
  }
 }

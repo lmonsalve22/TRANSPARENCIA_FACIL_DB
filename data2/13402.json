@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13402,
-   "2025": 35,
-   "2026": 32,
-   "variacion": -9,
+   "2025": 55,
+   "2026": 45,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "Buin"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13402,
-   "2025": 9,
-   "2026": 10,
-   "variacion": 11,
+   "2025": 10,
+   "2026": 12,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "Buin"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 13402,
-   "2025": 33,
-   "2026": 14,
-   "variacion": -58,
+   "2025": 43,
+   "2026": 29,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Buin"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13402,
-   "2025": 29,
-   "2026": 44,
-   "variacion": 52,
+   "2025": 42,
+   "2026": 61,
+   "variacion": 45,
    "situación": "Aumento de Casos",
    "COMUNA": "Buin"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13402,
-   "2025": 11,
-   "2026": 9,
-   "variacion": -18,
+   "2025": 20,
+   "2026": 10,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Buin"
   },
@@ -67,25 +67,25 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 13402,
    "2025": 5,
-   "2026": 5,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 9,
+   "variacion": 80,
+   "situación": "Aumento de Casos",
    "COMUNA": "Buin"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 13402,
-   "2025": 2,
-   "2026": 1,
-   "variacion": -50,
+   "2025": 3,
+   "2026": 2,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Buin"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 13402,
-   "2025": 10,
-   "2026": 10,
+   "2025": 15,
+   "2026": 15,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Buin"
@@ -93,18 +93,18 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 13402,
-   "2025": 3,
-   "2026": 1,
-   "variacion": -67,
+   "2025": 5,
+   "2026": 4,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Buin"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 13402,
-   "2025": 3,
-   "2026": 1,
-   "variacion": -67,
+   "2025": 4,
+   "2026": 2,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Buin"
   },
@@ -112,9 +112,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 13402,
    "2025": 3,
-   "2026": 2,
-   "variacion": -33,
-   "situación": "Disminución de Casos",
+   "2026": 3,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Buin"
   },
   {
@@ -129,15 +129,6 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 13402,
-   "2025": 0,
-   "2026": 2,
-   "variacion": 200,
-   "situación": "Aumento de Casos",
-   "COMUNA": "Buin"
-  },
-  {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 13402,
    "2025": 1,
    "2026": 3,
    "variacion": 200,
@@ -145,34 +136,7 @@
    "COMUNA": "Buin"
   },
   {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 13402,
-   "2025": 10,
-   "2026": 12,
-   "variacion": 20,
-   "situación": "Aumento de Casos",
-   "COMUNA": "Buin"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 13402,
-   "2025": 17,
-   "2026": 9,
-   "variacion": -47,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Buin"
-  },
-  {
-   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "CODCOM": 13402,
-   "2025": 28,
-   "2026": 16,
-   "variacion": -43,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Buin"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
+   "delito": "RECEPTACIÓN",
    "CODCOM": 13402,
    "2025": 3,
    "2026": 4,
@@ -181,11 +145,47 @@
    "COMUNA": "Buin"
   },
   {
-   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 13402,
+   "2025": 17,
+   "2026": 17,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "Buin"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 13402,
+   "2025": 35,
+   "2026": 13,
+   "variacion": -63,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Buin"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 13402,
+   "2025": 44,
+   "2026": 21,
+   "variacion": -52,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Buin"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13402,
    "2025": 6,
-   "2026": 3,
-   "variacion": -50,
+   "2026": 5,
+   "variacion": -17,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Buin"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 13402,
+   "2025": 7,
+   "2026": 6,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Buin"
   }
@@ -396,7 +396,7 @@
    "CODCOM": 13402,
    "anio": 2026,
    "mes": 1,
-   "casos": 32,
+   "casos": 45,
    "COMUNA": "Buin"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 13402,
    "anio": 2026,
    "mes": 1,
-   "casos": 10,
+   "casos": 12,
    "COMUNA": "Buin"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 13402,
    "anio": 2026,
    "mes": 1,
-   "casos": 14,
+   "casos": 29,
    "COMUNA": "Buin"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 13402,
    "anio": 2026,
    "mes": 1,
-   "casos": 44,
+   "casos": 61,
    "COMUNA": "Buin"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 13402,
    "anio": 2026,
    "mes": 1,
-   "casos": 9,
+   "casos": 10,
    "COMUNA": "Buin"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 13402,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 9,
    "COMUNA": "Buin"
   },
   {
@@ -1124,7 +1124,7 @@
    "CODCOM": 13402,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Buin"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 13402,
    "anio": 2026,
    "mes": 1,
-   "casos": 10,
+   "casos": 15,
    "COMUNA": "Buin"
   },
   {
@@ -1332,7 +1332,7 @@
    "CODCOM": 13402,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "Buin"
   },
   {
@@ -1436,7 +1436,7 @@
    "CODCOM": 13402,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Buin"
   },
   {
@@ -1540,7 +1540,7 @@
    "CODCOM": 13402,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Buin"
   },
   {
@@ -1748,7 +1748,7 @@
    "CODCOM": 13402,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Buin"
   },
   {
@@ -1852,7 +1852,7 @@
    "CODCOM": 13402,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Buin"
   },
   {
@@ -1956,7 +1956,7 @@
    "CODCOM": 13402,
    "anio": 2026,
    "mes": 1,
-   "casos": 12,
+   "casos": 17,
    "COMUNA": "Buin"
   },
   {
@@ -2060,7 +2060,7 @@
    "CODCOM": 13402,
    "anio": 2026,
    "mes": 1,
-   "casos": 9,
+   "casos": 13,
    "COMUNA": "Buin"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 13402,
    "anio": 2026,
    "mes": 1,
-   "casos": 16,
+   "casos": 21,
    "COMUNA": "Buin"
   },
   {
@@ -2268,7 +2268,7 @@
    "CODCOM": 13402,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Buin"
   },
   {
@@ -2372,7 +2372,7 @@
    "CODCOM": 13402,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 6,
    "COMUNA": "Buin"
   }
  ],
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 787,
    "2025": 845,
-   "2026": 32,
+   "2026": 45,
    "COMUNA": "Buin"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 208,
    "2025": 207,
-   "2026": 10,
+   "2026": 12,
    "COMUNA": "Buin"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 659,
    "2025": 709,
-   "2026": 14,
+   "2026": 29,
    "COMUNA": "Buin"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 597,
    "2025": 609,
-   "2026": 44,
+   "2026": 61,
    "COMUNA": "Buin"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 408,
    "2025": 382,
-   "2026": 9,
+   "2026": 10,
    "COMUNA": "Buin"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 133,
    "2025": 129,
-   "2026": 5,
+   "2026": 9,
    "COMUNA": "Buin"
   },
   {
@@ -2455,7 +2455,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 25,
    "2025": 35,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Buin"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 308,
    "2025": 294,
-   "2026": 10,
+   "2026": 15,
    "COMUNA": "Buin"
   },
   {
@@ -2473,7 +2473,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 61,
    "2025": 51,
-   "2026": 1,
+   "2026": 4,
    "COMUNA": "Buin"
   },
   {
@@ -2482,7 +2482,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 161,
    "2025": 140,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Buin"
   },
   {
@@ -2491,7 +2491,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 29,
    "2025": 85,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "Buin"
   },
   {
@@ -2509,7 +2509,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 17,
    "2025": 30,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "Buin"
   },
   {
@@ -2518,7 +2518,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 41,
    "2025": 44,
-   "2026": 3,
+   "2026": 4,
    "COMUNA": "Buin"
   },
   {
@@ -2527,7 +2527,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 401,
    "2025": 315,
-   "2026": 12,
+   "2026": 17,
    "COMUNA": "Buin"
   },
   {
@@ -2536,7 +2536,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 421,
    "2025": 424,
-   "2026": 9,
+   "2026": 13,
    "COMUNA": "Buin"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 528,
    "2025": 552,
-   "2026": 16,
+   "2026": 21,
    "COMUNA": "Buin"
   },
   {
@@ -2554,7 +2554,7 @@
    "delito": "ROBOS POR SORPRESA",
    "2024": 87,
    "2025": 86,
-   "2026": 4,
+   "2026": 5,
    "COMUNA": "Buin"
   },
   {
@@ -2563,12 +2563,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 84,
    "2025": 62,
-   "2026": 3,
+   "2026": 6,
    "COMUNA": "Buin"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "Metropolitana"
  }
 }

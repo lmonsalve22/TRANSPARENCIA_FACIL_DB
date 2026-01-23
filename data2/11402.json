@@ -21,14 +21,32 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11402,
-   "2025": 2,
+   "2025": 8,
    "2026": 2,
+   "variacion": -75,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Río Ibáñez"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 11402,
+   "2025": 1,
+   "2026": 1,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Río Ibáñez"
   },
   {
-   "delito": "DAÑOS",
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 11402,
+   "2025": 0,
+   "2026": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Río Ibáñez"
+  },
+  {
+   "delito": "HURTOS",
    "CODCOM": 11402,
    "2025": 1,
    "2026": 0,
@@ -37,29 +55,11 @@
    "COMUNA": "Río Ibáñez"
   },
   {
-   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "CODCOM": 11402,
-   "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
-   "COMUNA": "Río Ibáñez"
-  },
-  {
-   "delito": "HURTOS",
-   "CODCOM": 11402,
-   "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
-   "COMUNA": "Río Ibáñez"
-  },
-  {
    "delito": "INCIVILIDADES",
    "CODCOM": 11402,
-   "2025": 3,
+   "2025": 5,
    "2026": 2,
-   "variacion": -33,
+   "variacion": -60,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Ibáñez"
   },
@@ -93,10 +93,10 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 11402,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Río Ibáñez"
   },
   {
@@ -586,7 +586,7 @@
    "CODCOM": 11402,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Río Ibáñez"
   },
   {
@@ -690,7 +690,7 @@
    "CODCOM": 11402,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Río Ibáñez"
   },
   {
@@ -2184,7 +2184,7 @@
    "delito": "DAÑOS",
    "2024": 44,
    "2025": 28,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Río Ibáñez"
   },
   {
@@ -2193,7 +2193,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 20,
    "2025": 20,
-   "2026": 0,
+   "2026": 2,
    "COMUNA": "Río Ibáñez"
   },
   {
@@ -2342,7 +2342,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "Aysén"
  }
 }

@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13504,
-   "2025": 7,
-   "2026": 6,
-   "variacion": -14,
+   "2025": 11,
+   "2026": 8,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "María Pinto"
   },
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13504,
    "2025": 2,
-   "2026": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 5,
+   "variacion": 150,
+   "situación": "Aumento de Casos",
    "COMUNA": "María Pinto"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 13504,
-   "2025": 5,
-   "2026": 3,
-   "variacion": -40,
-   "situación": "Disminución de Casos",
+   "2025": 6,
+   "2026": 7,
+   "variacion": 17,
+   "situación": "Aumento de Casos",
    "COMUNA": "María Pinto"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13504,
-   "2025": 5,
-   "2026": 7,
-   "variacion": 40,
+   "2025": 8,
+   "2026": 9,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "María Pinto"
   },
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 13504,
    "2025": 1,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2026": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "María Pinto"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13504,
-   "2025": 3,
-   "2026": 2,
-   "variacion": -33,
+   "2025": 4,
+   "2026": 3,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "María Pinto"
   },
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 13504,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "María Pinto"
   }
  ],
@@ -396,7 +396,7 @@
    "CODCOM": 13504,
    "anio": 2026,
    "mes": 1,
-   "casos": 6,
+   "casos": 8,
    "COMUNA": "María Pinto"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 13504,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 5,
    "COMUNA": "María Pinto"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 13504,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 7,
    "COMUNA": "María Pinto"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 13504,
    "anio": 2026,
    "mes": 1,
-   "casos": 7,
+   "casos": 9,
    "COMUNA": "María Pinto"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 13504,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "María Pinto"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 13504,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "María Pinto"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 115,
    "2025": 95,
-   "2026": 6,
+   "2026": 8,
    "COMUNA": "María Pinto"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 14,
    "2025": 27,
-   "2026": 2,
+   "2026": 5,
    "COMUNA": "María Pinto"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 75,
    "2025": 62,
-   "2026": 3,
+   "2026": 7,
    "COMUNA": "María Pinto"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 100,
    "2025": 116,
-   "2026": 7,
+   "2026": 9,
    "COMUNA": "María Pinto"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 33,
    "2025": 29,
-   "2026": 0,
+   "2026": 2,
    "COMUNA": "María Pinto"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 83,
    "2025": 83,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "María Pinto"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "Metropolitana"
  }
 }

@@ -12,17 +12,17 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8307,
-   "2025": 8,
+   "2025": 10,
    "2026": 4,
-   "variacion": -50,
+   "variacion": -60,
    "situación": "Disminución de Casos",
    "COMUNA": "Negrete"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8307,
-   "2025": 1,
-   "2026": 1,
+   "2025": 2,
+   "2026": 2,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Negrete"
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 8307,
-   "2025": 6,
-   "2026": 3,
-   "variacion": -50,
+   "2025": 7,
+   "2026": 4,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "Negrete"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8307,
-   "2025": 3,
+   "2025": 4,
    "2026": 2,
-   "variacion": -33,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Negrete"
   },
@@ -57,7 +57,7 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8307,
-   "2025": 2,
+   "2025": 3,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -138,10 +138,10 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8307,
-   "2025": 0,
+   "2025": 2,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Negrete"
   },
   {
@@ -165,19 +165,19 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8307,
-   "2025": 3,
+   "2025": 7,
    "2026": 1,
-   "variacion": -67,
+   "variacion": -86,
    "situación": "Disminución de Casos",
    "COMUNA": "Negrete"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8307,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Negrete"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 8307,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Negrete"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 8307,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Negrete"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 75,
    "2025": 61,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Negrete"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 92,
    "2025": 62,
-   "2026": 3,
+   "2026": 4,
    "COMUNA": "Negrete"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "Biobío"
  }
 }

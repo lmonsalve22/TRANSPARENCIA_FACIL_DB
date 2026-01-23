@@ -12,16 +12,16 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5702,
-   "2025": 7,
-   "2026": 2,
-   "variacion": -71,
+   "2025": 10,
+   "2026": 6,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Catemu"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5702,
-   "2025": 4,
+   "2025": 7,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -30,7 +30,7 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 5702,
-   "2025": 2,
+   "2025": 7,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 5702,
    "2025": 0,
-   "2026": 4,
-   "variacion": 400,
+   "2026": 5,
+   "variacion": 500,
    "situación": "Aumento de Casos",
    "COMUNA": "Catemu"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 5702,
    "2025": 2,
-   "2026": 3,
-   "variacion": 50,
+   "2026": 6,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Catemu"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 5702,
    "2025": 1,
-   "2026": 2,
-   "variacion": 100,
+   "2026": 3,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Catemu"
   },
@@ -148,27 +148,27 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5702,
    "2025": 0,
-   "2026": 2,
-   "variacion": 200,
+   "2026": 3,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "Catemu"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5702,
-   "2025": 0,
+   "2025": 1,
    "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Catemu"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5702,
-   "2025": 3,
-   "2026": 4,
-   "variacion": 33,
-   "situación": "Aumento de Casos",
+   "2025": 5,
+   "2026": 5,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Catemu"
   },
   {
@@ -396,7 +396,7 @@
    "CODCOM": 5702,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 6,
    "COMUNA": "Catemu"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 5702,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Catemu"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 5702,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 6,
    "COMUNA": "Catemu"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 5702,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Catemu"
   },
   {
@@ -1956,7 +1956,7 @@
    "CODCOM": 5702,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Catemu"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 5702,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Catemu"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 133,
    "2025": 142,
-   "2026": 2,
+   "2026": 6,
    "COMUNA": "Catemu"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 49,
    "2025": 19,
-   "2026": 4,
+   "2026": 5,
    "COMUNA": "Catemu"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 39,
    "2025": 29,
-   "2026": 3,
+   "2026": 6,
    "COMUNA": "Catemu"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 71,
    "2025": 63,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "Catemu"
   },
   {
@@ -2527,7 +2527,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 11,
    "2025": 6,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "Catemu"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 99,
    "2025": 121,
-   "2026": 4,
+   "2026": 5,
    "COMUNA": "Catemu"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "Valparaíso"
  }
 }

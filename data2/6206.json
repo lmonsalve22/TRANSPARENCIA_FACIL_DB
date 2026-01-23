@@ -12,24 +12,6 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6206,
-   "2025": 0,
-   "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
-   "COMUNA": "Paredones"
-  },
-  {
-   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "CODCOM": 6206,
-   "2025": 1,
-   "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
-   "COMUNA": "Paredones"
-  },
-  {
-   "delito": "DAÑOS",
-   "CODCOM": 6206,
    "2025": 2,
    "2026": 3,
    "variacion": 50,
@@ -37,11 +19,29 @@
    "COMUNA": "Paredones"
   },
   {
-   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6206,
    "2025": 1,
-   "2026": 0,
-   "variacion": -100,
+   "2026": 3,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Paredones"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 6206,
+   "2025": 3,
+   "2026": 4,
+   "variacion": 33,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Paredones"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6206,
+   "2025": 3,
+   "2026": 2,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Paredones"
   },
@@ -58,15 +58,15 @@
    "delito": "HURTOS",
    "CODCOM": 6206,
    "2025": 0,
-   "2026": 1,
-   "variacion": 100,
+   "2026": 3,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "Paredones"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6206,
-   "2025": 2,
+   "2025": 3,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6206,
-   "2025": 1,
+   "2025": 3,
    "2026": 3,
-   "variacion": 200,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Paredones"
   },
   {
@@ -183,8 +183,8 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6206,
-   "2025": 0,
-   "2026": 0,
+   "2025": 1,
+   "2026": 1,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Paredones"
@@ -396,7 +396,7 @@
    "CODCOM": 6206,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Paredones"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 6206,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Paredones"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 6206,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Paredones"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 6206,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Paredones"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 6206,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Paredones"
   },
   {
@@ -2372,7 +2372,7 @@
    "CODCOM": 6206,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Paredones"
   }
  ],
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 38,
    "2025": 46,
-   "2026": 1,
+   "2026": 3,
    "COMUNA": "Paredones"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 65,
    "2025": 27,
-   "2026": 1,
+   "2026": 3,
    "COMUNA": "Paredones"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 67,
    "2025": 49,
-   "2026": 3,
+   "2026": 4,
    "COMUNA": "Paredones"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 50,
    "2025": 46,
-   "2026": 0,
+   "2026": 2,
    "COMUNA": "Paredones"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 27,
    "2025": 28,
-   "2026": 1,
+   "2026": 3,
    "COMUNA": "Paredones"
   },
   {
@@ -2563,12 +2563,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 7,
    "2025": 5,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Paredones"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 02/2026 (del 05/01/2026 al 11/01/2026)",
+  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
   "region": "O'Higgins"
  }
 }
