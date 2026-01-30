@@ -31,18 +31,18 @@
    "delito": "DAÑOS",
    "CODCOM": 1403,
    "2025": 2,
-   "2026": 1,
-   "variacion": -50,
-   "situación": "Disminución de Casos",
+   "2026": 4,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 1403,
    "2025": 1,
-   "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
   {
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 1403,
    "2025": 2,
-   "2026": 5,
-   "variacion": 150,
+   "2026": 6,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
@@ -94,9 +94,9 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 1403,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
   {
@@ -111,9 +111,9 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 1403,
-   "2025": 0,
-   "2026": 2,
-   "variacion": 200,
+   "2025": 1,
+   "2026": 4,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
@@ -129,10 +129,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 1403,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Colchane"
   },
   {
@@ -184,9 +184,9 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 1403,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   }
  ],
@@ -604,7 +604,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "Colchane"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Colchane"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "Colchane"
   },
   {
@@ -1332,7 +1332,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Colchane"
   },
   {
@@ -1540,7 +1540,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Colchane"
   },
   {
@@ -2372,7 +2372,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Colchane"
   }
  ],
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 25,
    "2025": 31,
-   "2026": 1,
+   "2026": 4,
    "COMUNA": "Colchane"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 10,
    "2025": 8,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Colchane"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 17,
    "2025": 10,
-   "2026": 5,
+   "2026": 6,
    "COMUNA": "Colchane"
   },
   {
@@ -2473,7 +2473,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 1,
    "2025": 0,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Colchane"
   },
   {
@@ -2491,7 +2491,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 38,
    "2025": 17,
-   "2026": 2,
+   "2026": 4,
    "COMUNA": "Colchane"
   },
   {
@@ -2563,12 +2563,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 3,
    "2025": 0,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Colchane"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
+  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
   "region": "Tarapacá"
  }
 }

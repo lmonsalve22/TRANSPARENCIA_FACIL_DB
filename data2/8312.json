@@ -3,45 +3,45 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 8312,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Tucapel"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8312,
-   "2025": 4,
-   "2026": 8,
-   "variacion": 100,
+   "2025": 6,
+   "2026": 11,
+   "variacion": 83,
    "situación": "Aumento de Casos",
    "COMUNA": "Tucapel"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8312,
-   "2025": 8,
-   "2026": 4,
-   "variacion": -50,
+   "2025": 9,
+   "2026": 6,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Tucapel"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 8312,
-   "2025": 2,
-   "2026": 8,
-   "variacion": 300,
+   "2025": 3,
+   "2026": 9,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Tucapel"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8312,
-   "2025": 9,
-   "2026": 6,
-   "variacion": -33,
+   "2025": 11,
+   "2026": 9,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "Tucapel"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 8312,
    "2025": 2,
-   "2026": 4,
-   "variacion": 100,
+   "2026": 5,
+   "variacion": 150,
    "situación": "Aumento de Casos",
    "COMUNA": "Tucapel"
   },
@@ -84,19 +84,19 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8312,
-   "2025": 1,
+   "2025": 2,
    "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "Tucapel"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8312,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Tucapel"
   },
   {
@@ -111,7 +111,7 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8312,
-   "2025": 1,
+   "2025": 2,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8312,
-   "2025": 6,
-   "2026": 4,
-   "variacion": -33,
+   "2025": 8,
+   "2026": 6,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Tucapel"
   },
@@ -396,7 +396,7 @@
    "CODCOM": 8312,
    "anio": 2026,
    "mes": 1,
-   "casos": 8,
+   "casos": 11,
    "COMUNA": "Tucapel"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 8312,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 6,
    "COMUNA": "Tucapel"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 8312,
    "anio": 2026,
    "mes": 1,
-   "casos": 8,
+   "casos": 9,
    "COMUNA": "Tucapel"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 8312,
    "anio": 2026,
    "mes": 1,
-   "casos": 6,
+   "casos": 9,
    "COMUNA": "Tucapel"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 8312,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Tucapel"
   },
   {
@@ -1332,7 +1332,7 @@
    "CODCOM": 8312,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Tucapel"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 8312,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 6,
    "COMUNA": "Tucapel"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 97,
    "2025": 78,
-   "2026": 8,
+   "2026": 11,
    "COMUNA": "Tucapel"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 150,
    "2025": 143,
-   "2026": 4,
+   "2026": 6,
    "COMUNA": "Tucapel"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 81,
    "2025": 60,
-   "2026": 8,
+   "2026": 9,
    "COMUNA": "Tucapel"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 116,
    "2025": 118,
-   "2026": 6,
+   "2026": 9,
    "COMUNA": "Tucapel"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 70,
    "2025": 62,
-   "2026": 4,
+   "2026": 5,
    "COMUNA": "Tucapel"
   },
   {
@@ -2473,7 +2473,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 4,
    "2025": 4,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Tucapel"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 74,
    "2025": 65,
-   "2026": 4,
+   "2026": 6,
    "COMUNA": "Tucapel"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
+  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
   "region": "Biobío"
  }
 }

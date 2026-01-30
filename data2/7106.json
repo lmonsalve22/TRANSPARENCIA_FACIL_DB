@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 7106,
-   "2025": 1,
-   "2026": 6,
-   "variacion": 500,
+   "2025": 2,
+   "2026": 11,
+   "variacion": 450,
    "situación": "Aumento de Casos",
    "COMUNA": "Pelarco"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7106,
-   "2025": 1,
-   "2026": 2,
-   "variacion": 100,
+   "2025": 2,
+   "2026": 3,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "Pelarco"
   },
@@ -147,7 +147,7 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 7106,
-   "2025": 1,
+   "2025": 3,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -604,7 +604,7 @@
    "CODCOM": 7106,
    "anio": 2026,
    "mes": 1,
-   "casos": 6,
+   "casos": 11,
    "COMUNA": "Pelarco"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 7106,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Pelarco"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 99,
    "2025": 78,
-   "2026": 6,
+   "2026": 11,
    "COMUNA": "Pelarco"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 28,
    "2025": 30,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "Pelarco"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
+  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
   "region": "Maule"
  }
 }

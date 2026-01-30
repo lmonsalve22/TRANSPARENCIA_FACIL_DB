@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16203,
-   "2025": 3,
-   "2026": 5,
-   "variacion": 67,
+   "2025": 6,
+   "2026": 7,
+   "variacion": 17,
    "situación": "Aumento de Casos",
    "COMUNA": "Coelemu"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16203,
-   "2025": 0,
-   "2026": 5,
-   "variacion": 500,
+   "2025": 1,
+   "2026": 7,
+   "variacion": 600,
    "situación": "Aumento de Casos",
    "COMUNA": "Coelemu"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 16203,
-   "2025": 11,
+   "2025": 14,
    "2026": 9,
-   "variacion": -18,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "Coelemu"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16203,
-   "2025": 5,
-   "2026": 8,
-   "variacion": 60,
+   "2025": 6,
+   "2026": 9,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "Coelemu"
   },
@@ -58,9 +58,9 @@
    "delito": "HURTOS",
    "CODCOM": 16203,
    "2025": 2,
-   "2026": 1,
-   "variacion": -50,
-   "situación": "Disminución de Casos",
+   "2026": 2,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Coelemu"
   },
   {
@@ -85,18 +85,18 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 16203,
    "2025": 3,
-   "2026": 1,
-   "variacion": -67,
+   "2026": 2,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Coelemu"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16203,
-   "2025": 0,
+   "2025": 1,
    "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Coelemu"
   },
   {
@@ -156,10 +156,10 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16203,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Coelemu"
   },
   {
@@ -396,7 +396,7 @@
    "CODCOM": 16203,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "Coelemu"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 16203,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "Coelemu"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 16203,
    "anio": 2026,
    "mes": 1,
-   "casos": 8,
+   "casos": 9,
    "COMUNA": "Coelemu"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 16203,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Coelemu"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 16203,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Coelemu"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 113,
    "2025": 86,
-   "2026": 5,
+   "2026": 7,
    "COMUNA": "Coelemu"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 57,
    "2025": 38,
-   "2026": 5,
+   "2026": 7,
    "COMUNA": "Coelemu"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 113,
    "2025": 103,
-   "2026": 8,
+   "2026": 9,
    "COMUNA": "Coelemu"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 69,
    "2025": 43,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Coelemu"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 36,
    "2025": 38,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Coelemu"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
+  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
   "region": "Ñuble"
  }
 }

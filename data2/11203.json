@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11203,
    "2025": 0,
-   "2026": 5,
-   "variacion": 500,
+   "2026": 6,
+   "variacion": 600,
    "situación": "Aumento de Casos",
    "COMUNA": "Guaitecas"
   },
@@ -57,7 +57,7 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 11203,
-   "2025": 1,
+   "2025": 2,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -147,10 +147,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 11203,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Guaitecas"
   },
   {
@@ -482,7 +482,7 @@
    "CODCOM": 11203,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "Guaitecas"
   },
   {
@@ -2175,7 +2175,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 123,
    "2025": 47,
-   "2026": 5,
+   "2026": 6,
    "COMUNA": "Guaitecas"
   },
   {
@@ -2342,7 +2342,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
+  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
   "region": "Aysén"
  }
 }

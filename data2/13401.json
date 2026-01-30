@@ -3,17 +3,17 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 13401,
-   "2025": 6,
-   "2026": 5,
-   "variacion": -17,
-   "situación": "Disminución de Casos",
+   "2025": 7,
+   "2026": 7,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "San Bernardo"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13401,
-   "2025": 178,
-   "2026": 162,
+   "2025": 237,
+   "2026": 215,
    "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "San Bernardo"
@@ -21,104 +21,32 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13401,
-   "2025": 13,
-   "2026": 11,
-   "variacion": -15,
-   "situación": "Disminución de Casos",
+   "2025": 16,
+   "2026": 24,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
    "COMUNA": "San Bernardo"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 13401,
-   "2025": 112,
-   "2026": 93,
-   "variacion": -17,
+   "2025": 156,
+   "2026": 121,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "San Bernardo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13401,
-   "2025": 163,
-   "2026": 118,
-   "variacion": -28,
+   "2025": 208,
+   "2026": 156,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "San Bernardo"
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 13401,
-   "2025": 1,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
-   "COMUNA": "San Bernardo"
-  },
-  {
-   "delito": "HURTOS",
-   "CODCOM": 13401,
-   "2025": 83,
-   "2026": 58,
-   "variacion": -30,
-   "situación": "Disminución de Casos",
-   "COMUNA": "San Bernardo"
-  },
-  {
-   "delito": "INCIVILIDADES",
-   "CODCOM": 13401,
-   "2025": 24,
-   "2026": 13,
-   "variacion": -46,
-   "situación": "Disminución de Casos",
-   "COMUNA": "San Bernardo"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 13401,
-   "2025": 9,
-   "2026": 8,
-   "variacion": -11,
-   "situación": "Disminución de Casos",
-   "COMUNA": "San Bernardo"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 13401,
-   "2025": 57,
-   "2026": 49,
-   "variacion": -14,
-   "situación": "Disminución de Casos",
-   "COMUNA": "San Bernardo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 13401,
-   "2025": 8,
-   "2026": 13,
-   "variacion": 62,
-   "situación": "Aumento de Casos",
-   "COMUNA": "San Bernardo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 13401,
-   "2025": 12,
-   "2026": 13,
-   "variacion": 8,
-   "situación": "Aumento de Casos",
-   "COMUNA": "San Bernardo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 13401,
-   "2025": 9,
-   "2026": 11,
-   "variacion": 22,
-   "situación": "Aumento de Casos",
-   "COMUNA": "San Bernardo"
-  },
-  {
-   "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 13401,
    "2025": 2,
    "2026": 0,
@@ -127,66 +55,138 @@
    "COMUNA": "San Bernardo"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 13401,
+   "2025": 118,
+   "2026": 85,
+   "variacion": -28,
+   "situación": "Disminución de Casos",
+   "COMUNA": "San Bernardo"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 13401,
+   "2025": 29,
+   "2026": 21,
+   "variacion": -28,
+   "situación": "Disminución de Casos",
+   "COMUNA": "San Bernardo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 13401,
+   "2025": 14,
+   "2026": 11,
+   "variacion": -21,
+   "situación": "Disminución de Casos",
+   "COMUNA": "San Bernardo"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 13401,
+   "2025": 77,
+   "2026": 71,
+   "variacion": -8,
+   "situación": "Disminución de Casos",
+   "COMUNA": "San Bernardo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 13401,
+   "2025": 9,
+   "2026": 16,
+   "variacion": 78,
+   "situación": "Aumento de Casos",
+   "COMUNA": "San Bernardo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 13401,
+   "2025": 20,
+   "2026": 20,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "San Bernardo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 13401,
+   "2025": 13,
+   "2026": 16,
+   "variacion": 23,
+   "situación": "Aumento de Casos",
+   "COMUNA": "San Bernardo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 13401,
+   "2025": 3,
+   "2026": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "San Bernardo"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 13401,
-   "2025": 1,
-   "2026": 3,
-   "variacion": 200,
+   "2025": 3,
+   "2026": 8,
+   "variacion": 167,
    "situación": "Aumento de Casos",
    "COMUNA": "San Bernardo"
   },
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 13401,
-   "2025": 14,
-   "2026": 9,
-   "variacion": -36,
+   "2025": 18,
+   "2026": 12,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "San Bernardo"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 13401,
-   "2025": 136,
-   "2026": 98,
-   "variacion": -28,
+   "2025": 182,
+   "2026": 132,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "San Bernardo"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 13401,
-   "2025": 125,
-   "2026": 111,
-   "variacion": -11,
+   "2025": 157,
+   "2026": 149,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "San Bernardo"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13401,
-   "2025": 35,
-   "2026": 43,
-   "variacion": 23,
+   "2025": 58,
+   "2026": 65,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "San Bernardo"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13401,
-   "2025": 27,
-   "2026": 23,
-   "variacion": -15,
+   "2025": 37,
+   "2026": 29,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "San Bernardo"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 13401,
-   "2025": 5,
-   "2026": 7,
-   "variacion": 40,
-   "situación": "Aumento de Casos",
+   "2025": 10,
+   "2026": 9,
+   "variacion": -10,
+   "situación": "Disminución de Casos",
    "COMUNA": "San Bernardo"
   }
  ],
@@ -292,7 +292,7 @@
    "CODCOM": 13401,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "San Bernardo"
   },
   {
@@ -396,7 +396,7 @@
    "CODCOM": 13401,
    "anio": 2026,
    "mes": 1,
-   "casos": 162,
+   "casos": 215,
    "COMUNA": "San Bernardo"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 13401,
    "anio": 2026,
    "mes": 1,
-   "casos": 11,
+   "casos": 24,
    "COMUNA": "San Bernardo"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 13401,
    "anio": 2026,
    "mes": 1,
-   "casos": 93,
+   "casos": 121,
    "COMUNA": "San Bernardo"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 13401,
    "anio": 2026,
    "mes": 1,
-   "casos": 118,
+   "casos": 156,
    "COMUNA": "San Bernardo"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 13401,
    "anio": 2026,
    "mes": 1,
-   "casos": 58,
+   "casos": 85,
    "COMUNA": "San Bernardo"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 13401,
    "anio": 2026,
    "mes": 1,
-   "casos": 13,
+   "casos": 21,
    "COMUNA": "San Bernardo"
   },
   {
@@ -1124,7 +1124,7 @@
    "CODCOM": 13401,
    "anio": 2026,
    "mes": 1,
-   "casos": 8,
+   "casos": 11,
    "COMUNA": "San Bernardo"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 13401,
    "anio": 2026,
    "mes": 1,
-   "casos": 49,
+   "casos": 71,
    "COMUNA": "San Bernardo"
   },
   {
@@ -1332,7 +1332,7 @@
    "CODCOM": 13401,
    "anio": 2026,
    "mes": 1,
-   "casos": 13,
+   "casos": 16,
    "COMUNA": "San Bernardo"
   },
   {
@@ -1436,7 +1436,7 @@
    "CODCOM": 13401,
    "anio": 2026,
    "mes": 1,
-   "casos": 13,
+   "casos": 20,
    "COMUNA": "San Bernardo"
   },
   {
@@ -1540,7 +1540,7 @@
    "CODCOM": 13401,
    "anio": 2026,
    "mes": 1,
-   "casos": 11,
+   "casos": 16,
    "COMUNA": "San Bernardo"
   },
   {
@@ -1748,7 +1748,7 @@
    "CODCOM": 13401,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 8,
    "COMUNA": "San Bernardo"
   },
   {
@@ -1852,7 +1852,7 @@
    "CODCOM": 13401,
    "anio": 2026,
    "mes": 1,
-   "casos": 9,
+   "casos": 12,
    "COMUNA": "San Bernardo"
   },
   {
@@ -1956,7 +1956,7 @@
    "CODCOM": 13401,
    "anio": 2026,
    "mes": 1,
-   "casos": 98,
+   "casos": 132,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2060,7 +2060,7 @@
    "CODCOM": 13401,
    "anio": 2026,
    "mes": 1,
-   "casos": 111,
+   "casos": 149,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 13401,
    "anio": 2026,
    "mes": 1,
-   "casos": 43,
+   "casos": 65,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2268,7 +2268,7 @@
    "CODCOM": 13401,
    "anio": 2026,
    "mes": 1,
-   "casos": 23,
+   "casos": 29,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2372,7 +2372,7 @@
    "CODCOM": 13401,
    "anio": 2026,
    "mes": 1,
-   "casos": 7,
+   "casos": 9,
    "COMUNA": "San Bernardo"
   }
  ],
@@ -2383,7 +2383,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 87,
    "2025": 63,
-   "2026": 5,
+   "2026": 7,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 2641,
    "2025": 2666,
-   "2026": 162,
+   "2026": 215,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 368,
    "2025": 684,
-   "2026": 11,
+   "2026": 24,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 1971,
    "2025": 2042,
-   "2026": 93,
+   "2026": 121,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 2175,
    "2025": 2067,
-   "2026": 118,
+   "2026": 156,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 1438,
    "2025": 1440,
-   "2026": 58,
+   "2026": 85,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 330,
    "2025": 374,
-   "2026": 13,
+   "2026": 21,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2455,7 +2455,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 126,
    "2025": 114,
-   "2026": 8,
+   "2026": 11,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 1090,
    "2025": 987,
-   "2026": 49,
+   "2026": 71,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2473,7 +2473,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 126,
    "2025": 133,
-   "2026": 13,
+   "2026": 16,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2482,7 +2482,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 372,
    "2025": 289,
-   "2026": 13,
+   "2026": 20,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2491,7 +2491,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 171,
    "2025": 281,
-   "2026": 11,
+   "2026": 16,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2509,7 +2509,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 48,
    "2025": 77,
-   "2026": 3,
+   "2026": 8,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2518,7 +2518,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 172,
    "2025": 199,
-   "2026": 9,
+   "2026": 12,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2527,7 +2527,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 2787,
    "2025": 2020,
-   "2026": 98,
+   "2026": 132,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2536,7 +2536,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 1931,
    "2025": 2055,
-   "2026": 111,
+   "2026": 149,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 801,
    "2025": 862,
-   "2026": 43,
+   "2026": 65,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2554,7 +2554,7 @@
    "delito": "ROBOS POR SORPRESA",
    "2024": 541,
    "2025": 523,
-   "2026": 23,
+   "2026": 29,
    "COMUNA": "San Bernardo"
   },
   {
@@ -2563,12 +2563,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 231,
    "2025": 168,
-   "2026": 7,
+   "2026": 9,
    "COMUNA": "San Bernardo"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
+  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
   "region": "Metropolitana"
  }
 }

@@ -21,9 +21,9 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5403,
-   "2025": 12,
-   "2026": 6,
-   "variacion": -50,
+   "2025": 18,
+   "2026": 10,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "Papudo"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 5403,
    "2025": 3,
-   "2026": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 4,
+   "variacion": 33,
+   "situación": "Aumento de Casos",
    "COMUNA": "Papudo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5403,
-   "2025": 4,
-   "2026": 3,
-   "variacion": -25,
+   "2025": 7,
+   "2026": 4,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "Papudo"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5403,
-   "2025": 3,
-   "2026": 5,
-   "variacion": 67,
+   "2025": 4,
+   "2026": 7,
+   "variacion": 75,
    "situación": "Aumento de Casos",
    "COMUNA": "Papudo"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5403,
-   "2025": 0,
-   "2026": 2,
-   "variacion": 200,
+   "2025": 3,
+   "2026": 4,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "Papudo"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5403,
-   "2025": 0,
+   "2025": 1,
    "2026": 2,
-   "variacion": 200,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Papudo"
   },
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5403,
-   "2025": 0,
+   "2025": 4,
    "2026": 2,
-   "variacion": 200,
-   "situación": "Aumento de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "Papudo"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5403,
    "2025": 6,
-   "2026": 4,
-   "variacion": -33,
+   "2026": 5,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "Papudo"
   },
@@ -500,7 +500,7 @@
    "CODCOM": 5403,
    "anio": 2026,
    "mes": 1,
-   "casos": 6,
+   "casos": 10,
    "COMUNA": "Papudo"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 5403,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Papudo"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 5403,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Papudo"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 5403,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "Papudo"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 5403,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Papudo"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 5403,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Papudo"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 71,
    "2025": 121,
-   "2026": 6,
+   "2026": 10,
    "COMUNA": "Papudo"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 59,
    "2025": 48,
-   "2026": 3,
+   "2026": 4,
    "COMUNA": "Papudo"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 46,
    "2025": 53,
-   "2026": 3,
+   "2026": 4,
    "COMUNA": "Papudo"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 31,
    "2025": 32,
-   "2026": 5,
+   "2026": 7,
    "COMUNA": "Papudo"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 36,
    "2025": 27,
-   "2026": 2,
+   "2026": 4,
    "COMUNA": "Papudo"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 61,
    "2025": 39,
-   "2026": 4,
+   "2026": 5,
    "COMUNA": "Papudo"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
+  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
   "region": "Valparaíso"
  }
 }

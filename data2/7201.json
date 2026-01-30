@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7201,
-   "2025": 19,
-   "2026": 26,
-   "variacion": 37,
+   "2025": 24,
+   "2026": 30,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "Cauquenes"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7201,
-   "2025": 27,
-   "2026": 9,
-   "variacion": -67,
+   "2025": 34,
+   "2026": 14,
+   "variacion": -59,
    "situación": "Disminución de Casos",
    "COMUNA": "Cauquenes"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7201,
-   "2025": 20,
-   "2026": 14,
-   "variacion": -30,
+   "2025": 23,
+   "2026": 18,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "Cauquenes"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7201,
-   "2025": 13,
-   "2026": 21,
-   "variacion": 62,
+   "2025": 19,
+   "2026": 28,
+   "variacion": 47,
    "situación": "Aumento de Casos",
    "COMUNA": "Cauquenes"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7201,
-   "2025": 9,
-   "2026": 6,
+   "2025": 12,
+   "2026": 8,
    "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Cauquenes"
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 7201,
-   "2025": 3,
-   "2026": 8,
-   "variacion": 167,
+   "2025": 5,
+   "2026": 9,
+   "variacion": 80,
    "situación": "Aumento de Casos",
    "COMUNA": "Cauquenes"
   },
@@ -76,17 +76,17 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 7201,
    "2025": 1,
-   "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Cauquenes"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 7201,
-   "2025": 6,
-   "2026": 5,
-   "variacion": -17,
+   "2025": 8,
+   "2026": 6,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Cauquenes"
   },
@@ -102,10 +102,10 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7201,
-   "2025": 4,
+   "2025": 5,
    "2026": 4,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -20,
+   "situación": "Disminución de Casos",
    "COMUNA": "Cauquenes"
   },
   {
@@ -130,49 +130,13 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 7201,
    "2025": 1,
-   "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
-   "COMUNA": "Cauquenes"
-  },
-  {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 7201,
-   "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
-   "COMUNA": "Cauquenes"
-  },
-  {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 7201,
-   "2025": 2,
    "2026": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
-   "COMUNA": "Cauquenes"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 7201,
-   "2025": 1,
-   "2026": 4,
-   "variacion": 300,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Cauquenes"
   },
   {
-   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "CODCOM": 7201,
-   "2025": 13,
-   "2026": 6,
-   "variacion": -54,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Cauquenes"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
+   "delito": "RECEPTACIÓN",
    "CODCOM": 7201,
    "2025": 1,
    "2026": 0,
@@ -181,12 +145,48 @@
    "COMUNA": "Cauquenes"
   },
   {
-   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 7201,
-   "2025": 0,
-   "2026": 1,
+   "2025": 3,
+   "2026": 2,
+   "variacion": -33,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Cauquenes"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 7201,
+   "2025": 2,
+   "2026": 4,
    "variacion": 100,
    "situación": "Aumento de Casos",
+   "COMUNA": "Cauquenes"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7201,
+   "2025": 15,
+   "2026": 7,
+   "variacion": -53,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Cauquenes"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 7201,
+   "2025": 2,
+   "2026": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Cauquenes"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7201,
+   "2025": 3,
+   "2026": 1,
+   "variacion": -67,
+   "situación": "Disminución de Casos",
    "COMUNA": "Cauquenes"
   }
  ],
@@ -396,7 +396,7 @@
    "CODCOM": 7201,
    "anio": 2026,
    "mes": 1,
-   "casos": 26,
+   "casos": 30,
    "COMUNA": "Cauquenes"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 7201,
    "anio": 2026,
    "mes": 1,
-   "casos": 9,
+   "casos": 14,
    "COMUNA": "Cauquenes"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 7201,
    "anio": 2026,
    "mes": 1,
-   "casos": 14,
+   "casos": 18,
    "COMUNA": "Cauquenes"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 7201,
    "anio": 2026,
    "mes": 1,
-   "casos": 21,
+   "casos": 28,
    "COMUNA": "Cauquenes"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 7201,
    "anio": 2026,
    "mes": 1,
-   "casos": 6,
+   "casos": 8,
    "COMUNA": "Cauquenes"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 7201,
    "anio": 2026,
    "mes": 1,
-   "casos": 8,
+   "casos": 9,
    "COMUNA": "Cauquenes"
   },
   {
@@ -1124,7 +1124,7 @@
    "CODCOM": 7201,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Cauquenes"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 7201,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "Cauquenes"
   },
   {
@@ -1748,7 +1748,7 @@
    "CODCOM": 7201,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Cauquenes"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 7201,
    "anio": 2026,
    "mes": 1,
-   "casos": 6,
+   "casos": 7,
    "COMUNA": "Cauquenes"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 278,
    "2025": 313,
-   "2026": 26,
+   "2026": 30,
    "COMUNA": "Cauquenes"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 323,
    "2025": 250,
-   "2026": 9,
+   "2026": 14,
    "COMUNA": "Cauquenes"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 263,
    "2025": 300,
-   "2026": 14,
+   "2026": 18,
    "COMUNA": "Cauquenes"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 283,
    "2025": 262,
-   "2026": 21,
+   "2026": 28,
    "COMUNA": "Cauquenes"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 134,
    "2025": 125,
-   "2026": 6,
+   "2026": 8,
    "COMUNA": "Cauquenes"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 136,
    "2025": 95,
-   "2026": 8,
+   "2026": 9,
    "COMUNA": "Cauquenes"
   },
   {
@@ -2455,7 +2455,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 17,
    "2025": 20,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Cauquenes"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 126,
    "2025": 115,
-   "2026": 5,
+   "2026": 6,
    "COMUNA": "Cauquenes"
   },
   {
@@ -2509,7 +2509,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 12,
    "2025": 15,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Cauquenes"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 171,
    "2025": 143,
-   "2026": 6,
+   "2026": 7,
    "COMUNA": "Cauquenes"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
+  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
   "region": "Maule"
  }
 }

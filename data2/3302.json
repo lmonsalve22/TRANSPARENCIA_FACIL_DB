@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 3302,
-   "2025": 1,
-   "2026": 2,
+   "2025": 2,
+   "2026": 4,
    "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Alto del Carmen"
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 3302,
-   "2025": 3,
+   "2025": 4,
    "2026": 1,
-   "variacion": -67,
+   "variacion": -75,
    "situación": "Disminución de Casos",
    "COMUNA": "Alto del Carmen"
   },
@@ -48,7 +48,7 @@
   {
    "delito": "HURTOS",
    "CODCOM": 3302,
-   "2025": 2,
+   "2025": 3,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -66,10 +66,10 @@
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 3302,
-   "2025": 0,
+   "2025": 1,
    "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -378,7 +378,7 @@
    "CODCOM": 3302,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -2166,7 +2166,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 25,
    "2025": 45,
-   "2026": 2,
+   "2026": 4,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -2342,7 +2342,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
+  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
   "region": "Atacama"
  }
 }

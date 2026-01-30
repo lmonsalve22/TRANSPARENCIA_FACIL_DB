@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8309,
    "2025": 6,
-   "2026": 10,
-   "variacion": 67,
+   "2026": 14,
+   "variacion": 133,
    "situación": "Aumento de Casos",
    "COMUNA": "Quilleco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 8309,
-   "2025": 3,
+   "2025": 5,
    "2026": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -40,
+   "situación": "Disminución de Casos",
    "COMUNA": "Quilleco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8309,
-   "2025": 4,
-   "2026": 9,
-   "variacion": 125,
+   "2025": 6,
+   "2026": 12,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Quilleco"
   },
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 8309,
    "2025": 1,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2026": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Quilleco"
   },
   {
@@ -130,8 +130,8 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8309,
    "2025": 0,
-   "2026": 1,
-   "variacion": 100,
+   "2026": 2,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Quilleco"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8309,
-   "2025": 2,
-   "2026": 0,
-   "variacion": -100,
+   "2025": 4,
+   "2026": 1,
+   "variacion": -75,
    "situación": "Disminución de Casos",
    "COMUNA": "Quilleco"
   },
@@ -500,7 +500,7 @@
    "CODCOM": 8309,
    "anio": 2026,
    "mes": 1,
-   "casos": 10,
+   "casos": 14,
    "COMUNA": "Quilleco"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 8309,
    "anio": 2026,
    "mes": 1,
-   "casos": 9,
+   "casos": 12,
    "COMUNA": "Quilleco"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 8309,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Quilleco"
   },
   {
@@ -1748,7 +1748,7 @@
    "CODCOM": 8309,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Quilleco"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 8309,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Quilleco"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 84,
    "2025": 92,
-   "2026": 10,
+   "2026": 14,
    "COMUNA": "Quilleco"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 55,
    "2025": 68,
-   "2026": 9,
+   "2026": 12,
    "COMUNA": "Quilleco"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 20,
    "2025": 21,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Quilleco"
   },
   {
@@ -2509,7 +2509,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 11,
    "2025": 7,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Quilleco"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 33,
    "2025": 29,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Quilleco"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
+  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
   "region": "Biobío"
  }
 }

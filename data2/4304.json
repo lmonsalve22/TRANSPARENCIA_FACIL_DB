@@ -12,10 +12,10 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4304,
-   "2025": 4,
-   "2026": 6,
-   "variacion": 50,
-   "situación": "Aumento de Casos",
+   "2025": 9,
+   "2026": 7,
+   "variacion": -22,
+   "situación": "Disminución de Casos",
    "COMUNA": "Punitaqui"
   },
   {
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 4304,
-   "2025": 3,
+   "2025": 5,
    "2026": 6,
-   "variacion": 100,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "Punitaqui"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 4304,
-   "2025": 1,
-   "2026": 2,
-   "variacion": 100,
+   "2025": 3,
+   "2026": 5,
+   "variacion": 67,
    "situación": "Aumento de Casos",
    "COMUNA": "Punitaqui"
   },
@@ -66,8 +66,8 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 4304,
-   "2025": 0,
-   "2026": 2,
+   "2025": 1,
+   "2026": 3,
    "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Punitaqui"
@@ -84,19 +84,19 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 4304,
-   "2025": 2,
+   "2025": 4,
    "2026": 4,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Punitaqui"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 4304,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Punitaqui"
   },
   {
@@ -112,9 +112,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 4304,
    "2025": 1,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2026": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Punitaqui"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 4304,
-   "2025": 2,
-   "2026": 9,
-   "variacion": 350,
+   "2025": 4,
+   "2026": 10,
+   "variacion": 150,
    "situación": "Aumento de Casos",
    "COMUNA": "Punitaqui"
   },
@@ -396,7 +396,7 @@
    "CODCOM": 4304,
    "anio": 2026,
    "mes": 1,
-   "casos": 6,
+   "casos": 7,
    "COMUNA": "Punitaqui"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 4304,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 5,
    "COMUNA": "Punitaqui"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 4304,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Punitaqui"
   },
   {
@@ -1332,7 +1332,7 @@
    "CODCOM": 4304,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Punitaqui"
   },
   {
@@ -1540,7 +1540,7 @@
    "CODCOM": 4304,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Punitaqui"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 4304,
    "anio": 2026,
    "mes": 1,
-   "casos": 9,
+   "casos": 10,
    "COMUNA": "Punitaqui"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 75,
    "2025": 60,
-   "2026": 6,
+   "2026": 7,
    "COMUNA": "Punitaqui"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 29,
    "2025": 41,
-   "2026": 2,
+   "2026": 5,
    "COMUNA": "Punitaqui"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 27,
    "2025": 31,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "Punitaqui"
   },
   {
@@ -2473,7 +2473,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 10,
    "2025": 2,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Punitaqui"
   },
   {
@@ -2491,7 +2491,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 12,
    "2025": 15,
-   "2026": 0,
+   "2026": 2,
    "COMUNA": "Punitaqui"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 56,
    "2025": 85,
-   "2026": 9,
+   "2026": 10,
    "COMUNA": "Punitaqui"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
+  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
   "region": "Coquimbo"
  }
 }

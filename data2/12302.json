@@ -31,9 +31,9 @@
    "delito": "DAÑOS",
    "CODCOM": 12302,
    "2025": 1,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2026": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Primavera"
   },
   {
@@ -93,10 +93,10 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 12302,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Primavera"
   },
   {
@@ -568,7 +568,7 @@
    "CODCOM": 12302,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Primavera"
   },
   {
@@ -1958,7 +1958,7 @@
    "delito": "DAÑOS",
    "2024": 9,
    "2025": 4,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Primavera"
   },
   {
@@ -2116,7 +2116,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
+  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
   "region": "Magallanes"
  }
 }

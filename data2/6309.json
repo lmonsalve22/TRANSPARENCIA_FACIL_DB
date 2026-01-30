@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 6309,
    "2025": 1,
-   "2026": 2,
-   "variacion": 100,
+   "2026": 4,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "Pumanque"
   },
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 6309,
    "2025": 1,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2026": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Pumanque"
   },
   {
@@ -165,7 +165,7 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6309,
-   "2025": 1,
+   "2025": 2,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -595,7 +595,7 @@
    "CODCOM": 6309,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Pumanque"
   },
   {
@@ -1011,7 +1011,7 @@
    "CODCOM": 6309,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Pumanque"
   },
   {
@@ -2297,7 +2297,7 @@
    "delito": "DAÑOS",
    "2024": 35,
    "2025": 32,
-   "2026": 2,
+   "2026": 4,
    "COMUNA": "Pumanque"
   },
   {
@@ -2333,7 +2333,7 @@
    "delito": "INCIVILIDADES",
    "2024": 5,
    "2025": 11,
-   "2026": 0,
+   "2026": 2,
    "COMUNA": "Pumanque"
   },
   {
@@ -2455,7 +2455,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
+  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
   "region": "O'Higgins"
  }
 }

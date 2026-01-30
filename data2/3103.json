@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 3103,
-   "2025": 4,
+   "2025": 7,
    "2026": 6,
-   "variacion": 50,
-   "situación": "Aumento de Casos",
+   "variacion": -14,
+   "situación": "Disminución de Casos",
    "COMUNA": "Tierra Amarilla"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 3103,
    "2025": 6,
-   "2026": 1,
-   "variacion": -83,
+   "2026": 2,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "Tierra Amarilla"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 3103,
-   "2025": 6,
-   "2026": 4,
-   "variacion": -33,
+   "2025": 8,
+   "2026": 5,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "Tierra Amarilla"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 3103,
-   "2025": 4,
-   "2026": 3,
-   "variacion": -25,
+   "2025": 6,
+   "2026": 4,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Tierra Amarilla"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 3103,
-   "2025": 2,
-   "2026": 3,
-   "variacion": 50,
-   "situación": "Aumento de Casos",
+   "2025": 4,
+   "2026": 4,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Tierra Amarilla"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 3103,
-   "2025": 1,
-   "2026": 0,
-   "variacion": -100,
+   "2025": 2,
+   "2026": 1,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Tierra Amarilla"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 3103,
-   "2025": 0,
-   "2026": 4,
-   "variacion": 400,
+   "2025": 1,
+   "2026": 6,
+   "variacion": 500,
    "situación": "Aumento de Casos",
    "COMUNA": "Tierra Amarilla"
   },
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 3103,
-   "2025": 2,
+   "2025": 3,
    "2026": 1,
-   "variacion": -50,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "Tierra Amarilla"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 3103,
-   "2025": 8,
-   "2026": 4,
-   "variacion": -50,
+   "2025": 9,
+   "2026": 6,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Tierra Amarilla"
   },
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 3103,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Tierra Amarilla"
   }
  ],
@@ -500,7 +500,7 @@
    "CODCOM": 3103,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Tierra Amarilla"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 3103,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Tierra Amarilla"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 3103,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Tierra Amarilla"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 3103,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Tierra Amarilla"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 3103,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Tierra Amarilla"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 3103,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 6,
    "COMUNA": "Tierra Amarilla"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 3103,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 6,
    "COMUNA": "Tierra Amarilla"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 126,
    "2025": 53,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Tierra Amarilla"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 116,
    "2025": 96,
-   "2026": 4,
+   "2026": 5,
    "COMUNA": "Tierra Amarilla"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 96,
    "2025": 106,
-   "2026": 3,
+   "2026": 4,
    "COMUNA": "Tierra Amarilla"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 67,
    "2025": 49,
-   "2026": 3,
+   "2026": 4,
    "COMUNA": "Tierra Amarilla"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 27,
    "2025": 18,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Tierra Amarilla"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 74,
    "2025": 69,
-   "2026": 4,
+   "2026": 6,
    "COMUNA": "Tierra Amarilla"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 176,
    "2025": 143,
-   "2026": 4,
+   "2026": 6,
    "COMUNA": "Tierra Amarilla"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
+  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
   "region": "Atacama"
  }
 }

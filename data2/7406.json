@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7406,
-   "2025": 26,
-   "2026": 22,
-   "variacion": -15,
+   "2025": 32,
+   "2026": 27,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "San Javier"
   },
@@ -22,27 +22,27 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7406,
    "2025": 10,
-   "2026": 5,
-   "variacion": -50,
+   "2026": 8,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "San Javier"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7406,
-   "2025": 6,
-   "2026": 19,
-   "variacion": 217,
+   "2025": 10,
+   "2026": 21,
+   "variacion": 110,
    "situación": "Aumento de Casos",
    "COMUNA": "San Javier"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7406,
-   "2025": 39,
-   "2026": 41,
-   "variacion": 5,
-   "situación": "Aumento de Casos",
+   "2025": 53,
+   "2026": 46,
+   "variacion": -13,
+   "situación": "Disminución de Casos",
    "COMUNA": "San Javier"
   },
   {
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7406,
-   "2025": 14,
-   "2026": 13,
-   "variacion": -7,
-   "situación": "Disminución de Casos",
+   "2025": 19,
+   "2026": 19,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "San Javier"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 7406,
-   "2025": 2,
-   "2026": 7,
-   "variacion": 250,
+   "2025": 4,
+   "2026": 11,
+   "variacion": 175,
    "situación": "Aumento de Casos",
    "COMUNA": "San Javier"
   },
@@ -76,17 +76,17 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 7406,
    "2025": 1,
-   "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "San Javier"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 7406,
-   "2025": 7,
-   "2026": 10,
-   "variacion": 43,
+   "2025": 8,
+   "2026": 12,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "San Javier"
   },
@@ -102,7 +102,7 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7406,
-   "2025": 7,
+   "2025": 8,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -130,31 +130,13 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 7406,
    "2025": 3,
-   "2026": 1,
-   "variacion": -67,
+   "2026": 2,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "San Javier"
   },
   {
    "delito": "RECEPTACIÓN",
-   "CODCOM": 7406,
-   "2025": 1,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
-   "COMUNA": "San Javier"
-  },
-  {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 7406,
-   "2025": 2,
-   "2026": 4,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
-   "COMUNA": "San Javier"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 7406,
    "2025": 2,
    "2026": 2,
@@ -163,12 +145,30 @@
    "COMUNA": "San Javier"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 7406,
+   "2025": 2,
+   "2026": 5,
+   "variacion": 150,
+   "situación": "Aumento de Casos",
+   "COMUNA": "San Javier"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 7406,
+   "2025": 4,
+   "2026": 3,
+   "variacion": -25,
+   "situación": "Disminución de Casos",
+   "COMUNA": "San Javier"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7406,
-   "2025": 16,
-   "2026": 16,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 21,
+   "2026": 19,
+   "variacion": -10,
+   "situación": "Disminución de Casos",
    "COMUNA": "San Javier"
   },
   {
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 7406,
-   "2025": 0,
+   "2025": 1,
    "2026": 3,
-   "variacion": 300,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "San Javier"
   }
@@ -396,7 +396,7 @@
    "CODCOM": 7406,
    "anio": 2026,
    "mes": 1,
-   "casos": 22,
+   "casos": 27,
    "COMUNA": "San Javier"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 7406,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 8,
    "COMUNA": "San Javier"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 7406,
    "anio": 2026,
    "mes": 1,
-   "casos": 19,
+   "casos": 21,
    "COMUNA": "San Javier"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 7406,
    "anio": 2026,
    "mes": 1,
-   "casos": 41,
+   "casos": 46,
    "COMUNA": "San Javier"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 7406,
    "anio": 2026,
    "mes": 1,
-   "casos": 13,
+   "casos": 19,
    "COMUNA": "San Javier"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 7406,
    "anio": 2026,
    "mes": 1,
-   "casos": 7,
+   "casos": 11,
    "COMUNA": "San Javier"
   },
   {
@@ -1124,7 +1124,7 @@
    "CODCOM": 7406,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "San Javier"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 7406,
    "anio": 2026,
    "mes": 1,
-   "casos": 10,
+   "casos": 12,
    "COMUNA": "San Javier"
   },
   {
@@ -1748,7 +1748,7 @@
    "CODCOM": 7406,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "San Javier"
   },
   {
@@ -1852,7 +1852,7 @@
    "CODCOM": 7406,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "San Javier"
   },
   {
@@ -1956,7 +1956,7 @@
    "CODCOM": 7406,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "San Javier"
   },
   {
@@ -2060,7 +2060,7 @@
    "CODCOM": 7406,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "San Javier"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 7406,
    "anio": 2026,
    "mes": 1,
-   "casos": 16,
+   "casos": 19,
    "COMUNA": "San Javier"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 417,
    "2025": 403,
-   "2026": 22,
+   "2026": 27,
    "COMUNA": "San Javier"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 326,
    "2025": 282,
-   "2026": 5,
+   "2026": 8,
    "COMUNA": "San Javier"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 279,
    "2025": 218,
-   "2026": 19,
+   "2026": 21,
    "COMUNA": "San Javier"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 575,
    "2025": 500,
-   "2026": 41,
+   "2026": 46,
    "COMUNA": "San Javier"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 220,
    "2025": 197,
-   "2026": 13,
+   "2026": 19,
    "COMUNA": "San Javier"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 132,
    "2025": 154,
-   "2026": 7,
+   "2026": 11,
    "COMUNA": "San Javier"
   },
   {
@@ -2455,7 +2455,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 11,
    "2025": 16,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "San Javier"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 128,
    "2025": 127,
-   "2026": 10,
+   "2026": 12,
    "COMUNA": "San Javier"
   },
   {
@@ -2509,7 +2509,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 9,
    "2025": 28,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "San Javier"
   },
   {
@@ -2518,7 +2518,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 26,
    "2025": 16,
-   "2026": 0,
+   "2026": 2,
    "COMUNA": "San Javier"
   },
   {
@@ -2527,7 +2527,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 75,
    "2025": 72,
-   "2026": 4,
+   "2026": 5,
    "COMUNA": "San Javier"
   },
   {
@@ -2536,7 +2536,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 73,
    "2025": 69,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "San Javier"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 318,
    "2025": 265,
-   "2026": 16,
+   "2026": 19,
    "COMUNA": "San Javier"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
+  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
   "region": "Maule"
  }
 }

@@ -3,8 +3,8 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 13108,
-   "2025": 1,
-   "2026": 1,
+   "2025": 2,
+   "2026": 2,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Independencia"
@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13108,
-   "2025": 50,
-   "2026": 37,
-   "variacion": -26,
+   "2025": 66,
+   "2026": 53,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Independencia"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13108,
-   "2025": 101,
-   "2026": 13,
-   "variacion": -87,
+   "2025": 110,
+   "2026": 20,
+   "variacion": -82,
    "situación": "Disminución de Casos",
    "COMUNA": "Independencia"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 13108,
-   "2025": 32,
-   "2026": 30,
-   "variacion": -6,
+   "2025": 47,
+   "2026": 40,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "Independencia"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13108,
-   "2025": 52,
-   "2026": 39,
-   "variacion": -25,
+   "2025": 77,
+   "2026": 55,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Independencia"
   },
@@ -57,50 +57,41 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13108,
-   "2025": 37,
-   "2026": 28,
-   "variacion": -24,
+   "2025": 56,
+   "2026": 40,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Independencia"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 13108,
-   "2025": 6,
+   "2025": 7,
    "2026": 1,
-   "variacion": -83,
+   "variacion": -86,
    "situación": "Disminución de Casos",
    "COMUNA": "Independencia"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 13108,
-   "2025": 4,
+   "2025": 5,
    "2026": 5,
-   "variacion": 25,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Independencia"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 13108,
-   "2025": 19,
-   "2026": 24,
-   "variacion": 26,
+   "2025": 26,
+   "2026": 34,
+   "variacion": 31,
    "situación": "Aumento de Casos",
    "COMUNA": "Independencia"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 13108,
-   "2025": 3,
-   "2026": 4,
-   "variacion": 33,
-   "situación": "Aumento de Casos",
-   "COMUNA": "Independencia"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 13108,
    "2025": 3,
    "2026": 5,
@@ -109,11 +100,20 @@
    "COMUNA": "Independencia"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 13108,
+   "2025": 3,
+   "2026": 7,
+   "variacion": 133,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Independencia"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 13108,
-   "2025": 1,
-   "2026": 3,
-   "variacion": 200,
+   "2025": 2,
+   "2026": 4,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Independencia"
   },
@@ -147,36 +147,36 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 13108,
-   "2025": 38,
-   "2026": 34,
-   "variacion": -11,
+   "2025": 56,
+   "2026": 47,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "Independencia"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 13108,
-   "2025": 27,
-   "2026": 39,
-   "variacion": 44,
-   "situación": "Aumento de Casos",
+   "2025": 50,
+   "2026": 50,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Independencia"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13108,
-   "2025": 23,
-   "2026": 11,
-   "variacion": -52,
+   "2025": 32,
+   "2026": 13,
+   "variacion": -59,
    "situación": "Disminución de Casos",
    "COMUNA": "Independencia"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13108,
-   "2025": 26,
-   "2026": 30,
-   "variacion": 15,
+   "2025": 35,
+   "2026": 45,
+   "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "Independencia"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 13108,
    "2025": 5,
-   "2026": 9,
-   "variacion": 80,
+   "2026": 11,
+   "variacion": 120,
    "situación": "Aumento de Casos",
    "COMUNA": "Independencia"
   }
@@ -292,7 +292,7 @@
    "CODCOM": 13108,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Independencia"
   },
   {
@@ -396,7 +396,7 @@
    "CODCOM": 13108,
    "anio": 2026,
    "mes": 1,
-   "casos": 37,
+   "casos": 53,
    "COMUNA": "Independencia"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 13108,
    "anio": 2026,
    "mes": 1,
-   "casos": 13,
+   "casos": 20,
    "COMUNA": "Independencia"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 13108,
    "anio": 2026,
    "mes": 1,
-   "casos": 30,
+   "casos": 40,
    "COMUNA": "Independencia"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 13108,
    "anio": 2026,
    "mes": 1,
-   "casos": 39,
+   "casos": 55,
    "COMUNA": "Independencia"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 13108,
    "anio": 2026,
    "mes": 1,
-   "casos": 28,
+   "casos": 40,
    "COMUNA": "Independencia"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 13108,
    "anio": 2026,
    "mes": 1,
-   "casos": 24,
+   "casos": 34,
    "COMUNA": "Independencia"
   },
   {
@@ -1332,7 +1332,7 @@
    "CODCOM": 13108,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Independencia"
   },
   {
@@ -1436,7 +1436,7 @@
    "CODCOM": 13108,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "Independencia"
   },
   {
@@ -1540,7 +1540,7 @@
    "CODCOM": 13108,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Independencia"
   },
   {
@@ -1956,7 +1956,7 @@
    "CODCOM": 13108,
    "anio": 2026,
    "mes": 1,
-   "casos": 34,
+   "casos": 47,
    "COMUNA": "Independencia"
   },
   {
@@ -2060,7 +2060,7 @@
    "CODCOM": 13108,
    "anio": 2026,
    "mes": 1,
-   "casos": 39,
+   "casos": 50,
    "COMUNA": "Independencia"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 13108,
    "anio": 2026,
    "mes": 1,
-   "casos": 11,
+   "casos": 13,
    "COMUNA": "Independencia"
   },
   {
@@ -2268,7 +2268,7 @@
    "CODCOM": 13108,
    "anio": 2026,
    "mes": 1,
-   "casos": 30,
+   "casos": 45,
    "COMUNA": "Independencia"
   },
   {
@@ -2372,7 +2372,7 @@
    "CODCOM": 13108,
    "anio": 2026,
    "mes": 1,
-   "casos": 9,
+   "casos": 11,
    "COMUNA": "Independencia"
   }
  ],
@@ -2383,7 +2383,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 17,
    "2025": 16,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Independencia"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 825,
    "2025": 852,
-   "2026": 37,
+   "2026": 53,
    "COMUNA": "Independencia"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 2430,
    "2025": 718,
-   "2026": 13,
+   "2026": 20,
    "COMUNA": "Independencia"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 565,
    "2025": 616,
-   "2026": 30,
+   "2026": 40,
    "COMUNA": "Independencia"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 680,
    "2025": 705,
-   "2026": 39,
+   "2026": 55,
    "COMUNA": "Independencia"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 805,
    "2025": 785,
-   "2026": 28,
+   "2026": 40,
    "COMUNA": "Independencia"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 441,
    "2025": 413,
-   "2026": 24,
+   "2026": 34,
    "COMUNA": "Independencia"
   },
   {
@@ -2473,7 +2473,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 54,
    "2025": 38,
-   "2026": 4,
+   "2026": 5,
    "COMUNA": "Independencia"
   },
   {
@@ -2482,7 +2482,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 121,
    "2025": 165,
-   "2026": 5,
+   "2026": 7,
    "COMUNA": "Independencia"
   },
   {
@@ -2491,7 +2491,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 72,
    "2025": 73,
-   "2026": 3,
+   "2026": 4,
    "COMUNA": "Independencia"
   },
   {
@@ -2527,7 +2527,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 786,
    "2025": 732,
-   "2026": 34,
+   "2026": 47,
    "COMUNA": "Independencia"
   },
   {
@@ -2536,7 +2536,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 670,
    "2025": 567,
-   "2026": 39,
+   "2026": 50,
    "COMUNA": "Independencia"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 302,
    "2025": 296,
-   "2026": 11,
+   "2026": 13,
    "COMUNA": "Independencia"
   },
   {
@@ -2554,7 +2554,7 @@
    "delito": "ROBOS POR SORPRESA",
    "2024": 398,
    "2025": 432,
-   "2026": 30,
+   "2026": 45,
    "COMUNA": "Independencia"
   },
   {
@@ -2563,12 +2563,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 92,
    "2025": 88,
-   "2026": 9,
+   "2026": 11,
    "COMUNA": "Independencia"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
+  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
   "region": "Metropolitana"
  }
 }

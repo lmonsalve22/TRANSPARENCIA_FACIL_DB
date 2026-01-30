@@ -12,37 +12,37 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9210,
-   "2025": 5,
-   "2026": 10,
-   "variacion": 100,
+   "2025": 7,
+   "2026": 15,
+   "variacion": 114,
    "situación": "Aumento de Casos",
    "COMUNA": "Traiguén"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9210,
-   "2025": 4,
-   "2026": 15,
-   "variacion": 275,
+   "2025": 8,
+   "2026": 20,
+   "variacion": 150,
    "situación": "Aumento de Casos",
    "COMUNA": "Traiguén"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9210,
-   "2025": 6,
+   "2025": 11,
    "2026": 5,
-   "variacion": -17,
+   "variacion": -55,
    "situación": "Disminución de Casos",
    "COMUNA": "Traiguén"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9210,
-   "2025": 6,
-   "2026": 5,
-   "variacion": -17,
-   "situación": "Disminución de Casos",
+   "2025": 7,
+   "2026": 10,
+   "variacion": 43,
+   "situación": "Aumento de Casos",
    "COMUNA": "Traiguén"
   },
   {
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9210,
-   "2025": 4,
+   "2025": 5,
    "2026": 5,
-   "variacion": 25,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Traiguén"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9210,
-   "2025": 5,
-   "2026": 8,
-   "variacion": 60,
+   "2025": 6,
+   "2026": 9,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "Traiguén"
   },
@@ -102,10 +102,10 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9210,
-   "2025": 3,
+   "2025": 8,
    "2026": 6,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": -25,
+   "situación": "Disminución de Casos",
    "COMUNA": "Traiguén"
   },
   {
@@ -130,42 +130,42 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 9210,
    "2025": 1,
+   "2026": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "Traiguén"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9210,
+   "2025": 1,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
    "COMUNA": "Traiguén"
   },
   {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 9210,
-   "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
-   "COMUNA": "Traiguén"
-  },
-  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9210,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Traiguén"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9210,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Traiguén"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9210,
-   "2025": 3,
+   "2025": 4,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -175,17 +175,17 @@
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9210,
    "2025": 1,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2026": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Traiguén"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9210,
    "2025": 2,
-   "2026": 0,
-   "variacion": -100,
+   "2026": 1,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Traiguén"
   }
@@ -396,7 +396,7 @@
    "CODCOM": 9210,
    "anio": 2026,
    "mes": 1,
-   "casos": 10,
+   "casos": 15,
    "COMUNA": "Traiguén"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 9210,
    "anio": 2026,
    "mes": 1,
-   "casos": 15,
+   "casos": 20,
    "COMUNA": "Traiguén"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 9210,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 10,
    "COMUNA": "Traiguén"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 9210,
    "anio": 2026,
    "mes": 1,
-   "casos": 8,
+   "casos": 9,
    "COMUNA": "Traiguén"
   },
   {
@@ -1748,7 +1748,7 @@
    "CODCOM": 9210,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Traiguén"
   },
   {
@@ -1956,7 +1956,7 @@
    "CODCOM": 9210,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Traiguén"
   },
   {
@@ -2268,7 +2268,7 @@
    "CODCOM": 9210,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Traiguén"
   },
   {
@@ -2372,7 +2372,7 @@
    "CODCOM": 9210,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Traiguén"
   }
  ],
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 152,
    "2025": 152,
-   "2026": 10,
+   "2026": 15,
    "COMUNA": "Traiguén"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 309,
    "2025": 194,
-   "2026": 15,
+   "2026": 20,
    "COMUNA": "Traiguén"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 133,
    "2025": 111,
-   "2026": 5,
+   "2026": 10,
    "COMUNA": "Traiguén"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 88,
    "2025": 97,
-   "2026": 8,
+   "2026": 9,
    "COMUNA": "Traiguén"
   },
   {
@@ -2509,7 +2509,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 16,
    "2025": 11,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Traiguén"
   },
   {
@@ -2527,7 +2527,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 18,
    "2025": 9,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Traiguén"
   },
   {
@@ -2554,7 +2554,7 @@
    "delito": "ROBOS POR SORPRESA",
    "2024": 3,
    "2025": 4,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Traiguén"
   },
   {
@@ -2563,12 +2563,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 13,
    "2025": 21,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Traiguén"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
+  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
   "region": "La Araucanía"
  }
 }

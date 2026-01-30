@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 1404,
-   "2025": 1,
-   "2026": 1,
+   "2025": 2,
+   "2026": 2,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Huara"
@@ -30,17 +30,17 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 1404,
-   "2025": 4,
+   "2025": 7,
    "2026": 1,
-   "variacion": -75,
+   "variacion": -86,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 1404,
-   "2025": 2,
-   "2026": 1,
+   "2025": 4,
+   "2026": 2,
    "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 1404,
-   "2025": 0,
+   "2025": 1,
    "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Huara"
   },
   {
@@ -138,9 +138,9 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 1404,
-   "2025": 2,
+   "2025": 3,
    "2026": 1,
-   "variacion": -50,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
@@ -396,7 +396,7 @@
    "CODCOM": 1404,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Huara"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 1404,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Huara"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 31,
    "2025": 32,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Huara"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 35,
    "2025": 32,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Huara"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
+  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
   "region": "Tarapacá"
  }
 }

@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 5704,
-   "2025": 4,
-   "2026": 3,
-   "variacion": -25,
-   "situación": "Disminución de Casos",
+   "2025": 5,
+   "2026": 5,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Panquehue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5704,
-   "2025": 7,
+   "2025": 10,
    "2026": 4,
-   "variacion": -43,
+   "variacion": -60,
    "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
@@ -57,7 +57,7 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5704,
-   "2025": 2,
+   "2025": 5,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -76,9 +76,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 5704,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
   {
@@ -93,7 +93,7 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5704,
-   "2025": 1,
+   "2025": 2,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -148,17 +148,17 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5704,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5704,
    "2025": 1,
-   "2026": 2,
-   "variacion": 100,
+   "2026": 3,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
@@ -175,9 +175,9 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5704,
    "2025": 1,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2026": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Panquehue"
   }
  ],
@@ -595,7 +595,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "Panquehue"
   },
   {
@@ -1115,7 +1115,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Panquehue"
   },
   {
@@ -1947,7 +1947,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Panquehue"
   },
   {
@@ -2051,7 +2051,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Panquehue"
   },
   {
@@ -2259,7 +2259,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Panquehue"
   }
  ],
@@ -2297,7 +2297,7 @@
    "delito": "DAÑOS",
    "2024": 86,
    "2025": 90,
-   "2026": 3,
+   "2026": 5,
    "COMUNA": "Panquehue"
   },
   {
@@ -2351,7 +2351,7 @@
    "delito": "LESIONES LEVES",
    "2024": 15,
    "2025": 22,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Panquehue"
   },
   {
@@ -2423,7 +2423,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 13,
    "2025": 5,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Panquehue"
   },
   {
@@ -2432,7 +2432,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 40,
    "2025": 57,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "Panquehue"
   },
   {
@@ -2450,12 +2450,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 6,
    "2025": 9,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Panquehue"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
+  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
   "region": "Valparaíso"
  }
 }

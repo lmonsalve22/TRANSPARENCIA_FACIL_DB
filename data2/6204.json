@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6204,
-   "2025": 2,
-   "2026": 3,
-   "variacion": 50,
+   "2025": 3,
+   "2026": 4,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "Marchihue"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6204,
-   "2025": 1,
+   "2025": 2,
    "2026": 2,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Marchihue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6204,
-   "2025": 1,
-   "2026": 5,
-   "variacion": 400,
+   "2025": 3,
+   "2026": 7,
+   "variacion": 133,
    "situación": "Aumento de Casos",
    "COMUNA": "Marchihue"
   },
@@ -58,9 +58,9 @@
    "delito": "HURTOS",
    "CODCOM": 6204,
    "2025": 1,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2026": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Marchihue"
   },
   {
@@ -75,19 +75,19 @@
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6204,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Marchihue"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6204,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Marchihue"
   },
   {
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6204,
-   "2025": 1,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2025": 2,
+   "2026": 2,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Marchihue"
   },
   {
@@ -396,7 +396,7 @@
    "CODCOM": 6204,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Marchihue"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 6204,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "Marchihue"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 6204,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Marchihue"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 6204,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Marchihue"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 6204,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Marchihue"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 50,
    "2025": 48,
-   "2026": 3,
+   "2026": 4,
    "COMUNA": "Marchihue"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 66,
    "2025": 42,
-   "2026": 5,
+   "2026": 7,
    "COMUNA": "Marchihue"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 21,
    "2025": 22,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Marchihue"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 21,
    "2025": 14,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Marchihue"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 38,
    "2025": 59,
-   "2026": 0,
+   "2026": 2,
    "COMUNA": "Marchihue"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
+  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
   "region": "O'Higgins"
  }
 }

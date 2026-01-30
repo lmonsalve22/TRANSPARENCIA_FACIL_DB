@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5404,
    "2025": 2,
-   "2026": 5,
-   "variacion": 150,
+   "2026": 6,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Petorca"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 5404,
-   "2025": 2,
+   "2025": 4,
    "2026": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "Petorca"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5404,
-   "2025": 5,
-   "2026": 8,
-   "variacion": 60,
+   "2025": 6,
+   "2026": 9,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "Petorca"
   },
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5404,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Petorca"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5404,
-   "2025": 5,
-   "2026": 1,
-   "variacion": -80,
+   "2025": 6,
+   "2026": 2,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "Petorca"
   },
@@ -396,7 +396,7 @@
    "CODCOM": 5404,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "Petorca"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 5404,
    "anio": 2026,
    "mes": 1,
-   "casos": 8,
+   "casos": 9,
    "COMUNA": "Petorca"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 5404,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Petorca"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 97,
    "2025": 60,
-   "2026": 5,
+   "2026": 6,
    "COMUNA": "Petorca"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 81,
    "2025": 74,
-   "2026": 8,
+   "2026": 9,
    "COMUNA": "Petorca"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 47,
    "2025": 36,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Petorca"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 03/2026 (del 12/01/2026 al 18/01/2026)",
+  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
   "region": "Valparaíso"
  }
 }
