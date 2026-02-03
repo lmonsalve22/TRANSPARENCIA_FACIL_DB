@@ -12,10 +12,10 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6309,
-   "2025": 2,
+   "2025": 4,
    "2026": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "Pumanque"
   },
   {
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6309,
-   "2025": 1,
+   "2025": 2,
    "2026": 4,
-   "variacion": 300,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Pumanque"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6309,
-   "2025": 1,
-   "2026": 4,
-   "variacion": 300,
+   "2025": 2,
+   "2026": 6,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Pumanque"
   },
@@ -58,9 +58,9 @@
    "delito": "HURTOS",
    "CODCOM": 6309,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Pumanque"
   },
   {
@@ -699,7 +699,7 @@
    "CODCOM": 6309,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 6,
    "COMUNA": "Pumanque"
   },
   {
@@ -907,7 +907,7 @@
    "CODCOM": 6309,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Pumanque"
   },
   {
@@ -2306,7 +2306,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 34,
    "2025": 24,
-   "2026": 4,
+   "2026": 6,
    "COMUNA": "Pumanque"
   },
   {
@@ -2324,7 +2324,7 @@
    "delito": "HURTOS",
    "2024": 10,
    "2025": 10,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Pumanque"
   },
   {
@@ -2455,7 +2455,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
+  "semana_id": "SEMANA 05/2026 (del 26/01/2026 al 01/02/2026)",
   "region": "O'Higgins"
  }
 }

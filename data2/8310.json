@@ -12,10 +12,10 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8310,
-   "2025": 3,
+   "2025": 5,
    "2026": 4,
-   "variacion": 33,
-   "situación": "Aumento de Casos",
+   "variacion": -20,
+   "situación": "Disminución de Casos",
    "COMUNA": "San Rosendo"
   },
   {
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8310,
    "2025": 2,
-   "2026": 5,
-   "variacion": 150,
+   "2026": 7,
+   "variacion": 250,
    "situación": "Aumento de Casos",
    "COMUNA": "San Rosendo"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 8310,
    "2025": 3,
-   "2026": 1,
-   "variacion": -67,
+   "2026": 2,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rosendo"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 8310,
    "2025": 4,
-   "2026": 1,
-   "variacion": -75,
+   "2026": 2,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rosendo"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 8310,
    "2025": 0,
-   "2026": 2,
-   "variacion": 200,
+   "2026": 4,
+   "variacion": 400,
    "situación": "Aumento de Casos",
    "COMUNA": "San Rosendo"
   },
@@ -156,10 +156,10 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8310,
-   "2025": 0,
+   "2025": 2,
    "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "San Rosendo"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 8310,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "San Rosendo"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 8310,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "San Rosendo"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 8310,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "San Rosendo"
   },
   {
@@ -1436,7 +1436,7 @@
    "CODCOM": 8310,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "San Rosendo"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 38,
    "2025": 35,
-   "2026": 5,
+   "2026": 7,
    "COMUNA": "San Rosendo"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 16,
    "2025": 24,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "San Rosendo"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 18,
    "2025": 36,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "San Rosendo"
   },
   {
@@ -2482,7 +2482,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 13,
    "2025": 16,
-   "2026": 2,
+   "2026": 4,
    "COMUNA": "San Rosendo"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
+  "semana_id": "SEMANA 05/2026 (del 26/01/2026 al 01/02/2026)",
   "region": "Biobío"
  }
 }

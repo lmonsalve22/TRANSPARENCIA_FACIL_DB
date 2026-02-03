@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11301,
    "2025": 4,
-   "2026": 5,
-   "variacion": 25,
+   "2026": 6,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochrane"
   },
@@ -31,16 +31,16 @@
    "delito": "DAÑOS",
    "CODCOM": 11301,
    "2025": 3,
-   "2026": 5,
-   "variacion": 67,
+   "2026": 6,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochrane"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11301,
-   "2025": 1,
-   "2026": 2,
+   "2025": 2,
+   "2026": 4,
    "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochrane"
@@ -66,10 +66,10 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 11301,
-   "2025": 3,
+   "2025": 4,
    "2026": 4,
-   "variacion": 33,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cochrane"
   },
   {
@@ -85,9 +85,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 11301,
    "2025": 2,
-   "2026": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 3,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
    "COMUNA": "Cochrane"
   },
   {
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 11301,
    "2025": 0,
-   "2026": 6,
-   "variacion": 600,
+   "2026": 8,
+   "variacion": 800,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochrane"
   },
@@ -491,7 +491,7 @@
    "CODCOM": 11301,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "Cochrane"
   },
   {
@@ -595,7 +595,7 @@
    "CODCOM": 11301,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "Cochrane"
   },
   {
@@ -699,7 +699,7 @@
    "CODCOM": 11301,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Cochrane"
   },
   {
@@ -1219,7 +1219,7 @@
    "CODCOM": 11301,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Cochrane"
   },
   {
@@ -1427,7 +1427,7 @@
    "CODCOM": 11301,
    "anio": 2026,
    "mes": 1,
-   "casos": 6,
+   "casos": 8,
    "COMUNA": "Cochrane"
   },
   {
@@ -2288,7 +2288,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 54,
    "2025": 35,
-   "2026": 5,
+   "2026": 6,
    "COMUNA": "Cochrane"
   },
   {
@@ -2297,7 +2297,7 @@
    "delito": "DAÑOS",
    "2024": 41,
    "2025": 32,
-   "2026": 5,
+   "2026": 6,
    "COMUNA": "Cochrane"
   },
   {
@@ -2306,7 +2306,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 19,
    "2025": 35,
-   "2026": 2,
+   "2026": 4,
    "COMUNA": "Cochrane"
   },
   {
@@ -2351,7 +2351,7 @@
    "delito": "LESIONES LEVES",
    "2024": 15,
    "2025": 11,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "Cochrane"
   },
   {
@@ -2369,7 +2369,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 2,
    "2025": 5,
-   "2026": 6,
+   "2026": 8,
    "COMUNA": "Cochrane"
   },
   {
@@ -2455,7 +2455,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
+  "semana_id": "SEMANA 05/2026 (del 26/01/2026 al 01/02/2026)",
   "region": "Aysén"
  }
 }

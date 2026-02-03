@@ -13,25 +13,25 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10401,
    "2025": 0,
-   "2026": 5,
-   "variacion": 500,
+   "2026": 6,
+   "variacion": 600,
    "situación": "Aumento de Casos",
    "COMUNA": "Chaitén"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10401,
-   "2025": 0,
-   "2026": 2,
-   "variacion": 200,
+   "2025": 2,
+   "2026": 5,
+   "variacion": 150,
    "situación": "Aumento de Casos",
    "COMUNA": "Chaitén"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10401,
-   "2025": 2,
-   "2026": 2,
+   "2025": 3,
+   "2026": 3,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Chaitén"
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10401,
    "2025": 6,
-   "2026": 0,
-   "variacion": -100,
+   "2026": 4,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
@@ -102,10 +102,10 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 10401,
-   "2025": 1,
+   "2025": 2,
    "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
   {
@@ -378,7 +378,7 @@
    "CODCOM": 10401,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "Chaitén"
   },
   {
@@ -482,7 +482,7 @@
    "CODCOM": 10401,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 5,
    "COMUNA": "Chaitén"
   },
   {
@@ -586,7 +586,7 @@
    "CODCOM": 10401,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Chaitén"
   },
   {
@@ -690,7 +690,7 @@
    "CODCOM": 10401,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 4,
    "COMUNA": "Chaitén"
   },
   {
@@ -2166,7 +2166,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 36,
    "2025": 18,
-   "2026": 5,
+   "2026": 6,
    "COMUNA": "Chaitén"
   },
   {
@@ -2175,7 +2175,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 42,
    "2025": 38,
-   "2026": 2,
+   "2026": 5,
    "COMUNA": "Chaitén"
   },
   {
@@ -2184,7 +2184,7 @@
    "delito": "DAÑOS",
    "2024": 46,
    "2025": 35,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "Chaitén"
   },
   {
@@ -2193,7 +2193,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 33,
    "2025": 37,
-   "2026": 0,
+   "2026": 4,
    "COMUNA": "Chaitén"
   },
   {
@@ -2342,7 +2342,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
+  "semana_id": "SEMANA 05/2026 (del 26/01/2026 al 01/02/2026)",
   "region": "Los Lagos"
  }
 }

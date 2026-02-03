@@ -12,16 +12,16 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13502,
-   "2025": 4,
+   "2025": 5,
    "2026": 3,
-   "variacion": -25,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Alhué"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13502,
-   "2025": 5,
+   "2025": 6,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -30,17 +30,17 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 13502,
-   "2025": 5,
+   "2025": 8,
    "2026": 1,
-   "variacion": -80,
+   "variacion": -88,
    "situación": "Disminución de Casos",
    "COMUNA": "Alhué"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13502,
-   "2025": 5,
-   "2026": 5,
+   "2025": 7,
+   "2026": 7,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Alhué"
@@ -58,8 +58,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 13502,
    "2025": 0,
-   "2026": 1,
-   "variacion": 100,
+   "2026": 3,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "Alhué"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 13502,
-   "2025": 2,
-   "2026": 5,
-   "variacion": 150,
+   "2025": 4,
+   "2026": 6,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "Alhué"
   },
@@ -156,7 +156,7 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13502,
-   "2025": 1,
+   "2025": 2,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -699,7 +699,7 @@
    "CODCOM": 13502,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "Alhué"
   },
   {
@@ -907,7 +907,7 @@
    "CODCOM": 13502,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Alhué"
   },
   {
@@ -1115,7 +1115,7 @@
    "CODCOM": 13502,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "Alhué"
   },
   {
@@ -2306,7 +2306,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 87,
    "2025": 61,
-   "2026": 5,
+   "2026": 7,
    "COMUNA": "Alhué"
   },
   {
@@ -2333,7 +2333,7 @@
    "delito": "INCIVILIDADES",
    "2024": 13,
    "2025": 7,
-   "2026": 1,
+   "2026": 3,
    "COMUNA": "Alhué"
   },
   {
@@ -2351,7 +2351,7 @@
    "delito": "LESIONES LEVES",
    "2024": 23,
    "2025": 29,
-   "2026": 5,
+   "2026": 6,
    "COMUNA": "Alhué"
   },
   {
@@ -2455,7 +2455,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
+  "semana_id": "SEMANA 05/2026 (del 26/01/2026 al 01/02/2026)",
   "region": "Metropolitana"
  }
 }

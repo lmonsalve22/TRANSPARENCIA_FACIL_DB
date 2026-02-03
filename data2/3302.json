@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 3302,
    "2025": 2,
-   "2026": 4,
-   "variacion": 100,
+   "2026": 5,
+   "variacion": 150,
    "situación": "Aumento de Casos",
    "COMUNA": "Alto del Carmen"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 3302,
-   "2025": 4,
+   "2025": 5,
    "2026": 1,
-   "variacion": -75,
+   "variacion": -80,
    "situación": "Disminución de Casos",
    "COMUNA": "Alto del Carmen"
   },
@@ -103,9 +103,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 3302,
    "2025": 1,
-   "2026": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2026": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -378,7 +378,7 @@
    "CODCOM": 3302,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -1418,7 +1418,7 @@
    "CODCOM": 3302,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -2166,7 +2166,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 25,
    "2025": 45,
-   "2026": 4,
+   "2026": 5,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -2265,7 +2265,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 21,
    "2025": 8,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -2342,7 +2342,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
+  "semana_id": "SEMANA 05/2026 (del 26/01/2026 al 01/02/2026)",
   "region": "Atacama"
  }
 }

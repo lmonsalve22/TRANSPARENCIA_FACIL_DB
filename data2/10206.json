@@ -4,9 +4,9 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 10206,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Puqueldón"
   },
   {
@@ -21,9 +21,9 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10206,
-   "2025": 11,
-   "2026": 4,
-   "variacion": -64,
+   "2025": 13,
+   "2026": 5,
+   "variacion": -62,
    "situación": "Disminución de Casos",
    "COMUNA": "Puqueldón"
   },
@@ -40,9 +40,9 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10206,
    "2025": 5,
-   "2026": 3,
-   "variacion": -40,
-   "situación": "Disminución de Casos",
+   "2026": 5,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Puqueldón"
   },
   {
@@ -67,18 +67,18 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 10206,
    "2025": 0,
-   "2026": 1,
-   "variacion": 100,
+   "2026": 2,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Puqueldón"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10206,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Puqueldón"
   },
   {
@@ -274,7 +274,7 @@
    "CODCOM": 10206,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Puqueldón"
   },
   {
@@ -482,7 +482,7 @@
    "CODCOM": 10206,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Puqueldón"
   },
   {
@@ -690,7 +690,7 @@
    "CODCOM": 10206,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "Puqueldón"
   },
   {
@@ -1002,7 +1002,7 @@
    "CODCOM": 10206,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Puqueldón"
   },
   {
@@ -2157,7 +2157,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 2,
    "2025": 0,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Puqueldón"
   },
   {
@@ -2175,7 +2175,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 125,
    "2025": 94,
-   "2026": 4,
+   "2026": 5,
    "COMUNA": "Puqueldón"
   },
   {
@@ -2193,7 +2193,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 19,
    "2025": 22,
-   "2026": 3,
+   "2026": 5,
    "COMUNA": "Puqueldón"
   },
   {
@@ -2220,7 +2220,7 @@
    "delito": "INCIVILIDADES",
    "2024": 17,
    "2025": 15,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Puqueldón"
   },
   {
@@ -2342,7 +2342,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
+  "semana_id": "SEMANA 05/2026 (del 26/01/2026 al 01/02/2026)",
   "region": "Los Lagos"
  }
 }

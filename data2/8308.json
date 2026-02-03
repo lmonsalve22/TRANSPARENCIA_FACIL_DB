@@ -22,15 +22,15 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8308,
    "2025": 5,
-   "2026": 6,
-   "variacion": 20,
+   "2026": 7,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "Quilaco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 8308,
-   "2025": 1,
+   "2025": 3,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8308,
-   "2025": 3,
-   "2026": 2,
-   "variacion": -33,
+   "2025": 4,
+   "2026": 3,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Quilaco"
   },
@@ -76,9 +76,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 8308,
    "2025": 1,
-   "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 3,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
    "COMUNA": "Quilaco"
   },
   {
@@ -103,9 +103,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 8308,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Quilaco"
   },
   {
@@ -165,10 +165,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8308,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Quilaco"
   }
  ],
@@ -482,7 +482,7 @@
    "CODCOM": 8308,
    "anio": 2026,
    "mes": 1,
-   "casos": 6,
+   "casos": 7,
    "COMUNA": "Quilaco"
   },
   {
@@ -690,7 +690,7 @@
    "CODCOM": 8308,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Quilaco"
   },
   {
@@ -1106,7 +1106,7 @@
    "CODCOM": 8308,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Quilaco"
   },
   {
@@ -1418,7 +1418,7 @@
    "CODCOM": 8308,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Quilaco"
   },
   {
@@ -2175,7 +2175,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 21,
    "2025": 56,
-   "2026": 6,
+   "2026": 7,
    "COMUNA": "Quilaco"
   },
   {
@@ -2193,7 +2193,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 37,
    "2025": 25,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "Quilaco"
   },
   {
@@ -2238,7 +2238,7 @@
    "delito": "LESIONES LEVES",
    "2024": 9,
    "2025": 13,
-   "2026": 1,
+   "2026": 3,
    "COMUNA": "Quilaco"
   },
   {
@@ -2265,7 +2265,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 2,
    "2025": 1,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Quilaco"
   },
   {
@@ -2342,7 +2342,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
+  "semana_id": "SEMANA 05/2026 (del 26/01/2026 al 01/02/2026)",
   "region": "Biobío"
  }
 }

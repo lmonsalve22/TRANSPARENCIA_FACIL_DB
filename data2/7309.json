@@ -12,28 +12,28 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7309,
-   "2025": 0,
+   "2025": 4,
    "2026": 3,
-   "variacion": 300,
-   "situación": "Aumento de Casos",
+   "variacion": -25,
+   "situación": "Disminución de Casos",
    "COMUNA": "Vichuquén"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7309,
-   "2025": 3,
-   "2026": 2,
-   "variacion": -33,
-   "situación": "Disminución de Casos",
+   "2025": 6,
+   "2026": 6,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Vichuquén"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7309,
-   "2025": 7,
+   "2025": 9,
    "2026": 8,
-   "variacion": 14,
-   "situación": "Aumento de Casos",
+   "variacion": -11,
+   "situación": "Disminución de Casos",
    "COMUNA": "Vichuquén"
   },
   {
@@ -57,7 +57,7 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 7309,
-   "2025": 4,
+   "2025": 6,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -75,10 +75,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 7309,
-   "2025": 1,
+   "2025": 2,
    "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "Vichuquén"
   },
   {
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7309,
-   "2025": 1,
-   "2026": 2,
-   "variacion": 100,
+   "2025": 2,
+   "2026": 5,
+   "variacion": 150,
    "situación": "Aumento de Casos",
    "COMUNA": "Vichuquén"
   },
@@ -174,9 +174,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 7309,
-   "2025": 2,
+   "2025": 3,
    "2026": 1,
-   "variacion": -50,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "Vichuquén"
   }
@@ -491,7 +491,7 @@
    "CODCOM": 7309,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 6,
    "COMUNA": "Vichuquén"
   },
   {
@@ -1427,7 +1427,7 @@
    "CODCOM": 7309,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 5,
    "COMUNA": "Vichuquén"
   },
   {
@@ -2288,7 +2288,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 19,
    "2025": 26,
-   "2026": 2,
+   "2026": 6,
    "COMUNA": "Vichuquén"
   },
   {
@@ -2378,7 +2378,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 5,
    "2025": 6,
-   "2026": 2,
+   "2026": 5,
    "COMUNA": "Vichuquén"
   },
   {
@@ -2455,7 +2455,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
+  "semana_id": "SEMANA 05/2026 (del 26/01/2026 al 01/02/2026)",
   "region": "Maule"
  }
 }

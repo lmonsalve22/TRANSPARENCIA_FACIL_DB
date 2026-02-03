@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10207,
-   "2025": 2,
-   "2026": 4,
-   "variacion": 100,
+   "2025": 3,
+   "2026": 5,
+   "variacion": 67,
    "situación": "Aumento de Casos",
    "COMUNA": "Queilén"
   },
@@ -31,15 +31,15 @@
    "delito": "DAÑOS",
    "CODCOM": 10207,
    "2025": 1,
-   "2026": 3,
-   "variacion": 200,
+   "2026": 4,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "Queilén"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10207,
-   "2025": 1,
+   "2025": 3,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -75,10 +75,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10207,
-   "2025": 1,
+   "2025": 2,
    "2026": 2,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Queilén"
   },
   {
@@ -174,10 +174,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10207,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Queilén"
   }
  ],
@@ -387,7 +387,7 @@
    "CODCOM": 10207,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Queilén"
   },
   {
@@ -595,7 +595,7 @@
    "CODCOM": 10207,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Queilén"
   },
   {
@@ -2279,7 +2279,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 32,
    "2025": 51,
-   "2026": 4,
+   "2026": 5,
    "COMUNA": "Queilén"
   },
   {
@@ -2297,7 +2297,7 @@
    "delito": "DAÑOS",
    "2024": 43,
    "2025": 34,
-   "2026": 3,
+   "2026": 4,
    "COMUNA": "Queilén"
   },
   {
@@ -2455,7 +2455,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
+  "semana_id": "SEMANA 05/2026 (del 26/01/2026 al 01/02/2026)",
   "region": "Los Lagos"
  }
 }

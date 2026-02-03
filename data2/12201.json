@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 12201,
    "2025": 16,
-   "2026": 20,
-   "variacion": 25,
+   "2026": 40,
+   "variacion": 150,
    "situación": "Aumento de Casos",
    "COMUNA": "Cabo de Hornos"
   },
@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 12201,
    "2025": 4,
-   "2026": 6,
-   "variacion": 50,
+   "2026": 8,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Cabo de Hornos"
   },
@@ -58,17 +58,17 @@
    "delito": "HURTOS",
    "CODCOM": 12201,
    "2025": 0,
-   "2026": 2,
-   "variacion": 200,
+   "2026": 6,
+   "variacion": 600,
    "situación": "Aumento de Casos",
    "COMUNA": "Cabo de Hornos"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 12201,
-   "2025": 0,
+   "2025": 2,
    "2026": 4,
-   "variacion": 400,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Cabo de Hornos"
   },
@@ -491,7 +491,7 @@
    "CODCOM": 12201,
    "anio": 2026,
    "mes": 1,
-   "casos": 20,
+   "casos": 40,
    "COMUNA": "Cabo de Hornos"
   },
   {
@@ -595,7 +595,7 @@
    "CODCOM": 12201,
    "anio": 2026,
    "mes": 1,
-   "casos": 6,
+   "casos": 8,
    "COMUNA": "Cabo de Hornos"
   },
   {
@@ -907,7 +907,7 @@
    "CODCOM": 12201,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 6,
    "COMUNA": "Cabo de Hornos"
   },
   {
@@ -2288,7 +2288,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 55,
    "2025": 256,
-   "2026": 20,
+   "2026": 40,
    "COMUNA": "Cabo de Hornos"
   },
   {
@@ -2297,7 +2297,7 @@
    "delito": "DAÑOS",
    "2024": 17,
    "2025": 38,
-   "2026": 6,
+   "2026": 8,
    "COMUNA": "Cabo de Hornos"
   },
   {
@@ -2324,7 +2324,7 @@
    "delito": "HURTOS",
    "2024": 9,
    "2025": 20,
-   "2026": 2,
+   "2026": 6,
    "COMUNA": "Cabo de Hornos"
   },
   {
@@ -2455,7 +2455,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
+  "semana_id": "SEMANA 05/2026 (del 26/01/2026 al 01/02/2026)",
   "region": "Magallanes"
  }
 }

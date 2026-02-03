@@ -3,45 +3,45 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 14103,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Lanco"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14103,
-   "2025": 10,
-   "2026": 6,
-   "variacion": -40,
+   "2025": 14,
+   "2026": 9,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "Lanco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 14103,
-   "2025": 3,
-   "2026": 19,
-   "variacion": 533,
+   "2025": 7,
+   "2026": 23,
+   "variacion": 229,
    "situación": "Aumento de Casos",
    "COMUNA": "Lanco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 14103,
-   "2025": 11,
-   "2026": 7,
-   "variacion": -36,
+   "2025": 12,
+   "2026": 9,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Lanco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 14103,
-   "2025": 14,
-   "2026": 5,
-   "variacion": -64,
+   "2025": 16,
+   "2026": 8,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Lanco"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 14103,
-   "2025": 6,
-   "2026": 6,
+   "2025": 7,
+   "2026": 7,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Lanco"
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 14103,
    "2025": 4,
-   "2026": 4,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 6,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
    "COMUNA": "Lanco"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 14103,
-   "2025": 1,
+   "2025": 3,
    "2026": 6,
-   "variacion": 500,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Lanco"
   },
@@ -94,17 +94,17 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 14103,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Lanco"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 14103,
-   "2025": 9,
+   "2025": 18,
    "2026": 3,
-   "variacion": -67,
+   "variacion": -83,
    "situación": "Disminución de Casos",
    "COMUNA": "Lanco"
   },
@@ -130,9 +130,9 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 14103,
    "2025": 2,
-   "2026": 1,
-   "variacion": -50,
-   "situación": "Disminución de Casos",
+   "2026": 3,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
    "COMUNA": "Lanco"
   },
   {
@@ -156,7 +156,7 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 14103,
-   "2025": 2,
+   "2025": 3,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 14103,
-   "2025": 10,
+   "2025": 14,
    "2026": 1,
-   "variacion": -90,
+   "variacion": -93,
    "situación": "Disminución de Casos",
    "COMUNA": "Lanco"
   },
@@ -396,7 +396,7 @@
    "CODCOM": 14103,
    "anio": 2026,
    "mes": 1,
-   "casos": 6,
+   "casos": 9,
    "COMUNA": "Lanco"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 14103,
    "anio": 2026,
    "mes": 1,
-   "casos": 19,
+   "casos": 23,
    "COMUNA": "Lanco"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 14103,
    "anio": 2026,
    "mes": 1,
-   "casos": 7,
+   "casos": 9,
    "COMUNA": "Lanco"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 14103,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 8,
    "COMUNA": "Lanco"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 14103,
    "anio": 2026,
    "mes": 1,
-   "casos": 6,
+   "casos": 7,
    "COMUNA": "Lanco"
   },
   {
@@ -1017,214 +1017,6 @@
   },
   {
    "delito": "INCIVILIDADES",
-   "CODCOM": 14103,
-   "anio": 2026,
-   "mes": 1,
-   "casos": 4,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 1,
-   "casos": 0,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 0,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 0,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 4,
-   "casos": 0,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 5,
-   "casos": 1,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 6,
-   "casos": 0,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 7,
-   "casos": 0,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 8,
-   "casos": 0,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 9,
-   "casos": 0,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 10,
-   "casos": 0,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 11,
-   "casos": 0,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 12,
-   "casos": 2,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 14103,
-   "anio": 2026,
-   "mes": 1,
-   "casos": 1,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 1,
-   "casos": 3,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 1,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 1,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 4,
-   "casos": 2,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 5,
-   "casos": 2,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 6,
-   "casos": 2,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 7,
-   "casos": 1,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 8,
-   "casos": 2,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 9,
-   "casos": 1,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 10,
-   "casos": 2,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 11,
-   "casos": 1,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 14103,
-   "anio": 2025,
-   "mes": 12,
-   "casos": 0,
-   "COMUNA": "Lanco"
-  },
-  {
-   "delito": "LESIONES LEVES",
    "CODCOM": 14103,
    "anio": 2026,
    "mes": 1,
@@ -1232,6 +1024,214 @@
    "COMUNA": "Lanco"
   },
   {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 14103,
+   "anio": 2026,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "Lanco"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 14103,
+   "anio": 2026,
+   "mes": 1,
+   "casos": 6,
+   "COMUNA": "Lanco"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 14103,
    "anio": 2025,
@@ -1332,7 +1332,7 @@
    "CODCOM": 14103,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Lanco"
   },
   {
@@ -1748,7 +1748,7 @@
    "CODCOM": 14103,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Lanco"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 138,
    "2025": 125,
-   "2026": 6,
+   "2026": 9,
    "COMUNA": "Lanco"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 150,
    "2025": 187,
-   "2026": 19,
+   "2026": 23,
    "COMUNA": "Lanco"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 130,
    "2025": 99,
-   "2026": 7,
+   "2026": 9,
    "COMUNA": "Lanco"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 127,
    "2025": 123,
-   "2026": 5,
+   "2026": 8,
    "COMUNA": "Lanco"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "HURTOS",
    "2024": 87,
    "2025": 68,
-   "2026": 6,
+   "2026": 7,
    "COMUNA": "Lanco"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "INCIVILIDADES",
    "2024": 44,
    "2025": 46,
-   "2026": 4,
+   "2026": 6,
    "COMUNA": "Lanco"
   },
   {
@@ -2473,7 +2473,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 4,
    "2025": 4,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Lanco"
   },
   {
@@ -2509,7 +2509,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 10,
    "2025": 3,
-   "2026": 1,
+   "2026": 3,
    "COMUNA": "Lanco"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
+  "semana_id": "SEMANA 05/2026 (del 26/01/2026 al 01/02/2026)",
   "region": "Los Ríos"
  }
 }

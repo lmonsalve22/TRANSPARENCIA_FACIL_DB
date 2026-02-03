@@ -3,45 +3,45 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 10103,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Cochamó"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10103,
-   "2025": 2,
+   "2025": 4,
    "2026": 4,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cochamó"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10103,
    "2025": 8,
-   "2026": 6,
-   "variacion": -25,
-   "situación": "Disminución de Casos",
+   "2026": 14,
+   "variacion": 75,
+   "situación": "Aumento de Casos",
    "COMUNA": "Cochamó"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10103,
-   "2025": 4,
-   "2026": 3,
-   "variacion": -25,
-   "situación": "Disminución de Casos",
+   "2025": 5,
+   "2026": 5,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cochamó"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10103,
    "2025": 5,
-   "2026": 1,
-   "variacion": -80,
+   "2026": 3,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Cochamó"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10103,
-   "2025": 0,
+   "2025": 1,
    "2026": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cochamó"
   },
   {
@@ -147,10 +147,10 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 10103,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Cochamó"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 10103,
    "anio": 2026,
    "mes": 1,
-   "casos": 6,
+   "casos": 14,
    "COMUNA": "Cochamó"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 10103,
    "anio": 2026,
    "mes": 1,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "Cochamó"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 10103,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Cochamó"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 49,
    "2025": 47,
-   "2026": 6,
+   "2026": 14,
    "COMUNA": "Cochamó"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 40,
    "2025": 35,
-   "2026": 3,
+   "2026": 5,
    "COMUNA": "Cochamó"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 26,
    "2025": 44,
-   "2026": 1,
+   "2026": 3,
    "COMUNA": "Cochamó"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
+  "semana_id": "SEMANA 05/2026 (del 26/01/2026 al 01/02/2026)",
   "region": "Los Lagos"
  }
 }

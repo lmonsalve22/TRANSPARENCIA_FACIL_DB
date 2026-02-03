@@ -13,17 +13,17 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7202,
    "2025": 7,
-   "2026": 2,
-   "variacion": -71,
+   "2026": 3,
+   "variacion": -57,
    "situación": "Disminución de Casos",
    "COMUNA": "Chanco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7202,
-   "2025": 5,
-   "2026": 4,
-   "variacion": -20,
+   "2025": 6,
+   "2026": 5,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "Chanco"
   },
@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 7202,
    "2025": 5,
-   "2026": 2,
-   "variacion": -60,
+   "2026": 3,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Chanco"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7202,
    "2025": 2,
-   "2026": 7,
-   "variacion": 250,
+   "2026": 8,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "Chanco"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7202,
-   "2025": 0,
+   "2025": 2,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Chanco"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 7202,
-   "2025": 2,
+   "2025": 4,
    "2026": 1,
-   "variacion": -50,
+   "variacion": -75,
    "situación": "Disminución de Casos",
    "COMUNA": "Chanco"
   },
@@ -157,17 +157,17 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 7202,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Chanco"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7202,
-   "2025": 0,
+   "2025": 1,
    "2026": 3,
-   "variacion": 300,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Chanco"
   },
@@ -396,7 +396,7 @@
    "CODCOM": 7202,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Chanco"
   },
   {
@@ -500,7 +500,7 @@
    "CODCOM": 7202,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Chanco"
   },
   {
@@ -604,7 +604,7 @@
    "CODCOM": 7202,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Chanco"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 7202,
    "anio": 2026,
    "mes": 1,
-   "casos": 7,
+   "casos": 8,
    "COMUNA": "Chanco"
   },
   {
@@ -2060,7 +2060,7 @@
    "CODCOM": 7202,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Chanco"
   },
   {
@@ -2392,7 +2392,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 57,
    "2025": 60,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "Chanco"
   },
   {
@@ -2401,7 +2401,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 32,
    "2025": 45,
-   "2026": 4,
+   "2026": 5,
    "COMUNA": "Chanco"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 49,
    "2025": 55,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "Chanco"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 45,
    "2025": 54,
-   "2026": 7,
+   "2026": 8,
    "COMUNA": "Chanco"
   },
   {
@@ -2536,7 +2536,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 2,
    "2025": 2,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Chanco"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
+  "semana_id": "SEMANA 05/2026 (del 26/01/2026 al 01/02/2026)",
   "region": "Maule"
  }
 }

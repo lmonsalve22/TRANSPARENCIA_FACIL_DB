@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8104,
-   "2025": 10,
+   "2025": 12,
    "2026": 4,
-   "variacion": -60,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "Florida"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 8104,
-   "2025": 4,
+   "2025": 6,
    "2026": 4,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33,
+   "situación": "Disminución de Casos",
    "COMUNA": "Florida"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8104,
-   "2025": 6,
-   "2026": 5,
-   "variacion": -17,
+   "2025": 7,
+   "2026": 6,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Florida"
   },
@@ -57,19 +57,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8104,
-   "2025": 3,
+   "2025": 4,
    "2026": 2,
-   "variacion": -33,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Florida"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8104,
-   "2025": 2,
+   "2025": 3,
    "2026": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33,
+   "situación": "Disminución de Casos",
    "COMUNA": "Florida"
   },
   {
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 8104,
    "2025": 4,
-   "2026": 1,
-   "variacion": -75,
+   "2026": 3,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Florida"
   },
@@ -157,18 +157,18 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8104,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Florida"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8104,
-   "2025": 6,
-   "2026": 5,
-   "variacion": -17,
-   "situación": "Disminución de Casos",
+   "2025": 7,
+   "2026": 8,
+   "variacion": 14,
+   "situación": "Aumento de Casos",
    "COMUNA": "Florida"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 8104,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "Florida"
   },
   {
@@ -1228,7 +1228,7 @@
    "CODCOM": 8104,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Florida"
   },
   {
@@ -2060,7 +2060,7 @@
    "CODCOM": 8104,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Florida"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 8104,
    "anio": 2026,
    "mes": 1,
-   "casos": 5,
+   "casos": 8,
    "COMUNA": "Florida"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 93,
    "2025": 83,
-   "2026": 5,
+   "2026": 6,
    "COMUNA": "Florida"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "LESIONES LEVES",
    "2024": 36,
    "2025": 37,
-   "2026": 1,
+   "2026": 3,
    "COMUNA": "Florida"
   },
   {
@@ -2536,7 +2536,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 20,
    "2025": 12,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Florida"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 68,
    "2025": 72,
-   "2026": 5,
+   "2026": 8,
    "COMUNA": "Florida"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
+  "semana_id": "SEMANA 05/2026 (del 26/01/2026 al 01/02/2026)",
   "region": "Biobío"
  }
 }

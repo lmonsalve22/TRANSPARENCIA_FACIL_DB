@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 1403,
-   "2025": 2,
+   "2025": 3,
    "2026": 4,
-   "variacion": 100,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 1403,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Colchane"
   },
   {
@@ -103,9 +103,9 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 1403,
    "2025": 1,
-   "2026": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
   {
@@ -147,7 +147,7 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 1403,
-   "2025": 1,
+   "2025": 2,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 1403,
-   "2025": 0,
+   "2025": 1,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Colchane"
   },
   {
@@ -1436,7 +1436,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Colchane"
   },
   {
@@ -2482,7 +2482,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 7,
    "2025": 11,
-   "2026": 1,
+   "2026": 2,
    "COMUNA": "Colchane"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
+  "semana_id": "SEMANA 05/2026 (del 26/01/2026 al 01/02/2026)",
   "region": "Tarapacá"
  }
 }

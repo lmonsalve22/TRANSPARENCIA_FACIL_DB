@@ -21,9 +21,9 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11401,
-   "2025": 25,
-   "2026": 20,
-   "variacion": -20,
+   "2025": 31,
+   "2026": 23,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11401,
-   "2025": 4,
-   "2026": 0,
-   "variacion": -100,
+   "2025": 6,
+   "2026": 1,
+   "variacion": -83,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 11401,
-   "2025": 2,
+   "2025": 3,
    "2026": 1,
-   "variacion": -50,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 11401,
    "2025": 1,
-   "2026": 2,
-   "variacion": 100,
+   "2026": 3,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Chile Chico"
   },
@@ -166,15 +166,15 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 11401,
    "2025": 2,
-   "2026": 1,
-   "variacion": -50,
-   "situación": "Disminución de Casos",
+   "2026": 3,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
    "COMUNA": "Chile Chico"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 11401,
-   "2025": 1,
+   "2025": 2,
    "2026": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -491,7 +491,7 @@
    "CODCOM": 11401,
    "anio": 2026,
    "mes": 1,
-   "casos": 20,
+   "casos": 23,
    "COMUNA": "Chile Chico"
   },
   {
@@ -699,7 +699,7 @@
    "CODCOM": 11401,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Chile Chico"
   },
   {
@@ -1531,7 +1531,7 @@
    "CODCOM": 11401,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2155,7 +2155,7 @@
    "CODCOM": 11401,
    "anio": 2026,
    "mes": 1,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2288,7 +2288,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 136,
    "2025": 110,
-   "2026": 20,
+   "2026": 23,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2306,7 +2306,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 54,
    "2025": 46,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2378,7 +2378,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 7,
    "2025": 6,
-   "2026": 2,
+   "2026": 3,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2432,7 +2432,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 25,
    "2025": 30,
-   "2026": 1,
+   "2026": 3,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2455,7 +2455,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
+  "semana_id": "SEMANA 05/2026 (del 26/01/2026 al 01/02/2026)",
   "region": "Aysén"
  }
 }

@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16207,
-   "2025": 4,
+   "2025": 6,
    "2026": 4,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33,
+   "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16207,
-   "2025": 3,
+   "2025": 4,
    "2026": 2,
-   "variacion": -33,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 16207,
-   "2025": 7,
-   "2026": 4,
-   "variacion": -43,
+   "2025": 10,
+   "2026": 5,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16207,
-   "2025": 2,
-   "2026": 0,
-   "variacion": -100,
+   "2025": 3,
+   "2026": 1,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
@@ -66,19 +66,19 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 16207,
-   "2025": 2,
+   "2025": 4,
    "2026": 4,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Treguaco"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16207,
-   "2025": 0,
+   "2025": 2,
    "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
   {
@@ -112,9 +112,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 16207,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
    "COMUNA": "Treguaco"
   },
   {
@@ -130,9 +130,9 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16207,
    "2025": 0,
-   "2026": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2026": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Treguaco"
   },
   {
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16207,
    "2025": 1,
-   "2026": 2,
-   "variacion": 100,
+   "2026": 4,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "Treguaco"
   },
@@ -604,7 +604,7 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 1,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Treguaco"
   },
   {
@@ -708,7 +708,7 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Treguaco"
   },
   {
@@ -1540,7 +1540,7 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Treguaco"
   },
   {
@@ -1748,7 +1748,7 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 1,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Treguaco"
   },
   {
@@ -2164,7 +2164,7 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 1,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Treguaco"
   },
   {
@@ -2410,7 +2410,7 @@
    "delito": "DAÑOS",
    "2024": 64,
    "2025": 70,
-   "2026": 4,
+   "2026": 5,
    "COMUNA": "Treguaco"
   },
   {
@@ -2419,7 +2419,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 59,
    "2025": 50,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Treguaco"
   },
   {
@@ -2491,7 +2491,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 3,
    "2025": 1,
-   "2026": 0,
+   "2026": 2,
    "COMUNA": "Treguaco"
   },
   {
@@ -2509,7 +2509,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 1,
    "2025": 2,
-   "2026": 0,
+   "2026": 1,
    "COMUNA": "Treguaco"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 33,
    "2025": 29,
-   "2026": 2,
+   "2026": 4,
    "COMUNA": "Treguaco"
   },
   {
@@ -2568,7 +2568,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 04/2026 (del 19/01/2026 al 25/01/2026)",
+  "semana_id": "SEMANA 05/2026 (del 26/01/2026 al 01/02/2026)",
   "region": "Ñuble"
  }
 }
