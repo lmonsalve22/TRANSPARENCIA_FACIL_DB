@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16207,
    "2025": 7.0,
-   "2026": 4.0,
-   "variacion": -43.0,
+   "2026": 5.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
@@ -30,17 +30,17 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16207,
-   "2025": 12.0,
-   "2026": 6.0,
-   "variacion": -50.0,
+   "2025": 14.0,
+   "2026": 9.0,
+   "variacion": -36.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16207,
-   "2025": 6.0,
-   "2026": 3.0,
+   "2025": 8.0,
+   "2026": 4.0,
    "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
@@ -75,7 +75,7 @@
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16207,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -93,10 +93,10 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16207,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
   {
@@ -404,7 +404,7 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -628,7 +628,7 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 4.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -740,7 +740,7 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2512,7 +2512,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 65.0,
    "2025": 57.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2530,7 +2530,7 @@
    "delito": "DAÑOS",
    "2024": 64.0,
    "2025": 70.0,
-   "2026": 6.0,
+   "2026": 9.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2539,7 +2539,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 59.0,
    "2025": 50.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2688,7 +2688,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "Ñuble"
  }
 }

@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 7106,
-   "2025": 4.0,
-   "2026": 15.0,
-   "variacion": 275.0,
+   "2025": 6.0,
+   "2026": 17.0,
+   "variacion": 183.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pelarco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7106,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 12.0,
-   "variacion": 200.0,
+   "variacion": 140.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pelarco"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7106,
-   "2025": 7.0,
+   "2025": 9.0,
    "2026": 6.0,
-   "variacion": -14.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pelarco"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 7106,
    "2025": 0.0,
-   "2026": 1.0,
-   "variacion": 100.0,
+   "2026": 3.0,
+   "variacion": 300.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pelarco"
   },
@@ -102,10 +102,10 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7106,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Pelarco"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 7106,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Pelarco"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 7106,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Pelarco"
   },
   {
@@ -2562,7 +2562,7 @@
    "delito": "DAÑOS",
    "2024": 99.0,
    "2025": 78.0,
-   "2026": 15.0,
+   "2026": 17.0,
    "COMUNA": "Pelarco"
   },
   {
@@ -2598,7 +2598,7 @@
    "delito": "INCIVILIDADES",
    "2024": 8.0,
    "2025": 8.0,
-   "2026": 1.0,
+   "2026": 3.0,
    "COMUNA": "Pelarco"
   },
   {
@@ -2720,7 +2720,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "Maule"
  }
 }

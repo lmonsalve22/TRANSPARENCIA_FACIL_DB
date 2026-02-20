@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8314,
-   "2025": 4.0,
-   "2026": 3.0,
-   "variacion": -25.0,
-   "situación": "Disminución de Casos",
+   "2025": 5.0,
+   "2026": 6.0,
+   "variacion": 20.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Alto Biobío"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8314,
    "2025": 8.0,
-   "2026": 32.0,
-   "variacion": 300.0,
+   "2026": 39.0,
+   "variacion": 388.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Alto Biobío"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8314,
    "2025": 8.0,
-   "2026": 6.0,
-   "variacion": -25.0,
+   "2026": 7.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Alto Biobío"
   },
@@ -93,10 +93,10 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8314,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Alto Biobío"
   },
   {
@@ -412,7 +412,7 @@
    "CODCOM": 8314,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 4.0,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -524,7 +524,7 @@
    "CODCOM": 8314,
    "anio": 2026,
    "mes": 2,
-   "casos": 10.0,
+   "casos": 17.0,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -748,7 +748,7 @@
    "CODCOM": 8314,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -2520,7 +2520,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 58.0,
    "2025": 54.0,
-   "2026": 3.0,
+   "2026": 6.0,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -2529,7 +2529,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 95.0,
    "2025": 135.0,
-   "2026": 32.0,
+   "2026": 39.0,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -2547,7 +2547,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 59.0,
    "2025": 58.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -2696,7 +2696,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "Biobío"
  }
 }

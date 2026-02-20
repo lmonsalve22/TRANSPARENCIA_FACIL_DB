@@ -12,52 +12,52 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5704,
-   "2025": 6.0,
-   "2026": 7.0,
-   "variacion": 17.0,
+   "2025": 8.0,
+   "2026": 9.0,
+   "variacion": 12.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5704,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 1.0,
-   "variacion": -50.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5704,
-   "2025": 12.0,
-   "2026": 7.0,
-   "variacion": -42.0,
+   "2025": 13.0,
+   "2026": 9.0,
+   "variacion": -31.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5704,
-   "2025": 15.0,
-   "2026": 4.0,
-   "variacion": -73.0,
+   "2025": 17.0,
+   "2026": 6.0,
+   "variacion": -65.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 5704,
-   "2025": 10.0,
+   "2025": 11.0,
    "2026": 5.0,
-   "variacion": -50.0,
+   "variacion": -55.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5704,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -66,10 +66,10 @@
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5704,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
   {
@@ -156,9 +156,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5704,
-   "2025": 1.0,
-   "2026": 5.0,
-   "variacion": 400.0,
+   "2025": 3.0,
+   "2026": 6.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
@@ -403,7 +403,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -627,7 +627,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -739,7 +739,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2195,7 +2195,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2439,7 +2439,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 47.0,
    "2025": 56.0,
-   "2026": 7.0,
+   "2026": 9.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2457,7 +2457,7 @@
    "delito": "DAÑOS",
    "2024": 86.0,
    "2025": 90.0,
-   "2026": 7.0,
+   "2026": 9.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2466,7 +2466,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 76.0,
    "2025": 86.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2592,7 +2592,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 40.0,
    "2025": 57.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2615,7 +2615,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "Valparaíso"
  }
 }

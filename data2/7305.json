@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7305,
-   "2025": 11.0,
-   "2026": 14.0,
-   "variacion": 27.0,
+   "2025": 13.0,
+   "2026": 17.0,
+   "variacion": 31.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Rauco"
   },
@@ -30,36 +30,36 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 7305,
-   "2025": 13.0,
-   "2026": 21.0,
-   "variacion": 62.0,
+   "2025": 16.0,
+   "2026": 23.0,
+   "variacion": 44.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Rauco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7305,
-   "2025": 7.0,
-   "2026": 16.0,
-   "variacion": 129.0,
+   "2025": 8.0,
+   "2026": 17.0,
+   "variacion": 112.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Rauco"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 7305,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 5.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -17.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Rauco"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 7305,
    "2025": 2.0,
-   "2026": 7.0,
-   "variacion": 250.0,
+   "2026": 8.0,
+   "variacion": 300.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Rauco"
   },
@@ -76,8 +76,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 7305,
    "2025": 2.0,
-   "2026": 4.0,
-   "variacion": 100.0,
+   "2026": 5.0,
+   "variacion": 150.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Rauco"
   },
@@ -85,18 +85,18 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7305,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Rauco"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7305,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Rauco"
   },
   {
@@ -156,9 +156,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7305,
-   "2025": 10.0,
+   "2025": 12.0,
    "2026": 5.0,
-   "variacion": -50.0,
+   "variacion": -58.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Rauco"
   },
@@ -403,7 +403,7 @@
    "CODCOM": 7305,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 4.0,
    "COMUNA": "Rauco"
   },
   {
@@ -627,7 +627,7 @@
    "CODCOM": 7305,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Rauco"
   },
   {
@@ -739,7 +739,7 @@
    "CODCOM": 7305,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Rauco"
   },
   {
@@ -963,7 +963,7 @@
    "CODCOM": 7305,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Rauco"
   },
   {
@@ -1179,7 +1179,7 @@
    "CODCOM": 7305,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Rauco"
   },
   {
@@ -1291,7 +1291,7 @@
    "CODCOM": 7305,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Rauco"
   },
   {
@@ -2415,7 +2415,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 96.0,
    "2025": 91.0,
-   "2026": 14.0,
+   "2026": 17.0,
    "COMUNA": "Rauco"
   },
   {
@@ -2433,7 +2433,7 @@
    "delito": "DAÑOS",
    "2024": 74.0,
    "2025": 119.0,
-   "2026": 21.0,
+   "2026": 23.0,
    "COMUNA": "Rauco"
   },
   {
@@ -2442,7 +2442,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 81.0,
    "2025": 74.0,
-   "2026": 16.0,
+   "2026": 17.0,
    "COMUNA": "Rauco"
   },
   {
@@ -2469,7 +2469,7 @@
    "delito": "INCIVILIDADES",
    "2024": 20.0,
    "2025": 22.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Rauco"
   },
   {
@@ -2487,7 +2487,7 @@
    "delito": "LESIONES LEVES",
    "2024": 26.0,
    "2025": 18.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Rauco"
   },
   {
@@ -2496,7 +2496,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 1.0,
    "2025": 4.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Rauco"
   },
   {
@@ -2591,7 +2591,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "Maule"
  }
 }

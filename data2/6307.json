@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6307,
-   "2025": 21.0,
-   "2026": 19.0,
-   "variacion": -10.0,
+   "2025": 23.0,
+   "2026": 20.0,
+   "variacion": -13.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Peralillo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6307,
-   "2025": 12.0,
+   "2025": 13.0,
    "2026": 4.0,
-   "variacion": -67.0,
+   "variacion": -69.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Peralillo"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6307,
-   "2025": 6.0,
+   "2025": 10.0,
    "2026": 8.0,
-   "variacion": 33.0,
-   "situación": "Aumento de Casos",
+   "variacion": -20.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Peralillo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6307,
-   "2025": 17.0,
-   "2026": 11.0,
-   "variacion": -35.0,
+   "2025": 20.0,
+   "2026": 12.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Peralillo"
   },
@@ -58,17 +58,17 @@
    "delito": "HURTOS",
    "CODCOM": 6307,
    "2025": 4.0,
-   "2026": 4.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 8.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Peralillo"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6307,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 5.0,
-   "variacion": 67.0,
+   "variacion": 25.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Peralillo"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6307,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 5.0,
-   "variacion": -17.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Peralillo"
   },
@@ -94,17 +94,17 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6307,
    "2025": 0.0,
-   "2026": 1.0,
-   "variacion": 100.0,
+   "2026": 2.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Peralillo"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6307,
-   "2025": 2.0,
-   "2026": 0.0,
-   "variacion": -100.0,
+   "2025": 3.0,
+   "2026": 1.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Peralillo"
   },
@@ -139,9 +139,9 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 6307,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 1.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Peralillo"
   },
   {
@@ -174,10 +174,10 @@
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6307,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Peralillo"
   },
   {
@@ -412,7 +412,7 @@
    "CODCOM": 6307,
    "anio": 2026,
    "mes": 2,
-   "casos": 5.0,
+   "casos": 6.0,
    "COMUNA": "Peralillo"
   },
   {
@@ -748,7 +748,7 @@
    "CODCOM": 6307,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Peralillo"
   },
   {
@@ -964,7 +964,7 @@
    "CODCOM": 6307,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 5.0,
    "COMUNA": "Peralillo"
   },
   {
@@ -1412,7 +1412,7 @@
    "CODCOM": 6307,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Peralillo"
   },
   {
@@ -1524,7 +1524,7 @@
    "CODCOM": 6307,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Peralillo"
   },
   {
@@ -1964,7 +1964,7 @@
    "CODCOM": 6307,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Peralillo"
   },
   {
@@ -2544,7 +2544,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 127.0,
    "2025": 127.0,
-   "2026": 19.0,
+   "2026": 20.0,
    "COMUNA": "Peralillo"
   },
   {
@@ -2571,7 +2571,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 127.0,
    "2025": 100.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "Peralillo"
   },
   {
@@ -2589,7 +2589,7 @@
    "delito": "HURTOS",
    "2024": 48.0,
    "2025": 42.0,
-   "2026": 4.0,
+   "2026": 8.0,
    "COMUNA": "Peralillo"
   },
   {
@@ -2625,7 +2625,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 2.0,
    "2025": 4.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Peralillo"
   },
   {
@@ -2634,7 +2634,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 13.0,
    "2025": 21.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Peralillo"
   },
   {
@@ -2670,7 +2670,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 3.0,
    "2025": 3.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Peralillo"
   },
   {
@@ -2720,7 +2720,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "O'Higgins"
  }
 }

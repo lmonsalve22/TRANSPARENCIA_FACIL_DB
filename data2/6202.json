@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 6202,
    "2025": 8.0,
-   "2026": 6.0,
-   "variacion": -25.0,
+   "2026": 7.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "La Estrella"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6202,
    "2025": 4.0,
-   "2026": 11.0,
-   "variacion": 175.0,
+   "2026": 12.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "La Estrella"
   },
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6202,
-   "2025": 1.0,
-   "2026": 2.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "2025": 3.0,
+   "2026": 3.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "La Estrella"
   },
   {
@@ -628,7 +628,7 @@
    "CODCOM": 6202,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "La Estrella"
   },
   {
@@ -740,7 +740,7 @@
    "CODCOM": 6202,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "La Estrella"
   },
   {
@@ -2276,7 +2276,7 @@
    "CODCOM": 6202,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "La Estrella"
   },
   {
@@ -2530,7 +2530,7 @@
    "delito": "DAÑOS",
    "2024": 27.0,
    "2025": 25.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "La Estrella"
   },
   {
@@ -2539,7 +2539,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 33.0,
    "2025": 28.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "La Estrella"
   },
   {
@@ -2665,7 +2665,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 39.0,
    "2025": 26.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "La Estrella"
   },
   {
@@ -2688,7 +2688,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "O'Higgins"
  }
 }

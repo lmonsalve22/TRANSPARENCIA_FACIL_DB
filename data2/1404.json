@@ -21,7 +21,7 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 1404,
-   "2025": 22.0,
+   "2025": 24.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 1404,
-   "2025": 9.0,
+   "2025": 10.0,
    "2026": 2.0,
-   "variacion": -78.0,
+   "variacion": -80.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
@@ -93,7 +93,7 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 1404,
-   "2025": 1.0,
+   "2025": 3.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 1404,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
   {
@@ -2720,7 +2720,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "Tarapacá"
  }
 }

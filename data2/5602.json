@@ -12,37 +12,37 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5602,
-   "2025": 22.0,
-   "2026": 21.0,
-   "variacion": -5.0,
+   "2025": 28.0,
+   "2026": 24.0,
+   "variacion": -14.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Algarrobo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5602,
-   "2025": 50.0,
-   "2026": 37.0,
-   "variacion": -26.0,
+   "2025": 57.0,
+   "2026": 50.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Algarrobo"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5602,
-   "2025": 30.0,
-   "2026": 19.0,
-   "variacion": -37.0,
+   "2025": 33.0,
+   "2026": 22.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Algarrobo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5602,
-   "2025": 26.0,
+   "2025": 28.0,
    "2026": 26.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -7.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Algarrobo"
   },
   {
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5602,
-   "2025": 16.0,
-   "2026": 15.0,
-   "variacion": -6.0,
-   "situación": "Disminución de Casos",
+   "2025": 17.0,
+   "2026": 19.0,
+   "variacion": 12.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Algarrobo"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5602,
-   "2025": 21.0,
-   "2026": 34.0,
-   "variacion": 62.0,
+   "2025": 24.0,
+   "2026": 40.0,
+   "variacion": 67.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Algarrobo"
   },
@@ -84,14 +84,23 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5602,
-   "2025": 15.0,
-   "2026": 6.0,
-   "variacion": -60.0,
+   "2025": 18.0,
+   "2026": 8.0,
+   "variacion": -56.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Algarrobo"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 5602,
+   "2025": 4.0,
+   "2026": 2.0,
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Algarrobo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5602,
    "2025": 3.0,
    "2026": 2.0,
@@ -100,20 +109,11 @@
    "COMUNA": "Algarrobo"
   },
   {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 5602,
-   "2025": 2.0,
-   "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
-   "COMUNA": "Algarrobo"
-  },
-  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 5602,
-   "2025": 6.0,
-   "2026": 1.0,
-   "variacion": -83.0,
+   "2025": 8.0,
+   "2026": 7.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Algarrobo"
   },
@@ -138,9 +138,9 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 5602,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 4.0,
-   "variacion": 100.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Algarrobo"
   },
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5602,
-   "2025": 36.0,
-   "2026": 29.0,
-   "variacion": -19.0,
+   "2025": 45.0,
+   "2026": 32.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Algarrobo"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5602,
-   "2025": 20.0,
-   "2026": 24.0,
-   "variacion": 20.0,
+   "2025": 23.0,
+   "2026": 27.0,
+   "variacion": 17.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Algarrobo"
   },
@@ -175,8 +175,8 @@
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5602,
    "2025": 1.0,
-   "2026": 2.0,
-   "variacion": 100.0,
+   "2026": 3.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Algarrobo"
   },
@@ -412,7 +412,7 @@
    "CODCOM": 5602,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 4.0,
    "COMUNA": "Algarrobo"
   },
   {
@@ -524,7 +524,7 @@
    "CODCOM": 5602,
    "anio": 2026,
    "mes": 2,
-   "casos": 9.0,
+   "casos": 22.0,
    "COMUNA": "Algarrobo"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 5602,
    "anio": 2026,
    "mes": 2,
-   "casos": 4.0,
+   "casos": 7.0,
    "COMUNA": "Algarrobo"
   },
   {
@@ -972,7 +972,7 @@
    "CODCOM": 5602,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 6.0,
    "COMUNA": "Algarrobo"
   },
   {
@@ -1084,7 +1084,7 @@
    "CODCOM": 5602,
    "anio": 2026,
    "mes": 2,
-   "casos": 10.0,
+   "casos": 16.0,
    "COMUNA": "Algarrobo"
   },
   {
@@ -1308,7 +1308,7 @@
    "CODCOM": 5602,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Algarrobo"
   },
   {
@@ -1644,7 +1644,7 @@
    "CODCOM": 5602,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 6.0,
    "COMUNA": "Algarrobo"
   },
   {
@@ -2204,7 +2204,7 @@
    "CODCOM": 5602,
    "anio": 2026,
    "mes": 2,
-   "casos": 5.0,
+   "casos": 8.0,
    "COMUNA": "Algarrobo"
   },
   {
@@ -2316,7 +2316,7 @@
    "CODCOM": 5602,
    "anio": 2026,
    "mes": 2,
-   "casos": 3.0,
+   "casos": 6.0,
    "COMUNA": "Algarrobo"
   },
   {
@@ -2428,7 +2428,7 @@
    "CODCOM": 5602,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Algarrobo"
   },
   {
@@ -2560,7 +2560,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 159.0,
    "2025": 182.0,
-   "2026": 21.0,
+   "2026": 24.0,
    "COMUNA": "Algarrobo"
   },
   {
@@ -2569,7 +2569,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 129.0,
    "2025": 263.0,
-   "2026": 37.0,
+   "2026": 50.0,
    "COMUNA": "Algarrobo"
   },
   {
@@ -2578,7 +2578,7 @@
    "delito": "DAÑOS",
    "2024": 179.0,
    "2025": 166.0,
-   "2026": 19.0,
+   "2026": 22.0,
    "COMUNA": "Algarrobo"
   },
   {
@@ -2605,7 +2605,7 @@
    "delito": "HURTOS",
    "2024": 115.0,
    "2025": 109.0,
-   "2026": 15.0,
+   "2026": 19.0,
    "COMUNA": "Algarrobo"
   },
   {
@@ -2614,7 +2614,7 @@
    "delito": "INCIVILIDADES",
    "2024": 72.0,
    "2025": 115.0,
-   "2026": 34.0,
+   "2026": 40.0,
    "COMUNA": "Algarrobo"
   },
   {
@@ -2632,7 +2632,7 @@
    "delito": "LESIONES LEVES",
    "2024": 74.0,
    "2025": 80.0,
-   "2026": 6.0,
+   "2026": 8.0,
    "COMUNA": "Algarrobo"
   },
   {
@@ -2659,7 +2659,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 20.0,
    "2025": 16.0,
-   "2026": 1.0,
+   "2026": 7.0,
    "COMUNA": "Algarrobo"
   },
   {
@@ -2704,7 +2704,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 112.0,
    "2025": 144.0,
-   "2026": 29.0,
+   "2026": 32.0,
    "COMUNA": "Algarrobo"
   },
   {
@@ -2713,7 +2713,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 299.0,
    "2025": 250.0,
-   "2026": 24.0,
+   "2026": 27.0,
    "COMUNA": "Algarrobo"
   },
   {
@@ -2722,7 +2722,7 @@
    "delito": "ROBOS POR SORPRESA",
    "2024": 8.0,
    "2025": 5.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Algarrobo"
   },
   {
@@ -2736,7 +2736,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "Valparaíso"
  }
 }

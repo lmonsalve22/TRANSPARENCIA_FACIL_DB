@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 10209,
-   "2025": 2.0,
-   "2026": 1.0,
-   "variacion": -50.0,
-   "situación": "Disminución de Casos",
+   "2025": 3.0,
+   "2026": 4.0,
+   "variacion": 33.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Quemchi"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10209,
-   "2025": 5.0,
+   "2025": 7.0,
    "2026": 3.0,
-   "variacion": -40.0,
+   "variacion": -57.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quemchi"
   },
@@ -139,18 +139,18 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 10209,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Quemchi"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 10209,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Quemchi"
   },
   {
@@ -627,7 +627,7 @@
    "CODCOM": 10209,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 3.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -1955,7 +1955,7 @@
    "CODCOM": 10209,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2060,6 +2060,14 @@
    "anio": 2026,
    "mes": 1,
    "casos": 0.0,
+   "COMUNA": "Quemchi"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 10209,
+   "anio": 2026,
+   "mes": 2,
+   "casos": 1.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2425,7 +2433,7 @@
    "delito": "DAÑOS",
    "2024": 67.0,
    "2025": 38.0,
-   "2026": 1.0,
+   "2026": 4.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2533,7 +2541,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 1.0,
    "2025": 0.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2542,7 +2550,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 1.0,
    "2025": 0.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2583,7 +2591,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "Los Lagos"
  }
 }

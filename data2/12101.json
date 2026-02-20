@@ -4,45 +4,45 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 12101,
    "2025": 4.0,
-   "2026": 1.0,
-   "variacion": -75.0,
+   "2026": 2.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Punta Arenas"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 12101,
-   "2025": 60.0,
-   "2026": 83.0,
-   "variacion": 38.0,
+   "2025": 72.0,
+   "2026": 97.0,
+   "variacion": 35.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Punta Arenas"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 12101,
-   "2025": 57.0,
-   "2026": 54.0,
-   "variacion": -5.0,
+   "2025": 63.0,
+   "2026": 56.0,
+   "variacion": -11.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Punta Arenas"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 12101,
-   "2025": 72.0,
-   "2026": 68.0,
-   "variacion": -6.0,
+   "2025": 86.0,
+   "2026": 78.0,
+   "variacion": -9.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Punta Arenas"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 12101,
-   "2025": 102.0,
-   "2026": 109.0,
-   "variacion": 7.0,
-   "situación": "Aumento de Casos",
+   "2025": 121.0,
+   "2026": 116.0,
+   "variacion": -4.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Punta Arenas"
   },
   {
@@ -57,23 +57,41 @@
   {
    "delito": "HURTOS",
    "CODCOM": 12101,
-   "2025": 42.0,
-   "2026": 49.0,
-   "variacion": 17.0,
+   "2025": 53.0,
+   "2026": 56.0,
+   "variacion": 6.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Punta Arenas"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 12101,
-   "2025": 20.0,
+   "2025": 23.0,
    "2026": 22.0,
-   "variacion": 10.0,
-   "situación": "Aumento de Casos",
+   "variacion": -4.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Punta Arenas"
   },
   {
    "delito": "LESIONES GRAVES",
+   "CODCOM": 12101,
+   "2025": 6.0,
+   "2026": 8.0,
+   "variacion": 33.0,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Punta Arenas"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 12101,
+   "2025": 35.0,
+   "2026": 44.0,
+   "variacion": 26.0,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Punta Arenas"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 12101,
    "2025": 5.0,
    "2026": 7.0,
@@ -82,29 +100,11 @@
    "COMUNA": "Punta Arenas"
   },
   {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 12101,
-   "2025": 30.0,
-   "2026": 41.0,
-   "variacion": 37.0,
-   "situación": "Aumento de Casos",
-   "COMUNA": "Punta Arenas"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 12101,
-   "2025": 4.0,
-   "2026": 3.0,
-   "variacion": -25.0,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Punta Arenas"
-  },
-  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 12101,
-   "2025": 8.0,
-   "2026": 5.0,
-   "variacion": -38.0,
+   "2025": 11.0,
+   "2026": 6.0,
+   "variacion": -45.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Punta Arenas"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 12101,
    "2025": 9.0,
-   "2026": 12.0,
-   "variacion": 33.0,
+   "2026": 16.0,
+   "variacion": 78.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Punta Arenas"
   },
@@ -121,9 +121,9 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 12101,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 2.0,
+   "variacion": 200.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Punta Arenas"
   },
   {
@@ -138,9 +138,9 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 12101,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 5.0,
-   "variacion": 500.0,
+   "variacion": 400.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Punta Arenas"
   },
@@ -148,25 +148,25 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 12101,
    "2025": 4.0,
-   "2026": 7.0,
-   "variacion": 75.0,
+   "2026": 8.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Punta Arenas"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 12101,
-   "2025": 4.0,
+   "2025": 8.0,
    "2026": 10.0,
-   "variacion": 150.0,
+   "variacion": 25.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Punta Arenas"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 12101,
-   "2025": 11.0,
-   "2026": 11.0,
+   "2025": 12.0,
+   "2026": 12.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Punta Arenas"
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 12101,
-   "2025": 7.0,
-   "2026": 2.0,
-   "variacion": -71.0,
+   "2025": 10.0,
+   "2026": 3.0,
+   "variacion": -70.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Punta Arenas"
   }
@@ -300,7 +300,7 @@
    "CODCOM": 12101,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -412,7 +412,7 @@
    "CODCOM": 12101,
    "anio": 2026,
    "mes": 2,
-   "casos": 12.0,
+   "casos": 26.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -524,7 +524,7 @@
    "CODCOM": 12101,
    "anio": 2026,
    "mes": 2,
-   "casos": 9.0,
+   "casos": 11.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 12101,
    "anio": 2026,
    "mes": 2,
-   "casos": 10.0,
+   "casos": 20.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -748,7 +748,7 @@
    "CODCOM": 12101,
    "anio": 2026,
    "mes": 2,
-   "casos": 12.0,
+   "casos": 19.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -972,7 +972,7 @@
    "CODCOM": 12101,
    "anio": 2026,
    "mes": 2,
-   "casos": 9.0,
+   "casos": 16.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -1196,7 +1196,7 @@
    "CODCOM": 12101,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -1308,7 +1308,7 @@
    "CODCOM": 12101,
    "anio": 2026,
    "mes": 2,
-   "casos": 12.0,
+   "casos": 15.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -1420,7 +1420,7 @@
    "CODCOM": 12101,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 5.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -1532,7 +1532,7 @@
    "CODCOM": 12101,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -1644,7 +1644,7 @@
    "CODCOM": 12101,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 5.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -1756,7 +1756,7 @@
    "CODCOM": 12101,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -2092,7 +2092,7 @@
    "CODCOM": 12101,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -2316,7 +2316,7 @@
    "CODCOM": 12101,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -2540,7 +2540,7 @@
    "CODCOM": 12101,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Punta Arenas"
   }
  ],
@@ -2551,7 +2551,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 17.0,
    "2025": 26.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -2560,7 +2560,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 595.0,
    "2025": 633.0,
-   "2026": 83.0,
+   "2026": 97.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -2569,7 +2569,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 905.0,
    "2025": 606.0,
-   "2026": 54.0,
+   "2026": 56.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -2578,7 +2578,7 @@
    "delito": "DAÑOS",
    "2024": 670.0,
    "2025": 654.0,
-   "2026": 68.0,
+   "2026": 78.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -2587,7 +2587,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 829.0,
    "2025": 957.0,
-   "2026": 109.0,
+   "2026": 116.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -2605,7 +2605,7 @@
    "delito": "HURTOS",
    "2024": 405.0,
    "2025": 390.0,
-   "2026": 49.0,
+   "2026": 56.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -2623,7 +2623,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 35.0,
    "2025": 29.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -2632,7 +2632,7 @@
    "delito": "LESIONES LEVES",
    "2024": 279.0,
    "2025": 300.0,
-   "2026": 41.0,
+   "2026": 44.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -2641,7 +2641,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 57.0,
    "2025": 51.0,
-   "2026": 3.0,
+   "2026": 7.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -2650,7 +2650,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 50.0,
    "2025": 50.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -2659,7 +2659,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 53.0,
    "2025": 55.0,
-   "2026": 12.0,
+   "2026": 16.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -2668,7 +2668,7 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2024": 4.0,
    "2025": 8.0,
-   "2026": 0.0,
+   "2026": 2.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -2695,7 +2695,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 50.0,
    "2025": 51.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -2713,7 +2713,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 123.0,
    "2025": 106.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "Punta Arenas"
   },
   {
@@ -2731,12 +2731,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 69.0,
    "2025": 71.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Punta Arenas"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "Magallanes"
  }
 }

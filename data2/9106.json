@@ -3,7 +3,7 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 9106,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9106,
-   "2025": 11.0,
-   "2026": 6.0,
-   "variacion": -45.0,
+   "2025": 13.0,
+   "2026": 8.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Galvarino"
   },
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9106,
    "2025": 31.0,
-   "2026": 25.0,
-   "variacion": -19.0,
-   "situación": "Disminución de Casos",
+   "2026": 33.0,
+   "variacion": 6.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Galvarino"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9106,
-   "2025": 3.0,
+   "2025": 5.0,
    "2026": 8.0,
-   "variacion": 167.0,
+   "variacion": 60.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Galvarino"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9106,
-   "2025": 11.0,
+   "2025": 12.0,
    "2026": 8.0,
-   "variacion": -27.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Galvarino"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 9106,
    "2025": 2.0,
-   "2026": 0.0,
-   "variacion": -100.0,
+   "2026": 1.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Galvarino"
   },
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 9106,
-   "2025": 1.0,
-   "2026": 4.0,
-   "variacion": 300.0,
+   "2025": 2.0,
+   "2026": 5.0,
+   "variacion": 150.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Galvarino"
   },
@@ -147,7 +147,7 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9106,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -184,9 +184,9 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9106,
    "2025": 2.0,
-   "2026": 1.0,
-   "variacion": -50.0,
-   "situación": "Disminución de Casos",
+   "2026": 2.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Galvarino"
   }
  ],
@@ -412,7 +412,7 @@
    "CODCOM": 9106,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Galvarino"
   },
   {
@@ -524,7 +524,7 @@
    "CODCOM": 9106,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 10.0,
    "COMUNA": "Galvarino"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 9106,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Galvarino"
   },
   {
@@ -1860,7 +1860,7 @@
    "CODCOM": 9106,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Galvarino"
   },
   {
@@ -2524,7 +2524,7 @@
    "CODCOM": 9106,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Galvarino"
   }
  ],
@@ -2544,7 +2544,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 88.0,
    "2025": 94.0,
-   "2026": 6.0,
+   "2026": 8.0,
    "COMUNA": "Galvarino"
   },
   {
@@ -2553,7 +2553,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 348.0,
    "2025": 148.0,
-   "2026": 25.0,
+   "2026": 33.0,
    "COMUNA": "Galvarino"
   },
   {
@@ -2598,7 +2598,7 @@
    "delito": "INCIVILIDADES",
    "2024": 17.0,
    "2025": 9.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Galvarino"
   },
   {
@@ -2661,7 +2661,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 6.0,
    "2025": 9.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Galvarino"
   },
   {
@@ -2715,12 +2715,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 13.0,
    "2025": 17.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Galvarino"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "La Araucanía"
  }
 }

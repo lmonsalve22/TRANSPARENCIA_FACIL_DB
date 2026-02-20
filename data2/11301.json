@@ -21,10 +21,10 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11301,
-   "2025": 5.0,
+   "2025": 12.0,
    "2026": 6.0,
-   "variacion": 20.0,
-   "situación": "Aumento de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Cochrane"
   },
   {
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11301,
    "2025": 2.0,
-   "2026": 5.0,
-   "variacion": 150.0,
+   "2026": 7.0,
+   "variacion": 250.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochrane"
   },
@@ -57,19 +57,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 11301,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 3.0,
-   "variacion": 50.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cochrane"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 11301,
-   "2025": 4.0,
+   "2025": 6.0,
    "2026": 4.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Cochrane"
   },
   {
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 11301,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 3.0,
-   "variacion": 50.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cochrane"
   },
   {
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 11301,
    "2025": 0.0,
-   "2026": 10.0,
-   "variacion": 1000.0,
+   "2026": 13.0,
+   "variacion": 1300.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochrane"
   },
@@ -739,7 +739,7 @@
    "CODCOM": 11301,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Cochrane"
   },
   {
@@ -1515,7 +1515,7 @@
    "CODCOM": 11301,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 5.0,
    "COMUNA": "Cochrane"
   },
   {
@@ -2442,7 +2442,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 19.0,
    "2025": 35.0,
-   "2026": 5.0,
+   "2026": 7.0,
    "COMUNA": "Cochrane"
   },
   {
@@ -2505,7 +2505,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 2.0,
    "2025": 5.0,
-   "2026": 10.0,
+   "2026": 13.0,
    "COMUNA": "Cochrane"
   },
   {
@@ -2591,7 +2591,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "Aysén"
  }
 }

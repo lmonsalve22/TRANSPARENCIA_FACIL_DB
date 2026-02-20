@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 15201,
-   "2025": 2.0,
-   "2026": 5.0,
-   "variacion": 150.0,
+   "2025": 4.0,
+   "2026": 7.0,
+   "variacion": 75.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Putre"
   },
@@ -129,10 +129,10 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 15201,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Putre"
   },
   {
@@ -619,7 +619,7 @@
    "CODCOM": 15201,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Putre"
   },
   {
@@ -2409,7 +2409,7 @@
    "delito": "DAÑOS",
    "2024": 55.0,
    "2025": 40.0,
-   "2026": 5.0,
+   "2026": 7.0,
    "COMUNA": "Putre"
   },
   {
@@ -2567,7 +2567,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "Arica y Parinacota"
  }
 }

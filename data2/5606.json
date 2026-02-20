@@ -3,36 +3,36 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 5606,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Santo Domingo"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5606,
    "2025": 8.0,
-   "2026": 8.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 9.0,
+   "variacion": 12.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Santo Domingo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5606,
    "2025": 13.0,
-   "2026": 4.0,
-   "variacion": -69.0,
+   "2026": 6.0,
+   "variacion": -54.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santo Domingo"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5606,
-   "2025": 14.0,
-   "2026": 9.0,
-   "variacion": -36.0,
+   "2025": 18.0,
+   "2026": 11.0,
+   "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santo Domingo"
   },
@@ -48,9 +48,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5606,
-   "2025": 5.0,
+   "2025": 8.0,
    "2026": 1.0,
-   "variacion": -80.0,
+   "variacion": -88.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santo Domingo"
   },
@@ -76,8 +76,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 5606,
    "2025": 6.0,
-   "2026": 1.0,
-   "variacion": -83.0,
+   "2026": 2.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santo Domingo"
   },
@@ -129,16 +129,16 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 5606,
-   "2025": 0.0,
+   "2025": 3.0,
    "2026": 4.0,
-   "variacion": 400.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Santo Domingo"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5606,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -147,18 +147,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5606,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 2.0,
-   "variacion": -33.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santo Domingo"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5606,
-   "2025": 7.0,
-   "2026": 6.0,
-   "variacion": -14.0,
+   "2025": 8.0,
+   "2026": 7.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santo Domingo"
   },
@@ -403,7 +403,7 @@
    "CODCOM": 5606,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Santo Domingo"
   },
   {
@@ -515,7 +515,7 @@
    "CODCOM": 5606,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Santo Domingo"
   },
   {
@@ -627,7 +627,7 @@
    "CODCOM": 5606,
    "anio": 2026,
    "mes": 2,
-   "casos": 3.0,
+   "casos": 5.0,
    "COMUNA": "Santo Domingo"
   },
   {
@@ -1187,7 +1187,7 @@
    "CODCOM": 5606,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Santo Domingo"
   },
   {
@@ -2179,7 +2179,7 @@
    "CODCOM": 5606,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Santo Domingo"
   },
   {
@@ -2423,7 +2423,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 54.0,
    "2025": 69.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Santo Domingo"
   },
   {
@@ -2432,7 +2432,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 59.0,
    "2025": 40.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Santo Domingo"
   },
   {
@@ -2441,7 +2441,7 @@
    "delito": "DAÑOS",
    "2024": 127.0,
    "2025": 91.0,
-   "2026": 9.0,
+   "2026": 11.0,
    "COMUNA": "Santo Domingo"
   },
   {
@@ -2495,7 +2495,7 @@
    "delito": "LESIONES LEVES",
    "2024": 19.0,
    "2025": 33.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Santo Domingo"
   },
   {
@@ -2576,7 +2576,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 140.0,
    "2025": 83.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Santo Domingo"
   },
   {
@@ -2599,7 +2599,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "Valparaíso"
  }
 }

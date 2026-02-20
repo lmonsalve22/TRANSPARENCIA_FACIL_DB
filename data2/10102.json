@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10102,
-   "2025": 55.0,
-   "2026": 56.0,
-   "variacion": 2.0,
+   "2025": 59.0,
+   "2026": 64.0,
+   "variacion": 8.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Calbuco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10102,
-   "2025": 116.0,
-   "2026": 80.0,
-   "variacion": -31.0,
+   "2025": 137.0,
+   "2026": 101.0,
+   "variacion": -26.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Calbuco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10102,
-   "2025": 41.0,
-   "2026": 32.0,
-   "variacion": -22.0,
+   "2025": 49.0,
+   "2026": 40.0,
+   "variacion": -18.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Calbuco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10102,
-   "2025": 53.0,
-   "2026": 50.0,
-   "variacion": -6.0,
+   "2025": 65.0,
+   "2026": 57.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Calbuco"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10102,
-   "2025": 22.0,
-   "2026": 11.0,
-   "variacion": -50.0,
+   "2025": 23.0,
+   "2026": 14.0,
+   "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Calbuco"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10102,
-   "2025": 18.0,
-   "2026": 17.0,
-   "variacion": -6.0,
+   "2025": 21.0,
+   "2026": 18.0,
+   "variacion": -14.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Calbuco"
   },
@@ -76,35 +76,35 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 10102,
    "2025": 3.0,
-   "2026": 1.0,
-   "variacion": -67.0,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Calbuco"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 10102,
-   "2025": 11.0,
-   "2026": 12.0,
-   "variacion": 9.0,
-   "situación": "Aumento de Casos",
-   "COMUNA": "Calbuco"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 10102,
-   "2025": 2.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Calbuco"
   },
   {
-   "delito": "LEY DE CONTROL DE ARMAS",
+   "delito": "LESIONES LEVES",
+   "CODCOM": 10102,
+   "2025": 15.0,
+   "2026": 12.0,
+   "variacion": -20.0,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Calbuco"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10102,
    "2025": 3.0,
+   "2026": 2.0,
+   "variacion": -33.0,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Calbuco"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 10102,
+   "2025": 4.0,
    "2026": 6.0,
-   "variacion": 100.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Calbuco"
   },
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 10102,
    "2025": 4.0,
-   "2026": 1.0,
-   "variacion": -75.0,
+   "2026": 2.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Calbuco"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10102,
-   "2025": 19.0,
-   "2026": 9.0,
-   "variacion": -53.0,
+   "2025": 22.0,
+   "2026": 10.0,
+   "variacion": -55.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Calbuco"
   },
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10102,
-   "2025": 5.0,
+   "2025": 7.0,
    "2026": 5.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -29.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Calbuco"
   }
  ],
@@ -412,7 +412,7 @@
    "CODCOM": 10102,
    "anio": 2026,
    "mes": 2,
-   "casos": 15.0,
+   "casos": 23.0,
    "COMUNA": "Calbuco"
   },
   {
@@ -524,7 +524,7 @@
    "CODCOM": 10102,
    "anio": 2026,
    "mes": 2,
-   "casos": 5.0,
+   "casos": 26.0,
    "COMUNA": "Calbuco"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 10102,
    "anio": 2026,
    "mes": 2,
-   "casos": 4.0,
+   "casos": 12.0,
    "COMUNA": "Calbuco"
   },
   {
@@ -748,7 +748,7 @@
    "CODCOM": 10102,
    "anio": 2026,
    "mes": 2,
-   "casos": 10.0,
+   "casos": 17.0,
    "COMUNA": "Calbuco"
   },
   {
@@ -972,7 +972,7 @@
    "CODCOM": 10102,
    "anio": 2026,
    "mes": 2,
-   "casos": 3.0,
+   "casos": 6.0,
    "COMUNA": "Calbuco"
   },
   {
@@ -1084,7 +1084,7 @@
    "CODCOM": 10102,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Calbuco"
   },
   {
@@ -1196,7 +1196,7 @@
    "CODCOM": 10102,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Calbuco"
   },
   {
@@ -2084,7 +2084,7 @@
    "CODCOM": 10102,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Calbuco"
   },
   {
@@ -2308,7 +2308,7 @@
    "CODCOM": 10102,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Calbuco"
   },
   {
@@ -2552,7 +2552,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 459.0,
    "2025": 399.0,
-   "2026": 56.0,
+   "2026": 64.0,
    "COMUNA": "Calbuco"
   },
   {
@@ -2561,7 +2561,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 834.0,
    "2025": 837.0,
-   "2026": 80.0,
+   "2026": 101.0,
    "COMUNA": "Calbuco"
   },
   {
@@ -2570,7 +2570,7 @@
    "delito": "DAÑOS",
    "2024": 352.0,
    "2025": 291.0,
-   "2026": 32.0,
+   "2026": 40.0,
    "COMUNA": "Calbuco"
   },
   {
@@ -2579,7 +2579,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 457.0,
    "2025": 450.0,
-   "2026": 50.0,
+   "2026": 57.0,
    "COMUNA": "Calbuco"
   },
   {
@@ -2597,7 +2597,7 @@
    "delito": "HURTOS",
    "2024": 180.0,
    "2025": 161.0,
-   "2026": 11.0,
+   "2026": 14.0,
    "COMUNA": "Calbuco"
   },
   {
@@ -2606,7 +2606,7 @@
    "delito": "INCIVILIDADES",
    "2024": 154.0,
    "2025": 137.0,
-   "2026": 17.0,
+   "2026": 18.0,
    "COMUNA": "Calbuco"
   },
   {
@@ -2615,7 +2615,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 21.0,
    "2025": 23.0,
-   "2026": 1.0,
+   "2026": 3.0,
    "COMUNA": "Calbuco"
   },
   {
@@ -2687,7 +2687,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 24.0,
    "2025": 12.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Calbuco"
   },
   {
@@ -2705,7 +2705,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 158.0,
    "2025": 109.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Calbuco"
   },
   {
@@ -2728,7 +2728,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "Los Lagos"
  }
 }

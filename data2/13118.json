@@ -12,26 +12,26 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13118,
-   "2025": 88.0,
-   "2026": 90.0,
-   "variacion": 2.0,
-   "situación": "Aumento de Casos",
+   "2025": 107.0,
+   "2026": 101.0,
+   "variacion": -6.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Macul"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13118,
-   "2025": 160.0,
-   "2026": 54.0,
-   "variacion": -66.0,
+   "2025": 187.0,
+   "2026": 66.0,
+   "variacion": -65.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Macul"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 13118,
-   "2025": 82.0,
-   "2026": 64.0,
+   "2025": 96.0,
+   "2026": 75.0,
    "variacion": -22.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Macul"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13118,
-   "2025": 95.0,
-   "2026": 63.0,
-   "variacion": -34.0,
+   "2025": 107.0,
+   "2026": 78.0,
+   "variacion": -27.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Macul"
   },
@@ -49,22 +49,49 @@
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 13118,
    "2025": 2.0,
-   "2026": 0.0,
-   "variacion": -100.0,
+   "2026": 1.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Macul"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 13118,
-   "2025": 62.0,
-   "2026": 43.0,
-   "variacion": -31.0,
+   "2025": 71.0,
+   "2026": 50.0,
+   "variacion": -30.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Macul"
   },
   {
    "delito": "INCIVILIDADES",
+   "CODCOM": 13118,
+   "2025": 7.0,
+   "2026": 9.0,
+   "variacion": 29.0,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Macul"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 13118,
+   "2025": 2.0,
+   "2026": 3.0,
+   "variacion": 50.0,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Macul"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 13118,
+   "2025": 28.0,
+   "2026": 32.0,
+   "variacion": 14.0,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Macul"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 13118,
    "2025": 4.0,
    "2026": 8.0,
@@ -73,47 +100,20 @@
    "COMUNA": "Macul"
   },
   {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 13118,
-   "2025": 1.0,
-   "2026": 2.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
-   "COMUNA": "Macul"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 13118,
-   "2025": 23.0,
-   "2026": 28.0,
-   "variacion": 22.0,
-   "situación": "Aumento de Casos",
-   "COMUNA": "Macul"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 13118,
-   "2025": 4.0,
-   "2026": 7.0,
-   "variacion": 75.0,
-   "situación": "Aumento de Casos",
-   "COMUNA": "Macul"
-  },
-  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 13118,
-   "2025": 19.0,
-   "2026": 12.0,
-   "variacion": -37.0,
+   "2025": 21.0,
+   "2026": 13.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Macul"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 13118,
-   "2025": 6.0,
-   "2026": 2.0,
-   "variacion": -67.0,
+   "2025": 8.0,
+   "2026": 3.0,
+   "variacion": -62.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Macul"
   },
@@ -121,8 +121,8 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 13118,
    "2025": 1.0,
-   "2026": 2.0,
-   "variacion": 100.0,
+   "2026": 3.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Macul"
   },
@@ -138,55 +138,55 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 13118,
-   "2025": 8.0,
-   "2026": 2.0,
-   "variacion": -75.0,
+   "2025": 9.0,
+   "2026": 3.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Macul"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 13118,
-   "2025": 83.0,
-   "2026": 61.0,
-   "variacion": -27.0,
+   "2025": 101.0,
+   "2026": 70.0,
+   "variacion": -31.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Macul"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 13118,
-   "2025": 94.0,
-   "2026": 102.0,
-   "variacion": 9.0,
-   "situación": "Aumento de Casos",
+   "2025": 116.0,
+   "2026": 112.0,
+   "variacion": -3.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Macul"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13118,
-   "2025": 61.0,
-   "2026": 39.0,
-   "variacion": -36.0,
+   "2025": 69.0,
+   "2026": 48.0,
+   "variacion": -30.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Macul"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13118,
-   "2025": 46.0,
-   "2026": 70.0,
-   "variacion": 52.0,
+   "2025": 58.0,
+   "2026": 83.0,
+   "variacion": 43.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Macul"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 13118,
-   "2025": 8.0,
-   "2026": 7.0,
-   "variacion": -12.0,
-   "situación": "Disminución de Casos",
+   "2025": 10.0,
+   "2026": 10.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Macul"
   }
  ],
@@ -412,7 +412,7 @@
    "CODCOM": 13118,
    "anio": 2026,
    "mes": 2,
-   "casos": 11.0,
+   "casos": 22.0,
    "COMUNA": "Macul"
   },
   {
@@ -524,7 +524,7 @@
    "CODCOM": 13118,
    "anio": 2026,
    "mes": 2,
-   "casos": 16.0,
+   "casos": 28.0,
    "COMUNA": "Macul"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 13118,
    "anio": 2026,
    "mes": 2,
-   "casos": 17.0,
+   "casos": 28.0,
    "COMUNA": "Macul"
   },
   {
@@ -748,7 +748,7 @@
    "CODCOM": 13118,
    "anio": 2026,
    "mes": 2,
-   "casos": 6.0,
+   "casos": 21.0,
    "COMUNA": "Macul"
   },
   {
@@ -860,7 +860,7 @@
    "CODCOM": 13118,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Macul"
   },
   {
@@ -972,7 +972,7 @@
    "CODCOM": 13118,
    "anio": 2026,
    "mes": 2,
-   "casos": 6.0,
+   "casos": 13.0,
    "COMUNA": "Macul"
   },
   {
@@ -1084,7 +1084,7 @@
    "CODCOM": 13118,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Macul"
   },
   {
@@ -1196,7 +1196,7 @@
    "CODCOM": 13118,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Macul"
   },
   {
@@ -1308,7 +1308,7 @@
    "CODCOM": 13118,
    "anio": 2026,
    "mes": 2,
-   "casos": 5.0,
+   "casos": 9.0,
    "COMUNA": "Macul"
   },
   {
@@ -1420,7 +1420,7 @@
    "CODCOM": 13118,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Macul"
   },
   {
@@ -1532,7 +1532,7 @@
    "CODCOM": 13118,
    "anio": 2026,
    "mes": 2,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Macul"
   },
   {
@@ -1644,7 +1644,7 @@
    "CODCOM": 13118,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Macul"
   },
   {
@@ -1756,7 +1756,7 @@
    "CODCOM": 13118,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Macul"
   },
   {
@@ -1980,7 +1980,7 @@
    "CODCOM": 13118,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Macul"
   },
   {
@@ -2092,7 +2092,7 @@
    "CODCOM": 13118,
    "anio": 2026,
    "mes": 2,
-   "casos": 8.0,
+   "casos": 17.0,
    "COMUNA": "Macul"
   },
   {
@@ -2204,7 +2204,7 @@
    "CODCOM": 13118,
    "anio": 2026,
    "mes": 2,
-   "casos": 25.0,
+   "casos": 35.0,
    "COMUNA": "Macul"
   },
   {
@@ -2316,7 +2316,7 @@
    "CODCOM": 13118,
    "anio": 2026,
    "mes": 2,
-   "casos": 4.0,
+   "casos": 13.0,
    "COMUNA": "Macul"
   },
   {
@@ -2428,7 +2428,7 @@
    "CODCOM": 13118,
    "anio": 2026,
    "mes": 2,
-   "casos": 9.0,
+   "casos": 22.0,
    "COMUNA": "Macul"
   },
   {
@@ -2540,7 +2540,7 @@
    "CODCOM": 13118,
    "anio": 2026,
    "mes": 2,
-   "casos": 3.0,
+   "casos": 6.0,
    "COMUNA": "Macul"
   }
  ],
@@ -2560,7 +2560,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 732.0,
    "2025": 649.0,
-   "2026": 90.0,
+   "2026": 101.0,
    "COMUNA": "Macul"
   },
   {
@@ -2569,7 +2569,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 468.0,
    "2025": 765.0,
-   "2026": 54.0,
+   "2026": 66.0,
    "COMUNA": "Macul"
   },
   {
@@ -2578,7 +2578,7 @@
    "delito": "DAÑOS",
    "2024": 637.0,
    "2025": 633.0,
-   "2026": 64.0,
+   "2026": 75.0,
    "COMUNA": "Macul"
   },
   {
@@ -2587,7 +2587,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 627.0,
    "2025": 570.0,
-   "2026": 63.0,
+   "2026": 78.0,
    "COMUNA": "Macul"
   },
   {
@@ -2596,7 +2596,7 @@
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "2024": 6.0,
    "2025": 4.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Macul"
   },
   {
@@ -2605,7 +2605,7 @@
    "delito": "HURTOS",
    "2024": 730.0,
    "2025": 633.0,
-   "2026": 43.0,
+   "2026": 50.0,
    "COMUNA": "Macul"
   },
   {
@@ -2614,7 +2614,7 @@
    "delito": "INCIVILIDADES",
    "2024": 54.0,
    "2025": 55.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Macul"
   },
   {
@@ -2623,7 +2623,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 34.0,
    "2025": 18.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Macul"
   },
   {
@@ -2632,7 +2632,7 @@
    "delito": "LESIONES LEVES",
    "2024": 236.0,
    "2025": 225.0,
-   "2026": 28.0,
+   "2026": 32.0,
    "COMUNA": "Macul"
   },
   {
@@ -2641,7 +2641,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 28.0,
    "2025": 32.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Macul"
   },
   {
@@ -2650,7 +2650,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 166.0,
    "2025": 181.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "Macul"
   },
   {
@@ -2659,7 +2659,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 31.0,
    "2025": 74.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Macul"
   },
   {
@@ -2668,7 +2668,7 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2024": 27.0,
    "2025": 14.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Macul"
   },
   {
@@ -2686,7 +2686,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 51.0,
    "2025": 40.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Macul"
   },
   {
@@ -2695,7 +2695,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 919.0,
    "2025": 659.0,
-   "2026": 61.0,
+   "2026": 70.0,
    "COMUNA": "Macul"
   },
   {
@@ -2704,7 +2704,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 1024.0,
    "2025": 874.0,
-   "2026": 102.0,
+   "2026": 112.0,
    "COMUNA": "Macul"
   },
   {
@@ -2713,7 +2713,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 358.0,
    "2025": 341.0,
-   "2026": 39.0,
+   "2026": 48.0,
    "COMUNA": "Macul"
   },
   {
@@ -2722,7 +2722,7 @@
    "delito": "ROBOS POR SORPRESA",
    "2024": 506.0,
    "2025": 460.0,
-   "2026": 70.0,
+   "2026": 83.0,
    "COMUNA": "Macul"
   },
   {
@@ -2731,12 +2731,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 77.0,
    "2025": 67.0,
-   "2026": 7.0,
+   "2026": 10.0,
    "COMUNA": "Macul"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "Metropolitana"
  }
 }

@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10104,
-   "2025": 16.0,
-   "2026": 18.0,
+   "2025": 17.0,
+   "2026": 19.0,
    "variacion": 12.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Fresia"
@@ -21,9 +21,9 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10104,
-   "2025": 37.0,
-   "2026": 45.0,
-   "variacion": 22.0,
+   "2025": 46.0,
+   "2026": 51.0,
+   "variacion": 11.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Fresia"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 10104,
    "2025": 8.0,
-   "2026": 5.0,
-   "variacion": -38.0,
+   "2026": 7.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Fresia"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10104,
-   "2025": 15.0,
+   "2025": 19.0,
    "2026": 13.0,
-   "variacion": -13.0,
+   "variacion": -32.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Fresia"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10104,
-   "2025": 5.0,
+   "2025": 8.0,
    "2026": 4.0,
-   "variacion": -20.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Fresia"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10104,
-   "2025": 3.0,
-   "2026": 7.0,
-   "variacion": 133.0,
+   "2025": 6.0,
+   "2026": 10.0,
+   "variacion": 67.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Fresia"
   },
@@ -412,7 +412,7 @@
    "CODCOM": 10104,
    "anio": 2026,
    "mes": 2,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Fresia"
   },
   {
@@ -524,7 +524,7 @@
    "CODCOM": 10104,
    "anio": 2026,
    "mes": 2,
-   "casos": 15.0,
+   "casos": 21.0,
    "COMUNA": "Fresia"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 10104,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Fresia"
   },
   {
@@ -1308,7 +1308,7 @@
    "CODCOM": 10104,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 4.0,
    "COMUNA": "Fresia"
   },
   {
@@ -2536,7 +2536,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 122.0,
    "2025": 110.0,
-   "2026": 18.0,
+   "2026": 19.0,
    "COMUNA": "Fresia"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 266.0,
    "2025": 272.0,
-   "2026": 45.0,
+   "2026": 51.0,
    "COMUNA": "Fresia"
   },
   {
@@ -2554,7 +2554,7 @@
    "delito": "DAÑOS",
    "2024": 89.0,
    "2025": 69.0,
-   "2026": 5.0,
+   "2026": 7.0,
    "COMUNA": "Fresia"
   },
   {
@@ -2608,7 +2608,7 @@
    "delito": "LESIONES LEVES",
    "2024": 50.0,
    "2025": 35.0,
-   "2026": 7.0,
+   "2026": 10.0,
    "COMUNA": "Fresia"
   },
   {
@@ -2712,7 +2712,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "Los Lagos"
  }
 }

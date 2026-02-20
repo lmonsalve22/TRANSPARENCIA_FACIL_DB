@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9110,
-   "2025": 8.0,
+   "2025": 12.0,
    "2026": 5.0,
-   "variacion": -38.0,
+   "variacion": -58.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Melipeuco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9110,
-   "2025": 14.0,
-   "2026": 4.0,
-   "variacion": -71.0,
+   "2025": 16.0,
+   "2026": 6.0,
+   "variacion": -62.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Melipeuco"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 9110,
    "2025": 5.0,
-   "2026": 6.0,
-   "variacion": 20.0,
+   "2026": 9.0,
+   "variacion": 80.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Melipeuco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9110,
-   "2025": 7.0,
+   "2025": 8.0,
    "2026": 6.0,
-   "variacion": -14.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Melipeuco"
   },
@@ -57,7 +57,7 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9110,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 9110,
    "2025": 5.0,
-   "2026": 4.0,
-   "variacion": -20.0,
-   "situación": "Disminución de Casos",
+   "2026": 5.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Melipeuco"
   },
   {
@@ -516,7 +516,7 @@
    "CODCOM": 9110,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Melipeuco"
   },
   {
@@ -628,7 +628,7 @@
    "CODCOM": 9110,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 3.0,
    "COMUNA": "Melipeuco"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 9110,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Melipeuco"
   },
   {
@@ -2529,7 +2529,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 64.0,
    "2025": 63.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Melipeuco"
   },
   {
@@ -2538,7 +2538,7 @@
    "delito": "DAÑOS",
    "2024": 40.0,
    "2025": 33.0,
-   "2026": 6.0,
+   "2026": 9.0,
    "COMUNA": "Melipeuco"
   },
   {
@@ -2574,7 +2574,7 @@
    "delito": "INCIVILIDADES",
    "2024": 40.0,
    "2025": 34.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Melipeuco"
   },
   {
@@ -2696,7 +2696,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "La Araucanía"
  }
 }

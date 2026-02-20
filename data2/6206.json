@@ -12,23 +12,14 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6206,
-   "2025": 3.0,
-   "2026": 7.0,
-   "variacion": 133.0,
+   "2025": 4.0,
+   "2026": 8.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Paredones"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "CODCOM": 6206,
-   "2025": 3.0,
-   "2026": 5.0,
-   "variacion": 67.0,
-   "situación": "Aumento de Casos",
-   "COMUNA": "Paredones"
-  },
-  {
-   "delito": "DAÑOS",
    "CODCOM": 6206,
    "2025": 5.0,
    "2026": 8.0,
@@ -37,11 +28,20 @@
    "COMUNA": "Paredones"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 6206,
+   "2025": 9.0,
+   "2026": 9.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "Paredones"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6206,
-   "2025": 10.0,
-   "2026": 5.0,
-   "variacion": -50.0,
+   "2025": 11.0,
+   "2026": 6.0,
+   "variacion": -45.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Paredones"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6206,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 6.0,
-   "variacion": 500.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Paredones"
   },
@@ -85,9 +85,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 6206,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 2.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Paredones"
   },
   {
@@ -111,10 +111,10 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6206,
-   "2025": 0.0,
+   "2025": 2.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Paredones"
   },
   {
@@ -157,17 +157,17 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6206,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 1.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Paredones"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6206,
-   "2025": 3.0,
-   "2026": 6.0,
-   "variacion": 100.0,
+   "2025": 4.0,
+   "2026": 7.0,
+   "variacion": 75.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Paredones"
   },
@@ -412,7 +412,7 @@
    "CODCOM": 6206,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Paredones"
   },
   {
@@ -524,7 +524,7 @@
    "CODCOM": 6206,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 4.0,
    "COMUNA": "Paredones"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 6206,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Paredones"
   },
   {
@@ -748,7 +748,7 @@
    "CODCOM": 6206,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Paredones"
   },
   {
@@ -1308,7 +1308,7 @@
    "CODCOM": 6206,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Paredones"
   },
   {
@@ -2196,7 +2196,7 @@
    "CODCOM": 6206,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Paredones"
   },
   {
@@ -2308,7 +2308,7 @@
    "CODCOM": 6206,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Paredones"
   },
   {
@@ -2544,7 +2544,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 38.0,
    "2025": 46.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Paredones"
   },
   {
@@ -2553,7 +2553,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 65.0,
    "2025": 27.0,
-   "2026": 5.0,
+   "2026": 8.0,
    "COMUNA": "Paredones"
   },
   {
@@ -2562,7 +2562,7 @@
    "delito": "DAÑOS",
    "2024": 67.0,
    "2025": 49.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Paredones"
   },
   {
@@ -2571,7 +2571,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 50.0,
    "2025": 46.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Paredones"
   },
   {
@@ -2616,7 +2616,7 @@
    "delito": "LESIONES LEVES",
    "2024": 10.0,
    "2025": 20.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Paredones"
   },
   {
@@ -2688,7 +2688,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 11.0,
    "2025": 2.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Paredones"
   },
   {
@@ -2697,7 +2697,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 55.0,
    "2025": 33.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Paredones"
   },
   {
@@ -2720,7 +2720,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "O'Higgins"
  }
 }

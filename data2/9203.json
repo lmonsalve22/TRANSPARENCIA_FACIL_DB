@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9203,
-   "2025": 19.0,
-   "2026": 20.0,
-   "variacion": 5.0,
+   "2025": 21.0,
+   "2026": 23.0,
+   "variacion": 10.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Curacautín"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 9203,
-   "2025": 12.0,
-   "2026": 18.0,
-   "variacion": 50.0,
+   "2025": 16.0,
+   "2026": 23.0,
+   "variacion": 44.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Curacautín"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9203,
-   "2025": 19.0,
-   "2026": 16.0,
-   "variacion": -16.0,
+   "2025": 25.0,
+   "2026": 18.0,
+   "variacion": -28.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curacautín"
   },
@@ -49,8 +49,8 @@
    "delito": "HURTOS",
    "CODCOM": 9203,
    "2025": 8.0,
-   "2026": 13.0,
-   "variacion": 62.0,
+   "2026": 14.0,
+   "variacion": 75.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Curacautín"
   },
@@ -76,9 +76,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 9203,
    "2025": 6.0,
-   "2026": 4.0,
-   "variacion": -33.0,
-   "situación": "Disminución de Casos",
+   "2026": 6.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Curacautín"
   },
   {
@@ -103,8 +103,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 9203,
    "2025": 0.0,
-   "2026": 2.0,
-   "variacion": 200.0,
+   "2026": 3.0,
+   "variacion": 300.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Curacautín"
   },
@@ -147,18 +147,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9203,
-   "2025": 2.0,
+   "2025": 4.0,
    "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Curacautín"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9203,
-   "2025": 8.0,
-   "2026": 7.0,
-   "variacion": -12.0,
+   "2025": 10.0,
+   "2026": 8.0,
+   "variacion": -20.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curacautín"
   },
@@ -403,7 +403,7 @@
    "CODCOM": 9203,
    "anio": 2026,
    "mes": 2,
-   "casos": 7.0,
+   "casos": 10.0,
    "COMUNA": "Curacautín"
   },
   {
@@ -627,7 +627,7 @@
    "CODCOM": 9203,
    "anio": 2026,
    "mes": 2,
-   "casos": 3.0,
+   "casos": 8.0,
    "COMUNA": "Curacautín"
   },
   {
@@ -739,7 +739,7 @@
    "CODCOM": 9203,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Curacautín"
   },
   {
@@ -851,7 +851,7 @@
    "CODCOM": 9203,
    "anio": 2026,
    "mes": 2,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Curacautín"
   },
   {
@@ -1187,7 +1187,7 @@
    "CODCOM": 9203,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Curacautín"
   },
   {
@@ -1523,7 +1523,7 @@
    "CODCOM": 9203,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Curacautín"
   },
   {
@@ -2195,7 +2195,7 @@
    "CODCOM": 9203,
    "anio": 2026,
    "mes": 2,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Curacautín"
   },
   {
@@ -2439,7 +2439,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 160.0,
    "2025": 164.0,
-   "2026": 20.0,
+   "2026": 23.0,
    "COMUNA": "Curacautín"
   },
   {
@@ -2457,7 +2457,7 @@
    "delito": "DAÑOS",
    "2024": 182.0,
    "2025": 175.0,
-   "2026": 18.0,
+   "2026": 23.0,
    "COMUNA": "Curacautín"
   },
   {
@@ -2466,7 +2466,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 142.0,
    "2025": 160.0,
-   "2026": 16.0,
+   "2026": 18.0,
    "COMUNA": "Curacautín"
   },
   {
@@ -2484,7 +2484,7 @@
    "delito": "HURTOS",
    "2024": 104.0,
    "2025": 99.0,
-   "2026": 13.0,
+   "2026": 14.0,
    "COMUNA": "Curacautín"
   },
   {
@@ -2511,7 +2511,7 @@
    "delito": "LESIONES LEVES",
    "2024": 75.0,
    "2025": 63.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Curacautín"
   },
   {
@@ -2538,7 +2538,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 16.0,
    "2025": 17.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Curacautín"
   },
   {
@@ -2592,7 +2592,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 73.0,
    "2025": 115.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Curacautín"
   },
   {
@@ -2615,7 +2615,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "La Araucanía"
  }
 }

@@ -12,26 +12,26 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5402,
-   "2025": 18.0,
-   "2026": 11.0,
-   "variacion": -39.0,
+   "2025": 22.0,
+   "2026": 13.0,
+   "variacion": -41.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabildo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5402,
-   "2025": 29.0,
+   "2025": 36.0,
    "2026": 13.0,
-   "variacion": -55.0,
+   "variacion": -64.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabildo"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5402,
-   "2025": 8.0,
-   "2026": 8.0,
+   "2025": 10.0,
+   "2026": 10.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Cabildo"
@@ -39,10 +39,10 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5402,
-   "2025": 15.0,
-   "2026": 16.0,
-   "variacion": 7.0,
-   "situación": "Aumento de Casos",
+   "2025": 19.0,
+   "2026": 19.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cabildo"
   },
   {
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5402,
-   "2025": 4.0,
+   "2025": 10.0,
    "2026": 1.0,
-   "variacion": -75.0,
+   "variacion": -90.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabildo"
   },
@@ -84,27 +84,27 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5402,
-   "2025": 5.0,
-   "2026": 3.0,
-   "variacion": -40.0,
+   "2025": 6.0,
+   "2026": 4.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabildo"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5402,
-   "2025": 2.0,
+   "2025": 4.0,
    "2026": 3.0,
-   "variacion": 50.0,
-   "situación": "Aumento de Casos",
+   "variacion": -25.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Cabildo"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5402,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 3.0,
-   "variacion": -25.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabildo"
   },
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5402,
-   "2025": 7.0,
+   "2025": 8.0,
    "2026": 8.0,
-   "variacion": 14.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cabildo"
   },
   {
@@ -412,7 +412,7 @@
    "CODCOM": 5402,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Cabildo"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 5402,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Cabildo"
   },
   {
@@ -748,7 +748,7 @@
    "CODCOM": 5402,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 5.0,
    "COMUNA": "Cabildo"
   },
   {
@@ -1308,7 +1308,7 @@
    "CODCOM": 5402,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Cabildo"
   },
   {
@@ -2560,7 +2560,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 157.0,
    "2025": 124.0,
-   "2026": 11.0,
+   "2026": 13.0,
    "COMUNA": "Cabildo"
   },
   {
@@ -2578,7 +2578,7 @@
    "delito": "DAÑOS",
    "2024": 80.0,
    "2025": 74.0,
-   "2026": 8.0,
+   "2026": 10.0,
    "COMUNA": "Cabildo"
   },
   {
@@ -2587,7 +2587,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 156.0,
    "2025": 143.0,
-   "2026": 16.0,
+   "2026": 19.0,
    "COMUNA": "Cabildo"
   },
   {
@@ -2632,7 +2632,7 @@
    "delito": "LESIONES LEVES",
    "2024": 41.0,
    "2025": 57.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Cabildo"
   },
   {
@@ -2736,7 +2736,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "Valparaíso"
  }
 }

@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5201,
-   "2025": 20.0,
-   "2026": 23.0,
-   "variacion": 15.0,
+   "2025": 23.0,
+   "2026": 29.0,
+   "variacion": 26.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Isla de Pascua"
   },
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5201,
    "2025": 8.0,
-   "2026": 4.0,
-   "variacion": -50.0,
+   "2026": 6.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Isla de Pascua"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5201,
-   "2025": 6.0,
-   "2026": 8.0,
-   "variacion": 33.0,
-   "situación": "Aumento de Casos",
+   "2025": 10.0,
+   "2026": 10.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Isla de Pascua"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5201,
-   "2025": 24.0,
-   "2026": 16.0,
-   "variacion": -33.0,
+   "2025": 27.0,
+   "2026": 21.0,
+   "variacion": -22.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Isla de Pascua"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5201,
-   "2025": 2.0,
+   "2025": 4.0,
    "2026": 5.0,
-   "variacion": 150.0,
+   "variacion": 25.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Isla de Pascua"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5201,
-   "2025": 13.0,
-   "2026": 8.0,
-   "variacion": -38.0,
+   "2025": 15.0,
+   "2026": 10.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Isla de Pascua"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5201,
    "2025": 0.0,
-   "2026": 2.0,
-   "variacion": 200.0,
+   "2026": 3.0,
+   "variacion": 300.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Isla de Pascua"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5201,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 1.0,
-   "variacion": -50.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Isla de Pascua"
   }
@@ -412,7 +412,7 @@
    "CODCOM": 5201,
    "anio": 2026,
    "mes": 2,
-   "casos": 4.0,
+   "casos": 10.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -524,7 +524,7 @@
    "CODCOM": 5201,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 5201,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -748,7 +748,7 @@
    "CODCOM": 5201,
    "anio": 2026,
    "mes": 2,
-   "casos": 3.0,
+   "casos": 8.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -1300,7 +1300,7 @@
    "CODCOM": 5201,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -2300,7 +2300,7 @@
    "CODCOM": 5201,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -2544,7 +2544,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 154.0,
    "2025": 177.0,
-   "2026": 23.0,
+   "2026": 29.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -2553,7 +2553,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 162.0,
    "2025": 33.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -2562,7 +2562,7 @@
    "delito": "DAÑOS",
    "2024": 67.0,
    "2025": 69.0,
-   "2026": 8.0,
+   "2026": 10.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -2571,7 +2571,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 153.0,
    "2025": 155.0,
-   "2026": 16.0,
+   "2026": 21.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -2616,7 +2616,7 @@
    "delito": "LESIONES LEVES",
    "2024": 73.0,
    "2025": 79.0,
-   "2026": 8.0,
+   "2026": 10.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -2697,7 +2697,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 10.0,
    "2025": 11.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -2720,7 +2720,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "Valparaíso"
  }
 }

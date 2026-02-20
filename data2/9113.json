@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9113,
-   "2025": 3.0,
-   "2026": 11.0,
-   "variacion": 267.0,
+   "2025": 5.0,
+   "2026": 14.0,
+   "variacion": 180.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Perquenco"
   },
@@ -22,17 +22,17 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9113,
    "2025": 20.0,
-   "2026": 22.0,
-   "variacion": 10.0,
+   "2026": 25.0,
+   "variacion": 25.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Perquenco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9113,
-   "2025": 10.0,
-   "2026": 8.0,
-   "variacion": -20.0,
+   "2025": 12.0,
+   "2026": 10.0,
+   "variacion": -17.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Perquenco"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9113,
    "2025": 8.0,
-   "2026": 5.0,
-   "variacion": -38.0,
+   "2026": 6.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Perquenco"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 9113,
    "2025": 2.0,
-   "2026": 17.0,
-   "variacion": 750.0,
+   "2026": 27.0,
+   "variacion": 1250.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Perquenco"
   },
@@ -85,9 +85,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 9113,
    "2025": 2.0,
-   "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 3.0,
+   "variacion": 50.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Perquenco"
   },
   {
@@ -404,7 +404,7 @@
    "CODCOM": 9113,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 4.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -516,7 +516,7 @@
    "CODCOM": 9113,
    "anio": 2026,
    "mes": 2,
-   "casos": 12.0,
+   "casos": 15.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -628,7 +628,7 @@
    "CODCOM": 9113,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -740,7 +740,7 @@
    "CODCOM": 9113,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 9113,
    "anio": 2026,
    "mes": 2,
-   "casos": 11.0,
+   "casos": 21.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -1300,7 +1300,7 @@
    "CODCOM": 9113,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -2544,7 +2544,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 68.0,
    "2025": 51.0,
-   "2026": 11.0,
+   "2026": 14.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -2553,7 +2553,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 214.0,
    "2025": 247.0,
-   "2026": 22.0,
+   "2026": 25.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -2562,7 +2562,7 @@
    "delito": "DAÑOS",
    "2024": 71.0,
    "2025": 50.0,
-   "2026": 8.0,
+   "2026": 10.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -2571,7 +2571,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 50.0,
    "2025": 46.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -2598,7 +2598,7 @@
    "delito": "INCIVILIDADES",
    "2024": 15.0,
    "2025": 13.0,
-   "2026": 17.0,
+   "2026": 27.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -2616,7 +2616,7 @@
    "delito": "LESIONES LEVES",
    "2024": 24.0,
    "2025": 25.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -2720,7 +2720,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "La Araucanía"
  }
 }

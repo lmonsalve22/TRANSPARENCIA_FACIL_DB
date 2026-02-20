@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5706,
-   "2025": 19.0,
-   "2026": 20.0,
-   "variacion": 5.0,
+   "2025": 20.0,
+   "2026": 24.0,
+   "variacion": 20.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa María"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 5706,
-   "2025": 9.0,
-   "2026": 3.0,
-   "variacion": -67.0,
+   "2025": 10.0,
+   "2026": 5.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa María"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5706,
-   "2025": 28.0,
-   "2026": 17.0,
-   "variacion": -39.0,
+   "2025": 30.0,
+   "2026": 19.0,
+   "variacion": -37.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa María"
   },
@@ -57,17 +57,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5706,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 3.0,
-   "variacion": -40.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa María"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5706,
-   "2025": 3.0,
-   "2026": 3.0,
+   "2025": 4.0,
+   "2026": 4.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Santa María"
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5706,
-   "2025": 9.0,
+   "2025": 11.0,
    "2026": 2.0,
-   "variacion": -78.0,
+   "variacion": -82.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa María"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5706,
    "2025": 0.0,
-   "2026": 1.0,
-   "variacion": 100.0,
+   "2026": 4.0,
+   "variacion": 400.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa María"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5706,
-   "2025": 10.0,
-   "2026": 7.0,
-   "variacion": -30.0,
+   "2025": 11.0,
+   "2026": 10.0,
+   "variacion": -9.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa María"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5706,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 1.0,
-   "variacion": -50.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa María"
   }
@@ -412,7 +412,7 @@
    "CODCOM": 5706,
    "anio": 2026,
    "mes": 2,
-   "casos": 4.0,
+   "casos": 8.0,
    "COMUNA": "Santa María"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 5706,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Santa María"
   },
   {
@@ -748,7 +748,7 @@
    "CODCOM": 5706,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Santa María"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 5706,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Santa María"
   },
   {
@@ -1524,7 +1524,7 @@
    "CODCOM": 5706,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 3.0,
    "COMUNA": "Santa María"
   },
   {
@@ -2300,7 +2300,7 @@
    "CODCOM": 5706,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 4.0,
    "COMUNA": "Santa María"
   },
   {
@@ -2544,7 +2544,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 157.0,
    "2025": 143.0,
-   "2026": 20.0,
+   "2026": 24.0,
    "COMUNA": "Santa María"
   },
   {
@@ -2562,7 +2562,7 @@
    "delito": "DAÑOS",
    "2024": 89.0,
    "2025": 89.0,
-   "2026": 3.0,
+   "2026": 5.0,
    "COMUNA": "Santa María"
   },
   {
@@ -2571,7 +2571,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 159.0,
    "2025": 132.0,
-   "2026": 17.0,
+   "2026": 19.0,
    "COMUNA": "Santa María"
   },
   {
@@ -2598,7 +2598,7 @@
    "delito": "INCIVILIDADES",
    "2024": 28.0,
    "2025": 38.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Santa María"
   },
   {
@@ -2634,7 +2634,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 9.0,
    "2025": 8.0,
-   "2026": 1.0,
+   "2026": 4.0,
    "COMUNA": "Santa María"
   },
   {
@@ -2697,7 +2697,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 117.0,
    "2025": 88.0,
-   "2026": 7.0,
+   "2026": 10.0,
    "COMUNA": "Santa María"
   },
   {
@@ -2720,7 +2720,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "Valparaíso"
  }
 }

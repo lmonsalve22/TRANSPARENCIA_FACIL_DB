@@ -4,44 +4,44 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 6302,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 1.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Chépica"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6302,
    "2025": 16.0,
-   "2026": 22.0,
-   "variacion": 38.0,
+   "2026": 25.0,
+   "variacion": 56.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chépica"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6302,
-   "2025": 3.0,
-   "2026": 8.0,
-   "variacion": 167.0,
+   "2025": 4.0,
+   "2026": 9.0,
+   "variacion": 125.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chépica"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6302,
-   "2025": 7.0,
-   "2026": 7.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 10.0,
+   "2026": 14.0,
+   "variacion": 40.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Chépica"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6302,
-   "2025": 16.0,
-   "2026": 19.0,
-   "variacion": 19.0,
+   "2025": 18.0,
+   "2026": 20.0,
+   "variacion": 11.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chépica"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 6302,
    "2025": 9.0,
-   "2026": 4.0,
-   "variacion": -56.0,
+   "2026": 6.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chépica"
   },
@@ -156,27 +156,27 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6302,
-   "2025": 0.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Chépica"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6302,
    "2025": 7.0,
-   "2026": 5.0,
-   "variacion": -29.0,
+   "2026": 6.0,
+   "variacion": -14.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chépica"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6302,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 2.0,
-   "variacion": 200.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chépica"
   },
@@ -300,7 +300,7 @@
    "CODCOM": 6302,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Chépica"
   },
   {
@@ -412,7 +412,7 @@
    "CODCOM": 6302,
    "anio": 2026,
    "mes": 2,
-   "casos": 6.0,
+   "casos": 9.0,
    "COMUNA": "Chépica"
   },
   {
@@ -524,7 +524,7 @@
    "CODCOM": 6302,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Chépica"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 6302,
    "anio": 2026,
    "mes": 2,
-   "casos": 3.0,
+   "casos": 10.0,
    "COMUNA": "Chépica"
   },
   {
@@ -748,7 +748,7 @@
    "CODCOM": 6302,
    "anio": 2026,
    "mes": 2,
-   "casos": 5.0,
+   "casos": 6.0,
    "COMUNA": "Chépica"
   },
   {
@@ -964,7 +964,7 @@
    "CODCOM": 6302,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Chépica"
   },
   {
@@ -2308,7 +2308,7 @@
    "CODCOM": 6302,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Chépica"
   },
   {
@@ -2543,7 +2543,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 2.0,
    "2025": 2.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Chépica"
   },
   {
@@ -2552,7 +2552,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 127.0,
    "2025": 141.0,
-   "2026": 22.0,
+   "2026": 25.0,
    "COMUNA": "Chépica"
   },
   {
@@ -2561,7 +2561,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 102.0,
    "2025": 40.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Chépica"
   },
   {
@@ -2570,7 +2570,7 @@
    "delito": "DAÑOS",
    "2024": 109.0,
    "2025": 82.0,
-   "2026": 7.0,
+   "2026": 14.0,
    "COMUNA": "Chépica"
   },
   {
@@ -2579,7 +2579,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 175.0,
    "2025": 107.0,
-   "2026": 19.0,
+   "2026": 20.0,
    "COMUNA": "Chépica"
   },
   {
@@ -2597,7 +2597,7 @@
    "delito": "HURTOS",
    "2024": 37.0,
    "2025": 34.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Chépica"
   },
   {
@@ -2705,7 +2705,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 49.0,
    "2025": 40.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Chépica"
   },
   {
@@ -2728,7 +2728,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 06/2026 (del 02/02/2026 al 08/02/2026)",
+  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
   "region": "O'Higgins"
  }
 }
