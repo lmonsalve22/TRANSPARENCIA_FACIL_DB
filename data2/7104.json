@@ -12,37 +12,37 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7104,
-   "2025": 5.0,
-   "2026": 4.0,
-   "variacion": -20.0,
+   "2025": 8.0,
+   "2026": 6.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Empedrado"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7104,
-   "2025": 3.0,
+   "2025": 6.0,
    "2026": 8.0,
-   "variacion": 167.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Empedrado"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7104,
-   "2025": 2.0,
+   "2025": 4.0,
    "2026": 4.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Empedrado"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7104,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 6.0,
-   "variacion": 20.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Empedrado"
   },
   {
@@ -102,7 +102,7 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7104,
-   "2025": 1.0,
+   "2025": 3.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -403,7 +403,7 @@
    "CODCOM": 7104,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -2399,7 +2399,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 32.0,
    "2025": 38.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -2575,7 +2575,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
+  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
   "region": "Maule"
  }
 }

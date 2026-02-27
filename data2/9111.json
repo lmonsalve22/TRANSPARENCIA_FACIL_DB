@@ -12,26 +12,26 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9111,
-   "2025": 42.0,
-   "2026": 44.0,
-   "variacion": 5.0,
-   "situación": "Aumento de Casos",
+   "2025": 48.0,
+   "2026": 46.0,
+   "variacion": -4.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Nueva Imperial"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9111,
-   "2025": 36.0,
-   "2026": 78.0,
-   "variacion": 117.0,
+   "2025": 45.0,
+   "2026": 100.0,
+   "variacion": 122.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Nueva Imperial"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9111,
-   "2025": 22.0,
-   "2026": 20.0,
+   "2025": 23.0,
+   "2026": 21.0,
    "variacion": -9.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Nueva Imperial"
@@ -39,10 +39,10 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9111,
-   "2025": 38.0,
-   "2026": 29.0,
-   "variacion": -24.0,
-   "situación": "Disminución de Casos",
+   "2025": 40.0,
+   "2026": 40.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -57,41 +57,50 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9111,
-   "2025": 39.0,
-   "2026": 17.0,
-   "variacion": -56.0,
+   "2025": 43.0,
+   "2026": 21.0,
+   "variacion": -51.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Nueva Imperial"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9111,
-   "2025": 8.0,
-   "2026": 15.0,
-   "variacion": 88.0,
+   "2025": 10.0,
+   "2026": 17.0,
+   "variacion": 70.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Nueva Imperial"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9111,
-   "2025": 7.0,
+   "2025": 9.0,
    "2026": 3.0,
-   "variacion": -57.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Nueva Imperial"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9111,
-   "2025": 12.0,
+   "2025": 16.0,
    "2026": 10.0,
-   "variacion": -17.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Nueva Imperial"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9111,
+   "2025": 5.0,
+   "2026": 2.0,
+   "variacion": -60.0,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Nueva Imperial"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9111,
    "2025": 5.0,
    "2026": 1.0,
@@ -100,21 +109,12 @@
    "COMUNA": "Nueva Imperial"
   },
   {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 9111,
-   "2025": 4.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Nueva Imperial"
-  },
-  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9111,
-   "2025": 5.0,
-   "2026": 6.0,
-   "variacion": 20.0,
-   "situación": "Aumento de Casos",
+   "2025": 7.0,
+   "2026": 7.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -129,10 +129,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 9111,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9111,
-   "2025": 4.0,
-   "2026": 2.0,
-   "variacion": -50.0,
+   "2025": 5.0,
+   "2026": 3.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Nueva Imperial"
   },
@@ -157,17 +157,17 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9111,
    "2025": 3.0,
-   "2026": 1.0,
-   "variacion": -67.0,
-   "situación": "Disminución de Casos",
+   "2026": 4.0,
+   "variacion": 33.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Nueva Imperial"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9111,
-   "2025": 28.0,
-   "2026": 21.0,
-   "variacion": -25.0,
+   "2025": 39.0,
+   "2026": 22.0,
+   "variacion": -44.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Nueva Imperial"
   },
@@ -175,17 +175,17 @@
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9111,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 2.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Nueva Imperial"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9111,
-   "2025": 4.0,
+   "2025": 7.0,
    "2026": 9.0,
-   "variacion": 125.0,
+   "variacion": 29.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Nueva Imperial"
   }
@@ -412,7 +412,7 @@
    "CODCOM": 9111,
    "anio": 2026,
    "mes": 2,
-   "casos": 18.0,
+   "casos": 20.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -524,7 +524,7 @@
    "CODCOM": 9111,
    "anio": 2026,
    "mes": 2,
-   "casos": 16.0,
+   "casos": 38.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 9111,
    "anio": 2026,
    "mes": 2,
-   "casos": 7.0,
+   "casos": 8.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -748,7 +748,7 @@
    "CODCOM": 9111,
    "anio": 2026,
    "mes": 2,
-   "casos": 13.0,
+   "casos": 24.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -972,7 +972,7 @@
    "CODCOM": 9111,
    "anio": 2026,
    "mes": 2,
-   "casos": 7.0,
+   "casos": 11.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -1084,7 +1084,7 @@
    "CODCOM": 9111,
    "anio": 2026,
    "mes": 2,
-   "casos": 4.0,
+   "casos": 6.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -1420,7 +1420,7 @@
    "CODCOM": 9111,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -1532,7 +1532,7 @@
    "CODCOM": 9111,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -1644,7 +1644,7 @@
    "CODCOM": 9111,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -2092,7 +2092,7 @@
    "CODCOM": 9111,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -2204,7 +2204,7 @@
    "CODCOM": 9111,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 3.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -2316,7 +2316,7 @@
    "CODCOM": 9111,
    "anio": 2026,
    "mes": 2,
-   "casos": 8.0,
+   "casos": 9.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -2428,7 +2428,7 @@
    "CODCOM": 9111,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -2560,7 +2560,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 332.0,
    "2025": 269.0,
-   "2026": 44.0,
+   "2026": 46.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -2569,7 +2569,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 207.0,
    "2025": 340.0,
-   "2026": 78.0,
+   "2026": 100.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -2578,7 +2578,7 @@
    "delito": "DAÑOS",
    "2024": 213.0,
    "2025": 172.0,
-   "2026": 20.0,
+   "2026": 21.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -2587,7 +2587,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 378.0,
    "2025": 280.0,
-   "2026": 29.0,
+   "2026": 40.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -2605,7 +2605,7 @@
    "delito": "HURTOS",
    "2024": 270.0,
    "2025": 245.0,
-   "2026": 17.0,
+   "2026": 21.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -2614,7 +2614,7 @@
    "delito": "INCIVILIDADES",
    "2024": 55.0,
    "2025": 53.0,
-   "2026": 15.0,
+   "2026": 17.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -2641,7 +2641,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 30.0,
    "2025": 17.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -2650,7 +2650,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 59.0,
    "2025": 88.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -2659,7 +2659,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 30.0,
    "2025": 34.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -2695,7 +2695,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 44.0,
    "2025": 28.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -2704,7 +2704,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 29.0,
    "2025": 21.0,
-   "2026": 1.0,
+   "2026": 4.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -2713,7 +2713,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 156.0,
    "2025": 198.0,
-   "2026": 21.0,
+   "2026": 22.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -2722,7 +2722,7 @@
    "delito": "ROBOS POR SORPRESA",
    "2024": 11.0,
    "2025": 11.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Nueva Imperial"
   },
   {
@@ -2736,7 +2736,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
+  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
   "region": "La Araucanía"
  }
 }

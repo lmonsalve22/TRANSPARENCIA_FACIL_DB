@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8207,
-   "2025": 20.0,
-   "2026": 10.0,
-   "variacion": -50.0,
+   "2025": 21.0,
+   "2026": 11.0,
+   "variacion": -48.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Tirúa"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 8207,
-   "2025": 12.0,
-   "2026": 12.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 14.0,
+   "2026": 13.0,
+   "variacion": -7.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Tirúa"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8207,
-   "2025": 17.0,
+   "2025": 18.0,
    "2026": 11.0,
-   "variacion": -35.0,
+   "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Tirúa"
   },
@@ -66,7 +66,7 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8207,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -84,8 +84,8 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8207,
-   "2025": 4.0,
-   "2026": 4.0,
+   "2025": 5.0,
+   "2026": 5.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Tirúa"
@@ -93,7 +93,7 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8207,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -102,10 +102,10 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 8207,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Tirúa"
   },
   {
@@ -139,18 +139,18 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 8207,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Tirúa"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8207,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Tirúa"
   },
   {
@@ -412,7 +412,7 @@
    "CODCOM": 8207,
    "anio": 2026,
    "mes": 2,
-   "casos": 5.0,
+   "casos": 6.0,
    "COMUNA": "Tirúa"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 8207,
    "anio": 2026,
    "mes": 2,
-   "casos": 4.0,
+   "casos": 5.0,
    "COMUNA": "Tirúa"
   },
   {
@@ -1308,7 +1308,7 @@
    "CODCOM": 8207,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Tirúa"
   },
   {
@@ -1980,7 +1980,7 @@
    "CODCOM": 8207,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Tirúa"
   },
   {
@@ -2552,7 +2552,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 106.0,
    "2025": 121.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "Tirúa"
   },
   {
@@ -2570,7 +2570,7 @@
    "delito": "DAÑOS",
    "2024": 57.0,
    "2025": 72.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "Tirúa"
   },
   {
@@ -2624,7 +2624,7 @@
    "delito": "LESIONES LEVES",
    "2024": 27.0,
    "2025": 31.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Tirúa"
   },
   {
@@ -2678,7 +2678,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 4.0,
    "2025": 4.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Tirúa"
   },
   {
@@ -2728,7 +2728,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
+  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
   "region": "Biobío"
  }
 }

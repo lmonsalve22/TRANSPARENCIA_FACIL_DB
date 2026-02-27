@@ -12,27 +12,27 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16202,
-   "2025": 9.0,
+   "2025": 10.0,
    "2026": 6.0,
-   "variacion": -33.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cobquecura"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16202,
-   "2025": 13.0,
-   "2026": 12.0,
-   "variacion": -8.0,
+   "2025": 14.0,
+   "2026": 13.0,
+   "variacion": -7.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cobquecura"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 16202,
-   "2025": 12.0,
+   "2025": 14.0,
    "2026": 10.0,
-   "variacion": -17.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cobquecura"
   },
@@ -58,9 +58,9 @@
    "delito": "HURTOS",
    "CODCOM": 16202,
    "2025": 4.0,
-   "2026": 3.0,
-   "variacion": -25.0,
-   "situación": "Disminución de Casos",
+   "2026": 4.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cobquecura"
   },
   {
@@ -84,17 +84,17 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16202,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 1.0,
-   "variacion": -75.0,
+   "variacion": -80.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cobquecura"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16202,
-   "2025": 1.0,
-   "2026": 1.0,
+   "2025": 2.0,
+   "2026": 2.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Cobquecura"
@@ -111,10 +111,10 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 16202,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Cobquecura"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16202,
-   "2025": 1.0,
-   "2026": 3.0,
-   "variacion": 200.0,
+   "2025": 2.0,
+   "2026": 4.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cobquecura"
   },
@@ -175,15 +175,15 @@
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 16202,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Cobquecura"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 16202,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -524,7 +524,7 @@
    "CODCOM": 16202,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Cobquecura"
   },
   {
@@ -964,7 +964,7 @@
    "CODCOM": 16202,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Cobquecura"
   },
   {
@@ -1412,7 +1412,7 @@
    "CODCOM": 16202,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Cobquecura"
   },
   {
@@ -2300,7 +2300,7 @@
    "CODCOM": 16202,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Cobquecura"
   },
   {
@@ -2405,6 +2405,14 @@
    "anio": 2026,
    "mes": 1,
    "casos": 0.0,
+   "COMUNA": "Cobquecura"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 16202,
+   "anio": 2026,
+   "mes": 2,
+   "casos": 1.0,
    "COMUNA": "Cobquecura"
   },
   {
@@ -2545,7 +2553,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 72.0,
    "2025": 63.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "Cobquecura"
   },
   {
@@ -2581,7 +2589,7 @@
    "delito": "HURTOS",
    "2024": 14.0,
    "2025": 21.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Cobquecura"
   },
   {
@@ -2617,7 +2625,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 1.0,
    "2025": 6.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Cobquecura"
   },
   {
@@ -2689,7 +2697,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 14.0,
    "2025": 12.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Cobquecura"
   },
   {
@@ -2698,7 +2706,7 @@
    "delito": "ROBOS POR SORPRESA",
    "2024": 1.0,
    "2025": 0.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Cobquecura"
   },
   {
@@ -2712,7 +2720,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
+  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
   "region": "Ñuble"
  }
 }

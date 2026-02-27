@@ -4,45 +4,45 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 9205,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 2.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Lonquimay"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9205,
-   "2025": 13.0,
-   "2026": 12.0,
-   "variacion": -8.0,
+   "2025": 16.0,
+   "2026": 14.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lonquimay"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9205,
-   "2025": 15.0,
-   "2026": 6.0,
-   "variacion": -60.0,
+   "2025": 17.0,
+   "2026": 7.0,
+   "variacion": -59.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lonquimay"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9205,
-   "2025": 15.0,
-   "2026": 17.0,
-   "variacion": 13.0,
+   "2025": 17.0,
+   "2026": 20.0,
+   "variacion": 18.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lonquimay"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9205,
-   "2025": 11.0,
+   "2025": 15.0,
    "2026": 12.0,
-   "variacion": 9.0,
-   "situación": "Aumento de Casos",
+   "variacion": -20.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Lonquimay"
   },
   {
@@ -102,18 +102,18 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9205,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 4.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -20.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Lonquimay"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9205,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 2.0,
-   "variacion": -33.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lonquimay"
   },
@@ -156,7 +156,7 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9205,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9205,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 4.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -20.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Lonquimay"
   },
   {
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9205,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 5.0,
-   "variacion": 25.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Lonquimay"
   }
  ],
@@ -300,7 +300,7 @@
    "CODCOM": 9205,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -412,7 +412,7 @@
    "CODCOM": 9205,
    "anio": 2026,
    "mes": 2,
-   "casos": 6.0,
+   "casos": 8.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -524,7 +524,7 @@
    "CODCOM": 9205,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 9205,
    "anio": 2026,
    "mes": 2,
-   "casos": 6.0,
+   "casos": 9.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -2527,7 +2527,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 4.0,
    "2025": 2.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -2536,7 +2536,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 90.0,
    "2025": 82.0,
-   "2026": 12.0,
+   "2026": 14.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 68.0,
    "2025": 74.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -2554,7 +2554,7 @@
    "delito": "DAÑOS",
    "2024": 81.0,
    "2025": 94.0,
-   "2026": 17.0,
+   "2026": 20.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -2712,7 +2712,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
+  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
   "region": "La Araucanía"
  }
 }

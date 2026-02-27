@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 3302,
    "2025": 5.0,
-   "2026": 6.0,
-   "variacion": 20.0,
+   "2026": 9.0,
+   "variacion": 80.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Alto del Carmen"
   },
@@ -30,19 +30,19 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 3302,
-   "2025": 5.0,
-   "2026": 2.0,
-   "variacion": -60.0,
+   "2025": 6.0,
+   "2026": 3.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Alto del Carmen"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 3302,
-   "2025": 2.0,
+   "2025": 4.0,
    "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -386,7 +386,7 @@
    "CODCOM": 3302,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 4.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -610,7 +610,7 @@
    "CODCOM": 3302,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -2302,7 +2302,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 25.0,
    "2025": 45.0,
-   "2026": 6.0,
+   "2026": 9.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -2320,7 +2320,7 @@
    "delito": "DAÑOS",
    "2024": 40.0,
    "2025": 52.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -2478,7 +2478,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
+  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
   "region": "Atacama"
  }
 }

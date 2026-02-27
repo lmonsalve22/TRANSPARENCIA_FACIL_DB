@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11303,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 2.0,
-   "variacion": 200.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Tortel"
   },
@@ -58,8 +58,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 11303,
    "2025": 1.0,
-   "2026": 4.0,
-   "variacion": 300.0,
+   "2026": 6.0,
+   "variacion": 500.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Tortel"
   },
@@ -920,7 +920,7 @@
    "CODCOM": 11303,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Tortel"
   },
   {
@@ -2074,7 +2074,7 @@
    "delito": "INCIVILIDADES",
    "2024": 8.0,
    "2025": 10.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Tortel"
   },
   {
@@ -2196,7 +2196,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
+  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
   "region": "Aysén"
  }
 }

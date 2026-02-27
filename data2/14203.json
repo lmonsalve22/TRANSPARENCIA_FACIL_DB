@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14203,
-   "2025": 11.0,
-   "2026": 17.0,
-   "variacion": 55.0,
+   "2025": 15.0,
+   "2026": 19.0,
+   "variacion": 27.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lago Ranco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 14203,
-   "2025": 84.0,
-   "2026": 60.0,
-   "variacion": -29.0,
+   "2025": 103.0,
+   "2026": 64.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lago Ranco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 14203,
-   "2025": 11.0,
-   "2026": 17.0,
-   "variacion": 55.0,
+   "2025": 13.0,
+   "2026": 19.0,
+   "variacion": 46.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lago Ranco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 14203,
-   "2025": 11.0,
-   "2026": 20.0,
-   "variacion": 82.0,
+   "2025": 12.0,
+   "2026": 21.0,
+   "variacion": 75.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lago Ranco"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 14203,
-   "2025": 1.0,
-   "2026": 4.0,
-   "variacion": 300.0,
+   "2025": 3.0,
+   "2026": 5.0,
+   "variacion": 67.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lago Ranco"
   },
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 14203,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Lago Ranco"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 14203,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 3.0,
-   "variacion": 200.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lago Ranco"
   },
@@ -412,7 +412,7 @@
    "CODCOM": 14203,
    "anio": 2026,
    "mes": 2,
-   "casos": 5.0,
+   "casos": 7.0,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -524,7 +524,7 @@
    "CODCOM": 14203,
    "anio": 2026,
    "mes": 2,
-   "casos": 4.0,
+   "casos": 8.0,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 14203,
    "anio": 2026,
    "mes": 2,
-   "casos": 6.0,
+   "casos": 8.0,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -748,7 +748,7 @@
    "CODCOM": 14203,
    "anio": 2026,
    "mes": 2,
-   "casos": 4.0,
+   "casos": 5.0,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -972,7 +972,7 @@
    "CODCOM": 14203,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -2552,7 +2552,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 90.0,
    "2025": 75.0,
-   "2026": 17.0,
+   "2026": 19.0,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -2561,7 +2561,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 314.0,
    "2025": 320.0,
-   "2026": 60.0,
+   "2026": 64.0,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -2570,7 +2570,7 @@
    "delito": "DAÑOS",
    "2024": 91.0,
    "2025": 72.0,
-   "2026": 17.0,
+   "2026": 19.0,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -2579,7 +2579,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 123.0,
    "2025": 85.0,
-   "2026": 20.0,
+   "2026": 21.0,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -2597,7 +2597,7 @@
    "delito": "HURTOS",
    "2024": 34.0,
    "2025": 21.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -2728,7 +2728,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
+  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
   "region": "Los Ríos"
  }
 }

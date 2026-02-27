@@ -3,45 +3,45 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 6307,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Peralillo"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6307,
-   "2025": 23.0,
-   "2026": 20.0,
-   "variacion": -13.0,
+   "2025": 30.0,
+   "2026": 22.0,
+   "variacion": -27.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Peralillo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6307,
-   "2025": 13.0,
+   "2025": 14.0,
    "2026": 4.0,
-   "variacion": -69.0,
+   "variacion": -71.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Peralillo"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6307,
-   "2025": 10.0,
-   "2026": 8.0,
-   "variacion": -20.0,
+   "2025": 12.0,
+   "2026": 10.0,
+   "variacion": -17.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Peralillo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6307,
-   "2025": 20.0,
+   "2025": 25.0,
    "2026": 12.0,
-   "variacion": -40.0,
+   "variacion": -52.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Peralillo"
   },
@@ -57,19 +57,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6307,
-   "2025": 4.0,
+   "2025": 6.0,
    "2026": 8.0,
-   "variacion": 100.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Peralillo"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6307,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 5.0,
-   "variacion": 25.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Peralillo"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6307,
-   "2025": 7.0,
+   "2025": 9.0,
    "2026": 5.0,
-   "variacion": -29.0,
+   "variacion": -44.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Peralillo"
   },
@@ -129,10 +129,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 6307,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Peralillo"
   },
   {
@@ -147,10 +147,10 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6307,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Peralillo"
   },
   {
@@ -166,9 +166,9 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6307,
    "2025": 6.0,
-   "2026": 6.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 8.0,
+   "variacion": 33.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Peralillo"
   },
   {
@@ -412,7 +412,7 @@
    "CODCOM": 6307,
    "anio": 2026,
    "mes": 2,
-   "casos": 6.0,
+   "casos": 8.0,
    "COMUNA": "Peralillo"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 6307,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Peralillo"
   },
   {
@@ -2300,7 +2300,7 @@
    "CODCOM": 6307,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Peralillo"
   },
   {
@@ -2544,7 +2544,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 127.0,
    "2025": 127.0,
-   "2026": 20.0,
+   "2026": 22.0,
    "COMUNA": "Peralillo"
   },
   {
@@ -2562,7 +2562,7 @@
    "delito": "DAÑOS",
    "2024": 66.0,
    "2025": 51.0,
-   "2026": 8.0,
+   "2026": 10.0,
    "COMUNA": "Peralillo"
   },
   {
@@ -2697,7 +2697,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 50.0,
    "2025": 61.0,
-   "2026": 6.0,
+   "2026": 8.0,
    "COMUNA": "Peralillo"
   },
   {
@@ -2720,7 +2720,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
+  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
   "region": "O'Higgins"
  }
 }

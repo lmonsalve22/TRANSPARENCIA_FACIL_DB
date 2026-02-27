@@ -39,8 +39,8 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11203,
-   "2025": 2.0,
-   "2026": 2.0,
+   "2025": 3.0,
+   "2026": 3.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Guaitecas"
@@ -49,8 +49,8 @@
    "delito": "HURTOS",
    "CODCOM": 11203,
    "2025": 0.0,
-   "2026": 1.0,
-   "variacion": 100.0,
+   "2026": 2.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Guaitecas"
   },
@@ -722,7 +722,7 @@
    "CODCOM": 11203,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Guaitecas"
   },
   {
@@ -834,7 +834,7 @@
    "CODCOM": 11203,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Guaitecas"
   },
   {
@@ -2281,7 +2281,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 16.0,
    "2025": 18.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Guaitecas"
   },
   {
@@ -2299,7 +2299,7 @@
    "delito": "HURTOS",
    "2024": 5.0,
    "2025": 0.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Guaitecas"
   },
   {
@@ -2430,7 +2430,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
+  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
   "region": "Aysén"
  }
 }

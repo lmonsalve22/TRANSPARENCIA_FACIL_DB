@@ -31,9 +31,9 @@
    "delito": "DAÑOS",
    "CODCOM": 12104,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 1.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "San Gregorio"
   },
   {
@@ -583,7 +583,7 @@
    "CODCOM": 12104,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "San Gregorio"
   },
   {
@@ -1925,7 +1925,7 @@
    "delito": "DAÑOS",
    "2024": 14.0,
    "2025": 4.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "San Gregorio"
   },
   {
@@ -2083,7 +2083,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
+  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
   "region": "Magallanes"
  }
 }

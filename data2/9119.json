@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9119,
-   "2025": 35.0,
-   "2026": 36.0,
+   "2025": 37.0,
+   "2026": 38.0,
    "variacion": 3.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Vilcún"
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 9119,
-   "2025": 28.0,
-   "2026": 33.0,
-   "variacion": 18.0,
+   "2025": 31.0,
+   "2026": 36.0,
+   "variacion": 16.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Vilcún"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9119,
-   "2025": 34.0,
-   "2026": 38.0,
-   "variacion": 12.0,
+   "2025": 39.0,
+   "2026": 40.0,
+   "variacion": 3.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Vilcún"
   },
@@ -57,19 +57,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9119,
-   "2025": 11.0,
-   "2026": 6.0,
-   "variacion": -45.0,
+   "2025": 14.0,
+   "2026": 7.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Vilcún"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9119,
-   "2025": 4.0,
+   "2025": 6.0,
    "2026": 6.0,
-   "variacion": 50.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Vilcún"
   },
   {
@@ -84,8 +84,8 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9119,
-   "2025": 6.0,
-   "2026": 6.0,
+   "2025": 7.0,
+   "2026": 7.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Vilcún"
@@ -94,17 +94,17 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9119,
    "2025": 1.0,
-   "2026": 2.0,
-   "variacion": 100.0,
+   "2026": 3.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Vilcún"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9119,
-   "2025": 7.0,
+   "2025": 8.0,
    "2026": 1.0,
-   "variacion": -86.0,
+   "variacion": -88.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Vilcún"
   },
@@ -147,27 +147,27 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9119,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Vilcún"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9119,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 3.0,
-   "variacion": 200.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Vilcún"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9119,
-   "2025": 11.0,
+   "2025": 14.0,
    "2026": 18.0,
-   "variacion": 64.0,
+   "variacion": 29.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Vilcún"
   },
@@ -412,7 +412,7 @@
    "CODCOM": 9119,
    "anio": 2026,
    "mes": 2,
-   "casos": 11.0,
+   "casos": 13.0,
    "COMUNA": "Vilcún"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 9119,
    "anio": 2026,
    "mes": 2,
-   "casos": 17.0,
+   "casos": 20.0,
    "COMUNA": "Vilcún"
   },
   {
@@ -748,7 +748,7 @@
    "CODCOM": 9119,
    "anio": 2026,
    "mes": 2,
-   "casos": 8.0,
+   "casos": 10.0,
    "COMUNA": "Vilcún"
   },
   {
@@ -972,7 +972,7 @@
    "CODCOM": 9119,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Vilcún"
   },
   {
@@ -1308,7 +1308,7 @@
    "CODCOM": 9119,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Vilcún"
   },
   {
@@ -1420,7 +1420,7 @@
    "CODCOM": 9119,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Vilcún"
   },
   {
@@ -2560,7 +2560,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 243.0,
    "2025": 227.0,
-   "2026": 36.0,
+   "2026": 38.0,
    "COMUNA": "Vilcún"
   },
   {
@@ -2578,7 +2578,7 @@
    "delito": "DAÑOS",
    "2024": 201.0,
    "2025": 182.0,
-   "2026": 33.0,
+   "2026": 36.0,
    "COMUNA": "Vilcún"
   },
   {
@@ -2587,7 +2587,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 247.0,
    "2025": 229.0,
-   "2026": 38.0,
+   "2026": 40.0,
    "COMUNA": "Vilcún"
   },
   {
@@ -2605,7 +2605,7 @@
    "delito": "HURTOS",
    "2024": 102.0,
    "2025": 86.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Vilcún"
   },
   {
@@ -2632,7 +2632,7 @@
    "delito": "LESIONES LEVES",
    "2024": 81.0,
    "2025": 74.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Vilcún"
   },
   {
@@ -2641,7 +2641,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 14.0,
    "2025": 13.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Vilcún"
   },
   {
@@ -2736,7 +2736,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
+  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
   "region": "La Araucanía"
  }
 }

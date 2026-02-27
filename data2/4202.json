@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4202,
-   "2025": 5.0,
-   "2026": 6.0,
-   "variacion": 20.0,
+   "2025": 6.0,
+   "2026": 7.0,
+   "variacion": 17.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Canela"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 4202,
-   "2025": 16.0,
-   "2026": 19.0,
-   "variacion": 19.0,
+   "2025": 18.0,
+   "2026": 23.0,
+   "variacion": 28.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Canela"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4202,
-   "2025": 2.0,
+   "2025": 4.0,
    "2026": 3.0,
-   "variacion": 50.0,
-   "situación": "Aumento de Casos",
+   "variacion": -25.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Canela"
   },
   {
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 4202,
-   "2025": 10.0,
-   "2026": 4.0,
-   "variacion": -60.0,
+   "2025": 11.0,
+   "2026": 6.0,
+   "variacion": -45.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Canela"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 4202,
-   "2025": 5.0,
-   "2026": 1.0,
-   "variacion": -80.0,
+   "2025": 6.0,
+   "2026": 2.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Canela"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 4202,
    "2025": 4.0,
-   "2026": 1.0,
-   "variacion": -75.0,
+   "2026": 2.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Canela"
   }
@@ -412,7 +412,7 @@
    "CODCOM": 4202,
    "anio": 2026,
    "mes": 2,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Canela"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 4202,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 6.0,
    "COMUNA": "Canela"
   },
   {
@@ -1860,7 +1860,7 @@
    "CODCOM": 4202,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Canela"
   },
   {
@@ -2308,7 +2308,7 @@
    "CODCOM": 4202,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Canela"
   },
   {
@@ -2524,7 +2524,7 @@
    "CODCOM": 4202,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Canela"
   }
  ],
@@ -2544,7 +2544,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 36.0,
    "2025": 45.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Canela"
   },
   {
@@ -2562,7 +2562,7 @@
    "delito": "DAÑOS",
    "2024": 86.0,
    "2025": 103.0,
-   "2026": 19.0,
+   "2026": 23.0,
    "COMUNA": "Canela"
   },
   {
@@ -2661,7 +2661,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 36.0,
    "2025": 47.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Canela"
   },
   {
@@ -2697,7 +2697,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 28.0,
    "2025": 32.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Canela"
   },
   {
@@ -2715,12 +2715,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 6.0,
    "2025": 10.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Canela"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
+  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
   "region": "Coquimbo"
  }
 }

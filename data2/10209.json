@@ -21,18 +21,18 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10209,
-   "2025": 3.0,
+   "2025": 5.0,
    "2026": 7.0,
-   "variacion": 133.0,
+   "variacion": 40.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Quemchi"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10209,
-   "2025": 3.0,
-   "2026": 4.0,
-   "variacion": 33.0,
+   "2025": 4.0,
+   "2026": 6.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Quemchi"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10209,
    "2025": 7.0,
-   "2026": 3.0,
-   "variacion": -57.0,
+   "2026": 4.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quemchi"
   },
@@ -627,7 +627,7 @@
    "CODCOM": 10209,
    "anio": 2026,
    "mes": 2,
-   "casos": 3.0,
+   "casos": 5.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -739,7 +739,7 @@
    "CODCOM": 10209,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2433,7 +2433,7 @@
    "delito": "DAÑOS",
    "2024": 67.0,
    "2025": 38.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2442,7 +2442,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 60.0,
    "2025": 49.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2591,7 +2591,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
+  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
   "region": "Los Lagos"
  }
 }

@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10306,
-   "2025": 19.0,
-   "2026": 23.0,
-   "variacion": 21.0,
+   "2025": 22.0,
+   "2026": 25.0,
+   "variacion": 14.0,
    "situación": "Aumento de Casos",
    "COMUNA": "San Juan de La Costa"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 10306,
-   "2025": 10.0,
-   "2026": 13.0,
-   "variacion": 30.0,
+   "2025": 12.0,
+   "2026": 15.0,
+   "variacion": 25.0,
    "situación": "Aumento de Casos",
    "COMUNA": "San Juan de La Costa"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10306,
-   "2025": 16.0,
-   "2026": 20.0,
-   "variacion": 25.0,
+   "2025": 20.0,
+   "2026": 22.0,
+   "variacion": 10.0,
    "situación": "Aumento de Casos",
    "COMUNA": "San Juan de La Costa"
   },
@@ -58,17 +58,17 @@
    "delito": "HURTOS",
    "CODCOM": 10306,
    "2025": 6.0,
-   "2026": 4.0,
-   "variacion": -33.0,
+   "2026": 5.0,
+   "variacion": -17.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Juan de La Costa"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10306,
-   "2025": 7.0,
-   "2026": 5.0,
-   "variacion": -29.0,
+   "2025": 8.0,
+   "2026": 6.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Juan de La Costa"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 10306,
    "2025": 4.0,
-   "2026": 2.0,
-   "variacion": -50.0,
+   "2026": 3.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Juan de La Costa"
   },
@@ -130,8 +130,8 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 10306,
    "2025": 1.0,
-   "2026": 5.0,
-   "variacion": 400.0,
+   "2026": 6.0,
+   "variacion": 500.0,
    "situación": "Aumento de Casos",
    "COMUNA": "San Juan de La Costa"
   },
@@ -166,9 +166,9 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10306,
    "2025": 5.0,
-   "2026": 5.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 6.0,
+   "variacion": 20.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10306,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "San Juan de La Costa"
   }
  ],
@@ -412,7 +412,7 @@
    "CODCOM": 10306,
    "anio": 2026,
    "mes": 2,
-   "casos": 7.0,
+   "casos": 9.0,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 10306,
    "anio": 2026,
    "mes": 2,
-   "casos": 6.0,
+   "casos": 8.0,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -748,7 +748,7 @@
    "CODCOM": 10306,
    "anio": 2026,
    "mes": 2,
-   "casos": 5.0,
+   "casos": 7.0,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -972,7 +972,7 @@
    "CODCOM": 10306,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -1084,7 +1084,7 @@
    "CODCOM": 10306,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -1308,7 +1308,7 @@
    "CODCOM": 10306,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -1860,7 +1860,7 @@
    "CODCOM": 10306,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -2308,7 +2308,7 @@
    "CODCOM": 10306,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -2552,7 +2552,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 101.0,
    "2025": 83.0,
-   "2026": 23.0,
+   "2026": 25.0,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -2570,7 +2570,7 @@
    "delito": "DAÑOS",
    "2024": 109.0,
    "2025": 93.0,
-   "2026": 13.0,
+   "2026": 15.0,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -2579,7 +2579,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 129.0,
    "2025": 99.0,
-   "2026": 20.0,
+   "2026": 22.0,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -2597,7 +2597,7 @@
    "delito": "HURTOS",
    "2024": 30.0,
    "2025": 28.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -2606,7 +2606,7 @@
    "delito": "INCIVILIDADES",
    "2024": 21.0,
    "2025": 30.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -2624,7 +2624,7 @@
    "delito": "LESIONES LEVES",
    "2024": 37.0,
    "2025": 43.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -2669,7 +2669,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 19.0,
    "2025": 14.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -2705,7 +2705,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 75.0,
    "2025": 21.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "San Juan de La Costa"
   },
   {
@@ -2728,7 +2728,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
+  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
   "region": "Los Lagos"
  }
 }

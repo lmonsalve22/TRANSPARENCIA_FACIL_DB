@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5404,
-   "2025": 9.0,
-   "2026": 10.0,
-   "variacion": 11.0,
+   "2025": 11.0,
+   "2026": 12.0,
+   "variacion": 9.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Petorca"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 5404,
-   "2025": 6.0,
+   "2025": 8.0,
    "2026": 4.0,
-   "variacion": -33.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Petorca"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5404,
-   "2025": 14.0,
-   "2026": 12.0,
-   "variacion": -14.0,
+   "2025": 15.0,
+   "2026": 14.0,
+   "variacion": -7.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Petorca"
   },
@@ -57,7 +57,7 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5404,
-   "2025": 1.0,
+   "2025": 3.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -93,10 +93,10 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5404,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Petorca"
   },
   {
@@ -112,9 +112,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 5404,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 3.0,
+   "variacion": 200.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Petorca"
   },
   {
@@ -412,7 +412,7 @@
    "CODCOM": 5404,
    "anio": 2026,
    "mes": 2,
-   "casos": 3.0,
+   "casos": 5.0,
    "COMUNA": "Petorca"
   },
   {
@@ -748,7 +748,7 @@
    "CODCOM": 5404,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Petorca"
   },
   {
@@ -1636,7 +1636,7 @@
    "CODCOM": 5404,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Petorca"
   },
   {
@@ -2544,7 +2544,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 97.0,
    "2025": 60.0,
-   "2026": 10.0,
+   "2026": 12.0,
    "COMUNA": "Petorca"
   },
   {
@@ -2571,7 +2571,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 81.0,
    "2025": 74.0,
-   "2026": 12.0,
+   "2026": 14.0,
    "COMUNA": "Petorca"
   },
   {
@@ -2643,7 +2643,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 10.0,
    "2025": 9.0,
-   "2026": 1.0,
+   "2026": 3.0,
    "COMUNA": "Petorca"
   },
   {
@@ -2720,7 +2720,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
+  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
   "region": "Valparaíso"
  }
 }

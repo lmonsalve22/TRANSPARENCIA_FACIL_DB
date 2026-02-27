@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9110,
-   "2025": 12.0,
-   "2026": 5.0,
-   "variacion": -58.0,
+   "2025": 14.0,
+   "2026": 7.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Melipeuco"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 9110,
-   "2025": 5.0,
+   "2025": 8.0,
    "2026": 9.0,
-   "variacion": 80.0,
+   "variacion": 12.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Melipeuco"
   },
@@ -57,7 +57,7 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9110,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -66,10 +66,10 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9110,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 5.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -17.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Melipeuco"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9110,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 2.0,
-   "variacion": 200.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Melipeuco"
   },
@@ -111,10 +111,10 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9110,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Melipeuco"
   },
   {
@@ -404,7 +404,7 @@
    "CODCOM": 9110,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Melipeuco"
   },
   {
@@ -2520,7 +2520,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 78.0,
    "2025": 77.0,
-   "2026": 5.0,
+   "2026": 7.0,
    "COMUNA": "Melipeuco"
   },
   {
@@ -2696,7 +2696,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
+  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
   "region": "La Araucanía"
  }
 }

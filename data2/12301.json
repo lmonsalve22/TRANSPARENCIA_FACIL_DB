@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 12301,
    "2025": 3.0,
-   "2026": 11.0,
-   "variacion": 267.0,
+   "2026": 12.0,
+   "variacion": 300.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Porvenir"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 12301,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 4.0,
-   "variacion": -33.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Porvenir"
   },
@@ -57,19 +57,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 12301,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 1.0,
-   "variacion": -50.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Porvenir"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 12301,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 2.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Porvenir"
   },
   {
@@ -93,9 +93,9 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 12301,
-   "2025": 1.0,
-   "2026": 3.0,
-   "variacion": 200.0,
+   "2025": 2.0,
+   "2026": 4.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Porvenir"
   },
@@ -524,7 +524,7 @@
    "CODCOM": 12301,
    "anio": 2026,
    "mes": 2,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Porvenir"
   },
   {
@@ -1412,7 +1412,7 @@
    "CODCOM": 12301,
    "anio": 2026,
    "mes": 2,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Porvenir"
   },
   {
@@ -2545,7 +2545,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 34.0,
    "2025": 63.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "Porvenir"
   },
   {
@@ -2617,7 +2617,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 9.0,
    "2025": 6.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Porvenir"
   },
   {
@@ -2712,7 +2712,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
+  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
   "region": "Magallanes"
  }
 }

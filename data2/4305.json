@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4305,
    "2025": 3.0,
-   "2026": 0.0,
-   "variacion": -100.0,
+   "2026": 1.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Hurtado"
   },
@@ -22,18 +22,18 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 4305,
    "2025": 4.0,
-   "2026": 0.0,
-   "variacion": -100.0,
+   "2026": 1.0,
+   "variacion": -75.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Hurtado"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 4305,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Río Hurtado"
   },
   {
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4305,
-   "2025": 3.0,
-   "2026": 0.0,
-   "variacion": -100.0,
+   "2025": 4.0,
+   "2026": 1.0,
+   "variacion": -75.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Hurtado"
   },
@@ -395,7 +395,7 @@
    "CODCOM": 4305,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Río Hurtado"
   },
   {
@@ -507,7 +507,7 @@
    "CODCOM": 4305,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Río Hurtado"
   },
   {
@@ -947,7 +947,7 @@
    "CODCOM": 4305,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Río Hurtado"
   },
   {
@@ -2407,7 +2407,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 13.0,
    "2025": 9.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Río Hurtado"
   },
   {
@@ -2416,7 +2416,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 9.0,
    "2025": 16.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Río Hurtado"
   },
   {
@@ -2452,7 +2452,7 @@
    "delito": "HURTOS",
    "2024": 8.0,
    "2025": 7.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Río Hurtado"
   },
   {
@@ -2583,7 +2583,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
+  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
   "region": "Coquimbo"
  }
 }

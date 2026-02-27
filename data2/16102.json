@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16102,
-   "2025": 43.0,
-   "2026": 21.0,
-   "variacion": -51.0,
+   "2025": 50.0,
+   "2026": 25.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Bulnes"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16102,
-   "2025": 26.0,
-   "2026": 4.0,
-   "variacion": -85.0,
+   "2025": 27.0,
+   "2026": 5.0,
+   "variacion": -81.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Bulnes"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 16102,
    "2025": 19.0,
-   "2026": 17.0,
-   "variacion": -11.0,
-   "situación": "Disminución de Casos",
+   "2026": 20.0,
+   "variacion": 5.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Bulnes"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16102,
-   "2025": 49.0,
-   "2026": 18.0,
-   "variacion": -63.0,
+   "2025": 54.0,
+   "2026": 23.0,
+   "variacion": -57.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Bulnes"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16102,
-   "2025": 12.0,
-   "2026": 7.0,
-   "variacion": -42.0,
+   "2025": 13.0,
+   "2026": 11.0,
+   "variacion": -15.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Bulnes"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 16102,
    "2025": 8.0,
-   "2026": 6.0,
-   "variacion": -25.0,
+   "2026": 7.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Bulnes"
   },
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16102,
-   "2025": 9.0,
+   "2025": 11.0,
    "2026": 11.0,
-   "variacion": 22.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Bulnes"
   },
   {
@@ -147,27 +147,27 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 16102,
-   "2025": 3.0,
+   "2025": 5.0,
    "2026": 2.0,
-   "variacion": -33.0,
+   "variacion": -60.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Bulnes"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16102,
-   "2025": 8.0,
+   "2025": 9.0,
    "2026": 4.0,
-   "variacion": -50.0,
+   "variacion": -56.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Bulnes"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16102,
-   "2025": 8.0,
+   "2025": 13.0,
    "2026": 14.0,
-   "variacion": 75.0,
+   "variacion": 8.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Bulnes"
   },
@@ -412,7 +412,7 @@
    "CODCOM": 16102,
    "anio": 2026,
    "mes": 2,
-   "casos": 4.0,
+   "casos": 8.0,
    "COMUNA": "Bulnes"
   },
   {
@@ -524,7 +524,7 @@
    "CODCOM": 16102,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Bulnes"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 16102,
    "anio": 2026,
    "mes": 2,
-   "casos": 8.0,
+   "casos": 11.0,
    "COMUNA": "Bulnes"
   },
   {
@@ -748,7 +748,7 @@
    "CODCOM": 16102,
    "anio": 2026,
    "mes": 2,
-   "casos": 7.0,
+   "casos": 12.0,
    "COMUNA": "Bulnes"
   },
   {
@@ -964,7 +964,7 @@
    "CODCOM": 16102,
    "anio": 2026,
    "mes": 2,
-   "casos": 3.0,
+   "casos": 7.0,
    "COMUNA": "Bulnes"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 16102,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Bulnes"
   },
   {
@@ -2544,7 +2544,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 214.0,
    "2025": 220.0,
-   "2026": 21.0,
+   "2026": 25.0,
    "COMUNA": "Bulnes"
   },
   {
@@ -2553,7 +2553,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 193.0,
    "2025": 148.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Bulnes"
   },
   {
@@ -2562,7 +2562,7 @@
    "delito": "DAÑOS",
    "2024": 150.0,
    "2025": 133.0,
-   "2026": 17.0,
+   "2026": 20.0,
    "COMUNA": "Bulnes"
   },
   {
@@ -2571,7 +2571,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 237.0,
    "2025": 203.0,
-   "2026": 18.0,
+   "2026": 23.0,
    "COMUNA": "Bulnes"
   },
   {
@@ -2589,7 +2589,7 @@
    "delito": "HURTOS",
    "2024": 115.0,
    "2025": 93.0,
-   "2026": 7.0,
+   "2026": 11.0,
    "COMUNA": "Bulnes"
   },
   {
@@ -2598,7 +2598,7 @@
    "delito": "INCIVILIDADES",
    "2024": 68.0,
    "2025": 58.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Bulnes"
   },
   {
@@ -2720,7 +2720,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 07/2026 (del 09/02/2026 al 15/02/2026)",
+  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
   "region": "Ñuble"
  }
 }
