@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7202,
-   "2025": 9.0,
-   "2026": 4.0,
-   "variacion": -56.0,
+   "2025": 10.0,
+   "2026": 6.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chanco"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 7202,
-   "2025": 7.0,
+   "2025": 9.0,
    "2026": 6.0,
-   "variacion": -14.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chanco"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7202,
    "2025": 5.0,
-   "2026": 14.0,
-   "variacion": 180.0,
+   "2026": 15.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chanco"
   },
@@ -58,17 +58,17 @@
    "delito": "HURTOS",
    "CODCOM": 7202,
    "2025": 4.0,
-   "2026": 6.0,
-   "variacion": 50.0,
+   "2026": 7.0,
+   "variacion": 75.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chanco"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 7202,
-   "2025": 4.0,
+   "2025": 6.0,
    "2026": 3.0,
-   "variacion": -25.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chanco"
   },
@@ -76,17 +76,17 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 7202,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 1.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Chanco"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 7202,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 3.0,
-   "variacion": -25.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chanco"
   },
@@ -130,9 +130,9 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 7202,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Chanco"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7202,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 3.0,
-   "variacion": 200.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chanco"
   },
@@ -412,7 +412,7 @@
    "CODCOM": 7202,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Chanco"
   },
   {
@@ -748,7 +748,7 @@
    "CODCOM": 7202,
    "anio": 2026,
    "mes": 2,
-   "casos": 6.0,
+   "casos": 7.0,
    "COMUNA": "Chanco"
   },
   {
@@ -964,7 +964,7 @@
    "CODCOM": 7202,
    "anio": 2026,
    "mes": 2,
-   "casos": 6.0,
+   "casos": 7.0,
    "COMUNA": "Chanco"
   },
   {
@@ -1188,7 +1188,7 @@
    "CODCOM": 7202,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Chanco"
   },
   {
@@ -1852,7 +1852,7 @@
    "CODCOM": 7202,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Chanco"
   },
   {
@@ -2536,7 +2536,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 57.0,
    "2025": 60.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Chanco"
   },
   {
@@ -2563,7 +2563,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 45.0,
    "2025": 54.0,
-   "2026": 14.0,
+   "2026": 15.0,
    "COMUNA": "Chanco"
   },
   {
@@ -2581,7 +2581,7 @@
    "delito": "HURTOS",
    "2024": 17.0,
    "2025": 15.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Chanco"
   },
   {
@@ -2599,7 +2599,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 3.0,
    "2025": 5.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Chanco"
   },
   {
@@ -2653,7 +2653,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 3.0,
    "2025": 4.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Chanco"
   },
   {
@@ -2712,7 +2712,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
+  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
   "region": "Maule"
  }
 }

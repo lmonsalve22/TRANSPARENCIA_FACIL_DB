@@ -12,10 +12,10 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16304,
-   "2025": 7.0,
+   "2025": 8.0,
    "2026": 8.0,
-   "variacion": 14.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "San Fabián"
   },
   {
@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 16304,
    "2025": 8.0,
-   "2026": 6.0,
-   "variacion": -25.0,
+   "2026": 7.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16304,
-   "2025": 3.0,
+   "2025": 5.0,
    "2026": 2.0,
-   "variacion": -33.0,
+   "variacion": -60.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 16304,
-   "2025": 10.0,
-   "2026": 18.0,
-   "variacion": 80.0,
+   "2025": 11.0,
+   "2026": 20.0,
+   "variacion": 82.0,
    "situación": "Aumento de Casos",
    "COMUNA": "San Fabián"
   },
@@ -129,10 +129,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16304,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "San Fabián"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16304,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 4.0,
-   "variacion": -33.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
   },
@@ -636,7 +636,7 @@
    "CODCOM": 16304,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "San Fabián"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 16304,
    "anio": 2026,
    "mes": 2,
-   "casos": 5.0,
+   "casos": 7.0,
    "COMUNA": "San Fabián"
   },
   {
@@ -2554,7 +2554,7 @@
    "delito": "DAÑOS",
    "2024": 49.0,
    "2025": 51.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "San Fabián"
   },
   {
@@ -2590,7 +2590,7 @@
    "delito": "INCIVILIDADES",
    "2024": 28.0,
    "2025": 27.0,
-   "2026": 18.0,
+   "2026": 20.0,
    "COMUNA": "San Fabián"
   },
   {
@@ -2712,7 +2712,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
+  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
   "region": "Ñuble"
  }
 }

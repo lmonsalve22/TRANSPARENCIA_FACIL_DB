@@ -3,54 +3,54 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 5704,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5704,
-   "2025": 9.0,
+   "2025": 10.0,
    "2026": 10.0,
-   "variacion": 11.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Panquehue"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5704,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 1.0,
-   "variacion": -67.0,
+   "variacion": -75.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5704,
-   "2025": 17.0,
-   "2026": 11.0,
-   "variacion": -35.0,
+   "2025": 19.0,
+   "2026": 14.0,
+   "variacion": -26.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5704,
-   "2025": 19.0,
-   "2026": 8.0,
-   "variacion": -58.0,
+   "2025": 23.0,
+   "2026": 13.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 5704,
-   "2025": 11.0,
-   "2026": 6.0,
-   "variacion": -45.0,
+   "2025": 12.0,
+   "2026": 7.0,
+   "variacion": -42.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
@@ -76,8 +76,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 5704,
    "2025": 1.0,
-   "2026": 3.0,
-   "variacion": 200.0,
+   "2026": 4.0,
+   "variacion": 300.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
@@ -148,18 +148,18 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5704,
    "2025": 0.0,
-   "2026": 2.0,
-   "variacion": 200.0,
+   "2026": 4.0,
+   "variacion": 400.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5704,
-   "2025": 5.0,
+   "2025": 7.0,
    "2026": 6.0,
-   "variacion": 20.0,
-   "situación": "Aumento de Casos",
+   "variacion": -14.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
   {
@@ -627,7 +627,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 2,
-   "casos": 5.0,
+   "casos": 8.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -739,7 +739,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 2,
-   "casos": 4.0,
+   "casos": 9.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -851,7 +851,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -1187,7 +1187,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2083,7 +2083,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2457,7 +2457,7 @@
    "delito": "DAÑOS",
    "2024": 86.0,
    "2025": 90.0,
-   "2026": 11.0,
+   "2026": 14.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2466,7 +2466,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 76.0,
    "2025": 86.0,
-   "2026": 8.0,
+   "2026": 13.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2484,7 +2484,7 @@
    "delito": "HURTOS",
    "2024": 28.0,
    "2025": 27.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2511,7 +2511,7 @@
    "delito": "LESIONES LEVES",
    "2024": 15.0,
    "2025": 22.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2583,7 +2583,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 13.0,
    "2025": 5.0,
-   "2026": 2.0,
+   "2026": 4.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2615,7 +2615,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
+  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
   "region": "Valparaíso"
  }
 }

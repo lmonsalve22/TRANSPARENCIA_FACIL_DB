@@ -13,26 +13,26 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10402,
    "2025": 3.0,
-   "2026": 5.0,
-   "variacion": 67.0,
+   "2026": 7.0,
+   "variacion": 133.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Futaleufú"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10402,
-   "2025": 14.0,
+   "2025": 16.0,
    "2026": 4.0,
-   "variacion": -71.0,
+   "variacion": -75.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Futaleufú"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10402,
-   "2025": 8.0,
-   "2026": 2.0,
-   "variacion": -75.0,
+   "2025": 10.0,
+   "2026": 5.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Futaleufú"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 10402,
    "2025": 4.0,
-   "2026": 2.0,
-   "variacion": -50.0,
+   "2026": 3.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Futaleufú"
   },
@@ -111,10 +111,10 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 10402,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Futaleufú"
   },
   {
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10402,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Futaleufú"
   },
   {
@@ -403,7 +403,7 @@
    "CODCOM": 10402,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Futaleufú"
   },
   {
@@ -627,7 +627,7 @@
    "CODCOM": 10402,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 3.0,
    "COMUNA": "Futaleufú"
   },
   {
@@ -1291,7 +1291,7 @@
    "CODCOM": 10402,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Futaleufú"
   },
   {
@@ -2399,7 +2399,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 25.0,
    "2025": 26.0,
-   "2026": 5.0,
+   "2026": 7.0,
    "COMUNA": "Futaleufú"
   },
   {
@@ -2417,7 +2417,7 @@
    "delito": "DAÑOS",
    "2024": 43.0,
    "2025": 42.0,
-   "2026": 2.0,
+   "2026": 5.0,
    "COMUNA": "Futaleufú"
   },
   {
@@ -2471,7 +2471,7 @@
    "delito": "LESIONES LEVES",
    "2024": 18.0,
    "2025": 12.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Futaleufú"
   },
   {
@@ -2575,7 +2575,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
+  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
   "region": "Los Lagos"
  }
 }

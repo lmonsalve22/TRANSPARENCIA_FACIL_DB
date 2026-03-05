@@ -13,18 +13,18 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10404,
    "2025": 6.0,
-   "2026": 3.0,
-   "variacion": -50.0,
+   "2026": 4.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Palena"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10404,
-   "2025": 1.0,
+   "2025": 3.0,
    "2026": 3.0,
-   "variacion": 200.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Palena"
   },
   {
@@ -48,10 +48,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10404,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 2.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Palena"
   },
   {
@@ -94,9 +94,9 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10404,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Palena"
   },
   {
@@ -385,7 +385,7 @@
    "CODCOM": 10404,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Palena"
   },
   {
@@ -1385,7 +1385,7 @@
    "CODCOM": 10404,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Palena"
   },
   {
@@ -2157,7 +2157,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 16.0,
    "2025": 18.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Palena"
   },
   {
@@ -2247,7 +2247,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 2.0,
    "2025": 1.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Palena"
   },
   {
@@ -2333,7 +2333,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
+  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
   "region": "Los Lagos"
  }
 }

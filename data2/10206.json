@@ -12,7 +12,7 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10206,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 10206,
    "2025": 3.0,
-   "2026": 0.0,
-   "variacion": -100.0,
+   "2026": 1.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Puqueldón"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10206,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 8.0,
-   "variacion": 33.0,
+   "variacion": 14.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Puqueldón"
   },
@@ -618,7 +618,7 @@
    "CODCOM": 10206,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Puqueldón"
   },
   {
@@ -2304,7 +2304,7 @@
    "delito": "DAÑOS",
    "2024": 18.0,
    "2025": 7.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Puqueldón"
   },
   {
@@ -2462,7 +2462,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
+  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
   "region": "Los Lagos"
  }
 }

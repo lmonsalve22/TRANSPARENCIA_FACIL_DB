@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 4305,
    "2025": 1.0,
-   "2026": 4.0,
-   "variacion": 300.0,
+   "2026": 5.0,
+   "variacion": 400.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Río Hurtado"
   },
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 4305,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 1.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Río Hurtado"
   },
   {
@@ -731,7 +731,7 @@
    "CODCOM": 4305,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Río Hurtado"
   },
   {
@@ -1059,7 +1059,7 @@
    "CODCOM": 4305,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Río Hurtado"
   },
   {
@@ -2434,7 +2434,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 20.0,
    "2025": 12.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Río Hurtado"
   },
   {
@@ -2461,7 +2461,7 @@
    "delito": "INCIVILIDADES",
    "2024": 9.0,
    "2025": 7.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Río Hurtado"
   },
   {
@@ -2583,7 +2583,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
+  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
   "region": "Coquimbo"
  }
 }

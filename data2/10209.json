@@ -13,13 +13,22 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10209,
    "2025": 7.0,
-   "2026": 4.0,
-   "variacion": -43.0,
+   "2026": 5.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quemchi"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 10209,
+   "2025": 10.0,
+   "2026": 9.0,
+   "variacion": -10.0,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Quemchi"
+  },
+  {
+   "delito": "DAÑOS",
    "CODCOM": 10209,
    "2025": 5.0,
    "2026": 7.0,
@@ -28,20 +37,11 @@
    "COMUNA": "Quemchi"
   },
   {
-   "delito": "DAÑOS",
-   "CODCOM": 10209,
-   "2025": 4.0,
-   "2026": 6.0,
-   "variacion": 50.0,
-   "situación": "Aumento de Casos",
-   "COMUNA": "Quemchi"
-  },
-  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10209,
-   "2025": 7.0,
-   "2026": 4.0,
-   "variacion": -43.0,
+   "2025": 8.0,
+   "2026": 7.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quemchi"
   },
@@ -75,8 +75,8 @@
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10209,
-   "2025": 0.0,
-   "2026": 0.0,
+   "2025": 1.0,
+   "2026": 1.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Quemchi"
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10209,
-   "2025": 0.0,
+   "2025": 2.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Quemchi"
   },
   {
@@ -403,7 +403,7 @@
    "CODCOM": 10209,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -515,7 +515,7 @@
    "CODCOM": 10209,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -627,7 +627,7 @@
    "CODCOM": 10209,
    "anio": 2026,
    "mes": 2,
-   "casos": 5.0,
+   "casos": 6.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -739,7 +739,7 @@
    "CODCOM": 10209,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 4.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -1179,7 +1179,7 @@
    "CODCOM": 10209,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2415,7 +2415,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 46.0,
    "2025": 33.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2424,7 +2424,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 110.0,
    "2025": 48.0,
-   "2026": 7.0,
+   "2026": 9.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2433,7 +2433,7 @@
    "delito": "DAÑOS",
    "2024": 67.0,
    "2025": 38.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2442,7 +2442,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 60.0,
    "2025": 49.0,
-   "2026": 4.0,
+   "2026": 7.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2478,7 +2478,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 3.0,
    "2025": 4.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2591,7 +2591,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
+  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
   "region": "Los Lagos"
  }
 }

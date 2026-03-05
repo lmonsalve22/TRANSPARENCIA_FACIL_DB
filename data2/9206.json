@@ -13,15 +13,15 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9206,
    "2025": 12.0,
-   "2026": 6.0,
-   "variacion": -50.0,
+   "2026": 8.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Sauces"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9206,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 9206,
-   "2025": 11.0,
-   "2026": 16.0,
-   "variacion": 45.0,
+   "2025": 13.0,
+   "2026": 18.0,
+   "variacion": 38.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Los Sauces"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9206,
-   "2025": 14.0,
+   "2025": 17.0,
    "2026": 5.0,
-   "variacion": -64.0,
+   "variacion": -71.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Sauces"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9206,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 3.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -25.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Los Sauces"
   },
   {
@@ -85,9 +85,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 9206,
    "2025": 4.0,
-   "2026": 3.0,
-   "variacion": -25.0,
-   "situación": "Disminución de Casos",
+   "2026": 4.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Los Sauces"
   },
   {
@@ -412,7 +412,7 @@
    "CODCOM": 9206,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 9206,
    "anio": 2026,
    "mes": 2,
-   "casos": 9.0,
+   "casos": 11.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -1300,7 +1300,7 @@
    "CODCOM": 9206,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -2408,6 +2408,14 @@
    "COMUNA": "Los Sauces"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9206,
+   "anio": 2026,
+   "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Los Sauces"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9206,
    "anio": 2025,
@@ -2536,7 +2544,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 51.0,
    "2025": 46.0,
-   "2026": 6.0,
+   "2026": 8.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -2554,7 +2562,7 @@
    "delito": "DAÑOS",
    "2024": 85.0,
    "2025": 59.0,
-   "2026": 16.0,
+   "2026": 18.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -2608,7 +2616,7 @@
    "delito": "LESIONES LEVES",
    "2024": 29.0,
    "2025": 29.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -2712,7 +2720,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
+  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
   "region": "La Araucanía"
  }
 }

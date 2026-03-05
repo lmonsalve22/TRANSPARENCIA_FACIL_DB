@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8206,
-   "2025": 30.0,
-   "2026": 31.0,
+   "2025": 32.0,
+   "2026": 33.0,
    "variacion": 3.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Los Alamos"
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8206,
    "2025": 46.0,
-   "2026": 40.0,
-   "variacion": -13.0,
+   "2026": 42.0,
+   "variacion": -9.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Alamos"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 8206,
-   "2025": 26.0,
-   "2026": 29.0,
-   "variacion": 12.0,
+   "2025": 27.0,
+   "2026": 33.0,
+   "variacion": 22.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Los Alamos"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8206,
-   "2025": 29.0,
-   "2026": 37.0,
-   "variacion": 28.0,
+   "2025": 34.0,
+   "2026": 44.0,
+   "variacion": 29.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Los Alamos"
   },
@@ -57,17 +57,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8206,
-   "2025": 8.0,
-   "2026": 6.0,
-   "variacion": -25.0,
+   "2025": 12.0,
+   "2026": 8.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Alamos"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8206,
-   "2025": 5.0,
-   "2026": 5.0,
+   "2025": 7.0,
+   "2026": 7.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Los Alamos"
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8206,
-   "2025": 12.0,
+   "2025": 13.0,
    "2026": 12.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -8.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Los Alamos"
   },
   {
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8206,
    "2025": 5.0,
-   "2026": 2.0,
-   "variacion": -60.0,
+   "2026": 3.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Alamos"
   },
@@ -166,9 +166,9 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8206,
    "2025": 7.0,
-   "2026": 5.0,
-   "variacion": -29.0,
-   "situación": "Disminución de Casos",
+   "2026": 7.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Los Alamos"
   },
   {
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8206,
    "2025": 4.0,
-   "2026": 2.0,
-   "variacion": -50.0,
+   "2026": 3.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Alamos"
   }
@@ -412,7 +412,7 @@
    "CODCOM": 8206,
    "anio": 2026,
    "mes": 2,
-   "casos": 20.0,
+   "casos": 22.0,
    "COMUNA": "Los Alamos"
   },
   {
@@ -524,7 +524,7 @@
    "CODCOM": 8206,
    "anio": 2026,
    "mes": 2,
-   "casos": 13.0,
+   "casos": 15.0,
    "COMUNA": "Los Alamos"
   },
   {
@@ -636,7 +636,7 @@
    "CODCOM": 8206,
    "anio": 2026,
    "mes": 2,
-   "casos": 14.0,
+   "casos": 18.0,
    "COMUNA": "Los Alamos"
   },
   {
@@ -748,7 +748,7 @@
    "CODCOM": 8206,
    "anio": 2026,
    "mes": 2,
-   "casos": 15.0,
+   "casos": 22.0,
    "COMUNA": "Los Alamos"
   },
   {
@@ -972,7 +972,7 @@
    "CODCOM": 8206,
    "anio": 2026,
    "mes": 2,
-   "casos": 4.0,
+   "casos": 6.0,
    "COMUNA": "Los Alamos"
   },
   {
@@ -1084,7 +1084,7 @@
    "CODCOM": 8206,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Los Alamos"
   },
   {
@@ -2092,7 +2092,7 @@
    "CODCOM": 8206,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Los Alamos"
   },
   {
@@ -2316,7 +2316,7 @@
    "CODCOM": 8206,
    "anio": 2026,
    "mes": 2,
-   "casos": 4.0,
+   "casos": 6.0,
    "COMUNA": "Los Alamos"
   },
   {
@@ -2532,7 +2532,7 @@
    "CODCOM": 8206,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Los Alamos"
   }
  ],
@@ -2552,7 +2552,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 206.0,
    "2025": 215.0,
-   "2026": 31.0,
+   "2026": 33.0,
    "COMUNA": "Los Alamos"
   },
   {
@@ -2561,7 +2561,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 242.0,
    "2025": 204.0,
-   "2026": 40.0,
+   "2026": 42.0,
    "COMUNA": "Los Alamos"
   },
   {
@@ -2570,7 +2570,7 @@
    "delito": "DAÑOS",
    "2024": 179.0,
    "2025": 166.0,
-   "2026": 29.0,
+   "2026": 33.0,
    "COMUNA": "Los Alamos"
   },
   {
@@ -2579,7 +2579,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 215.0,
    "2025": 193.0,
-   "2026": 37.0,
+   "2026": 44.0,
    "COMUNA": "Los Alamos"
   },
   {
@@ -2597,7 +2597,7 @@
    "delito": "HURTOS",
    "2024": 81.0,
    "2025": 64.0,
-   "2026": 6.0,
+   "2026": 8.0,
    "COMUNA": "Los Alamos"
   },
   {
@@ -2606,7 +2606,7 @@
    "delito": "INCIVILIDADES",
    "2024": 43.0,
    "2025": 68.0,
-   "2026": 5.0,
+   "2026": 7.0,
    "COMUNA": "Los Alamos"
   },
   {
@@ -2687,7 +2687,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 10.0,
    "2025": 21.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Los Alamos"
   },
   {
@@ -2705,7 +2705,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 82.0,
    "2025": 69.0,
-   "2026": 5.0,
+   "2026": 7.0,
    "COMUNA": "Los Alamos"
   },
   {
@@ -2723,12 +2723,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 24.0,
    "2025": 19.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Los Alamos"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
+  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
   "region": "Biobío"
  }
 }

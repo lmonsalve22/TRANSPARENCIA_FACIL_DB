@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 1403,
    "2025": 2.0,
-   "2026": 4.0,
-   "variacion": 100.0,
+   "2026": 6.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
@@ -138,9 +138,9 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 1403,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 1.0,
-   "variacion": -50.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Colchane"
   },
@@ -1636,7 +1636,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Colchane"
   },
   {
@@ -2643,7 +2643,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 38.0,
    "2025": 17.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Colchane"
   },
   {
@@ -2720,7 +2720,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
+  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
   "region": "Tarapacá"
  }
 }

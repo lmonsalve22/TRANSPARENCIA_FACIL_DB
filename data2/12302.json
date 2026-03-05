@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 12302,
    "2025": 11.0,
-   "2026": 5.0,
-   "variacion": -55.0,
+   "2026": 6.0,
+   "variacion": -45.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Primavera"
   },
@@ -48,10 +48,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 12302,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Primavera"
   },
   {
@@ -480,7 +480,7 @@
    "CODCOM": 12302,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Primavera"
   },
   {
@@ -2029,7 +2029,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 21.0,
    "2025": 30.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Primavera"
   },
   {
@@ -2196,7 +2196,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
+  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
   "region": "Magallanes"
  }
 }

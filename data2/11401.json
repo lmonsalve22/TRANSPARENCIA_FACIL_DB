@@ -3,18 +3,18 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 11401,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 11401,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 4.0,
-   "variacion": -33.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
@@ -30,17 +30,17 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 11401,
-   "2025": 7.0,
-   "2026": 11.0,
-   "variacion": 57.0,
+   "2025": 8.0,
+   "2026": 14.0,
+   "variacion": 75.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chile Chico"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11401,
-   "2025": 9.0,
-   "2026": 3.0,
+   "2025": 12.0,
+   "2026": 4.0,
    "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
@@ -58,17 +58,17 @@
    "delito": "HURTOS",
    "CODCOM": 11401,
    "2025": 3.0,
-   "2026": 1.0,
-   "variacion": -67.0,
+   "2026": 2.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 11401,
-   "2025": 7.0,
-   "2026": 6.0,
-   "variacion": -14.0,
+   "2025": 10.0,
+   "2026": 8.0,
+   "variacion": -20.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 11401,
-   "2025": 7.0,
-   "2026": 3.0,
-   "variacion": -57.0,
+   "2025": 8.0,
+   "2026": 4.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
@@ -627,7 +627,7 @@
    "CODCOM": 11401,
    "anio": 2026,
    "mes": 2,
-   "casos": 8.0,
+   "casos": 11.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -739,7 +739,7 @@
    "CODCOM": 11401,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -963,7 +963,7 @@
    "CODCOM": 11401,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -1075,7 +1075,7 @@
    "CODCOM": 11401,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2291,7 +2291,7 @@
    "CODCOM": 11401,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2441,7 +2441,7 @@
    "delito": "DAÑOS",
    "2024": 62.0,
    "2025": 48.0,
-   "2026": 11.0,
+   "2026": 14.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2450,7 +2450,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 54.0,
    "2025": 46.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2468,7 +2468,7 @@
    "delito": "HURTOS",
    "2024": 20.0,
    "2025": 24.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2477,7 +2477,7 @@
    "delito": "INCIVILIDADES",
    "2024": 97.0,
    "2025": 83.0,
-   "2026": 6.0,
+   "2026": 8.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2576,7 +2576,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 25.0,
    "2025": 30.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2599,7 +2599,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
+  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
   "region": "Aysén"
  }
 }

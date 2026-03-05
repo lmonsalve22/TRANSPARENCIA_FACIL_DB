@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4304,
-   "2025": 12.0,
+   "2025": 14.0,
    "2026": 15.0,
-   "variacion": 25.0,
+   "variacion": 7.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Punitaqui"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4304,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 2.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Punitaqui"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 4304,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 9.0,
-   "variacion": 50.0,
+   "variacion": 29.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Punitaqui"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 4304,
    "2025": 1.0,
-   "2026": 4.0,
-   "variacion": 300.0,
+   "2026": 6.0,
+   "variacion": 500.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Punitaqui"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 4304,
    "2025": 9.0,
-   "2026": 15.0,
-   "variacion": 67.0,
+   "2026": 16.0,
+   "variacion": 78.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Punitaqui"
   },
@@ -1636,7 +1636,7 @@
    "CODCOM": 4304,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Punitaqui"
   },
   {
@@ -2300,7 +2300,7 @@
    "CODCOM": 4304,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Punitaqui"
   },
   {
@@ -2643,7 +2643,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 12.0,
    "2025": 15.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Punitaqui"
   },
   {
@@ -2697,7 +2697,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 56.0,
    "2025": 85.0,
-   "2026": 15.0,
+   "2026": 16.0,
    "COMUNA": "Punitaqui"
   },
   {
@@ -2720,7 +2720,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
+  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
   "region": "Coquimbo"
  }
 }

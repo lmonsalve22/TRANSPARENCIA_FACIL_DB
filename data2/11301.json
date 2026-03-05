@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 11301,
    "2025": 2.0,
-   "2026": 3.0,
-   "variacion": 50.0,
+   "2026": 4.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochrane"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 11301,
-   "2025": 5.0,
-   "2026": 6.0,
-   "variacion": 20.0,
+   "2025": 6.0,
+   "2026": 8.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochrane"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11301,
-   "2025": 2.0,
-   "2026": 7.0,
-   "variacion": 250.0,
+   "2025": 4.0,
+   "2026": 8.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochrane"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 11301,
-   "2025": 3.0,
-   "2026": 3.0,
+   "2025": 4.0,
+   "2026": 4.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Cochrane"
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 11301,
    "2025": 8.0,
-   "2026": 5.0,
-   "variacion": -38.0,
+   "2026": 6.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cochrane"
   },
@@ -85,9 +85,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 11301,
    "2025": 3.0,
-   "2026": 3.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 4.0,
+   "variacion": 33.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Cochrane"
   },
   {
@@ -174,9 +174,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 11301,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 2.0,
-   "variacion": 200.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochrane"
   }
@@ -403,7 +403,7 @@
    "CODCOM": 11301,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Cochrane"
   },
   {
@@ -627,7 +627,7 @@
    "CODCOM": 11301,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Cochrane"
   },
   {
@@ -739,7 +739,7 @@
    "CODCOM": 11301,
    "anio": 2026,
    "mes": 2,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Cochrane"
   },
   {
@@ -955,7 +955,7 @@
    "CODCOM": 11301,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Cochrane"
   },
   {
@@ -1067,7 +1067,7 @@
    "CODCOM": 11301,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Cochrane"
   },
   {
@@ -1291,7 +1291,7 @@
    "CODCOM": 11301,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Cochrane"
   },
   {
@@ -2415,7 +2415,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 23.0,
    "2025": 18.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Cochrane"
   },
   {
@@ -2433,7 +2433,7 @@
    "delito": "DAÑOS",
    "2024": 41.0,
    "2025": 32.0,
-   "2026": 6.0,
+   "2026": 8.0,
    "COMUNA": "Cochrane"
   },
   {
@@ -2442,7 +2442,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 19.0,
    "2025": 35.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Cochrane"
   },
   {
@@ -2460,7 +2460,7 @@
    "delito": "HURTOS",
    "2024": 17.0,
    "2025": 18.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Cochrane"
   },
   {
@@ -2469,7 +2469,7 @@
    "delito": "INCIVILIDADES",
    "2024": 134.0,
    "2025": 57.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Cochrane"
   },
   {
@@ -2487,7 +2487,7 @@
    "delito": "LESIONES LEVES",
    "2024": 15.0,
    "2025": 11.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Cochrane"
   },
   {
@@ -2591,7 +2591,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
+  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
   "region": "Aysén"
  }
 }

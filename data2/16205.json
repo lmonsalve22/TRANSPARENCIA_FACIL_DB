@@ -13,9 +13,9 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16205,
    "2025": 4.0,
-   "2026": 3.0,
-   "variacion": -25.0,
-   "situación": "Disminución de Casos",
+   "2026": 4.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Portezuelo"
   },
   {
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16205,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 4.0,
-   "variacion": -33.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Portezuelo"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16205,
    "2025": 12.0,
-   "2026": 3.0,
-   "variacion": -75.0,
+   "2026": 4.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Portezuelo"
   },
@@ -111,10 +111,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16205,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Portezuelo"
   },
   {
@@ -147,10 +147,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16205,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 3.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -25.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Portezuelo"
   },
   {
@@ -386,7 +386,7 @@
    "CODCOM": 16205,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Portezuelo"
   },
   {
@@ -722,7 +722,7 @@
    "CODCOM": 16205,
    "anio": 2026,
    "mes": 2,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Portezuelo"
   },
   {
@@ -2294,7 +2294,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 14.0,
    "2025": 15.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Portezuelo"
   },
   {
@@ -2321,7 +2321,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 31.0,
    "2025": 25.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Portezuelo"
   },
   {
@@ -2470,7 +2470,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
+  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
   "region": "Ñuble"
  }
 }

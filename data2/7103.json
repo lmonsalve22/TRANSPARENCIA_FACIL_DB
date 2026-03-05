@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7103,
    "2025": 3.0,
-   "2026": 18.0,
-   "variacion": 500.0,
+   "2026": 20.0,
+   "variacion": 567.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Curepto"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7103,
-   "2025": 9.0,
+   "2025": 11.0,
    "2026": 9.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -18.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Curepto"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7103,
-   "2025": 5.0,
-   "2026": 11.0,
-   "variacion": 120.0,
+   "2025": 6.0,
+   "2026": 12.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Curepto"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7103,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 3.0,
-   "variacion": -25.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curepto"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 7103,
    "2025": 4.0,
-   "2026": 5.0,
-   "variacion": 25.0,
+   "2026": 7.0,
+   "variacion": 75.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Curepto"
   },
@@ -94,9 +94,9 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7103,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 2.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Curepto"
   },
   {
@@ -515,7 +515,7 @@
    "CODCOM": 7103,
    "anio": 2026,
    "mes": 2,
-   "casos": 3.0,
+   "casos": 5.0,
    "COMUNA": "Curepto"
   },
   {
@@ -739,7 +739,7 @@
    "CODCOM": 7103,
    "anio": 2026,
    "mes": 2,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Curepto"
   },
   {
@@ -1291,7 +1291,7 @@
    "CODCOM": 7103,
    "anio": 2026,
    "mes": 2,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Curepto"
   },
   {
@@ -1403,7 +1403,7 @@
    "CODCOM": 7103,
    "anio": 2026,
    "mes": 2,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Curepto"
   },
   {
@@ -2416,7 +2416,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 32.0,
    "2025": 67.0,
-   "2026": 18.0,
+   "2026": 20.0,
    "COMUNA": "Curepto"
   },
   {
@@ -2434,7 +2434,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 51.0,
    "2025": 33.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "Curepto"
   },
   {
@@ -2479,7 +2479,7 @@
    "delito": "LESIONES LEVES",
    "2024": 15.0,
    "2025": 19.0,
-   "2026": 5.0,
+   "2026": 7.0,
    "COMUNA": "Curepto"
   },
   {
@@ -2488,7 +2488,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 1.0,
    "2025": 1.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Curepto"
   },
   {
@@ -2583,7 +2583,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 08/2026 (del 16/02/2026 al 22/02/2026)",
+  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
   "region": "Maule"
  }
 }
