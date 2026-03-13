@@ -13,35 +13,35 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5606,
    "2025": 12.0,
-   "2026": 12.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 13.0,
+   "variacion": 8.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Santo Domingo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5606,
    "2025": 13.0,
-   "2026": 6.0,
-   "variacion": -54.0,
+   "2026": 8.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santo Domingo"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5606,
-   "2025": 22.0,
-   "2026": 15.0,
-   "variacion": -32.0,
+   "2025": 26.0,
+   "2026": 16.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santo Domingo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5606,
-   "2025": 13.0,
+   "2025": 14.0,
    "2026": 5.0,
-   "variacion": -62.0,
+   "variacion": -64.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santo Domingo"
   },
@@ -58,26 +58,26 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 5606,
    "2025": 10.0,
-   "2026": 6.0,
-   "variacion": -40.0,
+   "2026": 7.0,
+   "variacion": -30.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santo Domingo"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5606,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Santo Domingo"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5606,
-   "2025": 7.0,
+   "2025": 8.0,
    "2026": 2.0,
-   "variacion": -71.0,
+   "variacion": -75.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santo Domingo"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 5606,
    "2025": 0.0,
-   "2026": 2.0,
-   "variacion": 200.0,
+   "2026": 3.0,
+   "variacion": 300.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Santo Domingo"
   },
@@ -139,8 +139,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5606,
    "2025": 5.0,
-   "2026": 0.0,
-   "variacion": -100.0,
+   "2026": 1.0,
+   "variacion": -80.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santo Domingo"
   },
@@ -156,10 +156,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5606,
-   "2025": 9.0,
-   "2026": 10.0,
-   "variacion": 11.0,
-   "situación": "Aumento de Casos",
+   "2025": 12.0,
+   "2026": 11.0,
+   "variacion": -8.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Santo Domingo"
   },
   {
@@ -295,6 +295,14 @@
    "COMUNA": "Santo Domingo"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 5606,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Santo Domingo"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5606,
    "anio": 2025,
@@ -407,6 +415,14 @@
    "COMUNA": "Santo Domingo"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 5606,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Santo Domingo"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5606,
    "anio": 2025,
@@ -516,6 +532,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 3.0,
+   "COMUNA": "Santo Domingo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 5606,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
    "COMUNA": "Santo Domingo"
   },
   {
@@ -631,6 +655,14 @@
    "COMUNA": "Santo Domingo"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 5606,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Santo Domingo"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5606,
    "anio": 2025,
@@ -743,6 +775,14 @@
    "COMUNA": "Santo Domingo"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 5606,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Santo Domingo"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 5606,
    "anio": 2025,
@@ -855,6 +895,14 @@
    "COMUNA": "Santo Domingo"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5606,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Santo Domingo"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 5606,
    "anio": 2025,
@@ -967,6 +1015,14 @@
    "COMUNA": "Santo Domingo"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 5606,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Santo Domingo"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5606,
    "anio": 2025,
@@ -1079,6 +1135,14 @@
    "COMUNA": "Santo Domingo"
   },
   {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 5606,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Santo Domingo"
+  },
+  {
    "delito": "LESIONES LEVES",
    "CODCOM": 5606,
    "anio": 2025,
@@ -1191,6 +1255,14 @@
    "COMUNA": "Santo Domingo"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 5606,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Santo Domingo"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5606,
    "anio": 2025,
@@ -1299,6 +1371,14 @@
    "CODCOM": 5606,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Santo Domingo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 5606,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Santo Domingo"
   },
@@ -1415,6 +1495,14 @@
    "COMUNA": "Santo Domingo"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 5606,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Santo Domingo"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 5606,
    "anio": 2025,
@@ -1523,6 +1611,14 @@
    "CODCOM": 5606,
    "anio": 2026,
    "mes": 2,
+   "casos": 1.0,
+   "COMUNA": "Santo Domingo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 5606,
+   "anio": 2026,
+   "mes": 3,
    "casos": 1.0,
    "COMUNA": "Santo Domingo"
   },
@@ -1847,6 +1943,14 @@
    "COMUNA": "Santo Domingo"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 5606,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Santo Domingo"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5606,
    "anio": 2025,
@@ -1959,6 +2063,14 @@
    "COMUNA": "Santo Domingo"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 5606,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Santo Domingo"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5606,
    "anio": 2025,
@@ -2067,6 +2179,14 @@
    "CODCOM": 5606,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Santo Domingo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 5606,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Santo Domingo"
   },
@@ -2183,6 +2303,14 @@
    "COMUNA": "Santo Domingo"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 5606,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Santo Domingo"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5606,
    "anio": 2025,
@@ -2291,6 +2419,14 @@
    "CODCOM": 5606,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Santo Domingo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 5606,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Santo Domingo"
   },
@@ -2404,6 +2540,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Santo Domingo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 5606,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Santo Domingo"
   }
  ],
@@ -2423,7 +2567,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 54.0,
    "2025": 69.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "Santo Domingo"
   },
   {
@@ -2432,7 +2576,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 59.0,
    "2025": 40.0,
-   "2026": 6.0,
+   "2026": 8.0,
    "COMUNA": "Santo Domingo"
   },
   {
@@ -2441,7 +2585,7 @@
    "delito": "DAÑOS",
    "2024": 127.0,
    "2025": 91.0,
-   "2026": 15.0,
+   "2026": 16.0,
    "COMUNA": "Santo Domingo"
   },
   {
@@ -2477,7 +2621,7 @@
    "delito": "INCIVILIDADES",
    "2024": 51.0,
    "2025": 28.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Santo Domingo"
   },
   {
@@ -2522,7 +2666,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 8.0,
    "2025": 3.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Santo Domingo"
   },
   {
@@ -2558,7 +2702,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 7.0,
    "2025": 8.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Santo Domingo"
   },
   {
@@ -2576,7 +2720,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 140.0,
    "2025": 83.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "Santo Domingo"
   },
   {
@@ -2599,7 +2743,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Valparaíso"
  }
 }

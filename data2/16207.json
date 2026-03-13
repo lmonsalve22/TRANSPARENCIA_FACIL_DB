@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16207,
-   "2025": 9.0,
-   "2026": 7.0,
-   "variacion": -22.0,
+   "2025": 10.0,
+   "2026": 9.0,
+   "variacion": -10.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16207,
    "2025": 5.0,
-   "2026": 2.0,
-   "variacion": -60.0,
+   "2026": 4.0,
+   "variacion": -20.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 16207,
    "2025": 18.0,
-   "2026": 11.0,
-   "variacion": -39.0,
+   "2026": 12.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16207,
    "2025": 11.0,
-   "2026": 4.0,
-   "variacion": -64.0,
+   "2026": 5.0,
+   "variacion": -55.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
@@ -66,8 +66,8 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 16207,
-   "2025": 5.0,
-   "2026": 5.0,
+   "2025": 6.0,
+   "2026": 6.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Treguaco"
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16207,
-   "2025": 1.0,
-   "2026": 3.0,
-   "variacion": 200.0,
+   "2025": 3.0,
+   "2026": 4.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Treguaco"
   },
@@ -130,8 +130,8 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16207,
    "2025": 0.0,
-   "2026": 1.0,
-   "variacion": 100.0,
+   "2026": 2.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Treguaco"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16207,
-   "2025": 2.0,
-   "2026": 7.0,
-   "variacion": 250.0,
+   "2025": 5.0,
+   "2026": 9.0,
+   "variacion": 80.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Treguaco"
   },
@@ -408,6 +408,14 @@
    "COMUNA": "Treguaco"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 16207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Treguaco"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16207,
    "anio": 2025,
@@ -517,6 +525,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 0.0,
+   "COMUNA": "Treguaco"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 16207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -632,6 +648,14 @@
    "COMUNA": "Treguaco"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 16207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Treguaco"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16207,
    "anio": 2025,
@@ -744,6 +768,14 @@
    "COMUNA": "Treguaco"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 16207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Treguaco"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 16207,
    "anio": 2025,
@@ -960,6 +992,14 @@
    "COMUNA": "Treguaco"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 16207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Treguaco"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 16207,
    "anio": 2025,
@@ -1072,6 +1112,14 @@
    "COMUNA": "Treguaco"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 16207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Treguaco"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16207,
    "anio": 2025,
@@ -1180,6 +1228,14 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Treguaco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 16207,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Treguaco"
   },
@@ -1296,6 +1352,14 @@
    "COMUNA": "Treguaco"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Treguaco"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16207,
    "anio": 2025,
@@ -1405,6 +1469,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Treguaco"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -1516,6 +1588,14 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Treguaco"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16207,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Treguaco"
   },
@@ -1632,6 +1712,14 @@
    "COMUNA": "Treguaco"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 16207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Treguaco"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 16207,
    "anio": 2025,
@@ -1845,6 +1933,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 0.0,
+   "COMUNA": "Treguaco"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2272,6 +2368,14 @@
    "COMUNA": "Treguaco"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 16207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Treguaco"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 16207,
    "anio": 2025,
@@ -2380,6 +2484,14 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Treguaco"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 16207,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Treguaco"
   },
@@ -2494,6 +2606,14 @@
    "mes": 2,
    "casos": 0.0,
    "COMUNA": "Treguaco"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 16207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Treguaco"
   }
  ],
  "info": [
@@ -2512,7 +2632,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 65.0,
    "2025": 57.0,
-   "2026": 7.0,
+   "2026": 9.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2521,7 +2641,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 8.0,
    "2025": 19.0,
-   "2026": 2.0,
+   "2026": 4.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2530,7 +2650,7 @@
    "delito": "DAÑOS",
    "2024": 64.0,
    "2025": 70.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2539,7 +2659,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 59.0,
    "2025": 50.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2566,7 +2686,7 @@
    "delito": "INCIVILIDADES",
    "2024": 12.0,
    "2025": 22.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2584,7 +2704,7 @@
    "delito": "LESIONES LEVES",
    "2024": 30.0,
    "2025": 20.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2629,7 +2749,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 1.0,
    "2025": 2.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2665,7 +2785,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 33.0,
    "2025": 29.0,
-   "2026": 7.0,
+   "2026": 9.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2688,7 +2808,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Ñuble"
  }
 }

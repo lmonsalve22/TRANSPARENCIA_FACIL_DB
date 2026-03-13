@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10402,
-   "2025": 3.0,
+   "2025": 5.0,
    "2026": 7.0,
-   "variacion": 133.0,
+   "variacion": 40.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Futaleufú"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 10402,
-   "2025": 10.0,
+   "2025": 11.0,
    "2026": 5.0,
-   "variacion": -50.0,
+   "variacion": -55.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Futaleufú"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10402,
-   "2025": 3.0,
-   "2026": 4.0,
-   "variacion": 33.0,
+   "2025": 4.0,
+   "2026": 5.0,
+   "variacion": 25.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Futaleufú"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 10402,
    "2025": 4.0,
-   "2026": 1.0,
-   "variacion": -75.0,
+   "2026": 2.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Futaleufú"
   },
@@ -129,7 +129,7 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 10402,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -295,6 +295,14 @@
    "COMUNA": "Futaleufú"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 10402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Futaleufú"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10402,
    "anio": 2025,
@@ -404,6 +412,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 3.0,
+   "COMUNA": "Futaleufú"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 10402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Futaleufú"
   },
   {
@@ -519,6 +535,14 @@
    "COMUNA": "Futaleufú"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 10402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Futaleufú"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 10402,
    "anio": 2025,
@@ -631,6 +655,14 @@
    "COMUNA": "Futaleufú"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 10402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Futaleufú"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10402,
    "anio": 2025,
@@ -743,6 +775,14 @@
    "COMUNA": "Futaleufú"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 10402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Futaleufú"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 10402,
    "anio": 2025,
@@ -851,6 +891,14 @@
    "CODCOM": 10402,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Futaleufú"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 10402,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Futaleufú"
   },
@@ -963,6 +1011,14 @@
    "CODCOM": 10402,
    "anio": 2026,
    "mes": 2,
+   "casos": 1.0,
+   "COMUNA": "Futaleufú"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10402,
+   "anio": 2026,
+   "mes": 3,
    "casos": 1.0,
    "COMUNA": "Futaleufú"
   },
@@ -1079,6 +1135,14 @@
    "COMUNA": "Futaleufú"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 10402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Futaleufú"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10402,
    "anio": 2025,
@@ -1295,6 +1359,14 @@
    "COMUNA": "Futaleufú"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 10402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Futaleufú"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10402,
    "anio": 2025,
@@ -1403,6 +1475,14 @@
    "CODCOM": 10402,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Futaleufú"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10402,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Futaleufú"
   },
@@ -1519,6 +1599,14 @@
    "COMUNA": "Futaleufú"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 10402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Futaleufú"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 10402,
    "anio": 2025,
@@ -1631,6 +1719,14 @@
    "COMUNA": "Futaleufú"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 10402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Futaleufú"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 10402,
    "anio": 2025,
@@ -1847,6 +1943,14 @@
    "COMUNA": "Futaleufú"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 10402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Futaleufú"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 10402,
    "anio": 2025,
@@ -2271,6 +2375,14 @@
    "COMUNA": "Futaleufú"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 10402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Futaleufú"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10402,
    "anio": 2025,
@@ -2379,6 +2491,14 @@
    "CODCOM": 10402,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Futaleufú"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 10402,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Futaleufú"
   }
@@ -2426,7 +2546,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 30.0,
    "2025": 19.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Futaleufú"
   },
   {
@@ -2444,7 +2564,7 @@
    "delito": "HURTOS",
    "2024": 20.0,
    "2025": 17.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Futaleufú"
   },
   {
@@ -2575,7 +2695,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Los Lagos"
  }
 }

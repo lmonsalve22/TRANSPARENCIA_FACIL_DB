@@ -4,9 +4,9 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 16204,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 1.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Ninhue"
   },
   {
@@ -21,37 +21,37 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16204,
-   "2025": 9.0,
-   "2026": 17.0,
-   "variacion": 89.0,
+   "2025": 10.0,
+   "2026": 18.0,
+   "variacion": 80.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Ninhue"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 16204,
-   "2025": 4.0,
-   "2026": 12.0,
-   "variacion": 200.0,
+   "2025": 5.0,
+   "2026": 13.0,
+   "variacion": 160.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Ninhue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16204,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 9.0,
-   "variacion": 50.0,
+   "variacion": 29.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Ninhue"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 16204,
-   "2025": 5.0,
+   "2025": 7.0,
    "2026": 5.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -29.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Ninhue"
   },
   {
@@ -156,9 +156,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16204,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 2.0,
-   "variacion": -67.0,
+   "variacion": -71.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ninhue"
   },
@@ -286,6 +286,14 @@
    "COMUNA": "Ninhue"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 16204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Ninhue"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16204,
    "anio": 2025,
@@ -395,6 +403,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 4.0,
+   "COMUNA": "Ninhue"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 16204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -510,6 +526,14 @@
    "COMUNA": "Ninhue"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 16204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Ninhue"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 16204,
    "anio": 2025,
@@ -619,6 +643,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 7.0,
+   "COMUNA": "Ninhue"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 16204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -734,6 +766,14 @@
    "COMUNA": "Ninhue"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 16204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Ninhue"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 16204,
    "anio": 2025,
@@ -846,6 +886,14 @@
    "COMUNA": "Ninhue"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 16204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Ninhue"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 16204,
    "anio": 2025,
@@ -958,6 +1006,14 @@
    "COMUNA": "Ninhue"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 16204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Ninhue"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16204,
    "anio": 2025,
@@ -1174,6 +1230,14 @@
    "COMUNA": "Ninhue"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Ninhue"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16204,
    "anio": 2025,
@@ -1282,6 +1346,14 @@
    "CODCOM": 16204,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Ninhue"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16204,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Ninhue"
   },
@@ -1398,6 +1470,14 @@
    "COMUNA": "Ninhue"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Ninhue"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 16204,
    "anio": 2026,
@@ -1414,6 +1494,14 @@
    "COMUNA": "Ninhue"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 16204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Ninhue"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 16204,
    "anio": 2025,
@@ -1630,6 +1718,14 @@
    "COMUNA": "Ninhue"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Ninhue"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 16204,
    "anio": 2025,
@@ -1742,6 +1838,14 @@
    "COMUNA": "Ninhue"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Ninhue"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 16204,
    "anio": 2025,
@@ -1850,6 +1954,14 @@
    "CODCOM": 16204,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Ninhue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16204,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Ninhue"
   },
@@ -1962,6 +2074,14 @@
    "CODCOM": 16204,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Ninhue"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16204,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Ninhue"
   },
@@ -2078,6 +2198,14 @@
    "COMUNA": "Ninhue"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 16204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Ninhue"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 16204,
    "anio": 2025,
@@ -2186,6 +2314,14 @@
    "CODCOM": 16204,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Ninhue"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 16204,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Ninhue"
   }
@@ -2197,7 +2333,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 2.0,
    "2025": 1.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -2215,7 +2351,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 20.0,
    "2025": 30.0,
-   "2026": 17.0,
+   "2026": 18.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -2224,7 +2360,7 @@
    "delito": "DAÑOS",
    "2024": 44.0,
    "2025": 55.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -2382,7 +2518,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Ñuble"
  }
 }

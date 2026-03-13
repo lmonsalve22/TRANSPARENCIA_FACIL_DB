@@ -12,27 +12,27 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7107,
-   "2025": 9.0,
-   "2026": 11.0,
-   "variacion": 22.0,
+   "2025": 11.0,
+   "2026": 12.0,
+   "variacion": 9.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pencahue"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7107,
-   "2025": 22.0,
-   "2026": 18.0,
-   "variacion": -18.0,
-   "situación": "Disminución de Casos",
+   "2025": 23.0,
+   "2026": 29.0,
+   "variacion": 26.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Pencahue"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7107,
-   "2025": 11.0,
-   "2026": 7.0,
-   "variacion": -36.0,
+   "2025": 14.0,
+   "2026": 11.0,
+   "variacion": -21.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pencahue"
   },
@@ -75,7 +75,7 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 7107,
-   "2025": 2.0,
+   "2025": 4.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -93,9 +93,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7107,
-   "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
+   "2025": 2.0,
+   "2026": 1.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pencahue"
   },
@@ -129,10 +129,10 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 7107,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Pencahue"
   },
   {
@@ -156,9 +156,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7107,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 11.0,
-   "variacion": 175.0,
+   "variacion": 120.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pencahue"
   },
@@ -286,6 +286,14 @@
    "COMUNA": "Pencahue"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 7107,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Pencahue"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7107,
    "anio": 2025,
@@ -395,6 +403,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 6.0,
+   "COMUNA": "Pencahue"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 7107,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Pencahue"
   },
   {
@@ -510,6 +526,14 @@
    "COMUNA": "Pencahue"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 7107,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 11.0,
+   "COMUNA": "Pencahue"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 7107,
    "anio": 2025,
@@ -622,6 +646,14 @@
    "COMUNA": "Pencahue"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 7107,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 4.0,
+   "COMUNA": "Pencahue"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7107,
    "anio": 2025,
@@ -734,6 +766,14 @@
    "COMUNA": "Pencahue"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 7107,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Pencahue"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 7107,
    "anio": 2025,
@@ -846,6 +886,14 @@
    "COMUNA": "Pencahue"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 7107,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Pencahue"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 7107,
    "anio": 2025,
@@ -955,6 +1003,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 2.0,
+   "COMUNA": "Pencahue"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 7107,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Pencahue"
   },
   {
@@ -1174,6 +1230,14 @@
    "COMUNA": "Pencahue"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 7107,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Pencahue"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7107,
    "anio": 2025,
@@ -1282,6 +1346,14 @@
    "CODCOM": 7107,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Pencahue"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7107,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Pencahue"
   },
@@ -1398,6 +1470,14 @@
    "COMUNA": "Pencahue"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7107,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Pencahue"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7107,
    "anio": 2025,
@@ -1510,6 +1590,14 @@
    "COMUNA": "Pencahue"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 7107,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Pencahue"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 7107,
    "anio": 2025,
@@ -1618,6 +1706,14 @@
    "CODCOM": 7107,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Pencahue"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 7107,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Pencahue"
   },
@@ -1734,6 +1830,14 @@
    "COMUNA": "Pencahue"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 7107,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Pencahue"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 7107,
    "anio": 2025,
@@ -1846,6 +1950,14 @@
    "COMUNA": "Pencahue"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 7107,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Pencahue"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 7107,
    "anio": 2025,
@@ -1955,6 +2067,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Pencahue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 7107,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Pencahue"
   },
   {
@@ -2067,6 +2187,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Pencahue"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 7107,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Pencahue"
   },
   {
@@ -2182,6 +2310,14 @@
    "COMUNA": "Pencahue"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7107,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Pencahue"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 7107,
    "anio": 2025,
@@ -2291,6 +2427,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Pencahue"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7107,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Pencahue"
   }
  ],
@@ -2310,7 +2454,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 36.0,
    "2025": 51.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "Pencahue"
   },
   {
@@ -2319,7 +2463,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 114.0,
    "2025": 100.0,
-   "2026": 18.0,
+   "2026": 29.0,
    "COMUNA": "Pencahue"
   },
   {
@@ -2328,7 +2472,7 @@
    "delito": "DAÑOS",
    "2024": 70.0,
    "2025": 75.0,
-   "2026": 7.0,
+   "2026": 11.0,
    "COMUNA": "Pencahue"
   },
   {
@@ -2400,7 +2544,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 42.0,
    "2025": 37.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Pencahue"
   },
   {
@@ -2486,7 +2630,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Maule"
  }
 }

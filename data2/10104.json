@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10104,
-   "2025": 21.0,
-   "2026": 20.0,
-   "variacion": -5.0,
-   "situación": "Disminución de Casos",
+   "2025": 22.0,
+   "2026": 24.0,
+   "variacion": 9.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Fresia"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10104,
    "2025": 74.0,
-   "2026": 60.0,
-   "variacion": -19.0,
+   "2026": 62.0,
+   "variacion": -16.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Fresia"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 10104,
    "2025": 12.0,
-   "2026": 11.0,
-   "variacion": -8.0,
-   "situación": "Disminución de Casos",
+   "2026": 16.0,
+   "variacion": 33.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Fresia"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10104,
-   "2025": 22.0,
-   "2026": 16.0,
-   "variacion": -27.0,
+   "2025": 24.0,
+   "2026": 18.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Fresia"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10104,
-   "2025": 4.0,
-   "2026": 9.0,
-   "variacion": 125.0,
+   "2025": 5.0,
+   "2026": 10.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Fresia"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 10104,
    "2025": 11.0,
-   "2026": 27.0,
-   "variacion": 145.0,
+   "2026": 28.0,
+   "variacion": 155.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Fresia"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10104,
-   "2025": 7.0,
+   "2025": 9.0,
    "2026": 12.0,
-   "variacion": 71.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Fresia"
   },
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 10104,
-   "2025": 5.0,
+   "2025": 8.0,
    "2026": 2.0,
-   "variacion": -60.0,
+   "variacion": -75.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Fresia"
   },
@@ -139,9 +139,9 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 10104,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Fresia"
   },
   {
@@ -157,18 +157,18 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 10104,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 2.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Fresia"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10104,
    "2025": 3.0,
-   "2026": 2.0,
-   "variacion": -33.0,
-   "situación": "Disminución de Casos",
+   "2026": 3.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Fresia"
   },
   {
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10104,
-   "2025": 0.0,
-   "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "2025": 2.0,
+   "2026": 2.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Fresia"
   }
  ],
@@ -304,6 +304,14 @@
    "COMUNA": "Fresia"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 10104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Fresia"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10104,
    "anio": 2025,
@@ -413,6 +421,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 5.0,
+   "COMUNA": "Fresia"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 10104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 4.0,
    "COMUNA": "Fresia"
   },
   {
@@ -528,6 +544,14 @@
    "COMUNA": "Fresia"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 10104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Fresia"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 10104,
    "anio": 2025,
@@ -637,6 +661,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 7.0,
+   "COMUNA": "Fresia"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 10104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 5.0,
    "COMUNA": "Fresia"
   },
   {
@@ -752,6 +784,14 @@
    "COMUNA": "Fresia"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 10104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Fresia"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 10104,
    "anio": 2025,
@@ -860,6 +900,14 @@
    "CODCOM": 10104,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Fresia"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 10104,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Fresia"
   },
@@ -973,6 +1021,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 6.0,
+   "COMUNA": "Fresia"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Fresia"
   },
   {
@@ -1088,6 +1144,14 @@
    "COMUNA": "Fresia"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 10104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Fresia"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10104,
    "anio": 2025,
@@ -1197,6 +1261,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 2.0,
+   "COMUNA": "Fresia"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 10104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Fresia"
   },
   {
@@ -1312,6 +1384,14 @@
    "COMUNA": "Fresia"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 10104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Fresia"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10104,
    "anio": 2025,
@@ -1421,6 +1501,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Fresia"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Fresia"
   },
   {
@@ -1532,6 +1620,14 @@
    "CODCOM": 10104,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Fresia"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 10104,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Fresia"
   },
@@ -1856,6 +1952,14 @@
    "COMUNA": "Fresia"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 10104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Fresia"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 10104,
    "anio": 2025,
@@ -1965,6 +2069,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 0.0,
+   "COMUNA": "Fresia"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 10104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Fresia"
   },
   {
@@ -2080,6 +2192,14 @@
    "COMUNA": "Fresia"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 10104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Fresia"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 10104,
    "anio": 2025,
@@ -2188,6 +2308,14 @@
    "CODCOM": 10104,
    "anio": 2026,
    "mes": 2,
+   "casos": 1.0,
+   "COMUNA": "Fresia"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 10104,
+   "anio": 2026,
+   "mes": 3,
    "casos": 1.0,
    "COMUNA": "Fresia"
   },
@@ -2304,6 +2432,14 @@
    "COMUNA": "Fresia"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 10104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Fresia"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 10104,
    "anio": 2025,
@@ -2518,6 +2654,14 @@
    "mes": 2,
    "casos": 0.0,
    "COMUNA": "Fresia"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 10104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Fresia"
   }
  ],
  "info": [
@@ -2536,7 +2680,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 122.0,
    "2025": 110.0,
-   "2026": 20.0,
+   "2026": 24.0,
    "COMUNA": "Fresia"
   },
   {
@@ -2545,7 +2689,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 266.0,
    "2025": 272.0,
-   "2026": 60.0,
+   "2026": 62.0,
    "COMUNA": "Fresia"
   },
   {
@@ -2554,7 +2698,7 @@
    "delito": "DAÑOS",
    "2024": 89.0,
    "2025": 69.0,
-   "2026": 11.0,
+   "2026": 16.0,
    "COMUNA": "Fresia"
   },
   {
@@ -2563,7 +2707,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 92.0,
    "2025": 97.0,
-   "2026": 16.0,
+   "2026": 18.0,
    "COMUNA": "Fresia"
   },
   {
@@ -2581,7 +2725,7 @@
    "delito": "HURTOS",
    "2024": 45.0,
    "2025": 41.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Fresia"
   },
   {
@@ -2590,7 +2734,7 @@
    "delito": "INCIVILIDADES",
    "2024": 38.0,
    "2025": 28.0,
-   "2026": 27.0,
+   "2026": 28.0,
    "COMUNA": "Fresia"
   },
   {
@@ -2662,7 +2806,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 1.0,
    "2025": 3.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Fresia"
   },
   {
@@ -2680,7 +2824,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 1.0,
    "2025": 4.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Fresia"
   },
   {
@@ -2689,7 +2833,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 32.0,
    "2025": 40.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Fresia"
   },
   {
@@ -2707,12 +2851,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 11.0,
    "2025": 13.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Fresia"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Los Lagos"
  }
 }

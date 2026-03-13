@@ -3,7 +3,7 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 13403,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -12,26 +12,26 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13403,
-   "2025": 56.0,
-   "2026": 34.0,
-   "variacion": -39.0,
+   "2025": 63.0,
+   "2026": 37.0,
+   "variacion": -41.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Calera de Tango"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13403,
-   "2025": 22.0,
-   "2026": 8.0,
-   "variacion": -64.0,
+   "2025": 23.0,
+   "2026": 12.0,
+   "variacion": -48.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Calera de Tango"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 13403,
-   "2025": 41.0,
-   "2026": 36.0,
+   "2025": 48.0,
+   "2026": 42.0,
    "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Calera de Tango"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13403,
-   "2025": 35.0,
-   "2026": 31.0,
-   "variacion": -11.0,
+   "2025": 40.0,
+   "2026": 35.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Calera de Tango"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13403,
-   "2025": 20.0,
-   "2026": 20.0,
+   "2025": 21.0,
+   "2026": 21.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Calera de Tango"
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 13403,
    "2025": 4.0,
-   "2026": 6.0,
-   "variacion": 50.0,
+   "2026": 7.0,
+   "variacion": 75.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Calera de Tango"
   },
@@ -84,27 +84,27 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 13403,
-   "2025": 16.0,
-   "2026": 14.0,
-   "variacion": -12.0,
-   "situación": "Disminución de Casos",
+   "2025": 17.0,
+   "2026": 18.0,
+   "variacion": 6.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Calera de Tango"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 13403,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 4.0,
-   "variacion": 100.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Calera de Tango"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 13403,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 9.0,
-   "variacion": 200.0,
+   "variacion": 125.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Calera de Tango"
   },
@@ -138,9 +138,9 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 13403,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 4.0,
-   "variacion": -33.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Calera de Tango"
   },
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 13403,
-   "2025": 22.0,
+   "2025": 26.0,
    "2026": 12.0,
-   "variacion": -45.0,
+   "variacion": -54.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Calera de Tango"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13403,
-   "2025": 17.0,
-   "2026": 29.0,
-   "variacion": 71.0,
+   "2025": 18.0,
+   "2026": 33.0,
+   "variacion": 83.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Calera de Tango"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 13403,
    "2025": 6.0,
-   "2026": 2.0,
-   "variacion": -67.0,
+   "2026": 3.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Calera de Tango"
   }
@@ -304,6 +304,14 @@
    "COMUNA": "Calera de Tango"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 13403,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Calera de Tango"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13403,
    "anio": 2025,
@@ -416,6 +424,14 @@
    "COMUNA": "Calera de Tango"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 13403,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 3.0,
+   "COMUNA": "Calera de Tango"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13403,
    "anio": 2025,
@@ -525,6 +541,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Calera de Tango"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 13403,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 4.0,
    "COMUNA": "Calera de Tango"
   },
   {
@@ -640,6 +664,14 @@
    "COMUNA": "Calera de Tango"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 13403,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 6.0,
+   "COMUNA": "Calera de Tango"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13403,
    "anio": 2025,
@@ -752,6 +784,14 @@
    "COMUNA": "Calera de Tango"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 13403,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 4.0,
+   "COMUNA": "Calera de Tango"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 13403,
    "anio": 2025,
@@ -860,6 +900,14 @@
    "CODCOM": 13403,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Calera de Tango"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 13403,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Calera de Tango"
   },
@@ -976,6 +1024,14 @@
    "COMUNA": "Calera de Tango"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 13403,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Calera de Tango"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 13403,
    "anio": 2025,
@@ -1088,6 +1144,14 @@
    "COMUNA": "Calera de Tango"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 13403,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Calera de Tango"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 13403,
    "anio": 2025,
@@ -1196,6 +1260,14 @@
    "CODCOM": 13403,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Calera de Tango"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 13403,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Calera de Tango"
   },
@@ -1312,6 +1384,14 @@
    "COMUNA": "Calera de Tango"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 13403,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 4.0,
+   "COMUNA": "Calera de Tango"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 13403,
    "anio": 2025,
@@ -1421,6 +1501,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 2.0,
+   "COMUNA": "Calera de Tango"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 13403,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Calera de Tango"
   },
   {
@@ -1536,6 +1624,14 @@
    "COMUNA": "Calera de Tango"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 13403,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Calera de Tango"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 13403,
    "anio": 2025,
@@ -1648,6 +1744,14 @@
    "COMUNA": "Calera de Tango"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 13403,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Calera de Tango"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 13403,
    "anio": 2025,
@@ -1760,6 +1864,14 @@
    "COMUNA": "Calera de Tango"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 13403,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Calera de Tango"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 13403,
    "anio": 2025,
@@ -1869,6 +1981,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 2.0,
+   "COMUNA": "Calera de Tango"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 13403,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Calera de Tango"
   },
   {
@@ -1981,6 +2101,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 2.0,
+   "COMUNA": "Calera de Tango"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 13403,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Calera de Tango"
   },
   {
@@ -2093,6 +2221,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 6.0,
+   "COMUNA": "Calera de Tango"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 13403,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Calera de Tango"
   },
   {
@@ -2205,6 +2341,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 6.0,
+   "COMUNA": "Calera de Tango"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 13403,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Calera de Tango"
   },
   {
@@ -2320,6 +2464,14 @@
    "COMUNA": "Calera de Tango"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 13403,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 4.0,
+   "COMUNA": "Calera de Tango"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13403,
    "anio": 2025,
@@ -2432,6 +2584,14 @@
    "COMUNA": "Calera de Tango"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 13403,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Calera de Tango"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 13403,
    "anio": 2025,
@@ -2541,6 +2701,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 2.0,
+   "COMUNA": "Calera de Tango"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 13403,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Calera de Tango"
   }
  ],
@@ -2560,7 +2728,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 273.0,
    "2025": 248.0,
-   "2026": 34.0,
+   "2026": 37.0,
    "COMUNA": "Calera de Tango"
   },
   {
@@ -2569,7 +2737,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 179.0,
    "2025": 144.0,
-   "2026": 8.0,
+   "2026": 12.0,
    "COMUNA": "Calera de Tango"
   },
   {
@@ -2578,7 +2746,7 @@
    "delito": "DAÑOS",
    "2024": 249.0,
    "2025": 217.0,
-   "2026": 36.0,
+   "2026": 42.0,
    "COMUNA": "Calera de Tango"
   },
   {
@@ -2587,7 +2755,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 185.0,
    "2025": 161.0,
-   "2026": 31.0,
+   "2026": 35.0,
    "COMUNA": "Calera de Tango"
   },
   {
@@ -2605,7 +2773,7 @@
    "delito": "HURTOS",
    "2024": 94.0,
    "2025": 90.0,
-   "2026": 20.0,
+   "2026": 21.0,
    "COMUNA": "Calera de Tango"
   },
   {
@@ -2614,7 +2782,7 @@
    "delito": "INCIVILIDADES",
    "2024": 22.0,
    "2025": 27.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Calera de Tango"
   },
   {
@@ -2632,7 +2800,7 @@
    "delito": "LESIONES LEVES",
    "2024": 118.0,
    "2025": 96.0,
-   "2026": 14.0,
+   "2026": 18.0,
    "COMUNA": "Calera de Tango"
   },
   {
@@ -2713,7 +2881,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 142.0,
    "2025": 113.0,
-   "2026": 29.0,
+   "2026": 33.0,
    "COMUNA": "Calera de Tango"
   },
   {
@@ -2731,12 +2899,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 23.0,
    "2025": 24.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Calera de Tango"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Metropolitana"
  }
 }

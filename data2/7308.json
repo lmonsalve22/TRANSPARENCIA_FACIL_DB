@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7308,
-   "2025": 66.0,
-   "2026": 39.0,
-   "variacion": -41.0,
+   "2025": 72.0,
+   "2026": 42.0,
+   "variacion": -42.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Teno"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7308,
-   "2025": 23.0,
+   "2025": 25.0,
    "2026": 5.0,
-   "variacion": -78.0,
+   "variacion": -80.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Teno"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7308,
-   "2025": 35.0,
-   "2026": 44.0,
-   "variacion": 26.0,
+   "2025": 36.0,
+   "2026": 47.0,
+   "variacion": 31.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Teno"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7308,
-   "2025": 52.0,
-   "2026": 60.0,
-   "variacion": 15.0,
+   "2025": 55.0,
+   "2026": 70.0,
+   "variacion": 27.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Teno"
   },
@@ -58,17 +58,17 @@
    "delito": "HURTOS",
    "CODCOM": 7308,
    "2025": 13.0,
-   "2026": 22.0,
-   "variacion": 69.0,
+   "2026": 26.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Teno"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 7308,
-   "2025": 9.0,
-   "2026": 11.0,
-   "variacion": 22.0,
+   "2025": 10.0,
+   "2026": 12.0,
+   "variacion": 20.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Teno"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7308,
-   "2025": 4.0,
-   "2026": 5.0,
-   "variacion": 25.0,
+   "2025": 5.0,
+   "2026": 6.0,
+   "variacion": 20.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Teno"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 7308,
    "2025": 7.0,
-   "2026": 4.0,
-   "variacion": -43.0,
+   "2026": 5.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Teno"
   },
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 7308,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 4.0,
-   "variacion": 400.0,
+   "variacion": 300.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Teno"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7308,
-   "2025": 22.0,
-   "2026": 21.0,
-   "variacion": -5.0,
+   "2025": 23.0,
+   "2026": 22.0,
+   "variacion": -4.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Teno"
   },
@@ -304,6 +304,14 @@
    "COMUNA": "Teno"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 7308,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Teno"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7308,
    "anio": 2025,
@@ -413,6 +421,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 22.0,
+   "COMUNA": "Teno"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 7308,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 3.0,
    "COMUNA": "Teno"
   },
   {
@@ -528,6 +544,14 @@
    "COMUNA": "Teno"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 7308,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Teno"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 7308,
    "anio": 2025,
@@ -637,6 +661,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 22.0,
+   "COMUNA": "Teno"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 7308,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 3.0,
    "COMUNA": "Teno"
   },
   {
@@ -752,6 +784,14 @@
    "COMUNA": "Teno"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 7308,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 10.0,
+   "COMUNA": "Teno"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 7308,
    "anio": 2025,
@@ -968,6 +1008,14 @@
    "COMUNA": "Teno"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 7308,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 4.0,
+   "COMUNA": "Teno"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 7308,
    "anio": 2025,
@@ -1080,6 +1128,14 @@
    "COMUNA": "Teno"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 7308,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Teno"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 7308,
    "anio": 2025,
@@ -1188,6 +1244,14 @@
    "CODCOM": 7308,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Teno"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 7308,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Teno"
   },
@@ -1304,6 +1368,14 @@
    "COMUNA": "Teno"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 7308,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Teno"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7308,
    "anio": 2025,
@@ -1413,6 +1485,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 3.0,
+   "COMUNA": "Teno"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7308,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Teno"
   },
   {
@@ -1528,6 +1608,14 @@
    "COMUNA": "Teno"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7308,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Teno"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7308,
    "anio": 2025,
@@ -1640,6 +1728,14 @@
    "COMUNA": "Teno"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 7308,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Teno"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 7308,
    "anio": 2025,
@@ -1748,6 +1844,14 @@
    "CODCOM": 7308,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Teno"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 7308,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Teno"
   },
@@ -1864,6 +1968,14 @@
    "COMUNA": "Teno"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 7308,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Teno"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 7308,
    "anio": 2025,
@@ -1973,6 +2085,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 2.0,
+   "COMUNA": "Teno"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 7308,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Teno"
   },
   {
@@ -2088,6 +2208,14 @@
    "COMUNA": "Teno"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 7308,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Teno"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 7308,
    "anio": 2025,
@@ -2197,6 +2325,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 3.0,
+   "COMUNA": "Teno"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 7308,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Teno"
   },
   {
@@ -2312,6 +2448,14 @@
    "COMUNA": "Teno"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7308,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Teno"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 7308,
    "anio": 2025,
@@ -2420,6 +2564,14 @@
    "CODCOM": 7308,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Teno"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 7308,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Teno"
   },
@@ -2534,6 +2686,14 @@
    "mes": 2,
    "casos": 1.0,
    "COMUNA": "Teno"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7308,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Teno"
   }
  ],
  "info": [
@@ -2552,7 +2712,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 306.0,
    "2025": 268.0,
-   "2026": 39.0,
+   "2026": 42.0,
    "COMUNA": "Teno"
   },
   {
@@ -2570,7 +2730,7 @@
    "delito": "DAÑOS",
    "2024": 241.0,
    "2025": 205.0,
-   "2026": 44.0,
+   "2026": 47.0,
    "COMUNA": "Teno"
   },
   {
@@ -2579,7 +2739,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 301.0,
    "2025": 251.0,
-   "2026": 60.0,
+   "2026": 70.0,
    "COMUNA": "Teno"
   },
   {
@@ -2597,7 +2757,7 @@
    "delito": "HURTOS",
    "2024": 109.0,
    "2025": 68.0,
-   "2026": 22.0,
+   "2026": 26.0,
    "COMUNA": "Teno"
   },
   {
@@ -2606,7 +2766,7 @@
    "delito": "INCIVILIDADES",
    "2024": 55.0,
    "2025": 57.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "Teno"
   },
   {
@@ -2642,7 +2802,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 68.0,
    "2025": 39.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Teno"
   },
   {
@@ -2651,7 +2811,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 11.0,
    "2025": 26.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Teno"
   },
   {
@@ -2705,7 +2865,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 210.0,
    "2025": 177.0,
-   "2026": 21.0,
+   "2026": 22.0,
    "COMUNA": "Teno"
   },
   {
@@ -2728,7 +2888,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Maule"
  }
 }

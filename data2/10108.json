@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10108,
-   "2025": 43.0,
-   "2026": 18.0,
-   "variacion": -58.0,
+   "2025": 46.0,
+   "2026": 20.0,
+   "variacion": -57.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Maullín"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10108,
-   "2025": 29.0,
-   "2026": 37.0,
-   "variacion": 28.0,
+   "2025": 30.0,
+   "2026": 38.0,
+   "variacion": 27.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Maullín"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10108,
-   "2025": 13.0,
-   "2026": 15.0,
-   "variacion": 15.0,
+   "2025": 15.0,
+   "2026": 16.0,
+   "variacion": 7.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Maullín"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10108,
-   "2025": 31.0,
-   "2026": 25.0,
-   "variacion": -19.0,
+   "2025": 32.0,
+   "2026": 27.0,
+   "variacion": -16.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Maullín"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10108,
-   "2025": 20.0,
-   "2026": 11.0,
+   "2025": 22.0,
+   "2026": 12.0,
    "variacion": -45.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Maullín"
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 10108,
    "2025": 9.0,
-   "2026": 10.0,
-   "variacion": 11.0,
+   "2026": 11.0,
+   "variacion": 22.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Maullín"
   },
@@ -102,10 +102,10 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10108,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Maullín"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10108,
-   "2025": 8.0,
+   "2025": 12.0,
    "2026": 5.0,
-   "variacion": -38.0,
+   "variacion": -58.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Maullín"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10108,
    "2025": 2.0,
-   "2026": 3.0,
-   "variacion": 50.0,
+   "2026": 4.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Maullín"
   }
@@ -304,6 +304,14 @@
    "COMUNA": "Maullín"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 10108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Maullín"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10108,
    "anio": 2025,
@@ -413,6 +421,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 6.0,
+   "COMUNA": "Maullín"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 10108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
    "COMUNA": "Maullín"
   },
   {
@@ -528,6 +544,14 @@
    "COMUNA": "Maullín"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 10108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Maullín"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 10108,
    "anio": 2025,
@@ -637,6 +661,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 6.0,
+   "COMUNA": "Maullín"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 10108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Maullín"
   },
   {
@@ -752,6 +784,14 @@
    "COMUNA": "Maullín"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 10108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Maullín"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 10108,
    "anio": 2025,
@@ -968,6 +1008,14 @@
    "COMUNA": "Maullín"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 10108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Maullín"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 10108,
    "anio": 2025,
@@ -1080,6 +1128,14 @@
    "COMUNA": "Maullín"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 10108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Maullín"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10108,
    "anio": 2025,
@@ -1188,6 +1244,14 @@
    "CODCOM": 10108,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Maullín"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 10108,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Maullín"
   },
@@ -1304,6 +1368,14 @@
    "COMUNA": "Maullín"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 10108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Maullín"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10108,
    "anio": 2025,
@@ -1416,6 +1488,14 @@
    "COMUNA": "Maullín"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Maullín"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10108,
    "anio": 2025,
@@ -1528,6 +1608,14 @@
    "COMUNA": "Maullín"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 10108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Maullín"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 10108,
    "anio": 2025,
@@ -1640,6 +1728,14 @@
    "COMUNA": "Maullín"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 10108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Maullín"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 10108,
    "anio": 2025,
@@ -1748,6 +1844,14 @@
    "CODCOM": 10108,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Maullín"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 10108,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Maullín"
   },
@@ -1864,6 +1968,14 @@
    "COMUNA": "Maullín"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 10108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Maullín"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 10108,
    "anio": 2025,
@@ -1976,6 +2088,14 @@
    "COMUNA": "Maullín"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 10108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Maullín"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 10108,
    "anio": 2025,
@@ -2084,6 +2204,14 @@
    "CODCOM": 10108,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Maullín"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 10108,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Maullín"
   },
@@ -2196,6 +2324,14 @@
    "CODCOM": 10108,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Maullín"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 10108,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Maullín"
   },
@@ -2312,6 +2448,14 @@
    "COMUNA": "Maullín"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 10108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Maullín"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 10108,
    "anio": 2025,
@@ -2525,6 +2669,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 2.0,
+   "COMUNA": "Maullín"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 10108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Maullín"
   }
  ],
@@ -2544,7 +2696,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 168.0,
    "2025": 154.0,
-   "2026": 18.0,
+   "2026": 20.0,
    "COMUNA": "Maullín"
   },
   {
@@ -2553,7 +2705,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 183.0,
    "2025": 145.0,
-   "2026": 37.0,
+   "2026": 38.0,
    "COMUNA": "Maullín"
   },
   {
@@ -2562,7 +2714,7 @@
    "delito": "DAÑOS",
    "2024": 107.0,
    "2025": 103.0,
-   "2026": 15.0,
+   "2026": 16.0,
    "COMUNA": "Maullín"
   },
   {
@@ -2571,7 +2723,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 162.0,
    "2025": 156.0,
-   "2026": 25.0,
+   "2026": 27.0,
    "COMUNA": "Maullín"
   },
   {
@@ -2589,7 +2741,7 @@
    "delito": "HURTOS",
    "2024": 51.0,
    "2025": 64.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "Maullín"
   },
   {
@@ -2616,7 +2768,7 @@
    "delito": "LESIONES LEVES",
    "2024": 47.0,
    "2025": 46.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "Maullín"
   },
   {
@@ -2715,12 +2867,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 16.0,
    "2025": 7.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Maullín"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Los Lagos"
  }
 }

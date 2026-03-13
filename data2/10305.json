@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10305,
-   "2025": 19.0,
-   "2026": 22.0,
-   "variacion": 16.0,
+   "2025": 22.0,
+   "2026": 24.0,
+   "variacion": 9.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Río Negro"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10305,
-   "2025": 49.0,
-   "2026": 31.0,
-   "variacion": -37.0,
+   "2025": 53.0,
+   "2026": 42.0,
+   "variacion": -21.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Negro"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10305,
-   "2025": 16.0,
-   "2026": 12.0,
-   "variacion": -25.0,
+   "2025": 17.0,
+   "2026": 14.0,
+   "variacion": -18.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Negro"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10305,
-   "2025": 20.0,
-   "2026": 34.0,
-   "variacion": 70.0,
+   "2025": 24.0,
+   "2026": 36.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Río Negro"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10305,
-   "2025": 7.0,
-   "2026": 8.0,
-   "variacion": 14.0,
+   "2025": 8.0,
+   "2026": 9.0,
+   "variacion": 12.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Río Negro"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10305,
-   "2025": 14.0,
+   "2025": 16.0,
    "2026": 4.0,
-   "variacion": -71.0,
+   "variacion": -75.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Negro"
   },
@@ -76,17 +76,17 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 10305,
    "2025": 2.0,
-   "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 3.0,
+   "variacion": 50.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Río Negro"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10305,
-   "2025": 15.0,
+   "2025": 16.0,
    "2026": 9.0,
-   "variacion": -40.0,
+   "variacion": -44.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Negro"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10305,
-   "2025": 16.0,
-   "2026": 11.0,
-   "variacion": -31.0,
+   "2025": 19.0,
+   "2026": 12.0,
+   "variacion": -37.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Negro"
   },
@@ -304,6 +304,14 @@
    "COMUNA": "Río Negro"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 10305,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Río Negro"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10305,
    "anio": 2025,
@@ -413,6 +421,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 9.0,
+   "COMUNA": "Río Negro"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 10305,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
    "COMUNA": "Río Negro"
   },
   {
@@ -528,6 +544,14 @@
    "COMUNA": "Río Negro"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 10305,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 11.0,
+   "COMUNA": "Río Negro"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 10305,
    "anio": 2025,
@@ -637,6 +661,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 5.0,
+   "COMUNA": "Río Negro"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 10305,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
    "COMUNA": "Río Negro"
   },
   {
@@ -752,6 +784,14 @@
    "COMUNA": "Río Negro"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 10305,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Río Negro"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 10305,
    "anio": 2025,
@@ -965,6 +1005,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 3.0,
+   "COMUNA": "Río Negro"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10305,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Río Negro"
   },
   {
@@ -1080,6 +1128,14 @@
    "COMUNA": "Río Negro"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 10305,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Río Negro"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10305,
    "anio": 2025,
@@ -1188,6 +1244,14 @@
    "CODCOM": 10305,
    "anio": 2026,
    "mes": 2,
+   "casos": 1.0,
+   "COMUNA": "Río Negro"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 10305,
+   "anio": 2026,
+   "mes": 3,
    "casos": 1.0,
    "COMUNA": "Río Negro"
   },
@@ -1304,6 +1368,14 @@
    "COMUNA": "Río Negro"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 10305,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Río Negro"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10305,
    "anio": 2025,
@@ -1412,6 +1484,14 @@
    "CODCOM": 10305,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Río Negro"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10305,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Río Negro"
   },
@@ -1528,6 +1608,14 @@
    "COMUNA": "Río Negro"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 10305,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Río Negro"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 10305,
    "anio": 2025,
@@ -1636,6 +1724,14 @@
    "CODCOM": 10305,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Río Negro"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 10305,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Río Negro"
   },
@@ -1856,6 +1952,14 @@
    "COMUNA": "Río Negro"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 10305,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Río Negro"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 10305,
    "anio": 2025,
@@ -1964,6 +2068,14 @@
    "CODCOM": 10305,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Río Negro"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 10305,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Río Negro"
   },
@@ -2080,6 +2192,14 @@
    "COMUNA": "Río Negro"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 10305,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Río Negro"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 10305,
    "anio": 2025,
@@ -2189,6 +2309,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Río Negro"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 10305,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Río Negro"
   },
   {
@@ -2304,6 +2432,14 @@
    "COMUNA": "Río Negro"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 10305,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Río Negro"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 10305,
    "anio": 2025,
@@ -2412,6 +2548,14 @@
    "CODCOM": 10305,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Río Negro"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 10305,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Río Negro"
   },
@@ -2525,6 +2669,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 2.0,
+   "COMUNA": "Río Negro"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 10305,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Río Negro"
   }
  ],
@@ -2544,7 +2696,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 136.0,
    "2025": 103.0,
-   "2026": 22.0,
+   "2026": 24.0,
    "COMUNA": "Río Negro"
   },
   {
@@ -2553,7 +2705,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 164.0,
    "2025": 162.0,
-   "2026": 31.0,
+   "2026": 42.0,
    "COMUNA": "Río Negro"
   },
   {
@@ -2562,7 +2714,7 @@
    "delito": "DAÑOS",
    "2024": 117.0,
    "2025": 99.0,
-   "2026": 12.0,
+   "2026": 14.0,
    "COMUNA": "Río Negro"
   },
   {
@@ -2571,7 +2723,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 126.0,
    "2025": 123.0,
-   "2026": 34.0,
+   "2026": 36.0,
    "COMUNA": "Río Negro"
   },
   {
@@ -2589,7 +2741,7 @@
    "delito": "HURTOS",
    "2024": 89.0,
    "2025": 74.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Río Negro"
   },
   {
@@ -2607,7 +2759,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 8.0,
    "2025": 6.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Río Negro"
   },
   {
@@ -2697,7 +2849,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 119.0,
    "2025": 90.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "Río Negro"
   },
   {
@@ -2720,7 +2872,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Los Lagos"
  }
 }

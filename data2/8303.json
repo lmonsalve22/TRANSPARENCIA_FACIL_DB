@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8303,
-   "2025": 47.0,
-   "2026": 49.0,
+   "2025": 51.0,
+   "2026": 53.0,
    "variacion": 4.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cabrero"
@@ -21,27 +21,27 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8303,
-   "2025": 74.0,
-   "2026": 63.0,
-   "variacion": -15.0,
+   "2025": 83.0,
+   "2026": 68.0,
+   "variacion": -18.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabrero"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 8303,
-   "2025": 56.0,
-   "2026": 44.0,
-   "variacion": -21.0,
+   "2025": 60.0,
+   "2026": 48.0,
+   "variacion": -20.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabrero"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8303,
-   "2025": 46.0,
-   "2026": 40.0,
-   "variacion": -13.0,
+   "2025": 51.0,
+   "2026": 49.0,
+   "variacion": -4.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabrero"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8303,
-   "2025": 47.0,
-   "2026": 26.0,
-   "variacion": -45.0,
+   "2025": 50.0,
+   "2026": 33.0,
+   "variacion": -34.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabrero"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8303,
-   "2025": 31.0,
-   "2026": 54.0,
-   "variacion": 74.0,
+   "2025": 32.0,
+   "2026": 57.0,
+   "variacion": 78.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cabrero"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8303,
-   "2025": 17.0,
-   "2026": 15.0,
-   "variacion": -12.0,
+   "2025": 21.0,
+   "2026": 17.0,
+   "variacion": -19.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabrero"
   },
@@ -111,9 +111,9 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8303,
-   "2025": 9.0,
-   "2026": 13.0,
-   "variacion": 44.0,
+   "2025": 10.0,
+   "2026": 15.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cabrero"
   },
@@ -147,27 +147,27 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8303,
-   "2025": 8.0,
-   "2026": 9.0,
-   "variacion": 12.0,
+   "2025": 9.0,
+   "2026": 10.0,
+   "variacion": 11.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cabrero"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8303,
-   "2025": 30.0,
-   "2026": 19.0,
-   "variacion": -37.0,
+   "2025": 33.0,
+   "2026": 20.0,
+   "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabrero"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8303,
-   "2025": 33.0,
-   "2026": 54.0,
-   "variacion": 64.0,
+   "2025": 38.0,
+   "2026": 59.0,
+   "variacion": 55.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cabrero"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8303,
-   "2025": 10.0,
-   "2026": 4.0,
-   "variacion": -60.0,
+   "2025": 11.0,
+   "2026": 7.0,
+   "variacion": -36.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabrero"
   }
@@ -304,6 +304,14 @@
    "COMUNA": "Cabrero"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8303,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Cabrero"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8303,
    "anio": 2025,
@@ -413,6 +421,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 21.0,
+   "COMUNA": "Cabrero"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 8303,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 4.0,
    "COMUNA": "Cabrero"
   },
   {
@@ -528,6 +544,14 @@
    "COMUNA": "Cabrero"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 8303,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 5.0,
+   "COMUNA": "Cabrero"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 8303,
    "anio": 2025,
@@ -637,6 +661,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 20.0,
+   "COMUNA": "Cabrero"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8303,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 4.0,
    "COMUNA": "Cabrero"
   },
   {
@@ -752,6 +784,14 @@
    "COMUNA": "Cabrero"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 8303,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 9.0,
+   "COMUNA": "Cabrero"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 8303,
    "anio": 2025,
@@ -860,6 +900,14 @@
    "CODCOM": 8303,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Cabrero"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 8303,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Cabrero"
   },
@@ -973,6 +1021,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 10.0,
+   "COMUNA": "Cabrero"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8303,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 7.0,
    "COMUNA": "Cabrero"
   },
   {
@@ -1088,6 +1144,14 @@
    "COMUNA": "Cabrero"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 8303,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 3.0,
+   "COMUNA": "Cabrero"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8303,
    "anio": 2025,
@@ -1196,6 +1260,14 @@
    "CODCOM": 8303,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Cabrero"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 8303,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Cabrero"
   },
@@ -1312,6 +1384,14 @@
    "COMUNA": "Cabrero"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 8303,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Cabrero"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8303,
    "anio": 2025,
@@ -1420,6 +1500,14 @@
    "CODCOM": 8303,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Cabrero"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 8303,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Cabrero"
   },
@@ -1536,6 +1624,14 @@
    "COMUNA": "Cabrero"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 8303,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Cabrero"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8303,
    "anio": 2025,
@@ -1648,6 +1744,14 @@
    "COMUNA": "Cabrero"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8303,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Cabrero"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 8303,
    "anio": 2025,
@@ -1756,6 +1860,14 @@
    "CODCOM": 8303,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Cabrero"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8303,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Cabrero"
   },
@@ -1872,6 +1984,14 @@
    "COMUNA": "Cabrero"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8303,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Cabrero"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8303,
    "anio": 2025,
@@ -1981,6 +2101,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Cabrero"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 8303,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Cabrero"
   },
   {
@@ -2093,6 +2221,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 5.0,
+   "COMUNA": "Cabrero"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 8303,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Cabrero"
   },
   {
@@ -2208,6 +2344,14 @@
    "COMUNA": "Cabrero"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 8303,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Cabrero"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8303,
    "anio": 2025,
@@ -2320,6 +2464,14 @@
    "COMUNA": "Cabrero"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8303,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 5.0,
+   "COMUNA": "Cabrero"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8303,
    "anio": 2025,
@@ -2429,6 +2581,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Cabrero"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 8303,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Cabrero"
   },
   {
@@ -2542,6 +2702,14 @@
    "mes": 2,
    "casos": 3.0,
    "COMUNA": "Cabrero"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 8303,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 3.0,
+   "COMUNA": "Cabrero"
   }
  ],
  "info": [
@@ -2560,7 +2728,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 231.0,
    "2025": 238.0,
-   "2026": 49.0,
+   "2026": 53.0,
    "COMUNA": "Cabrero"
   },
   {
@@ -2569,7 +2737,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 492.0,
    "2025": 414.0,
-   "2026": 63.0,
+   "2026": 68.0,
    "COMUNA": "Cabrero"
   },
   {
@@ -2578,7 +2746,7 @@
    "delito": "DAÑOS",
    "2024": 254.0,
    "2025": 238.0,
-   "2026": 44.0,
+   "2026": 48.0,
    "COMUNA": "Cabrero"
   },
   {
@@ -2587,7 +2755,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 235.0,
    "2025": 241.0,
-   "2026": 40.0,
+   "2026": 49.0,
    "COMUNA": "Cabrero"
   },
   {
@@ -2605,7 +2773,7 @@
    "delito": "HURTOS",
    "2024": 174.0,
    "2025": 171.0,
-   "2026": 26.0,
+   "2026": 33.0,
    "COMUNA": "Cabrero"
   },
   {
@@ -2614,7 +2782,7 @@
    "delito": "INCIVILIDADES",
    "2024": 127.0,
    "2025": 96.0,
-   "2026": 54.0,
+   "2026": 57.0,
    "COMUNA": "Cabrero"
   },
   {
@@ -2632,7 +2800,7 @@
    "delito": "LESIONES LEVES",
    "2024": 108.0,
    "2025": 96.0,
-   "2026": 15.0,
+   "2026": 17.0,
    "COMUNA": "Cabrero"
   },
   {
@@ -2659,7 +2827,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 64.0,
    "2025": 69.0,
-   "2026": 13.0,
+   "2026": 15.0,
    "COMUNA": "Cabrero"
   },
   {
@@ -2695,7 +2863,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 68.0,
    "2025": 36.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Cabrero"
   },
   {
@@ -2704,7 +2872,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 103.0,
    "2025": 81.0,
-   "2026": 19.0,
+   "2026": 20.0,
    "COMUNA": "Cabrero"
   },
   {
@@ -2713,7 +2881,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 309.0,
    "2025": 277.0,
-   "2026": 54.0,
+   "2026": 59.0,
    "COMUNA": "Cabrero"
   },
   {
@@ -2731,12 +2899,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 23.0,
    "2025": 33.0,
-   "2026": 4.0,
+   "2026": 7.0,
    "COMUNA": "Cabrero"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Biobío"
  }
 }

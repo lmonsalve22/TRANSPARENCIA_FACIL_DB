@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4103,
-   "2025": 33.0,
-   "2026": 29.0,
-   "variacion": -12.0,
+   "2025": 36.0,
+   "2026": 30.0,
+   "variacion": -17.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Andacollo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 4103,
-   "2025": 43.0,
+   "2025": 44.0,
    "2026": 37.0,
-   "variacion": -14.0,
+   "variacion": -16.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Andacollo"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 4103,
-   "2025": 24.0,
-   "2026": 15.0,
-   "variacion": -38.0,
+   "2025": 26.0,
+   "2026": 21.0,
+   "variacion": -19.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Andacollo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 4103,
-   "2025": 19.0,
-   "2026": 17.0,
-   "variacion": -11.0,
+   "2025": 24.0,
+   "2026": 18.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Andacollo"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 4103,
-   "2025": 13.0,
-   "2026": 11.0,
-   "variacion": -15.0,
+   "2025": 15.0,
+   "2026": 14.0,
+   "variacion": -7.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Andacollo"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 4103,
    "2025": 5.0,
-   "2026": 16.0,
-   "variacion": 220.0,
+   "2026": 18.0,
+   "variacion": 260.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Andacollo"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 4103,
    "2025": 1.0,
-   "2026": 6.0,
-   "variacion": 500.0,
+   "2026": 7.0,
+   "variacion": 600.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Andacollo"
   },
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 4103,
-   "2025": 13.0,
+   "2025": 15.0,
    "2026": 14.0,
-   "variacion": 8.0,
-   "situación": "Aumento de Casos",
+   "variacion": -7.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Andacollo"
   },
   {
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 4103,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 4.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -20.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Andacollo"
   }
  ],
@@ -304,6 +304,14 @@
    "COMUNA": "Andacollo"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4103,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Andacollo"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4103,
    "anio": 2025,
@@ -413,6 +421,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 13.0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4103,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Andacollo"
   },
   {
@@ -528,6 +544,14 @@
    "COMUNA": "Andacollo"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4103,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Andacollo"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 4103,
    "anio": 2025,
@@ -636,6 +660,14 @@
    "CODCOM": 4103,
    "anio": 2026,
    "mes": 2,
+   "casos": 6.0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4103,
+   "anio": 2026,
+   "mes": 3,
    "casos": 6.0,
    "COMUNA": "Andacollo"
   },
@@ -752,6 +784,14 @@
    "COMUNA": "Andacollo"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4103,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Andacollo"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 4103,
    "anio": 2025,
@@ -860,6 +900,14 @@
    "CODCOM": 4103,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4103,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Andacollo"
   },
@@ -973,6 +1021,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4103,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Andacollo"
   },
   {
@@ -1088,6 +1144,14 @@
    "COMUNA": "Andacollo"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4103,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 3.0,
+   "COMUNA": "Andacollo"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 4103,
    "anio": 2025,
@@ -1196,6 +1260,14 @@
    "CODCOM": 4103,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4103,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Andacollo"
   },
@@ -1312,6 +1384,14 @@
    "COMUNA": "Andacollo"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4103,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Andacollo"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 4103,
    "anio": 2025,
@@ -1421,6 +1501,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 2.0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Andacollo"
   },
   {
@@ -1536,6 +1624,14 @@
    "COMUNA": "Andacollo"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Andacollo"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 4103,
    "anio": 2025,
@@ -1648,6 +1744,14 @@
    "COMUNA": "Andacollo"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Andacollo"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 4103,
    "anio": 2025,
@@ -1760,6 +1864,14 @@
    "COMUNA": "Andacollo"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4103,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Andacollo"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 4103,
    "anio": 2025,
@@ -1872,6 +1984,14 @@
    "COMUNA": "Andacollo"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4103,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Andacollo"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 4103,
    "anio": 2025,
@@ -1981,6 +2101,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4103,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Andacollo"
   },
   {
@@ -2093,6 +2221,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 3.0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4103,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Andacollo"
   },
   {
@@ -2205,6 +2341,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4103,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Andacollo"
   },
   {
@@ -2320,6 +2464,14 @@
    "COMUNA": "Andacollo"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4103,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Andacollo"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 4103,
    "anio": 2025,
@@ -2428,6 +2580,14 @@
    "CODCOM": 4103,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4103,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Andacollo"
   },
@@ -2540,6 +2700,14 @@
    "CODCOM": 4103,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4103,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Andacollo"
   }
@@ -2560,7 +2728,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 136.0,
    "2025": 129.0,
-   "2026": 29.0,
+   "2026": 30.0,
    "COMUNA": "Andacollo"
   },
   {
@@ -2578,7 +2746,7 @@
    "delito": "DAÑOS",
    "2024": 68.0,
    "2025": 85.0,
-   "2026": 15.0,
+   "2026": 21.0,
    "COMUNA": "Andacollo"
   },
   {
@@ -2587,7 +2755,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 78.0,
    "2025": 99.0,
-   "2026": 17.0,
+   "2026": 18.0,
    "COMUNA": "Andacollo"
   },
   {
@@ -2614,7 +2782,7 @@
    "delito": "INCIVILIDADES",
    "2024": 89.0,
    "2025": 120.0,
-   "2026": 11.0,
+   "2026": 14.0,
    "COMUNA": "Andacollo"
   },
   {
@@ -2632,7 +2800,7 @@
    "delito": "LESIONES LEVES",
    "2024": 61.0,
    "2025": 54.0,
-   "2026": 16.0,
+   "2026": 18.0,
    "COMUNA": "Andacollo"
   },
   {
@@ -2659,7 +2827,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 8.0,
    "2025": 14.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Andacollo"
   },
   {
@@ -2736,7 +2904,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Coquimbo"
  }
 }

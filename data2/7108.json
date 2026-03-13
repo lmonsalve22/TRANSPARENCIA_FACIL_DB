@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7108,
-   "2025": 25.0,
-   "2026": 22.0,
-   "variacion": -12.0,
+   "2025": 26.0,
+   "2026": 24.0,
+   "variacion": -8.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Claro"
   },
@@ -30,19 +30,19 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 7108,
-   "2025": 18.0,
-   "2026": 16.0,
-   "variacion": -11.0,
-   "situación": "Disminución de Casos",
+   "2025": 19.0,
+   "2026": 20.0,
+   "variacion": 5.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Río Claro"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7108,
    "2025": 16.0,
-   "2026": 11.0,
-   "variacion": -31.0,
-   "situación": "Disminución de Casos",
+   "2026": 16.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Río Claro"
   },
   {
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7108,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 7.0,
-   "variacion": 17.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Río Claro"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 7108,
    "2025": 1.0,
-   "2026": 2.0,
-   "variacion": 100.0,
+   "2026": 3.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Río Claro"
   },
@@ -85,9 +85,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 7108,
    "2025": 3.0,
-   "2026": 3.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 4.0,
+   "variacion": 33.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Río Claro"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7108,
-   "2025": 18.0,
-   "2026": 12.0,
-   "variacion": -33.0,
+   "2025": 21.0,
+   "2026": 13.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Claro"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 7108,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 1.0,
-   "variacion": -67.0,
+   "variacion": -75.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Claro"
   }
@@ -304,6 +304,14 @@
    "COMUNA": "Río Claro"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 7108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Río Claro"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7108,
    "anio": 2025,
@@ -416,6 +424,14 @@
    "COMUNA": "Río Claro"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 7108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Río Claro"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7108,
    "anio": 2025,
@@ -525,6 +541,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 2.0,
+   "COMUNA": "Río Claro"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 7108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Río Claro"
   },
   {
@@ -640,6 +664,14 @@
    "COMUNA": "Río Claro"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 7108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 4.0,
+   "COMUNA": "Río Claro"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7108,
    "anio": 2025,
@@ -752,6 +784,14 @@
    "COMUNA": "Río Claro"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 7108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 5.0,
+   "COMUNA": "Río Claro"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 7108,
    "anio": 2025,
@@ -968,6 +1008,14 @@
    "COMUNA": "Río Claro"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 7108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Río Claro"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 7108,
    "anio": 2025,
@@ -1080,6 +1128,14 @@
    "COMUNA": "Río Claro"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 7108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Río Claro"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 7108,
    "anio": 2025,
@@ -1188,6 +1244,14 @@
    "CODCOM": 7108,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Río Claro"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 7108,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Río Claro"
   },
@@ -1304,6 +1368,14 @@
    "COMUNA": "Río Claro"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 7108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Río Claro"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7108,
    "anio": 2025,
@@ -1413,6 +1485,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Río Claro"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Río Claro"
   },
   {
@@ -1528,6 +1608,14 @@
    "COMUNA": "Río Claro"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Río Claro"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7108,
    "anio": 2025,
@@ -1636,6 +1724,14 @@
    "CODCOM": 7108,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Río Claro"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 7108,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Río Claro"
   },
@@ -1752,6 +1848,14 @@
    "COMUNA": "Río Claro"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 7108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Río Claro"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 7108,
    "anio": 2025,
@@ -1864,6 +1968,14 @@
    "COMUNA": "Río Claro"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 7108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Río Claro"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 7108,
    "anio": 2025,
@@ -1972,6 +2084,14 @@
    "CODCOM": 7108,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Río Claro"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 7108,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Río Claro"
   },
@@ -2088,6 +2208,14 @@
    "COMUNA": "Río Claro"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 7108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Río Claro"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 7108,
    "anio": 2025,
@@ -2196,6 +2324,14 @@
    "CODCOM": 7108,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Río Claro"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 7108,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Río Claro"
   },
@@ -2312,6 +2448,14 @@
    "COMUNA": "Río Claro"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Río Claro"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 7108,
    "anio": 2025,
@@ -2526,6 +2670,14 @@
    "mes": 2,
    "casos": 0.0,
    "COMUNA": "Río Claro"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7108,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Río Claro"
   }
  ],
  "info": [
@@ -2544,7 +2696,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 116.0,
    "2025": 125.0,
-   "2026": 22.0,
+   "2026": 24.0,
    "COMUNA": "Río Claro"
   },
   {
@@ -2562,7 +2714,7 @@
    "delito": "DAÑOS",
    "2024": 110.0,
    "2025": 101.0,
-   "2026": 16.0,
+   "2026": 20.0,
    "COMUNA": "Río Claro"
   },
   {
@@ -2571,7 +2723,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 85.0,
    "2025": 76.0,
-   "2026": 11.0,
+   "2026": 16.0,
    "COMUNA": "Río Claro"
   },
   {
@@ -2598,7 +2750,7 @@
    "delito": "INCIVILIDADES",
    "2024": 6.0,
    "2025": 14.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Río Claro"
   },
   {
@@ -2616,7 +2768,7 @@
    "delito": "LESIONES LEVES",
    "2024": 33.0,
    "2025": 27.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Río Claro"
   },
   {
@@ -2697,7 +2849,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 106.0,
    "2025": 82.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "Río Claro"
   },
   {
@@ -2720,7 +2872,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Maule"
  }
 }

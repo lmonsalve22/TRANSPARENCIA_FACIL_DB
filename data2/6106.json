@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6106,
-   "2025": 88.0,
-   "2026": 65.0,
-   "variacion": -26.0,
+   "2025": 99.0,
+   "2026": 70.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Graneros"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6106,
-   "2025": 37.0,
-   "2026": 38.0,
-   "variacion": 3.0,
+   "2025": 38.0,
+   "2026": 46.0,
+   "variacion": 21.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Graneros"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6106,
-   "2025": 40.0,
-   "2026": 36.0,
-   "variacion": -10.0,
+   "2025": 43.0,
+   "2026": 39.0,
+   "variacion": -9.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Graneros"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6106,
-   "2025": 44.0,
-   "2026": 45.0,
-   "variacion": 2.0,
+   "2025": 47.0,
+   "2026": 50.0,
+   "variacion": 6.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Graneros"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6106,
-   "2025": 24.0,
-   "2026": 22.0,
-   "variacion": -8.0,
+   "2025": 29.0,
+   "2026": 23.0,
+   "variacion": -21.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Graneros"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6106,
-   "2025": 12.0,
+   "2025": 14.0,
    "2026": 17.0,
-   "variacion": 42.0,
+   "variacion": 21.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Graneros"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6106,
-   "2025": 26.0,
-   "2026": 27.0,
-   "variacion": 4.0,
+   "2025": 27.0,
+   "2026": 29.0,
+   "variacion": 7.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Graneros"
   },
@@ -111,10 +111,10 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6106,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 4.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -20.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Graneros"
   },
   {
@@ -147,46 +147,46 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6106,
-   "2025": 29.0,
+   "2025": 31.0,
    "2026": 43.0,
-   "variacion": 48.0,
+   "variacion": 39.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Graneros"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6106,
-   "2025": 42.0,
-   "2026": 4.0,
-   "variacion": -90.0,
+   "2025": 43.0,
+   "2026": 5.0,
+   "variacion": -88.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Graneros"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6106,
-   "2025": 81.0,
-   "2026": 39.0,
-   "variacion": -52.0,
+   "2025": 87.0,
+   "2026": 41.0,
+   "variacion": -53.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Graneros"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6106,
-   "2025": 17.0,
+   "2025": 18.0,
    "2026": 5.0,
-   "variacion": -71.0,
+   "variacion": -72.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Graneros"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6106,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 5.0,
-   "variacion": 25.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Graneros"
   }
  ],
@@ -304,6 +304,14 @@
    "COMUNA": "Graneros"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 6106,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Graneros"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6106,
    "anio": 2025,
@@ -413,6 +421,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 30.0,
+   "COMUNA": "Graneros"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 6106,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 5.0,
    "COMUNA": "Graneros"
   },
   {
@@ -528,6 +544,14 @@
    "COMUNA": "Graneros"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 6106,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 8.0,
+   "COMUNA": "Graneros"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 6106,
    "anio": 2025,
@@ -637,6 +661,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 17.0,
+   "COMUNA": "Graneros"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 6106,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 3.0,
    "COMUNA": "Graneros"
   },
   {
@@ -752,6 +784,14 @@
    "COMUNA": "Graneros"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6106,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 5.0,
+   "COMUNA": "Graneros"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6106,
    "anio": 2025,
@@ -860,6 +900,14 @@
    "CODCOM": 6106,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Graneros"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 6106,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Graneros"
   },
@@ -976,6 +1024,14 @@
    "COMUNA": "Graneros"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6106,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Graneros"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 6106,
    "anio": 2025,
@@ -1088,6 +1144,14 @@
    "COMUNA": "Graneros"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 6106,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Graneros"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6106,
    "anio": 2025,
@@ -1197,6 +1261,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Graneros"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 6106,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Graneros"
   },
   {
@@ -1312,6 +1384,14 @@
    "COMUNA": "Graneros"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 6106,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Graneros"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6106,
    "anio": 2025,
@@ -1424,6 +1504,14 @@
    "COMUNA": "Graneros"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 6106,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Graneros"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6106,
    "anio": 2025,
@@ -1532,6 +1620,14 @@
    "CODCOM": 6106,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Graneros"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 6106,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Graneros"
   },
@@ -1648,6 +1744,14 @@
    "COMUNA": "Graneros"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 6106,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Graneros"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6106,
    "anio": 2025,
@@ -1756,6 +1860,14 @@
    "CODCOM": 6106,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Graneros"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 6106,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Graneros"
   },
@@ -1869,6 +1981,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 2.0,
+   "COMUNA": "Graneros"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6106,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Graneros"
   },
   {
@@ -1980,6 +2100,14 @@
    "CODCOM": 6106,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Graneros"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 6106,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Graneros"
   },
@@ -2096,6 +2224,14 @@
    "COMUNA": "Graneros"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6106,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Graneros"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6106,
    "anio": 2025,
@@ -2205,6 +2341,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 2.0,
+   "COMUNA": "Graneros"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 6106,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Graneros"
   },
   {
@@ -2320,6 +2464,14 @@
    "COMUNA": "Graneros"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 6106,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Graneros"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6106,
    "anio": 2025,
@@ -2429,6 +2581,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 4.0,
+   "COMUNA": "Graneros"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6106,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Graneros"
   },
   {
@@ -2542,6 +2702,14 @@
    "mes": 2,
    "casos": 3.0,
    "COMUNA": "Graneros"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 6106,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Graneros"
   }
  ],
  "info": [
@@ -2560,7 +2728,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 411.0,
    "2025": 394.0,
-   "2026": 65.0,
+   "2026": 70.0,
    "COMUNA": "Graneros"
   },
   {
@@ -2569,7 +2737,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 167.0,
    "2025": 342.0,
-   "2026": 38.0,
+   "2026": 46.0,
    "COMUNA": "Graneros"
   },
   {
@@ -2578,7 +2746,7 @@
    "delito": "DAÑOS",
    "2024": 253.0,
    "2025": 215.0,
-   "2026": 36.0,
+   "2026": 39.0,
    "COMUNA": "Graneros"
   },
   {
@@ -2587,7 +2755,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 357.0,
    "2025": 277.0,
-   "2026": 45.0,
+   "2026": 50.0,
    "COMUNA": "Graneros"
   },
   {
@@ -2605,7 +2773,7 @@
    "delito": "HURTOS",
    "2024": 185.0,
    "2025": 176.0,
-   "2026": 22.0,
+   "2026": 23.0,
    "COMUNA": "Graneros"
   },
   {
@@ -2632,7 +2800,7 @@
    "delito": "LESIONES LEVES",
    "2024": 158.0,
    "2025": 165.0,
-   "2026": 27.0,
+   "2026": 29.0,
    "COMUNA": "Graneros"
   },
   {
@@ -2704,7 +2872,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 78.0,
    "2025": 102.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Graneros"
   },
   {
@@ -2713,7 +2881,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 345.0,
    "2025": 360.0,
-   "2026": 39.0,
+   "2026": 41.0,
    "COMUNA": "Graneros"
   },
   {
@@ -2736,7 +2904,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "O'Higgins"
  }
 }

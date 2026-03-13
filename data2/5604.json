@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5604,
-   "2025": 57.0,
-   "2026": 63.0,
-   "variacion": 11.0,
+   "2025": 65.0,
+   "2026": 66.0,
+   "variacion": 2.0,
    "situación": "Aumento de Casos",
    "COMUNA": "El Quisco"
   },
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5604,
    "2025": 237.0,
-   "2026": 254.0,
-   "variacion": 7.0,
+   "2026": 255.0,
+   "variacion": 8.0,
    "situación": "Aumento de Casos",
    "COMUNA": "El Quisco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5604,
-   "2025": 32.0,
-   "2026": 34.0,
-   "variacion": 6.0,
-   "situación": "Aumento de Casos",
+   "2025": 38.0,
+   "2026": 36.0,
+   "variacion": -5.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "El Quisco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5604,
-   "2025": 34.0,
-   "2026": 38.0,
-   "variacion": 12.0,
+   "2025": 37.0,
+   "2026": 44.0,
+   "variacion": 19.0,
    "situación": "Aumento de Casos",
    "COMUNA": "El Quisco"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5604,
-   "2025": 29.0,
-   "2026": 16.0,
+   "2025": 33.0,
+   "2026": 18.0,
    "variacion": -45.0,
    "situación": "Disminución de Casos",
    "COMUNA": "El Quisco"
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5604,
-   "2025": 104.0,
-   "2026": 61.0,
-   "variacion": -41.0,
+   "2025": 105.0,
+   "2026": 64.0,
+   "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "El Quisco"
   },
@@ -84,8 +84,8 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5604,
-   "2025": 29.0,
-   "2026": 29.0,
+   "2025": 30.0,
+   "2026": 30.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "El Quisco"
@@ -94,17 +94,17 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5604,
    "2025": 1.0,
-   "2026": 5.0,
-   "variacion": 400.0,
+   "2026": 6.0,
+   "variacion": 500.0,
    "situación": "Aumento de Casos",
    "COMUNA": "El Quisco"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5604,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 15.0,
-   "variacion": 400.0,
+   "variacion": 275.0,
    "situación": "Aumento de Casos",
    "COMUNA": "El Quisco"
   },
@@ -112,9 +112,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 5604,
    "2025": 10.0,
-   "2026": 10.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 11.0,
+   "variacion": 10.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "El Quisco"
   },
   {
@@ -139,8 +139,8 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 5604,
    "2025": 6.0,
-   "2026": 10.0,
-   "variacion": 67.0,
+   "2026": 11.0,
+   "variacion": 83.0,
    "situación": "Aumento de Casos",
    "COMUNA": "El Quisco"
   },
@@ -148,26 +148,26 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5604,
    "2025": 23.0,
-   "2026": 17.0,
-   "variacion": -26.0,
+   "2026": 18.0,
+   "variacion": -22.0,
    "situación": "Disminución de Casos",
    "COMUNA": "El Quisco"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5604,
-   "2025": 49.0,
-   "2026": 33.0,
-   "variacion": -33.0,
+   "2025": 51.0,
+   "2026": 35.0,
+   "variacion": -31.0,
    "situación": "Disminución de Casos",
    "COMUNA": "El Quisco"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5604,
-   "2025": 80.0,
-   "2026": 40.0,
-   "variacion": -50.0,
+   "2025": 92.0,
+   "2026": 43.0,
+   "variacion": -53.0,
    "situación": "Disminución de Casos",
    "COMUNA": "El Quisco"
   },
@@ -304,6 +304,14 @@
    "COMUNA": "El Quisco"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 5604,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "El Quisco"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5604,
    "anio": 2025,
@@ -413,6 +421,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 30.0,
+   "COMUNA": "El Quisco"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 5604,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 3.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -528,6 +544,14 @@
    "COMUNA": "El Quisco"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 5604,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "El Quisco"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 5604,
    "anio": 2025,
@@ -637,6 +661,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 13.0,
+   "COMUNA": "El Quisco"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 5604,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -752,6 +784,14 @@
    "COMUNA": "El Quisco"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 5604,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 6.0,
+   "COMUNA": "El Quisco"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 5604,
    "anio": 2025,
@@ -860,6 +900,14 @@
    "CODCOM": 5604,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "El Quisco"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 5604,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "El Quisco"
   },
@@ -973,6 +1021,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 7.0,
+   "COMUNA": "El Quisco"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5604,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -1088,6 +1144,14 @@
    "COMUNA": "El Quisco"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 5604,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 3.0,
+   "COMUNA": "El Quisco"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5604,
    "anio": 2025,
@@ -1197,6 +1261,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "El Quisco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 5604,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -1312,6 +1384,14 @@
    "COMUNA": "El Quisco"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 5604,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "El Quisco"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5604,
    "anio": 2025,
@@ -1421,6 +1501,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 3.0,
+   "COMUNA": "El Quisco"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 5604,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -1536,6 +1624,14 @@
    "COMUNA": "El Quisco"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 5604,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "El Quisco"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 5604,
    "anio": 2025,
@@ -1648,6 +1744,14 @@
    "COMUNA": "El Quisco"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 5604,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "El Quisco"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 5604,
    "anio": 2025,
@@ -1756,6 +1860,14 @@
    "CODCOM": 5604,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "El Quisco"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 5604,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "El Quisco"
   },
@@ -1869,6 +1981,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 2.0,
+   "COMUNA": "El Quisco"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 5604,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -1981,6 +2101,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 7.0,
+   "COMUNA": "El Quisco"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 5604,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -2096,6 +2224,14 @@
    "COMUNA": "El Quisco"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 5604,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "El Quisco"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5604,
    "anio": 2025,
@@ -2205,6 +2341,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 13.0,
+   "COMUNA": "El Quisco"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 5604,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -2320,6 +2464,14 @@
    "COMUNA": "El Quisco"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 5604,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 3.0,
+   "COMUNA": "El Quisco"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5604,
    "anio": 2025,
@@ -2429,6 +2581,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 3.0,
+   "COMUNA": "El Quisco"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 5604,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -2542,6 +2702,14 @@
    "mes": 2,
    "casos": 4.0,
    "COMUNA": "El Quisco"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 5604,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "El Quisco"
   }
  ],
  "info": [
@@ -2560,7 +2728,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 283.0,
    "2025": 276.0,
-   "2026": 63.0,
+   "2026": 66.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -2569,7 +2737,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 169.0,
    "2025": 435.0,
-   "2026": 254.0,
+   "2026": 255.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -2578,7 +2746,7 @@
    "delito": "DAÑOS",
    "2024": 153.0,
    "2025": 171.0,
-   "2026": 34.0,
+   "2026": 36.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -2587,7 +2755,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 185.0,
    "2025": 172.0,
-   "2026": 38.0,
+   "2026": 44.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -2605,7 +2773,7 @@
    "delito": "HURTOS",
    "2024": 85.0,
    "2025": 88.0,
-   "2026": 16.0,
+   "2026": 18.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -2614,7 +2782,7 @@
    "delito": "INCIVILIDADES",
    "2024": 108.0,
    "2025": 195.0,
-   "2026": 61.0,
+   "2026": 64.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -2632,7 +2800,7 @@
    "delito": "LESIONES LEVES",
    "2024": 106.0,
    "2025": 139.0,
-   "2026": 29.0,
+   "2026": 30.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -2641,7 +2809,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 25.0,
    "2025": 21.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -2659,7 +2827,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 21.0,
    "2025": 24.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -2686,7 +2854,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 24.0,
    "2025": 24.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -2695,7 +2863,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 69.0,
    "2025": 72.0,
-   "2026": 17.0,
+   "2026": 18.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -2704,7 +2872,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 103.0,
    "2025": 113.0,
-   "2026": 33.0,
+   "2026": 35.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -2713,7 +2881,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 402.0,
    "2025": 348.0,
-   "2026": 40.0,
+   "2026": 43.0,
    "COMUNA": "El Quisco"
   },
   {
@@ -2736,7 +2904,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Valparaíso"
  }
 }

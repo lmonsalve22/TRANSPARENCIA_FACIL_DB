@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5402,
-   "2025": 29.0,
-   "2026": 21.0,
-   "variacion": -28.0,
+   "2025": 34.0,
+   "2026": 22.0,
+   "variacion": -35.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabildo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5402,
-   "2025": 67.0,
+   "2025": 75.0,
    "2026": 13.0,
-   "variacion": -81.0,
+   "variacion": -83.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabildo"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5402,
-   "2025": 11.0,
+   "2025": 14.0,
    "2026": 10.0,
-   "variacion": -9.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabildo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5402,
-   "2025": 24.0,
-   "2026": 26.0,
-   "variacion": 8.0,
+   "2025": 25.0,
+   "2026": 31.0,
+   "variacion": 24.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cabildo"
   },
@@ -66,27 +66,27 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5402,
-   "2025": 26.0,
+   "2025": 32.0,
    "2026": 2.0,
-   "variacion": -92.0,
+   "variacion": -94.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabildo"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5402,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 1.0,
-   "variacion": -50.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabildo"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5402,
-   "2025": 7.0,
-   "2026": 6.0,
-   "variacion": -14.0,
+   "2025": 8.0,
+   "2026": 7.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabildo"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5402,
    "2025": 5.0,
-   "2026": 3.0,
-   "variacion": -40.0,
+   "2026": 4.0,
+   "variacion": -20.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabildo"
   },
@@ -166,9 +166,9 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5402,
    "2025": 11.0,
-   "2026": 10.0,
-   "variacion": -9.0,
-   "situación": "Disminución de Casos",
+   "2026": 11.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cabildo"
   },
   {
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5402,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Cabildo"
   }
  ],
@@ -304,6 +304,14 @@
    "COMUNA": "Cabildo"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 5402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Cabildo"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5402,
    "anio": 2025,
@@ -413,6 +421,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 12.0,
+   "COMUNA": "Cabildo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 5402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Cabildo"
   },
   {
@@ -528,6 +544,14 @@
    "COMUNA": "Cabildo"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 5402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Cabildo"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 5402,
    "anio": 2025,
@@ -637,6 +661,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 3.0,
+   "COMUNA": "Cabildo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 5402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Cabildo"
   },
   {
@@ -752,6 +784,14 @@
    "COMUNA": "Cabildo"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 5402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 5.0,
+   "COMUNA": "Cabildo"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 5402,
    "anio": 2025,
@@ -860,6 +900,14 @@
    "CODCOM": 5402,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Cabildo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 5402,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Cabildo"
   },
@@ -973,6 +1021,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 4.0,
+   "COMUNA": "Cabildo"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Cabildo"
   },
   {
@@ -1088,6 +1144,14 @@
    "COMUNA": "Cabildo"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 5402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Cabildo"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5402,
    "anio": 2025,
@@ -1196,6 +1260,14 @@
    "CODCOM": 5402,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Cabildo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 5402,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Cabildo"
   },
@@ -1312,6 +1384,14 @@
    "COMUNA": "Cabildo"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 5402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Cabildo"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5402,
    "anio": 2025,
@@ -1421,6 +1501,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Cabildo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 5402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Cabildo"
   },
   {
@@ -1536,6 +1624,14 @@
    "COMUNA": "Cabildo"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 5402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Cabildo"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 5402,
    "anio": 2025,
@@ -1648,6 +1744,14 @@
    "COMUNA": "Cabildo"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 5402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Cabildo"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 5402,
    "anio": 2025,
@@ -1760,6 +1864,14 @@
    "COMUNA": "Cabildo"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 5402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Cabildo"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 5402,
    "anio": 2025,
@@ -1868,6 +1980,14 @@
    "CODCOM": 5402,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Cabildo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 5402,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Cabildo"
   },
@@ -1980,6 +2100,14 @@
    "CODCOM": 5402,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Cabildo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 5402,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Cabildo"
   },
@@ -2096,6 +2224,14 @@
    "COMUNA": "Cabildo"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 5402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Cabildo"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5402,
    "anio": 2025,
@@ -2204,6 +2340,14 @@
    "CODCOM": 5402,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Cabildo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 5402,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Cabildo"
   },
@@ -2320,6 +2464,14 @@
    "COMUNA": "Cabildo"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 5402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Cabildo"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5402,
    "anio": 2025,
@@ -2428,6 +2580,14 @@
    "CODCOM": 5402,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Cabildo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 5402,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Cabildo"
   },
@@ -2542,6 +2702,14 @@
    "mes": 2,
    "casos": 0.0,
    "COMUNA": "Cabildo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 5402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Cabildo"
   }
  ],
  "info": [
@@ -2560,7 +2728,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 157.0,
    "2025": 124.0,
-   "2026": 21.0,
+   "2026": 22.0,
    "COMUNA": "Cabildo"
   },
   {
@@ -2587,7 +2755,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 156.0,
    "2025": 143.0,
-   "2026": 26.0,
+   "2026": 31.0,
    "COMUNA": "Cabildo"
   },
   {
@@ -2632,7 +2800,7 @@
    "delito": "LESIONES LEVES",
    "2024": 41.0,
    "2025": 57.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Cabildo"
   },
   {
@@ -2650,7 +2818,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 34.0,
    "2025": 42.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Cabildo"
   },
   {
@@ -2713,7 +2881,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 58.0,
    "2025": 66.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "Cabildo"
   },
   {
@@ -2736,7 +2904,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Valparaíso"
  }
 }

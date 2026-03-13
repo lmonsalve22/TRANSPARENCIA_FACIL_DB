@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13502,
-   "2025": 10.0,
-   "2026": 14.0,
-   "variacion": 40.0,
+   "2025": 11.0,
+   "2026": 16.0,
+   "variacion": 45.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Alhué"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13502,
-   "2025": 10.0,
+   "2025": 12.0,
    "2026": 7.0,
-   "variacion": -30.0,
+   "variacion": -42.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Alhué"
   },
@@ -39,10 +39,10 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13502,
-   "2025": 16.0,
+   "2025": 20.0,
    "2026": 18.0,
-   "variacion": 12.0,
-   "situación": "Aumento de Casos",
+   "variacion": -10.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Alhué"
   },
   {
@@ -75,9 +75,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 13502,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 14.0,
-   "variacion": 180.0,
+   "variacion": 133.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Alhué"
   },
@@ -399,6 +399,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 13502,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13502,
    "anio": 2025,
@@ -511,6 +519,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 13502,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 13502,
    "anio": 2025,
@@ -620,6 +636,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 8.0,
+   "COMUNA": "Alhué"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 13502,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Alhué"
   },
   {
@@ -735,6 +759,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 13502,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13502,
    "anio": 2025,
@@ -847,6 +879,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 13502,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 13502,
    "anio": 2025,
@@ -959,6 +999,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 13502,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 13502,
    "anio": 2025,
@@ -1067,6 +1115,14 @@
    "CODCOM": 13502,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Alhué"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 13502,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Alhué"
   },
@@ -1183,6 +1239,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 13502,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 13502,
    "anio": 2025,
@@ -1292,6 +1356,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Alhué"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 13502,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Alhué"
   },
   {
@@ -1407,6 +1479,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 13502,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 13502,
    "anio": 2025,
@@ -1519,6 +1599,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 13502,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 13502,
    "anio": 2025,
@@ -1631,6 +1719,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 13502,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 13502,
    "anio": 2025,
@@ -1740,6 +1836,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Alhué"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 13502,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Alhué"
   },
   {
@@ -1855,6 +1959,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 13502,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 13502,
    "anio": 2025,
@@ -2067,6 +2179,14 @@
    "CODCOM": 13502,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Alhué"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 13502,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Alhué"
   },
@@ -2183,6 +2303,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 13502,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13502,
    "anio": 2025,
@@ -2295,6 +2423,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 13502,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 13502,
    "anio": 2025,
@@ -2403,6 +2539,14 @@
    "CODCOM": 13502,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Alhué"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 13502,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Alhué"
   }
@@ -2423,7 +2567,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 68.0,
    "2025": 58.0,
-   "2026": 14.0,
+   "2026": 16.0,
    "COMUNA": "Alhué"
   },
   {
@@ -2599,7 +2743,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Metropolitana"
  }
 }

@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7307,
    "2025": 26.0,
-   "2026": 20.0,
-   "variacion": -23.0,
+   "2026": 24.0,
+   "variacion": -8.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Sagrada Familia"
   },
@@ -22,16 +22,16 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7307,
    "2025": 10.0,
-   "2026": 15.0,
-   "variacion": 50.0,
+   "2026": 17.0,
+   "variacion": 70.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Sagrada Familia"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7307,
-   "2025": 24.0,
-   "2026": 14.0,
+   "2025": 26.0,
+   "2026": 15.0,
    "variacion": -42.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Sagrada Familia"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7307,
-   "2025": 28.0,
-   "2026": 26.0,
-   "variacion": -7.0,
+   "2025": 34.0,
+   "2026": 30.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Sagrada Familia"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7307,
-   "2025": 20.0,
-   "2026": 7.0,
-   "variacion": -65.0,
+   "2025": 22.0,
+   "2026": 8.0,
+   "variacion": -64.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Sagrada Familia"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 7307,
-   "2025": 7.0,
+   "2025": 9.0,
    "2026": 1.0,
-   "variacion": -86.0,
+   "variacion": -89.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Sagrada Familia"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 7307,
    "2025": 0.0,
-   "2026": 4.0,
-   "variacion": 400.0,
+   "2026": 6.0,
+   "variacion": 600.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Sagrada Familia"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7307,
-   "2025": 22.0,
-   "2026": 14.0,
-   "variacion": -36.0,
+   "2025": 25.0,
+   "2026": 15.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Sagrada Familia"
   },
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 7307,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 4.0,
-   "variacion": 33.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Sagrada Familia"
   }
  ],
@@ -304,6 +304,14 @@
    "COMUNA": "Sagrada Familia"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 7307,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Sagrada Familia"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7307,
    "anio": 2025,
@@ -413,6 +421,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 10.0,
+   "COMUNA": "Sagrada Familia"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 7307,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 4.0,
    "COMUNA": "Sagrada Familia"
   },
   {
@@ -528,6 +544,14 @@
    "COMUNA": "Sagrada Familia"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 7307,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Sagrada Familia"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 7307,
    "anio": 2025,
@@ -637,6 +661,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 7.0,
+   "COMUNA": "Sagrada Familia"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 7307,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Sagrada Familia"
   },
   {
@@ -752,6 +784,14 @@
    "COMUNA": "Sagrada Familia"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 7307,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 4.0,
+   "COMUNA": "Sagrada Familia"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 7307,
    "anio": 2025,
@@ -968,6 +1008,14 @@
    "COMUNA": "Sagrada Familia"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 7307,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Sagrada Familia"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 7307,
    "anio": 2025,
@@ -1080,6 +1128,14 @@
    "COMUNA": "Sagrada Familia"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 7307,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Sagrada Familia"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 7307,
    "anio": 2025,
@@ -1188,6 +1244,14 @@
    "CODCOM": 7307,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Sagrada Familia"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 7307,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Sagrada Familia"
   },
@@ -1304,6 +1368,14 @@
    "COMUNA": "Sagrada Familia"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 7307,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Sagrada Familia"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7307,
    "anio": 2025,
@@ -1412,6 +1484,14 @@
    "CODCOM": 7307,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Sagrada Familia"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7307,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Sagrada Familia"
   },
@@ -1528,6 +1608,14 @@
    "COMUNA": "Sagrada Familia"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7307,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Sagrada Familia"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7307,
    "anio": 2025,
@@ -1640,6 +1728,14 @@
    "COMUNA": "Sagrada Familia"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 7307,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Sagrada Familia"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 7307,
    "anio": 2025,
@@ -1752,6 +1848,14 @@
    "COMUNA": "Sagrada Familia"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 7307,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Sagrada Familia"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 7307,
    "anio": 2025,
@@ -1860,6 +1964,14 @@
    "CODCOM": 7307,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Sagrada Familia"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 7307,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Sagrada Familia"
   },
@@ -1976,6 +2088,14 @@
    "COMUNA": "Sagrada Familia"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 7307,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Sagrada Familia"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 7307,
    "anio": 2025,
@@ -2085,6 +2205,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Sagrada Familia"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 7307,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Sagrada Familia"
   },
   {
@@ -2197,6 +2325,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 8.0,
+   "COMUNA": "Sagrada Familia"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 7307,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Sagrada Familia"
   },
   {
@@ -2312,6 +2448,14 @@
    "COMUNA": "Sagrada Familia"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7307,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Sagrada Familia"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 7307,
    "anio": 2025,
@@ -2420,6 +2564,14 @@
    "CODCOM": 7307,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Sagrada Familia"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 7307,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Sagrada Familia"
   },
@@ -2534,6 +2686,14 @@
    "mes": 2,
    "casos": 3.0,
    "COMUNA": "Sagrada Familia"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7307,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Sagrada Familia"
   }
  ],
  "info": [
@@ -2552,7 +2712,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 140.0,
    "2025": 104.0,
-   "2026": 20.0,
+   "2026": 24.0,
    "COMUNA": "Sagrada Familia"
   },
   {
@@ -2561,7 +2721,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 76.0,
    "2025": 54.0,
-   "2026": 15.0,
+   "2026": 17.0,
    "COMUNA": "Sagrada Familia"
   },
   {
@@ -2570,7 +2730,7 @@
    "delito": "DAÑOS",
    "2024": 120.0,
    "2025": 121.0,
-   "2026": 14.0,
+   "2026": 15.0,
    "COMUNA": "Sagrada Familia"
   },
   {
@@ -2579,7 +2739,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 147.0,
    "2025": 154.0,
-   "2026": 26.0,
+   "2026": 30.0,
    "COMUNA": "Sagrada Familia"
   },
   {
@@ -2597,7 +2757,7 @@
    "delito": "HURTOS",
    "2024": 75.0,
    "2025": 83.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Sagrada Familia"
   },
   {
@@ -2651,7 +2811,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 6.0,
    "2025": 9.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Sagrada Familia"
   },
   {
@@ -2705,7 +2865,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 67.0,
    "2025": 79.0,
-   "2026": 14.0,
+   "2026": 15.0,
    "COMUNA": "Sagrada Familia"
   },
   {
@@ -2728,7 +2888,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Maule"
  }
 }

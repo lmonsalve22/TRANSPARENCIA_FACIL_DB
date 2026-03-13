@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8104,
    "2025": 15.0,
-   "2026": 9.0,
-   "variacion": -40.0,
+   "2026": 11.0,
+   "variacion": -27.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Florida"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 8104,
-   "2025": 24.0,
-   "2026": 10.0,
-   "variacion": -58.0,
+   "2025": 25.0,
+   "2026": 11.0,
+   "variacion": -56.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Florida"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8104,
-   "2025": 17.0,
-   "2026": 13.0,
-   "variacion": -24.0,
+   "2025": 22.0,
+   "2026": 14.0,
+   "variacion": -36.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Florida"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8104,
-   "2025": 6.0,
-   "2026": 7.0,
-   "variacion": 17.0,
+   "2025": 7.0,
+   "2026": 8.0,
+   "variacion": 14.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Florida"
   },
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8104,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Florida"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8104,
-   "2025": 10.0,
-   "2026": 14.0,
-   "variacion": 40.0,
+   "2025": 12.0,
+   "2026": 18.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Florida"
   },
@@ -183,7 +183,7 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8104,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -304,6 +304,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8104,
    "anio": 2025,
@@ -416,6 +424,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 8104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8104,
    "anio": 2025,
@@ -525,6 +541,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 5.0,
+   "COMUNA": "Florida"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 8104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Florida"
   },
   {
@@ -640,6 +664,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 8104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8104,
    "anio": 2025,
@@ -752,6 +784,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 8104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 8104,
    "anio": 2025,
@@ -860,6 +900,14 @@
    "CODCOM": 8104,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Florida"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 8104,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Florida"
   },
@@ -976,6 +1024,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 8104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 8104,
    "anio": 2025,
@@ -1088,6 +1144,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 8104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8104,
    "anio": 2025,
@@ -1196,6 +1260,14 @@
    "CODCOM": 8104,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Florida"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 8104,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Florida"
   },
@@ -1312,6 +1384,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 8104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8104,
    "anio": 2025,
@@ -1424,6 +1504,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 8104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 8104,
    "anio": 2025,
@@ -1536,6 +1624,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 8104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8104,
    "anio": 2025,
@@ -1645,6 +1741,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Florida"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Florida"
   },
   {
@@ -1864,6 +1968,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8104,
    "anio": 2025,
@@ -1976,6 +2088,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 8104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8104,
    "anio": 2025,
@@ -2084,6 +2204,14 @@
    "CODCOM": 8104,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Florida"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 8104,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Florida"
   },
@@ -2196,6 +2324,14 @@
    "CODCOM": 8104,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Florida"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 8104,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Florida"
   },
@@ -2312,6 +2448,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 4.0,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8104,
    "anio": 2025,
@@ -2424,6 +2568,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 8104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8104,
    "anio": 2025,
@@ -2532,6 +2684,14 @@
    "CODCOM": 8104,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Florida"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 8104,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Florida"
   }
@@ -2552,7 +2712,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 61.0,
    "2025": 67.0,
-   "2026": 9.0,
+   "2026": 11.0,
    "COMUNA": "Florida"
   },
   {
@@ -2570,7 +2730,7 @@
    "delito": "DAÑOS",
    "2024": 110.0,
    "2025": 100.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "Florida"
   },
   {
@@ -2579,7 +2739,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 93.0,
    "2025": 83.0,
-   "2026": 13.0,
+   "2026": 14.0,
    "COMUNA": "Florida"
   },
   {
@@ -2624,7 +2784,7 @@
    "delito": "LESIONES LEVES",
    "2024": 36.0,
    "2025": 37.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Florida"
   },
   {
@@ -2705,7 +2865,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 68.0,
    "2025": 72.0,
-   "2026": 14.0,
+   "2026": 18.0,
    "COMUNA": "Florida"
   },
   {
@@ -2728,7 +2888,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Biobío"
  }
 }

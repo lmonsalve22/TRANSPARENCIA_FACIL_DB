@@ -13,17 +13,17 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9113,
    "2025": 6.0,
-   "2026": 15.0,
-   "variacion": 150.0,
+   "2026": 16.0,
+   "variacion": 167.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Perquenco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9113,
-   "2025": 21.0,
-   "2026": 35.0,
-   "variacion": 67.0,
+   "2025": 27.0,
+   "2026": 41.0,
+   "variacion": 52.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Perquenco"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9113,
-   "2025": 10.0,
-   "2026": 9.0,
-   "variacion": -10.0,
+   "2025": 12.0,
+   "2026": 11.0,
+   "variacion": -8.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Perquenco"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 9113,
    "2025": 2.0,
-   "2026": 3.0,
-   "variacion": 50.0,
+   "2026": 5.0,
+   "variacion": 150.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Perquenco"
   },
@@ -76,18 +76,18 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 9113,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Perquenco"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9113,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 3.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -25.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Perquenco"
   },
   {
@@ -102,10 +102,10 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9113,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Perquenco"
   },
   {
@@ -304,6 +304,14 @@
    "COMUNA": "Perquenco"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9113,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Perquenco"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9113,
    "anio": 2025,
@@ -413,6 +421,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 5.0,
+   "COMUNA": "Perquenco"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9113,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -528,6 +544,14 @@
    "COMUNA": "Perquenco"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9113,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 6.0,
+   "COMUNA": "Perquenco"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 9113,
    "anio": 2025,
@@ -640,6 +664,14 @@
    "COMUNA": "Perquenco"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 9113,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Perquenco"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9113,
    "anio": 2025,
@@ -752,6 +784,14 @@
    "COMUNA": "Perquenco"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9113,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Perquenco"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9113,
    "anio": 2025,
@@ -860,6 +900,14 @@
    "CODCOM": 9113,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Perquenco"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9113,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Perquenco"
   },
@@ -973,6 +1021,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 0.0,
+   "COMUNA": "Perquenco"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9113,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -1088,6 +1144,14 @@
    "COMUNA": "Perquenco"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9113,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Perquenco"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9113,
    "anio": 2025,
@@ -1197,6 +1261,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 0.0,
+   "COMUNA": "Perquenco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9113,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -1312,6 +1384,14 @@
    "COMUNA": "Perquenco"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9113,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Perquenco"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9113,
    "anio": 2025,
@@ -1420,6 +1500,14 @@
    "CODCOM": 9113,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Perquenco"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9113,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Perquenco"
   },
@@ -1532,6 +1620,14 @@
    "CODCOM": 9113,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Perquenco"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9113,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Perquenco"
   },
@@ -1648,6 +1744,14 @@
    "COMUNA": "Perquenco"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9113,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Perquenco"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9113,
    "anio": 2025,
@@ -1760,6 +1864,14 @@
    "COMUNA": "Perquenco"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9113,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Perquenco"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 9113,
    "anio": 2025,
@@ -1868,6 +1980,14 @@
    "CODCOM": 9113,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Perquenco"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9113,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Perquenco"
   },
@@ -1980,6 +2100,14 @@
    "CODCOM": 9113,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Perquenco"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9113,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Perquenco"
   },
@@ -2096,6 +2224,14 @@
    "COMUNA": "Perquenco"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9113,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Perquenco"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9113,
    "anio": 2025,
@@ -2204,6 +2340,14 @@
    "CODCOM": 9113,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Perquenco"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9113,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Perquenco"
   },
@@ -2320,6 +2464,14 @@
    "COMUNA": "Perquenco"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9113,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Perquenco"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9113,
    "anio": 2025,
@@ -2534,6 +2686,14 @@
    "mes": 2,
    "casos": 0.0,
    "COMUNA": "Perquenco"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9113,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Perquenco"
   }
  ],
  "info": [
@@ -2552,7 +2712,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 68.0,
    "2025": 51.0,
-   "2026": 15.0,
+   "2026": 16.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -2561,7 +2721,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 214.0,
    "2025": 247.0,
-   "2026": 35.0,
+   "2026": 41.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -2579,7 +2739,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 50.0,
    "2025": 46.0,
-   "2026": 9.0,
+   "2026": 11.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -2597,7 +2757,7 @@
    "delito": "HURTOS",
    "2024": 18.0,
    "2025": 20.0,
-   "2026": 3.0,
+   "2026": 5.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -2615,7 +2775,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 3.0,
    "2025": 1.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -2728,7 +2888,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "La Araucanía"
  }
 }

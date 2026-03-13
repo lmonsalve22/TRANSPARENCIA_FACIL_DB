@@ -3,7 +3,7 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 7102,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7102,
-   "2025": 68.0,
-   "2026": 65.0,
-   "variacion": -4.0,
+   "2025": 79.0,
+   "2026": 73.0,
+   "variacion": -8.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Constitución"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7102,
-   "2025": 63.0,
-   "2026": 36.0,
-   "variacion": -43.0,
+   "2025": 79.0,
+   "2026": 39.0,
+   "variacion": -51.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Constitución"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7102,
-   "2025": 47.0,
-   "2026": 52.0,
-   "variacion": 11.0,
+   "2025": 48.0,
+   "2026": 55.0,
+   "variacion": 15.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Constitución"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7102,
-   "2025": 85.0,
-   "2026": 53.0,
-   "variacion": -38.0,
+   "2025": 90.0,
+   "2026": 59.0,
+   "variacion": -34.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Constitución"
   },
@@ -57,36 +57,36 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7102,
-   "2025": 31.0,
+   "2025": 35.0,
    "2026": 18.0,
-   "variacion": -42.0,
+   "variacion": -49.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Constitución"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 7102,
-   "2025": 16.0,
-   "2026": 12.0,
-   "variacion": -25.0,
+   "2025": 18.0,
+   "2026": 14.0,
+   "variacion": -22.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Constitución"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 7102,
-   "2025": 8.0,
+   "2025": 9.0,
    "2026": 4.0,
-   "variacion": -50.0,
+   "variacion": -56.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Constitución"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 7102,
-   "2025": 28.0,
-   "2026": 31.0,
-   "variacion": 11.0,
+   "2025": 29.0,
+   "2026": 33.0,
+   "variacion": 14.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Constitución"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7102,
-   "2025": 15.0,
+   "2025": 16.0,
    "2026": 3.0,
-   "variacion": -80.0,
+   "variacion": -81.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Constitución"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 7102,
    "2025": 1.0,
-   "2026": 5.0,
-   "variacion": 400.0,
+   "2026": 7.0,
+   "variacion": 600.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Constitución"
   },
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 7102,
-   "2025": 10.0,
-   "2026": 4.0,
-   "variacion": -60.0,
+   "2025": 11.0,
+   "2026": 5.0,
+   "variacion": -55.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Constitución"
   },
@@ -157,16 +157,16 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 7102,
    "2025": 6.0,
-   "2026": 28.0,
-   "variacion": 367.0,
+   "2026": 30.0,
+   "variacion": 400.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Constitución"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7102,
-   "2025": 33.0,
-   "2026": 21.0,
+   "2025": 39.0,
+   "2026": 25.0,
    "variacion": -36.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Constitución"
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 7102,
-   "2025": 8.0,
-   "2026": 3.0,
-   "variacion": -62.0,
+   "2025": 9.0,
+   "2026": 4.0,
+   "variacion": -56.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Constitución"
   }
@@ -304,6 +304,14 @@
    "COMUNA": "Constitución"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 7102,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Constitución"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7102,
    "anio": 2025,
@@ -413,6 +421,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 34.0,
+   "COMUNA": "Constitución"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 7102,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 8.0,
    "COMUNA": "Constitución"
   },
   {
@@ -528,6 +544,14 @@
    "COMUNA": "Constitución"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 7102,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 3.0,
+   "COMUNA": "Constitución"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 7102,
    "anio": 2025,
@@ -637,6 +661,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 20.0,
+   "COMUNA": "Constitución"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 7102,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 3.0,
    "COMUNA": "Constitución"
   },
   {
@@ -752,6 +784,14 @@
    "COMUNA": "Constitución"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 7102,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 6.0,
+   "COMUNA": "Constitución"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 7102,
    "anio": 2025,
@@ -860,6 +900,14 @@
    "CODCOM": 7102,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Constitución"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 7102,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Constitución"
   },
@@ -976,6 +1024,14 @@
    "COMUNA": "Constitución"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 7102,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Constitución"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 7102,
    "anio": 2025,
@@ -1088,6 +1144,14 @@
    "COMUNA": "Constitución"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 7102,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Constitución"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 7102,
    "anio": 2025,
@@ -1197,6 +1261,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Constitución"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 7102,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Constitución"
   },
   {
@@ -1312,6 +1384,14 @@
    "COMUNA": "Constitución"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 7102,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Constitución"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7102,
    "anio": 2025,
@@ -1421,6 +1501,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 2.0,
+   "COMUNA": "Constitución"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7102,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Constitución"
   },
   {
@@ -1536,6 +1624,14 @@
    "COMUNA": "Constitución"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7102,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Constitución"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7102,
    "anio": 2025,
@@ -1648,6 +1744,14 @@
    "COMUNA": "Constitución"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 7102,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Constitución"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 7102,
    "anio": 2025,
@@ -1756,6 +1860,14 @@
    "CODCOM": 7102,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Constitución"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 7102,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Constitución"
   },
@@ -1872,6 +1984,14 @@
    "COMUNA": "Constitución"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 7102,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Constitución"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 7102,
    "anio": 2025,
@@ -1981,6 +2101,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 2.0,
+   "COMUNA": "Constitución"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 7102,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Constitución"
   },
   {
@@ -2093,6 +2221,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 2.0,
+   "COMUNA": "Constitución"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 7102,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Constitución"
   },
   {
@@ -2208,6 +2344,14 @@
    "COMUNA": "Constitución"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 7102,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Constitución"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7102,
    "anio": 2025,
@@ -2320,6 +2464,14 @@
    "COMUNA": "Constitución"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7102,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 4.0,
+   "COMUNA": "Constitución"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 7102,
    "anio": 2025,
@@ -2428,6 +2580,14 @@
    "CODCOM": 7102,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Constitución"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 7102,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Constitución"
   },
@@ -2541,6 +2701,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 0.0,
+   "COMUNA": "Constitución"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7102,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Constitución"
   }
  ],
@@ -2560,7 +2728,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 391.0,
    "2025": 352.0,
-   "2026": 65.0,
+   "2026": 73.0,
    "COMUNA": "Constitución"
   },
   {
@@ -2569,7 +2737,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 935.0,
    "2025": 270.0,
-   "2026": 36.0,
+   "2026": 39.0,
    "COMUNA": "Constitución"
   },
   {
@@ -2578,7 +2746,7 @@
    "delito": "DAÑOS",
    "2024": 372.0,
    "2025": 310.0,
-   "2026": 52.0,
+   "2026": 55.0,
    "COMUNA": "Constitución"
   },
   {
@@ -2587,7 +2755,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 381.0,
    "2025": 359.0,
-   "2026": 53.0,
+   "2026": 59.0,
    "COMUNA": "Constitución"
   },
   {
@@ -2614,7 +2782,7 @@
    "delito": "INCIVILIDADES",
    "2024": 128.0,
    "2025": 59.0,
-   "2026": 12.0,
+   "2026": 14.0,
    "COMUNA": "Constitución"
   },
   {
@@ -2632,7 +2800,7 @@
    "delito": "LESIONES LEVES",
    "2024": 166.0,
    "2025": 163.0,
-   "2026": 31.0,
+   "2026": 33.0,
    "COMUNA": "Constitución"
   },
   {
@@ -2659,7 +2827,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 22.0,
    "2025": 22.0,
-   "2026": 5.0,
+   "2026": 7.0,
    "COMUNA": "Constitución"
   },
   {
@@ -2695,7 +2863,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 51.0,
    "2025": 54.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Constitución"
   },
   {
@@ -2704,7 +2872,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 47.0,
    "2025": 61.0,
-   "2026": 28.0,
+   "2026": 30.0,
    "COMUNA": "Constitución"
   },
   {
@@ -2713,7 +2881,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 200.0,
    "2025": 153.0,
-   "2026": 21.0,
+   "2026": 25.0,
    "COMUNA": "Constitución"
   },
   {
@@ -2731,12 +2899,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 21.0,
    "2025": 20.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Constitución"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Maule"
  }
 }

@@ -3,35 +3,35 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 13101,
-   "2025": 14.0,
+   "2025": 15.0,
    "2026": 14.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -7.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Santiago"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13101,
-   "2025": 554.0,
-   "2026": 443.0,
-   "variacion": -20.0,
+   "2025": 607.0,
+   "2026": 491.0,
+   "variacion": -19.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santiago"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13101,
-   "2025": 490.0,
-   "2026": 371.0,
-   "variacion": -24.0,
+   "2025": 563.0,
+   "2026": 439.0,
+   "variacion": -22.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santiago"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 13101,
-   "2025": 455.0,
-   "2026": 353.0,
+   "2025": 513.0,
+   "2026": 398.0,
    "variacion": -22.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santiago"
@@ -39,86 +39,14 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13101,
-   "2025": 398.0,
-   "2026": 301.0,
-   "variacion": -24.0,
+   "2025": 458.0,
+   "2026": 354.0,
+   "variacion": -23.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santiago"
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 13101,
-   "2025": 6.0,
-   "2026": 10.0,
-   "variacion": 67.0,
-   "situación": "Aumento de Casos",
-   "COMUNA": "Santiago"
-  },
-  {
-   "delito": "HURTOS",
-   "CODCOM": 13101,
-   "2025": 1239.0,
-   "2026": 1240.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
-   "COMUNA": "Santiago"
-  },
-  {
-   "delito": "INCIVILIDADES",
-   "CODCOM": 13101,
-   "2025": 656.0,
-   "2026": 245.0,
-   "variacion": -63.0,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Santiago"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 13101,
-   "2025": 43.0,
-   "2026": 24.0,
-   "variacion": -44.0,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Santiago"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 13101,
-   "2025": 294.0,
-   "2026": 270.0,
-   "variacion": -8.0,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Santiago"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 13101,
-   "2025": 30.0,
-   "2026": 29.0,
-   "variacion": -3.0,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Santiago"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 13101,
-   "2025": 76.0,
-   "2026": 127.0,
-   "variacion": 67.0,
-   "situación": "Aumento de Casos",
-   "COMUNA": "Santiago"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 13101,
-   "2025": 73.0,
-   "2026": 88.0,
-   "variacion": 21.0,
-   "situación": "Aumento de Casos",
-   "COMUNA": "Santiago"
-  },
-  {
-   "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 13101,
    "2025": 9.0,
    "2026": 12.0,
@@ -127,65 +55,137 @@
    "COMUNA": "Santiago"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 13101,
+   "2025": 1403.0,
+   "2026": 1380.0,
+   "variacion": -2.0,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Santiago"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 13101,
+   "2025": 743.0,
+   "2026": 269.0,
+   "variacion": -64.0,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Santiago"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 13101,
+   "2025": 44.0,
+   "2026": 26.0,
+   "variacion": -41.0,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Santiago"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 13101,
+   "2025": 330.0,
+   "2026": 311.0,
+   "variacion": -6.0,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Santiago"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 13101,
+   "2025": 36.0,
+   "2026": 30.0,
+   "variacion": -17.0,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Santiago"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 13101,
+   "2025": 90.0,
+   "2026": 137.0,
+   "variacion": 52.0,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Santiago"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 13101,
+   "2025": 85.0,
+   "2026": 99.0,
+   "variacion": 16.0,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Santiago"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 13101,
+   "2025": 12.0,
+   "2026": 14.0,
+   "variacion": 17.0,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Santiago"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 13101,
-   "2025": 108.0,
-   "2026": 80.0,
-   "variacion": -26.0,
+   "2025": 129.0,
+   "2026": 92.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santiago"
   },
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 13101,
-   "2025": 53.0,
-   "2026": 72.0,
-   "variacion": 36.0,
+   "2025": 60.0,
+   "2026": 76.0,
+   "variacion": 27.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Santiago"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 13101,
-   "2025": 957.0,
-   "2026": 849.0,
-   "variacion": -11.0,
+   "2025": 1067.0,
+   "2026": 930.0,
+   "variacion": -13.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santiago"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 13101,
-   "2025": 680.0,
-   "2026": 570.0,
-   "variacion": -16.0,
+   "2025": 775.0,
+   "2026": 637.0,
+   "variacion": -18.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santiago"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13101,
-   "2025": 249.0,
-   "2026": 204.0,
-   "variacion": -18.0,
+   "2025": 272.0,
+   "2026": 236.0,
+   "variacion": -13.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santiago"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13101,
-   "2025": 1552.0,
-   "2026": 1527.0,
-   "variacion": -2.0,
+   "2025": 1747.0,
+   "2026": 1691.0,
+   "variacion": -3.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santiago"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 13101,
-   "2025": 68.0,
-   "2026": 54.0,
-   "variacion": -21.0,
+   "2025": 73.0,
+   "2026": 62.0,
+   "variacion": -15.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santiago"
   }
@@ -304,6 +304,14 @@
    "COMUNA": "Santiago"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 13101,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Santiago"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13101,
    "anio": 2025,
@@ -413,6 +421,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 196.0,
+   "COMUNA": "Santiago"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 13101,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 48.0,
    "COMUNA": "Santiago"
   },
   {
@@ -528,6 +544,14 @@
    "COMUNA": "Santiago"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 13101,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 68.0,
+   "COMUNA": "Santiago"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 13101,
    "anio": 2025,
@@ -637,6 +661,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 162.0,
+   "COMUNA": "Santiago"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 13101,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 45.0,
    "COMUNA": "Santiago"
   },
   {
@@ -752,6 +784,14 @@
    "COMUNA": "Santiago"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 13101,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 53.0,
+   "COMUNA": "Santiago"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 13101,
    "anio": 2025,
@@ -861,6 +901,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 6.0,
+   "COMUNA": "Santiago"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 13101,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
    "COMUNA": "Santiago"
   },
   {
@@ -976,6 +1024,14 @@
    "COMUNA": "Santiago"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 13101,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 140.0,
+   "COMUNA": "Santiago"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 13101,
    "anio": 2025,
@@ -1088,6 +1144,14 @@
    "COMUNA": "Santiago"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 13101,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 24.0,
+   "COMUNA": "Santiago"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 13101,
    "anio": 2025,
@@ -1197,6 +1261,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 8.0,
+   "COMUNA": "Santiago"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 13101,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
    "COMUNA": "Santiago"
   },
   {
@@ -1312,6 +1384,14 @@
    "COMUNA": "Santiago"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 13101,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 41.0,
+   "COMUNA": "Santiago"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 13101,
    "anio": 2025,
@@ -1421,6 +1501,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 9.0,
+   "COMUNA": "Santiago"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 13101,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Santiago"
   },
   {
@@ -1536,6 +1624,14 @@
    "COMUNA": "Santiago"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 13101,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 10.0,
+   "COMUNA": "Santiago"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 13101,
    "anio": 2025,
@@ -1645,6 +1741,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 38.0,
+   "COMUNA": "Santiago"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 13101,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 11.0,
    "COMUNA": "Santiago"
   },
   {
@@ -1760,6 +1864,14 @@
    "COMUNA": "Santiago"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 13101,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Santiago"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 13101,
    "anio": 2025,
@@ -1869,6 +1981,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 31.0,
+   "COMUNA": "Santiago"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 13101,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 12.0,
    "COMUNA": "Santiago"
   },
   {
@@ -1984,6 +2104,14 @@
    "COMUNA": "Santiago"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 13101,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 4.0,
+   "COMUNA": "Santiago"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 13101,
    "anio": 2025,
@@ -2093,6 +2221,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 357.0,
+   "COMUNA": "Santiago"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 13101,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 81.0,
    "COMUNA": "Santiago"
   },
   {
@@ -2208,6 +2344,14 @@
    "COMUNA": "Santiago"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 13101,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 67.0,
+   "COMUNA": "Santiago"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13101,
    "anio": 2025,
@@ -2317,6 +2461,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 108.0,
+   "COMUNA": "Santiago"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 13101,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 32.0,
    "COMUNA": "Santiago"
   },
   {
@@ -2432,6 +2584,14 @@
    "COMUNA": "Santiago"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 13101,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 164.0,
+   "COMUNA": "Santiago"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 13101,
    "anio": 2025,
@@ -2542,6 +2702,14 @@
    "mes": 2,
    "casos": 21.0,
    "COMUNA": "Santiago"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 13101,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 8.0,
+   "COMUNA": "Santiago"
   }
  ],
  "info": [
@@ -2560,7 +2728,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 3427.0,
    "2025": 2873.0,
-   "2026": 443.0,
+   "2026": 491.0,
    "COMUNA": "Santiago"
   },
   {
@@ -2569,7 +2737,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 3614.0,
    "2025": 3118.0,
-   "2026": 371.0,
+   "2026": 439.0,
    "COMUNA": "Santiago"
   },
   {
@@ -2578,7 +2746,7 @@
    "delito": "DAÑOS",
    "2024": 3040.0,
    "2025": 2773.0,
-   "2026": 353.0,
+   "2026": 398.0,
    "COMUNA": "Santiago"
   },
   {
@@ -2587,7 +2755,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 2334.0,
    "2025": 1938.0,
-   "2026": 301.0,
+   "2026": 354.0,
    "COMUNA": "Santiago"
   },
   {
@@ -2596,7 +2764,7 @@
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "2024": 30.0,
    "2025": 41.0,
-   "2026": 10.0,
+   "2026": 12.0,
    "COMUNA": "Santiago"
   },
   {
@@ -2605,7 +2773,7 @@
    "delito": "HURTOS",
    "2024": 9302.0,
    "2025": 8533.0,
-   "2026": 1240.0,
+   "2026": 1380.0,
    "COMUNA": "Santiago"
   },
   {
@@ -2614,7 +2782,7 @@
    "delito": "INCIVILIDADES",
    "2024": 4773.0,
    "2025": 2973.0,
-   "2026": 245.0,
+   "2026": 269.0,
    "COMUNA": "Santiago"
   },
   {
@@ -2623,7 +2791,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 232.0,
    "2025": 172.0,
-   "2026": 24.0,
+   "2026": 26.0,
    "COMUNA": "Santiago"
   },
   {
@@ -2632,7 +2800,7 @@
    "delito": "LESIONES LEVES",
    "2024": 1821.0,
    "2025": 1684.0,
-   "2026": 270.0,
+   "2026": 311.0,
    "COMUNA": "Santiago"
   },
   {
@@ -2641,7 +2809,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 161.0,
    "2025": 126.0,
-   "2026": 29.0,
+   "2026": 30.0,
    "COMUNA": "Santiago"
   },
   {
@@ -2650,7 +2818,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 910.0,
    "2025": 785.0,
-   "2026": 127.0,
+   "2026": 137.0,
    "COMUNA": "Santiago"
   },
   {
@@ -2659,7 +2827,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 451.0,
    "2025": 501.0,
-   "2026": 88.0,
+   "2026": 99.0,
    "COMUNA": "Santiago"
   },
   {
@@ -2668,7 +2836,7 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2024": 177.0,
    "2025": 134.0,
-   "2026": 12.0,
+   "2026": 14.0,
    "COMUNA": "Santiago"
   },
   {
@@ -2677,7 +2845,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 429.0,
    "2025": 639.0,
-   "2026": 80.0,
+   "2026": 92.0,
    "COMUNA": "Santiago"
   },
   {
@@ -2686,7 +2854,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 401.0,
    "2025": 408.0,
-   "2026": 72.0,
+   "2026": 76.0,
    "COMUNA": "Santiago"
   },
   {
@@ -2695,7 +2863,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 6279.0,
    "2025": 5451.0,
-   "2026": 849.0,
+   "2026": 930.0,
    "COMUNA": "Santiago"
   },
   {
@@ -2704,7 +2872,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 3707.0,
    "2025": 3668.0,
-   "2026": 570.0,
+   "2026": 637.0,
    "COMUNA": "Santiago"
   },
   {
@@ -2713,7 +2881,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 1541.0,
    "2025": 1222.0,
-   "2026": 204.0,
+   "2026": 236.0,
    "COMUNA": "Santiago"
   },
   {
@@ -2722,7 +2890,7 @@
    "delito": "ROBOS POR SORPRESA",
    "2024": 8486.0,
    "2025": 8853.0,
-   "2026": 1527.0,
+   "2026": 1691.0,
    "COMUNA": "Santiago"
   },
   {
@@ -2731,12 +2899,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 408.0,
    "2025": 328.0,
-   "2026": 54.0,
+   "2026": 62.0,
    "COMUNA": "Santiago"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Metropolitana"
  }
 }

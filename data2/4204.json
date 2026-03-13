@@ -12,26 +12,26 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4204,
-   "2025": 40.0,
-   "2026": 37.0,
-   "variacion": -8.0,
+   "2025": 47.0,
+   "2026": 41.0,
+   "variacion": -13.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Salamanca"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 4204,
-   "2025": 27.0,
-   "2026": 78.0,
-   "variacion": 189.0,
+   "2025": 31.0,
+   "2026": 88.0,
+   "variacion": 184.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Salamanca"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 4204,
-   "2025": 18.0,
-   "2026": 16.0,
+   "2025": 19.0,
+   "2026": 17.0,
    "variacion": -11.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Salamanca"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 4204,
-   "2025": 42.0,
-   "2026": 32.0,
-   "variacion": -24.0,
+   "2025": 44.0,
+   "2026": 39.0,
+   "variacion": -11.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Salamanca"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4204,
-   "2025": 13.0,
+   "2025": 15.0,
    "2026": 12.0,
-   "variacion": -8.0,
+   "variacion": -20.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Salamanca"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 4204,
-   "2025": 6.0,
-   "2026": 14.0,
-   "variacion": 133.0,
+   "2025": 10.0,
+   "2026": 18.0,
+   "variacion": 80.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Salamanca"
   },
@@ -84,18 +84,18 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 4204,
-   "2025": 22.0,
+   "2025": 23.0,
    "2026": 9.0,
-   "variacion": -59.0,
+   "variacion": -61.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Salamanca"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 4204,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 3.0,
-   "variacion": -25.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Salamanca"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 4204,
    "2025": 2.0,
-   "2026": 3.0,
-   "variacion": 50.0,
+   "2026": 4.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Salamanca"
   },
@@ -129,10 +129,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 4204,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Salamanca"
   },
   {
@@ -147,27 +147,27 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 4204,
-   "2025": 3.0,
-   "2026": 1.0,
-   "variacion": -67.0,
+   "2025": 4.0,
+   "2026": 2.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Salamanca"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 4204,
-   "2025": 6.0,
-   "2026": 2.0,
-   "variacion": -67.0,
+   "2025": 7.0,
+   "2026": 3.0,
+   "variacion": -57.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Salamanca"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 4204,
-   "2025": 36.0,
+   "2025": 38.0,
    "2026": 8.0,
-   "variacion": -78.0,
+   "variacion": -79.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Salamanca"
   },
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 4204,
-   "2025": 4.0,
+   "2025": 7.0,
    "2026": 5.0,
-   "variacion": 25.0,
-   "situación": "Aumento de Casos",
+   "variacion": -29.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Salamanca"
   }
  ],
@@ -304,6 +304,14 @@
    "COMUNA": "Salamanca"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Salamanca"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4204,
    "anio": 2025,
@@ -413,6 +421,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 15.0,
+   "COMUNA": "Salamanca"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 4.0,
    "COMUNA": "Salamanca"
   },
   {
@@ -528,6 +544,14 @@
    "COMUNA": "Salamanca"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 10.0,
+   "COMUNA": "Salamanca"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 4204,
    "anio": 2025,
@@ -637,6 +661,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 6.0,
+   "COMUNA": "Salamanca"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Salamanca"
   },
   {
@@ -752,6 +784,14 @@
    "COMUNA": "Salamanca"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 7.0,
+   "COMUNA": "Salamanca"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 4204,
    "anio": 2025,
@@ -860,6 +900,14 @@
    "CODCOM": 4204,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Salamanca"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4204,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Salamanca"
   },
@@ -976,6 +1024,14 @@
    "COMUNA": "Salamanca"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 4204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Salamanca"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 4204,
    "anio": 2025,
@@ -1088,6 +1144,14 @@
    "COMUNA": "Salamanca"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 4.0,
+   "COMUNA": "Salamanca"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 4204,
    "anio": 2025,
@@ -1196,6 +1260,14 @@
    "CODCOM": 4204,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Salamanca"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4204,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Salamanca"
   },
@@ -1312,6 +1384,14 @@
    "COMUNA": "Salamanca"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Salamanca"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 4204,
    "anio": 2025,
@@ -1424,6 +1504,14 @@
    "COMUNA": "Salamanca"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Salamanca"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 4204,
    "anio": 2025,
@@ -1536,6 +1624,14 @@
    "COMUNA": "Salamanca"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Salamanca"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 4204,
    "anio": 2025,
@@ -1648,6 +1744,14 @@
    "COMUNA": "Salamanca"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Salamanca"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 4204,
    "anio": 2025,
@@ -1756,6 +1860,14 @@
    "CODCOM": 4204,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Salamanca"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4204,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Salamanca"
   },
@@ -1868,6 +1980,14 @@
    "CODCOM": 4204,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Salamanca"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4204,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Salamanca"
   },
@@ -1980,6 +2100,14 @@
    "CODCOM": 4204,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Salamanca"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4204,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Salamanca"
   },
@@ -2096,6 +2224,14 @@
    "COMUNA": "Salamanca"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Salamanca"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 4204,
    "anio": 2025,
@@ -2204,6 +2340,14 @@
    "CODCOM": 4204,
    "anio": 2026,
    "mes": 2,
+   "casos": 1.0,
+   "COMUNA": "Salamanca"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4204,
+   "anio": 2026,
+   "mes": 3,
    "casos": 1.0,
    "COMUNA": "Salamanca"
   },
@@ -2320,6 +2464,14 @@
    "COMUNA": "Salamanca"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Salamanca"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 4204,
    "anio": 2025,
@@ -2428,6 +2580,14 @@
    "CODCOM": 4204,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Salamanca"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4204,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Salamanca"
   },
@@ -2542,6 +2702,14 @@
    "mes": 2,
    "casos": 1.0,
    "COMUNA": "Salamanca"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Salamanca"
   }
  ],
  "info": [
@@ -2560,7 +2728,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 218.0,
    "2025": 180.0,
-   "2026": 37.0,
+   "2026": 41.0,
    "COMUNA": "Salamanca"
   },
   {
@@ -2569,7 +2737,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 197.0,
    "2025": 294.0,
-   "2026": 78.0,
+   "2026": 88.0,
    "COMUNA": "Salamanca"
   },
   {
@@ -2578,7 +2746,7 @@
    "delito": "DAÑOS",
    "2024": 112.0,
    "2025": 106.0,
-   "2026": 16.0,
+   "2026": 17.0,
    "COMUNA": "Salamanca"
   },
   {
@@ -2587,7 +2755,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 244.0,
    "2025": 187.0,
-   "2026": 32.0,
+   "2026": 39.0,
    "COMUNA": "Salamanca"
   },
   {
@@ -2614,7 +2782,7 @@
    "delito": "INCIVILIDADES",
    "2024": 82.0,
    "2025": 101.0,
-   "2026": 14.0,
+   "2026": 18.0,
    "COMUNA": "Salamanca"
   },
   {
@@ -2650,7 +2818,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 9.0,
    "2025": 20.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Salamanca"
   },
   {
@@ -2695,7 +2863,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 30.0,
    "2025": 19.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Salamanca"
   },
   {
@@ -2704,7 +2872,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 28.0,
    "2025": 28.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Salamanca"
   },
   {
@@ -2736,7 +2904,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Coquimbo"
  }
 }

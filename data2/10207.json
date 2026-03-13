@@ -3,27 +3,27 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 10207,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Queilén"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10207,
    "2025": 9.0,
-   "2026": 8.0,
-   "variacion": -11.0,
-   "situación": "Disminución de Casos",
+   "2026": 9.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Queilén"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10207,
-   "2025": 14.0,
+   "2025": 16.0,
    "2026": 8.0,
-   "variacion": -43.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Queilén"
   },
@@ -48,19 +48,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10207,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Queilén"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10207,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 2.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Queilén"
   },
   {
@@ -295,6 +295,14 @@
    "COMUNA": "Queilén"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 10207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Queilén"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10207,
    "anio": 2025,
@@ -404,6 +412,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 3.0,
+   "COMUNA": "Queilén"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 10207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Queilén"
   },
   {
@@ -516,6 +532,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 3.0,
+   "COMUNA": "Queilén"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 10207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Queilén"
   },
   {
@@ -631,6 +655,14 @@
    "COMUNA": "Queilén"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 10207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Queilén"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10207,
    "anio": 2025,
@@ -743,6 +775,14 @@
    "COMUNA": "Queilén"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 10207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Queilén"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 10207,
    "anio": 2025,
@@ -855,6 +895,14 @@
    "COMUNA": "Queilén"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 10207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Queilén"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 10207,
    "anio": 2025,
@@ -967,6 +1015,14 @@
    "COMUNA": "Queilén"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 10207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Queilén"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10207,
    "anio": 2025,
@@ -1075,6 +1131,14 @@
    "CODCOM": 10207,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Queilén"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 10207,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Queilén"
   },
@@ -1191,6 +1255,14 @@
    "COMUNA": "Queilén"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 10207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Queilén"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10207,
    "anio": 2025,
@@ -1303,6 +1375,14 @@
    "COMUNA": "Queilén"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Queilén"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10207,
    "anio": 2025,
@@ -1415,6 +1495,14 @@
    "COMUNA": "Queilén"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 10207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Queilén"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 10207,
    "anio": 2025,
@@ -1527,6 +1615,14 @@
    "COMUNA": "Queilén"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 10207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Queilén"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 10207,
    "anio": 2025,
@@ -1639,6 +1735,14 @@
    "COMUNA": "Queilén"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 10207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Queilén"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 10207,
    "anio": 2025,
@@ -1959,6 +2063,14 @@
    "COMUNA": "Queilén"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 10207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Queilén"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 10207,
    "anio": 2025,
@@ -2175,6 +2287,14 @@
    "COMUNA": "Queilén"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 10207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Queilén"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 10207,
    "anio": 2025,
@@ -2387,6 +2507,14 @@
    "CODCOM": 10207,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Queilén"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 10207,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Queilén"
   }
@@ -2407,7 +2535,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 32.0,
    "2025": 51.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Queilén"
   },
   {
@@ -2461,7 +2589,7 @@
    "delito": "INCIVILIDADES",
    "2024": 9.0,
    "2025": 5.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Queilén"
   },
   {
@@ -2583,7 +2711,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Los Lagos"
  }
 }

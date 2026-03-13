@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7408,
-   "2025": 31.0,
-   "2026": 26.0,
-   "variacion": -16.0,
+   "2025": 33.0,
+   "2026": 27.0,
+   "variacion": -18.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Yerbas Buenas"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7408,
-   "2025": 6.0,
-   "2026": 14.0,
-   "variacion": 133.0,
+   "2025": 14.0,
+   "2026": 15.0,
+   "variacion": 7.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Yerbas Buenas"
   },
@@ -31,18 +31,18 @@
    "delito": "DAÑOS",
    "CODCOM": 7408,
    "2025": 40.0,
-   "2026": 17.0,
-   "variacion": -58.0,
+   "2026": 19.0,
+   "variacion": -52.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Yerbas Buenas"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7408,
-   "2025": 35.0,
-   "2026": 35.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 39.0,
+   "2026": 40.0,
+   "variacion": 3.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Yerbas Buenas"
   },
   {
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7408,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 9.0,
-   "variacion": 80.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Yerbas Buenas"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 7408,
    "2025": 8.0,
-   "2026": 6.0,
-   "variacion": -25.0,
+   "2026": 7.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Yerbas Buenas"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 7408,
-   "2025": 11.0,
+   "2025": 14.0,
    "2026": 7.0,
-   "variacion": -36.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Yerbas Buenas"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7408,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 4.0,
-   "variacion": 300.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Yerbas Buenas"
   },
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 7408,
-   "2025": 1.0,
+   "2025": 3.0,
    "2026": 5.0,
-   "variacion": 400.0,
+   "variacion": 67.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Yerbas Buenas"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7408,
-   "2025": 17.0,
-   "2026": 14.0,
-   "variacion": -18.0,
+   "2025": 19.0,
+   "2026": 16.0,
+   "variacion": -16.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Yerbas Buenas"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 7408,
    "2025": 3.0,
-   "2026": 0.0,
-   "variacion": -100.0,
+   "2026": 1.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Yerbas Buenas"
   }
@@ -304,6 +304,14 @@
    "COMUNA": "Yerbas Buenas"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 7408,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Yerbas Buenas"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7408,
    "anio": 2025,
@@ -413,6 +421,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 11.0,
+   "COMUNA": "Yerbas Buenas"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 7408,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Yerbas Buenas"
   },
   {
@@ -528,6 +544,14 @@
    "COMUNA": "Yerbas Buenas"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 7408,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Yerbas Buenas"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 7408,
    "anio": 2025,
@@ -637,6 +661,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 6.0,
+   "COMUNA": "Yerbas Buenas"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 7408,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
    "COMUNA": "Yerbas Buenas"
   },
   {
@@ -752,6 +784,14 @@
    "COMUNA": "Yerbas Buenas"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 7408,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 5.0,
+   "COMUNA": "Yerbas Buenas"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 7408,
    "anio": 2025,
@@ -968,6 +1008,14 @@
    "COMUNA": "Yerbas Buenas"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 7408,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Yerbas Buenas"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 7408,
    "anio": 2025,
@@ -1080,6 +1128,14 @@
    "COMUNA": "Yerbas Buenas"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 7408,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Yerbas Buenas"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 7408,
    "anio": 2025,
@@ -1189,6 +1245,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Yerbas Buenas"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 7408,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Yerbas Buenas"
   },
   {
@@ -1304,6 +1368,14 @@
    "COMUNA": "Yerbas Buenas"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 7408,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Yerbas Buenas"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7408,
    "anio": 2025,
@@ -1416,6 +1488,14 @@
    "COMUNA": "Yerbas Buenas"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7408,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Yerbas Buenas"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7408,
    "anio": 2025,
@@ -1528,6 +1608,14 @@
    "COMUNA": "Yerbas Buenas"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7408,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Yerbas Buenas"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7408,
    "anio": 2025,
@@ -1640,6 +1728,14 @@
    "COMUNA": "Yerbas Buenas"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 7408,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Yerbas Buenas"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 7408,
    "anio": 2025,
@@ -1853,6 +1949,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 1.0,
+   "COMUNA": "Yerbas Buenas"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 7408,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Yerbas Buenas"
   },
   {
@@ -1964,6 +2068,14 @@
    "CODCOM": 7408,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Yerbas Buenas"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 7408,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Yerbas Buenas"
   },
@@ -2080,6 +2192,14 @@
    "COMUNA": "Yerbas Buenas"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 7408,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Yerbas Buenas"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 7408,
    "anio": 2025,
@@ -2189,6 +2309,14 @@
    "anio": 2026,
    "mes": 2,
    "casos": 2.0,
+   "COMUNA": "Yerbas Buenas"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 7408,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
    "COMUNA": "Yerbas Buenas"
   },
   {
@@ -2304,6 +2432,14 @@
    "COMUNA": "Yerbas Buenas"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7408,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Yerbas Buenas"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 7408,
    "anio": 2025,
@@ -2412,6 +2548,14 @@
    "CODCOM": 7408,
    "anio": 2026,
    "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Yerbas Buenas"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 7408,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Yerbas Buenas"
   },
@@ -2526,6 +2670,14 @@
    "mes": 2,
    "casos": 0.0,
    "COMUNA": "Yerbas Buenas"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7408,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Yerbas Buenas"
   }
  ],
  "info": [
@@ -2544,7 +2696,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 187.0,
    "2025": 168.0,
-   "2026": 26.0,
+   "2026": 27.0,
    "COMUNA": "Yerbas Buenas"
   },
   {
@@ -2553,7 +2705,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 93.0,
    "2025": 122.0,
-   "2026": 14.0,
+   "2026": 15.0,
    "COMUNA": "Yerbas Buenas"
   },
   {
@@ -2562,7 +2714,7 @@
    "delito": "DAÑOS",
    "2024": 73.0,
    "2025": 109.0,
-   "2026": 17.0,
+   "2026": 19.0,
    "COMUNA": "Yerbas Buenas"
   },
   {
@@ -2571,7 +2723,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 150.0,
    "2025": 149.0,
-   "2026": 35.0,
+   "2026": 40.0,
    "COMUNA": "Yerbas Buenas"
   },
   {
@@ -2598,7 +2750,7 @@
    "delito": "INCIVILIDADES",
    "2024": 19.0,
    "2025": 33.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Yerbas Buenas"
   },
   {
@@ -2697,7 +2849,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 77.0,
    "2025": 64.0,
-   "2026": 14.0,
+   "2026": 16.0,
    "COMUNA": "Yerbas Buenas"
   },
   {
@@ -2715,12 +2867,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 11.0,
    "2025": 11.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Yerbas Buenas"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 09/2026 (del 23/02/2026 al 01/03/2026)",
+  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
   "region": "Maule"
  }
 }
