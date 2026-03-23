@@ -12,26 +12,26 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 12301,
-   "2025": 8.0,
+   "2025": 9.0,
    "2026": 9.0,
-   "variacion": 12.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Porvenir"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 12301,
    "2025": 4.0,
-   "2026": 13.0,
-   "variacion": 225.0,
+   "2026": 15.0,
+   "variacion": 275.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Porvenir"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 12301,
-   "2025": 12.0,
-   "2026": 12.0,
+   "2025": 13.0,
+   "2026": 13.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Porvenir"
@@ -39,8 +39,8 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 12301,
-   "2025": 10.0,
-   "2026": 5.0,
+   "2025": 12.0,
+   "2026": 6.0,
    "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Porvenir"
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 12301,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 2.0,
-   "variacion": -60.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Porvenir"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 12301,
    "2025": 6.0,
-   "2026": 4.0,
-   "variacion": -33.0,
+   "2026": 5.0,
+   "variacion": -17.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Porvenir"
   },
@@ -94,8 +94,8 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 12301,
    "2025": 2.0,
-   "2026": 4.0,
-   "variacion": 100.0,
+   "2026": 5.0,
+   "variacion": 150.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Porvenir"
   },
@@ -548,7 +548,7 @@
    "CODCOM": 12301,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Porvenir"
   },
   {
@@ -668,7 +668,7 @@
    "CODCOM": 12301,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Porvenir"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 12301,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Porvenir"
   },
   {
@@ -892,6 +892,14 @@
    "CODCOM": 12301,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Porvenir"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 12301,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Porvenir"
   },
@@ -1372,7 +1380,7 @@
    "CODCOM": 12301,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Porvenir"
   },
   {
@@ -1492,7 +1500,7 @@
    "CODCOM": 12301,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Porvenir"
   },
   {
@@ -1956,6 +1964,14 @@
    "CODCOM": 12301,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Porvenir"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 12301,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Porvenir"
   },
@@ -2544,6 +2560,14 @@
    "COMUNA": "Porvenir"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 12301,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Porvenir"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 12301,
    "anio": 2025,
@@ -2689,7 +2713,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 34.0,
    "2025": 63.0,
-   "2026": 13.0,
+   "2026": 15.0,
    "COMUNA": "Porvenir"
   },
   {
@@ -2698,7 +2722,7 @@
    "delito": "DAÑOS",
    "2024": 90.0,
    "2025": 64.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "Porvenir"
   },
   {
@@ -2707,7 +2731,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 72.0,
    "2025": 48.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Porvenir"
   },
   {
@@ -2752,7 +2776,7 @@
    "delito": "LESIONES LEVES",
    "2024": 33.0,
    "2025": 40.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Porvenir"
   },
   {
@@ -2761,7 +2785,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 9.0,
    "2025": 6.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Porvenir"
   },
   {
@@ -2856,7 +2880,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "Magallanes"
  }
 }

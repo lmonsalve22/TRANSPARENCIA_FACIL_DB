@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5504,
-   "2025": 21.0,
-   "2026": 29.0,
-   "variacion": 38.0,
+   "2025": 22.0,
+   "2026": 33.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "La Cruz"
   },
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5504,
    "2025": 14.0,
-   "2026": 9.0,
-   "variacion": -36.0,
-   "situación": "Disminución de Casos",
+   "2026": 15.0,
+   "variacion": 7.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "La Cruz"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5504,
    "2025": 31.0,
-   "2026": 14.0,
-   "variacion": -55.0,
+   "2026": 17.0,
+   "variacion": -45.0,
    "situación": "Disminución de Casos",
    "COMUNA": "La Cruz"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5504,
-   "2025": 37.0,
-   "2026": 19.0,
-   "variacion": -49.0,
+   "2025": 40.0,
+   "2026": 22.0,
+   "variacion": -45.0,
    "situación": "Disminución de Casos",
    "COMUNA": "La Cruz"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5504,
-   "2025": 12.0,
+   "2025": 15.0,
    "2026": 11.0,
-   "variacion": -8.0,
+   "variacion": -27.0,
    "situación": "Disminución de Casos",
    "COMUNA": "La Cruz"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 5504,
    "2025": 10.0,
-   "2026": 11.0,
-   "variacion": 10.0,
+   "2026": 15.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "La Cruz"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5504,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 8.0,
-   "variacion": 60.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "La Cruz"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5504,
-   "2025": 13.0,
+   "2025": 20.0,
    "2026": 8.0,
-   "variacion": -38.0,
+   "variacion": -60.0,
    "situación": "Disminución de Casos",
    "COMUNA": "La Cruz"
   },
@@ -138,7 +138,7 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 5504,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -147,27 +147,27 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5504,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 6.0,
-   "variacion": 50.0,
+   "variacion": 20.0,
    "situación": "Aumento de Casos",
    "COMUNA": "La Cruz"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5504,
-   "2025": 7.0,
+   "2025": 8.0,
    "2026": 3.0,
-   "variacion": -57.0,
+   "variacion": -62.0,
    "situación": "Disminución de Casos",
    "COMUNA": "La Cruz"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5504,
-   "2025": 30.0,
-   "2026": 22.0,
-   "variacion": -27.0,
+   "2025": 36.0,
+   "2026": 24.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "La Cruz"
   },
@@ -184,9 +184,9 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5504,
    "2025": 2.0,
-   "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 3.0,
+   "variacion": 50.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "La Cruz"
   }
  ],
@@ -292,6 +292,14 @@
    "CODCOM": 5504,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "La Cruz"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 5504,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "La Cruz"
   },
@@ -412,7 +420,7 @@
    "CODCOM": 5504,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 5.0,
    "COMUNA": "La Cruz"
   },
   {
@@ -532,7 +540,7 @@
    "CODCOM": 5504,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 6.0,
    "COMUNA": "La Cruz"
   },
   {
@@ -652,7 +660,7 @@
    "CODCOM": 5504,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 5.0,
    "COMUNA": "La Cruz"
   },
   {
@@ -772,7 +780,7 @@
    "CODCOM": 5504,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 4.0,
    "COMUNA": "La Cruz"
   },
   {
@@ -1132,7 +1140,7 @@
    "CODCOM": 5504,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 5.0,
    "COMUNA": "La Cruz"
   },
   {
@@ -2452,7 +2460,7 @@
    "CODCOM": 5504,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "La Cruz"
   },
   {
@@ -2692,7 +2700,7 @@
    "CODCOM": 5504,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "La Cruz"
   }
  ],
@@ -2712,7 +2720,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 111.0,
    "2025": 132.0,
-   "2026": 29.0,
+   "2026": 33.0,
    "COMUNA": "La Cruz"
   },
   {
@@ -2721,7 +2729,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 9.0,
    "2025": 50.0,
-   "2026": 9.0,
+   "2026": 15.0,
    "COMUNA": "La Cruz"
   },
   {
@@ -2730,7 +2738,7 @@
    "delito": "DAÑOS",
    "2024": 121.0,
    "2025": 112.0,
-   "2026": 14.0,
+   "2026": 17.0,
    "COMUNA": "La Cruz"
   },
   {
@@ -2739,7 +2747,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 108.0,
    "2025": 161.0,
-   "2026": 19.0,
+   "2026": 22.0,
    "COMUNA": "La Cruz"
   },
   {
@@ -2766,7 +2774,7 @@
    "delito": "INCIVILIDADES",
    "2024": 24.0,
    "2025": 37.0,
-   "2026": 11.0,
+   "2026": 15.0,
    "COMUNA": "La Cruz"
   },
   {
@@ -2865,7 +2873,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 117.0,
    "2025": 129.0,
-   "2026": 22.0,
+   "2026": 24.0,
    "COMUNA": "La Cruz"
   },
   {
@@ -2883,12 +2891,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 7.0,
    "2025": 9.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "La Cruz"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "Valparaíso"
  }
 }

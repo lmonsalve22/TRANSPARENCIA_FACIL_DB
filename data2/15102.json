@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 15102,
    "2025": 4.0,
-   "2026": 5.0,
-   "variacion": 25.0,
+   "2026": 7.0,
+   "variacion": 75.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Camarones"
   },
@@ -39,7 +39,7 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 15102,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -66,10 +66,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 15102,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Camarones"
   },
   {
@@ -165,10 +165,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 15102,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Camarones"
   }
  ],
@@ -530,7 +530,7 @@
    "CODCOM": 15102,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Camarones"
   },
   {
@@ -2298,6 +2298,14 @@
    "CODCOM": 15102,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Camarones"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 15102,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Camarones"
   },
@@ -2447,7 +2455,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 4.0,
    "2025": 4.0,
-   "2026": 5.0,
+   "2026": 7.0,
    "COMUNA": "Camarones"
   },
   {
@@ -2614,7 +2622,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "Arica y Parinacota"
  }
 }

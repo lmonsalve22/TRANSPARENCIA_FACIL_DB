@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6114,
-   "2025": 12.0,
-   "2026": 14.0,
-   "variacion": 17.0,
+   "2025": 13.0,
+   "2026": 15.0,
+   "variacion": 15.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Quinta de Tilcoco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6114,
-   "2025": 34.0,
+   "2025": 38.0,
    "2026": 29.0,
-   "variacion": -15.0,
+   "variacion": -24.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quinta de Tilcoco"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6114,
-   "2025": 30.0,
-   "2026": 27.0,
-   "variacion": -10.0,
+   "2025": 35.0,
+   "2026": 30.0,
+   "variacion": -14.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quinta de Tilcoco"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 6114,
    "2025": 7.0,
-   "2026": 13.0,
-   "variacion": 86.0,
+   "2026": 14.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Quinta de Tilcoco"
   },
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 6114,
    "2025": 9.0,
-   "2026": 9.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 10.0,
+   "variacion": 11.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -84,8 +84,8 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6114,
-   "2025": 8.0,
-   "2026": 4.0,
+   "2025": 12.0,
+   "2026": 6.0,
    "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quinta de Tilcoco"
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6114,
    "2025": 11.0,
-   "2026": 4.0,
-   "variacion": -64.0,
+   "2026": 6.0,
+   "variacion": -45.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quinta de Tilcoco"
   },
@@ -175,9 +175,9 @@
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6114,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -428,7 +428,7 @@
    "CODCOM": 6114,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 6114,
    "anio": 2026,
    "mes": 3,
-   "casos": 3.0,
+   "casos": 6.0,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -924,7 +924,7 @@
    "CODCOM": 6114,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -1044,7 +1044,7 @@
    "CODCOM": 6114,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -1284,7 +1284,7 @@
    "CODCOM": 6114,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -1748,6 +1748,14 @@
    "CODCOM": 6114,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 6114,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Quinta de Tilcoco"
   },
@@ -2348,7 +2356,7 @@
    "CODCOM": 6114,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -2453,6 +2461,14 @@
    "anio": 2026,
    "mes": 1,
    "casos": 0.0,
+   "COMUNA": "Quinta de Tilcoco"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6114,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -2592,7 +2608,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 110.0,
    "2025": 104.0,
-   "2026": 14.0,
+   "2026": 15.0,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -2619,7 +2635,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 144.0,
    "2025": 110.0,
-   "2026": 27.0,
+   "2026": 30.0,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -2637,7 +2653,7 @@
    "delito": "HURTOS",
    "2024": 53.0,
    "2025": 41.0,
-   "2026": 13.0,
+   "2026": 14.0,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -2646,7 +2662,7 @@
    "delito": "INCIVILIDADES",
    "2024": 51.0,
    "2025": 41.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -2664,7 +2680,7 @@
    "delito": "LESIONES LEVES",
    "2024": 39.0,
    "2025": 39.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -2745,7 +2761,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 37.0,
    "2025": 40.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -2754,7 +2770,7 @@
    "delito": "ROBOS POR SORPRESA",
    "2024": 4.0,
    "2025": 0.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Quinta de Tilcoco"
   },
   {
@@ -2768,7 +2784,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "O'Higgins"
  }
 }

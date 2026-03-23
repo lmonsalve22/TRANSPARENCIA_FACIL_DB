@@ -12,10 +12,10 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16205,
-   "2025": 5.0,
+   "2025": 7.0,
    "2026": 5.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -29.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Portezuelo"
   },
   {
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16205,
-   "2025": 7.0,
-   "2026": 4.0,
-   "variacion": -43.0,
+   "2025": 8.0,
+   "2026": 5.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Portezuelo"
   },
@@ -48,9 +48,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16205,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 1.0,
-   "variacion": -50.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Portezuelo"
   },
@@ -93,10 +93,10 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 16205,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Portezuelo"
   },
   {
@@ -165,10 +165,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 16205,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Portezuelo"
   }
  ],
@@ -274,6 +274,14 @@
    "CODCOM": 16205,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Portezuelo"
   },
@@ -634,7 +642,7 @@
    "CODCOM": 16205,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Portezuelo"
   },
   {
@@ -982,6 +990,14 @@
    "COMUNA": "Portezuelo"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16205,
    "anio": 2025,
@@ -1922,6 +1938,14 @@
    "CODCOM": 16205,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Portezuelo"
   },
@@ -2440,7 +2464,7 @@
    "delito": "DAÑOS",
    "2024": 32.0,
    "2025": 25.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Portezuelo"
   },
   {
@@ -2598,7 +2622,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "Ñuble"
  }
 }

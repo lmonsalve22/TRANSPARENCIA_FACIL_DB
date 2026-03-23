@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5201,
    "2025": 33.0,
-   "2026": 38.0,
-   "variacion": 15.0,
+   "2026": 39.0,
+   "variacion": 18.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Isla de Pascua"
   },
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5201,
    "2025": 8.0,
-   "2026": 7.0,
-   "variacion": -12.0,
-   "situación": "Disminución de Casos",
+   "2026": 8.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Isla de Pascua"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5201,
-   "2025": 13.0,
-   "2026": 14.0,
-   "variacion": 8.0,
+   "2025": 14.0,
+   "2026": 17.0,
+   "variacion": 21.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Isla de Pascua"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5201,
-   "2025": 32.0,
-   "2026": 26.0,
-   "variacion": -19.0,
+   "2025": 39.0,
+   "2026": 28.0,
+   "variacion": -28.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Isla de Pascua"
   },
@@ -57,36 +57,36 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5201,
-   "2025": 9.0,
-   "2026": 8.0,
-   "variacion": -11.0,
+   "2025": 11.0,
+   "2026": 10.0,
+   "variacion": -9.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Isla de Pascua"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5201,
-   "2025": 6.0,
-   "2026": 7.0,
-   "variacion": 17.0,
+   "2025": 7.0,
+   "2026": 8.0,
+   "variacion": 14.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Isla de Pascua"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5201,
-   "2025": 7.0,
+   "2025": 8.0,
    "2026": 3.0,
-   "variacion": -57.0,
+   "variacion": -62.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Isla de Pascua"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5201,
-   "2025": 21.0,
+   "2025": 23.0,
    "2026": 13.0,
-   "variacion": -38.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Isla de Pascua"
   },
@@ -102,7 +102,7 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5201,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -112,9 +112,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 5201,
    "2025": 3.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 3.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5201,
    "2025": 4.0,
-   "2026": 1.0,
-   "variacion": -75.0,
+   "2026": 2.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Isla de Pascua"
   }
@@ -428,7 +428,7 @@
    "CODCOM": 5201,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -548,7 +548,7 @@
    "CODCOM": 5201,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -668,7 +668,7 @@
    "CODCOM": 5201,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 4.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 5201,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -892,6 +892,14 @@
    "CODCOM": 5201,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Isla de Pascua"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 5201,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Isla de Pascua"
   },
@@ -1012,7 +1020,7 @@
    "CODCOM": 5201,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -1132,7 +1140,7 @@
    "CODCOM": 5201,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -1732,7 +1740,7 @@
    "CODCOM": 5201,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 3.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -1836,6 +1844,14 @@
    "CODCOM": 5201,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Isla de Pascua"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 5201,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Isla de Pascua"
   },
@@ -2676,7 +2692,7 @@
    "CODCOM": 5201,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Isla de Pascua"
   }
  ],
@@ -2696,7 +2712,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 154.0,
    "2025": 177.0,
-   "2026": 38.0,
+   "2026": 39.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -2705,7 +2721,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 162.0,
    "2025": 33.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -2714,7 +2730,7 @@
    "delito": "DAÑOS",
    "2024": 67.0,
    "2025": 69.0,
-   "2026": 14.0,
+   "2026": 17.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -2723,7 +2739,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 153.0,
    "2025": 155.0,
-   "2026": 26.0,
+   "2026": 28.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -2741,7 +2757,7 @@
    "delito": "HURTOS",
    "2024": 43.0,
    "2025": 40.0,
-   "2026": 8.0,
+   "2026": 10.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -2750,7 +2766,7 @@
    "delito": "INCIVILIDADES",
    "2024": 33.0,
    "2025": 36.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -2795,7 +2811,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 6.0,
    "2025": 12.0,
-   "2026": 0.0,
+   "2026": 3.0,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -2867,12 +2883,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 7.0,
    "2025": 11.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Isla de Pascua"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "Valparaíso"
  }
 }

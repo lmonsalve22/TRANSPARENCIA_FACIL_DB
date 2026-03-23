@@ -12,35 +12,35 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9205,
-   "2025": 16.0,
-   "2026": 17.0,
-   "variacion": 6.0,
-   "situación": "Aumento de Casos",
+   "2025": 18.0,
+   "2026": 18.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Lonquimay"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9205,
-   "2025": 31.0,
+   "2025": 33.0,
    "2026": 7.0,
-   "variacion": -77.0,
+   "variacion": -79.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lonquimay"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9205,
-   "2025": 25.0,
-   "2026": 25.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 28.0,
+   "2026": 27.0,
+   "variacion": -4.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Lonquimay"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9205,
-   "2025": 16.0,
-   "2026": 15.0,
+   "2025": 18.0,
+   "2026": 17.0,
    "variacion": -6.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lonquimay"
@@ -76,17 +76,17 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 9205,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Lonquimay"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9205,
    "2025": 9.0,
-   "2026": 6.0,
-   "variacion": -33.0,
+   "2026": 7.0,
+   "variacion": -22.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lonquimay"
   },
@@ -94,8 +94,8 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9205,
    "2025": 4.0,
-   "2026": 2.0,
-   "variacion": -50.0,
+   "2026": 3.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lonquimay"
   },
@@ -428,7 +428,7 @@
    "CODCOM": 9205,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -668,7 +668,7 @@
    "CODCOM": 9205,
    "anio": 2026,
    "mes": 3,
-   "casos": 5.0,
+   "casos": 7.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 9205,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -1252,7 +1252,7 @@
    "CODCOM": 9205,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -1372,7 +1372,7 @@
    "CODCOM": 9205,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -1492,7 +1492,7 @@
    "CODCOM": 9205,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -1836,6 +1836,14 @@
    "CODCOM": 9205,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Lonquimay"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9205,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Lonquimay"
   },
@@ -2680,7 +2688,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 90.0,
    "2025": 82.0,
-   "2026": 17.0,
+   "2026": 18.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -2698,7 +2706,7 @@
    "delito": "DAÑOS",
    "2024": 81.0,
    "2025": 94.0,
-   "2026": 25.0,
+   "2026": 27.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -2707,7 +2715,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 70.0,
    "2025": 83.0,
-   "2026": 15.0,
+   "2026": 17.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -2743,7 +2751,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 6.0,
    "2025": 10.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -2752,7 +2760,7 @@
    "delito": "LESIONES LEVES",
    "2024": 30.0,
    "2025": 43.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -2761,7 +2769,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 12.0,
    "2025": 14.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -2856,7 +2864,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "La Araucanía"
  }
 }

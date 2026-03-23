@@ -21,16 +21,16 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8308,
-   "2025": 6.0,
-   "2026": 20.0,
-   "variacion": 233.0,
+   "2025": 7.0,
+   "2026": 24.0,
+   "variacion": 243.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Quilaco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 8308,
-   "2025": 7.0,
+   "2025": 8.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -57,9 +57,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8308,
-   "2025": 5.0,
+   "2025": 7.0,
    "2026": 1.0,
-   "variacion": -80.0,
+   "variacion": -86.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quilaco"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8308,
-   "2025": 2.0,
-   "2026": 3.0,
-   "variacion": 50.0,
+   "2025": 3.0,
+   "2026": 4.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Quilaco"
   },
@@ -139,9 +139,9 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8308,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 2.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Quilaco"
   },
   {
@@ -156,9 +156,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8308,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 6.0,
-   "variacion": 100.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Quilaco"
   },
@@ -274,6 +274,14 @@
    "CODCOM": 8308,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Quilaco"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8308,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Quilaco"
   },
@@ -514,7 +522,7 @@
    "CODCOM": 8308,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 4.0,
    "COMUNA": "Quilaco"
   },
   {
@@ -1102,6 +1110,14 @@
    "COMUNA": "Quilaco"
   },
   {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 8308,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Quilaco"
+  },
+  {
    "delito": "LESIONES LEVES",
    "CODCOM": 8308,
    "anio": 2025,
@@ -1218,7 +1234,7 @@
    "CODCOM": 8308,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Quilaco"
   },
   {
@@ -2058,7 +2074,7 @@
    "CODCOM": 8308,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Quilaco"
   },
   {
@@ -2447,7 +2463,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 21.0,
    "2025": 56.0,
-   "2026": 20.0,
+   "2026": 24.0,
    "COMUNA": "Quilaco"
   },
   {
@@ -2510,7 +2526,7 @@
    "delito": "LESIONES LEVES",
    "2024": 9.0,
    "2025": 13.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Quilaco"
   },
   {
@@ -2573,7 +2589,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 2.0,
    "2025": 1.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Quilaco"
   },
   {
@@ -2614,7 +2630,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "Biobío"
  }
 }

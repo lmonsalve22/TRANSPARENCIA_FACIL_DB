@@ -13,35 +13,35 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6306,
    "2025": 14.0,
-   "2026": 16.0,
-   "variacion": 14.0,
+   "2026": 17.0,
+   "variacion": 21.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Palmilla"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6306,
-   "2025": 7.0,
-   "2026": 37.0,
-   "variacion": 429.0,
+   "2025": 8.0,
+   "2026": 38.0,
+   "variacion": 375.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Palmilla"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6306,
-   "2025": 8.0,
-   "2026": 20.0,
-   "variacion": 150.0,
+   "2025": 11.0,
+   "2026": 21.0,
+   "variacion": 91.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Palmilla"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6306,
-   "2025": 21.0,
-   "2026": 19.0,
-   "variacion": -10.0,
+   "2025": 25.0,
+   "2026": 22.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Palmilla"
   },
@@ -58,9 +58,9 @@
    "delito": "HURTOS",
    "CODCOM": 6306,
    "2025": 5.0,
-   "2026": 5.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 6.0,
+   "variacion": 20.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Palmilla"
   },
   {
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 6306,
    "2025": 1.0,
-   "2026": 9.0,
-   "variacion": 800.0,
+   "2026": 11.0,
+   "variacion": 1000.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Palmilla"
   },
@@ -121,9 +121,9 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6306,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Palmilla"
   },
   {
@@ -157,8 +157,8 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6306,
    "2025": 0.0,
-   "2026": 1.0,
-   "variacion": 100.0,
+   "2026": 3.0,
+   "variacion": 300.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Palmilla"
   },
@@ -428,7 +428,7 @@
    "CODCOM": 6306,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -548,7 +548,7 @@
    "CODCOM": 6306,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -668,7 +668,7 @@
    "CODCOM": 6306,
    "anio": 2026,
    "mes": 3,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 6306,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 3.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -1028,7 +1028,7 @@
    "CODCOM": 6306,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -1388,7 +1388,7 @@
    "CODCOM": 6306,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -1853,6 +1853,14 @@
    "anio": 2026,
    "mes": 1,
    "casos": 0.0,
+   "COMUNA": "Palmilla"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 6306,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -2332,7 +2340,7 @@
    "CODCOM": 6306,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -2556,6 +2564,14 @@
    "CODCOM": 6306,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Palmilla"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6306,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Palmilla"
   },
@@ -2696,7 +2712,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 111.0,
    "2025": 98.0,
-   "2026": 16.0,
+   "2026": 17.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -2705,7 +2721,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 66.0,
    "2025": 69.0,
-   "2026": 37.0,
+   "2026": 38.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -2714,7 +2730,7 @@
    "delito": "DAÑOS",
    "2024": 98.0,
    "2025": 69.0,
-   "2026": 20.0,
+   "2026": 21.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -2723,7 +2739,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 83.0,
    "2025": 94.0,
-   "2026": 19.0,
+   "2026": 22.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -2741,7 +2757,7 @@
    "delito": "HURTOS",
    "2024": 30.0,
    "2025": 20.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -2768,7 +2784,7 @@
    "delito": "LESIONES LEVES",
    "2024": 16.0,
    "2025": 14.0,
-   "2026": 9.0,
+   "2026": 11.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -2804,7 +2820,7 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2024": 0.0,
    "2025": 0.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -2840,7 +2856,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 9.0,
    "2025": 5.0,
-   "2026": 1.0,
+   "2026": 3.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -2872,7 +2888,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "O'Higgins"
  }
 }

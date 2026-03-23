@@ -21,18 +21,18 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 1404,
-   "2025": 30.0,
-   "2026": 3.0,
-   "variacion": -90.0,
+   "2025": 34.0,
+   "2026": 4.0,
+   "variacion": -88.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 1404,
-   "2025": 11.0,
-   "2026": 4.0,
-   "variacion": -64.0,
+   "2025": 13.0,
+   "2026": 5.0,
+   "variacion": -62.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 1404,
    "2025": 3.0,
-   "2026": 1.0,
-   "variacion": -67.0,
+   "2026": 2.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 1404,
    "2025": 5.0,
-   "2026": 3.0,
-   "variacion": -40.0,
+   "2026": 4.0,
+   "variacion": -20.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
@@ -138,9 +138,9 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 1404,
-   "2025": 6.0,
-   "2026": 2.0,
-   "variacion": -67.0,
+   "2025": 7.0,
+   "2026": 3.0,
+   "variacion": -57.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 1404,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 1.0,
-   "variacion": -67.0,
+   "variacion": -75.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
@@ -548,7 +548,7 @@
    "CODCOM": 1404,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Huara"
   },
   {
@@ -668,7 +668,7 @@
    "CODCOM": 1404,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Huara"
   },
   {
@@ -896,6 +896,14 @@
    "COMUNA": "Huara"
   },
   {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 1404,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Huara"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 1404,
    "anio": 2025,
@@ -1012,7 +1020,7 @@
    "CODCOM": 1404,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Huara"
   },
   {
@@ -1132,7 +1140,7 @@
    "CODCOM": 1404,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Huara"
   },
   {
@@ -1840,6 +1848,14 @@
    "COMUNA": "Huara"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 1404,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Huara"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 1404,
    "anio": 2025,
@@ -2076,7 +2092,7 @@
    "CODCOM": 1404,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Huara"
   },
   {
@@ -2705,7 +2721,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 61.0,
    "2025": 84.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Huara"
   },
   {
@@ -2714,7 +2730,7 @@
    "delito": "DAÑOS",
    "2024": 72.0,
    "2025": 43.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Huara"
   },
   {
@@ -2741,7 +2757,7 @@
    "delito": "HURTOS",
    "2024": 31.0,
    "2025": 12.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Huara"
   },
   {
@@ -2750,7 +2766,7 @@
    "delito": "INCIVILIDADES",
    "2024": 22.0,
    "2025": 47.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Huara"
   },
   {
@@ -2822,7 +2838,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 11.0,
    "2025": 13.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Huara"
   },
   {
@@ -2872,7 +2888,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "Tarapacá"
  }
 }

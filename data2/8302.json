@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8302,
-   "2025": 6.0,
+   "2025": 8.0,
    "2026": 5.0,
-   "variacion": -17.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Antuco"
   },
@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8302,
    "2025": 6.0,
-   "2026": 13.0,
-   "variacion": 117.0,
+   "2026": 14.0,
+   "variacion": 133.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Antuco"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 8302,
    "2025": 10.0,
-   "2026": 5.0,
-   "variacion": -50.0,
+   "2026": 6.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Antuco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8302,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 8.0,
-   "variacion": 300.0,
+   "variacion": 167.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Antuco"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8302,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 3.0,
-   "variacion": 200.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Antuco"
   },
@@ -292,6 +292,14 @@
    "CODCOM": 8302,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Antuco"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8302,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Antuco"
   },
@@ -532,7 +540,7 @@
    "CODCOM": 8302,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Antuco"
   },
   {
@@ -652,7 +660,7 @@
    "CODCOM": 8302,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Antuco"
   },
   {
@@ -2544,6 +2552,14 @@
    "COMUNA": "Antuco"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 8302,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Antuco"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8302,
    "anio": 2025,
@@ -2681,7 +2697,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 58.0,
    "2025": 38.0,
-   "2026": 13.0,
+   "2026": 14.0,
    "COMUNA": "Antuco"
   },
   {
@@ -2690,7 +2706,7 @@
    "delito": "DAÑOS",
    "2024": 24.0,
    "2025": 31.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Antuco"
   },
   {
@@ -2848,7 +2864,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "Biobío"
  }
 }

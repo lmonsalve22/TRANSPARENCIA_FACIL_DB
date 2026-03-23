@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10204,
    "2025": 10.0,
-   "2026": 5.0,
-   "variacion": -50.0,
+   "2026": 6.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curaco de Vélez"
   },
@@ -31,9 +31,9 @@
    "delito": "DAÑOS",
    "CODCOM": 10204,
    "2025": 6.0,
-   "2026": 6.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 8.0,
+   "variacion": 33.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -410,7 +410,7 @@
    "CODCOM": 10204,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -650,7 +650,7 @@
    "CODCOM": 10204,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -1942,6 +1942,14 @@
    "COMUNA": "Curaco de Vélez"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 10204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Curaco de Vélez"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 10204,
    "anio": 2025,
@@ -2042,6 +2050,14 @@
    "CODCOM": 10204,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Curaco de Vélez"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 10204,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Curaco de Vélez"
   },
@@ -2406,7 +2422,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 21.0,
    "2025": 33.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -2424,7 +2440,7 @@
    "delito": "DAÑOS",
    "2024": 31.0,
    "2025": 23.0,
-   "2026": 6.0,
+   "2026": 8.0,
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -2582,7 +2598,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "Los Lagos"
  }
 }

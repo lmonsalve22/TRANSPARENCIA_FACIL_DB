@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16207,
-   "2025": 10.0,
-   "2026": 9.0,
-   "variacion": -10.0,
+   "2025": 13.0,
+   "2026": 10.0,
+   "variacion": -23.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16207,
-   "2025": 18.0,
-   "2026": 12.0,
-   "variacion": -33.0,
+   "2025": 23.0,
+   "2026": 14.0,
+   "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16207,
    "2025": 11.0,
-   "2026": 5.0,
-   "variacion": -55.0,
+   "2026": 6.0,
+   "variacion": -45.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16207,
-   "2025": 3.0,
+   "2025": 6.0,
    "2026": 4.0,
-   "variacion": 33.0,
-   "situación": "Aumento de Casos",
+   "variacion": -33.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
   {
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16207,
    "2025": 5.0,
-   "2026": 9.0,
-   "variacion": 80.0,
+   "2026": 11.0,
+   "variacion": 120.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Treguaco"
   },
@@ -183,7 +183,7 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 16207,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -292,6 +292,14 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Treguaco"
+  },
+  {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 16207,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Treguaco"
   },
@@ -412,7 +420,7 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -652,7 +660,7 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -772,7 +780,7 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -1824,6 +1832,14 @@
    "COMUNA": "Treguaco"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 16207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Treguaco"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16207,
    "anio": 2025,
@@ -2048,6 +2064,14 @@
    "COMUNA": "Treguaco"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Treguaco"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 16207,
    "anio": 2025,
@@ -2152,6 +2176,14 @@
    "COMUNA": "Treguaco"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16207,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Treguaco"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16207,
    "anio": 2025,
@@ -2252,6 +2284,14 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Treguaco"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16207,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Treguaco"
   },
@@ -2372,7 +2412,7 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2632,7 +2672,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 65.0,
    "2025": 57.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2650,7 +2690,7 @@
    "delito": "DAÑOS",
    "2024": 64.0,
    "2025": 70.0,
-   "2026": 12.0,
+   "2026": 14.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2659,7 +2699,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 59.0,
    "2025": 50.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2785,7 +2825,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 33.0,
    "2025": 29.0,
-   "2026": 9.0,
+   "2026": 11.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2808,7 +2848,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "Ñuble"
  }
 }

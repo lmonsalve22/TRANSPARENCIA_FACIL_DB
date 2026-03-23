@@ -13,35 +13,35 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14105,
    "2025": 8.0,
-   "2026": 17.0,
-   "variacion": 112.0,
+   "2026": 19.0,
+   "variacion": 138.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Máfil"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 14105,
-   "2025": 9.0,
+   "2025": 10.0,
    "2026": 9.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -10.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Máfil"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 14105,
-   "2025": 23.0,
-   "2026": 23.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 26.0,
+   "2026": 25.0,
+   "variacion": -4.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Máfil"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 14105,
    "2025": 13.0,
-   "2026": 14.0,
-   "variacion": 8.0,
+   "2026": 15.0,
+   "variacion": 15.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Máfil"
   },
@@ -58,17 +58,17 @@
    "delito": "HURTOS",
    "CODCOM": 14105,
    "2025": 8.0,
-   "2026": 2.0,
-   "variacion": -75.0,
+   "2026": 3.0,
+   "variacion": -62.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Máfil"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 14105,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 2.0,
-   "variacion": -60.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Máfil"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 14105,
-   "2025": 1.0,
-   "2026": 4.0,
-   "variacion": 300.0,
+   "2025": 2.0,
+   "2026": 5.0,
+   "variacion": 150.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Máfil"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 14105,
    "2025": 10.0,
-   "2026": 6.0,
-   "variacion": -40.0,
+   "2026": 8.0,
+   "variacion": -20.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Máfil"
   },
@@ -296,6 +296,14 @@
    "COMUNA": "Máfil"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 14105,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Máfil"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14105,
    "anio": 2025,
@@ -412,7 +420,7 @@
    "CODCOM": 14105,
    "anio": 2026,
    "mes": 3,
-   "casos": 4.0,
+   "casos": 6.0,
    "COMUNA": "Máfil"
   },
   {
@@ -652,7 +660,7 @@
    "CODCOM": 14105,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Máfil"
   },
   {
@@ -772,7 +780,7 @@
    "CODCOM": 14105,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Máfil"
   },
   {
@@ -1012,7 +1020,7 @@
    "CODCOM": 14105,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Máfil"
   },
   {
@@ -1372,7 +1380,7 @@
    "CODCOM": 14105,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Máfil"
   },
   {
@@ -1612,7 +1620,7 @@
    "CODCOM": 14105,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Máfil"
   },
   {
@@ -2704,7 +2712,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 77.0,
    "2025": 52.0,
-   "2026": 17.0,
+   "2026": 19.0,
    "COMUNA": "Máfil"
   },
   {
@@ -2722,7 +2730,7 @@
    "delito": "DAÑOS",
    "2024": 90.0,
    "2025": 89.0,
-   "2026": 23.0,
+   "2026": 25.0,
    "COMUNA": "Máfil"
   },
   {
@@ -2731,7 +2739,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 57.0,
    "2025": 63.0,
-   "2026": 14.0,
+   "2026": 15.0,
    "COMUNA": "Máfil"
   },
   {
@@ -2749,7 +2757,7 @@
    "delito": "HURTOS",
    "2024": 41.0,
    "2025": 26.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Máfil"
   },
   {
@@ -2776,7 +2784,7 @@
    "delito": "LESIONES LEVES",
    "2024": 33.0,
    "2025": 19.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Máfil"
   },
   {
@@ -2794,7 +2802,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 27.0,
    "2025": 55.0,
-   "2026": 6.0,
+   "2026": 8.0,
    "COMUNA": "Máfil"
   },
   {
@@ -2880,7 +2888,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "Los Ríos"
  }
 }

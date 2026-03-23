@@ -13,9 +13,9 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6304,
    "2025": 9.0,
-   "2026": 7.0,
-   "variacion": -22.0,
-   "situación": "Disminución de Casos",
+   "2026": 10.0,
+   "variacion": 11.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Lolol"
   },
   {
@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 6304,
    "2025": 7.0,
-   "2026": 12.0,
-   "variacion": 71.0,
+   "2026": 13.0,
+   "variacion": 86.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lolol"
   },
@@ -58,17 +58,17 @@
    "delito": "HURTOS",
    "CODCOM": 6304,
    "2025": 4.0,
-   "2026": 4.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 5.0,
+   "variacion": 25.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Lolol"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6304,
    "2025": 0.0,
-   "2026": 1.0,
-   "variacion": 100.0,
+   "2026": 2.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lolol"
   },
@@ -93,7 +93,7 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6304,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -112,9 +112,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 6304,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 2.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Lolol"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6304,
-   "2025": 15.0,
-   "2026": 6.0,
-   "variacion": -60.0,
+   "2025": 16.0,
+   "2026": 8.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lolol"
   },
@@ -428,7 +428,7 @@
    "CODCOM": 6304,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 4.0,
    "COMUNA": "Lolol"
   },
   {
@@ -668,7 +668,7 @@
    "CODCOM": 6304,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Lolol"
   },
   {
@@ -1028,7 +1028,7 @@
    "CODCOM": 6304,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Lolol"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 6304,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Lolol"
   },
   {
@@ -1748,7 +1748,7 @@
    "CODCOM": 6304,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Lolol"
   },
   {
@@ -1956,6 +1956,14 @@
    "CODCOM": 6304,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Lolol"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6304,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Lolol"
   },
@@ -2436,7 +2444,7 @@
    "CODCOM": 6304,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Lolol"
   },
   {
@@ -2540,6 +2548,14 @@
    "CODCOM": 6304,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Lolol"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6304,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Lolol"
   },
@@ -2680,7 +2696,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 34.0,
    "2025": 31.0,
-   "2026": 7.0,
+   "2026": 10.0,
    "COMUNA": "Lolol"
   },
   {
@@ -2698,7 +2714,7 @@
    "delito": "DAÑOS",
    "2024": 52.0,
    "2025": 43.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "Lolol"
   },
   {
@@ -2725,7 +2741,7 @@
    "delito": "HURTOS",
    "2024": 12.0,
    "2025": 13.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Lolol"
   },
   {
@@ -2734,7 +2750,7 @@
    "delito": "INCIVILIDADES",
    "2024": 7.0,
    "2025": 14.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Lolol"
   },
   {
@@ -2779,7 +2795,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 2.0,
    "2025": 7.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Lolol"
   },
   {
@@ -2833,7 +2849,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 49.0,
    "2025": 36.0,
-   "2026": 6.0,
+   "2026": 8.0,
    "COMUNA": "Lolol"
   },
   {
@@ -2856,7 +2872,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "O'Higgins"
  }
 }

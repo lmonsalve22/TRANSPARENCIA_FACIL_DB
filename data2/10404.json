@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10404,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 4.0,
-   "variacion": -33.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Palena"
   },
@@ -48,9 +48,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10404,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 2.0,
-   "variacion": -33.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Palena"
   },
@@ -75,7 +75,7 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10404,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -1109,6 +1109,14 @@
    "COMUNA": "Palena"
   },
   {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 10404,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Palena"
+  },
+  {
    "delito": "LESIONES LEVES",
    "CODCOM": 10404,
    "anio": 2025,
@@ -1693,6 +1701,14 @@
    "COMUNA": "Palena"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 10404,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Palena"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 10404,
    "anio": 2025,
@@ -1797,6 +1813,14 @@
    "COMUNA": "Palena"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 10404,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Palena"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 10404,
    "anio": 2025,
@@ -1901,6 +1925,14 @@
    "COMUNA": "Palena"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 10404,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Palena"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 10404,
    "anio": 2025,
@@ -2001,6 +2033,14 @@
    "CODCOM": 10404,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Palena"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 10404,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Palena"
   },
@@ -2437,7 +2477,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "Los Lagos"
  }
 }

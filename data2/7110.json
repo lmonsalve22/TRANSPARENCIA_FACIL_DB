@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7110,
    "2025": 13.0,
-   "2026": 8.0,
-   "variacion": -38.0,
+   "2026": 9.0,
+   "variacion": -31.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rafael"
   },
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7110,
    "2025": 1.0,
-   "2026": 8.0,
-   "variacion": 700.0,
+   "2026": 9.0,
+   "variacion": 800.0,
    "situación": "Aumento de Casos",
    "COMUNA": "San Rafael"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7110,
-   "2025": 26.0,
-   "2026": 9.0,
-   "variacion": -65.0,
+   "2025": 29.0,
+   "2026": 10.0,
+   "variacion": -66.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rafael"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7110,
-   "2025": 22.0,
-   "2026": 19.0,
-   "variacion": -14.0,
+   "2025": 25.0,
+   "2026": 20.0,
+   "variacion": -20.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rafael"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7110,
-   "2025": 14.0,
-   "2026": 5.0,
-   "variacion": -64.0,
+   "2025": 16.0,
+   "2026": 6.0,
+   "variacion": -62.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rafael"
   },
@@ -85,9 +85,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 7110,
    "2025": 4.0,
-   "2026": 3.0,
-   "variacion": -25.0,
-   "situación": "Disminución de Casos",
+   "2026": 4.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "San Rafael"
   },
   {
@@ -112,9 +112,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 7110,
    "2025": 2.0,
-   "2026": 1.0,
-   "variacion": -50.0,
-   "situación": "Disminución de Casos",
+   "2026": 2.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "San Rafael"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7110,
-   "2025": 9.0,
-   "2026": 10.0,
-   "variacion": 11.0,
+   "2025": 11.0,
+   "2026": 12.0,
+   "variacion": 9.0,
    "situación": "Aumento de Casos",
    "COMUNA": "San Rafael"
   },
@@ -428,7 +428,7 @@
    "CODCOM": 7110,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "San Rafael"
   },
   {
@@ -548,7 +548,7 @@
    "CODCOM": 7110,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "San Rafael"
   },
   {
@@ -668,7 +668,7 @@
    "CODCOM": 7110,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "San Rafael"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 7110,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "San Rafael"
   },
   {
@@ -1028,7 +1028,7 @@
    "CODCOM": 7110,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "San Rafael"
   },
   {
@@ -1388,7 +1388,7 @@
    "CODCOM": 7110,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "San Rafael"
   },
   {
@@ -1748,7 +1748,7 @@
    "CODCOM": 7110,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "San Rafael"
   },
   {
@@ -1852,6 +1852,14 @@
    "CODCOM": 7110,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "San Rafael"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 7110,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "San Rafael"
   },
@@ -2452,7 +2460,7 @@
    "CODCOM": 7110,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "San Rafael"
   },
   {
@@ -2712,7 +2720,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 74.0,
    "2025": 69.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "San Rafael"
   },
   {
@@ -2721,7 +2729,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 17.0,
    "2025": 13.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "San Rafael"
   },
   {
@@ -2730,7 +2738,7 @@
    "delito": "DAÑOS",
    "2024": 105.0,
    "2025": 122.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "San Rafael"
   },
   {
@@ -2739,7 +2747,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 71.0,
    "2025": 74.0,
-   "2026": 19.0,
+   "2026": 20.0,
    "COMUNA": "San Rafael"
   },
   {
@@ -2757,7 +2765,7 @@
    "delito": "HURTOS",
    "2024": 45.0,
    "2025": 43.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "San Rafael"
   },
   {
@@ -2784,7 +2792,7 @@
    "delito": "LESIONES LEVES",
    "2024": 17.0,
    "2025": 20.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "San Rafael"
   },
   {
@@ -2811,7 +2819,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 7.0,
    "2025": 3.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "San Rafael"
   },
   {
@@ -2865,7 +2873,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 82.0,
    "2025": 49.0,
-   "2026": 10.0,
+   "2026": 12.0,
    "COMUNA": "San Rafael"
   },
   {
@@ -2888,7 +2896,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "Maule"
  }
 }

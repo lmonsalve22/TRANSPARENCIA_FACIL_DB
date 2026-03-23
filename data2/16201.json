@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16201,
-   "2025": 14.0,
+   "2025": 16.0,
    "2026": 13.0,
-   "variacion": -7.0,
+   "variacion": -19.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quirihue"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 16201,
    "2025": 20.0,
-   "2026": 6.0,
-   "variacion": -70.0,
+   "2026": 10.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quirihue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16201,
-   "2025": 11.0,
-   "2026": 12.0,
-   "variacion": 9.0,
+   "2025": 13.0,
+   "2026": 15.0,
+   "variacion": 15.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Quirihue"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16201,
-   "2025": 10.0,
-   "2026": 5.0,
-   "variacion": -50.0,
+   "2025": 11.0,
+   "2026": 6.0,
+   "variacion": -45.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quirihue"
   },
@@ -112,9 +112,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 16201,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 1.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Quirihue"
   },
   {
@@ -184,9 +184,9 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 16201,
    "2025": 2.0,
-   "2026": 1.0,
-   "variacion": -50.0,
-   "situación": "Disminución de Casos",
+   "2026": 2.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Quirihue"
   }
  ],
@@ -668,7 +668,7 @@
    "CODCOM": 16201,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 4.0,
    "COMUNA": "Quirihue"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 16201,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 3.0,
    "COMUNA": "Quirihue"
   },
   {
@@ -892,6 +892,14 @@
    "CODCOM": 16201,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Quirihue"
   },
@@ -1012,7 +1020,7 @@
    "CODCOM": 16201,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Quirihue"
   },
   {
@@ -1732,7 +1740,7 @@
    "CODCOM": 16201,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Quirihue"
   },
   {
@@ -2676,7 +2684,7 @@
    "CODCOM": 16201,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Quirihue"
   }
  ],
@@ -2714,7 +2722,7 @@
    "delito": "DAÑOS",
    "2024": 95.0,
    "2025": 71.0,
-   "2026": 6.0,
+   "2026": 10.0,
    "COMUNA": "Quirihue"
   },
   {
@@ -2723,7 +2731,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 67.0,
    "2025": 56.0,
-   "2026": 12.0,
+   "2026": 15.0,
    "COMUNA": "Quirihue"
   },
   {
@@ -2741,7 +2749,7 @@
    "delito": "HURTOS",
    "2024": 41.0,
    "2025": 34.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Quirihue"
   },
   {
@@ -2795,7 +2803,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 1.0,
    "2025": 3.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Quirihue"
   },
   {
@@ -2867,12 +2875,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 11.0,
    "2025": 5.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Quirihue"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "Ñuble"
  }
 }

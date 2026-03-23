@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16204,
-   "2025": 11.0,
+   "2025": 12.0,
    "2026": 6.0,
-   "variacion": -45.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ninhue"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16204,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 13.0,
-   "variacion": 160.0,
+   "variacion": 117.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Ninhue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16204,
-   "2025": 7.0,
-   "2026": 9.0,
-   "variacion": 29.0,
+   "2025": 8.0,
+   "2026": 10.0,
+   "variacion": 25.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Ninhue"
   },
@@ -49,8 +49,8 @@
    "delito": "HURTOS",
    "CODCOM": 16204,
    "2025": 7.0,
-   "2026": 5.0,
-   "variacion": -29.0,
+   "2026": 6.0,
+   "variacion": -14.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ninhue"
   },
@@ -156,9 +156,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16204,
-   "2025": 7.0,
+   "2025": 8.0,
    "2026": 2.0,
-   "variacion": -71.0,
+   "variacion": -75.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ninhue"
   },
@@ -770,7 +770,7 @@
    "CODCOM": 16204,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -890,7 +890,7 @@
    "CODCOM": 16204,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -1114,6 +1114,14 @@
    "CODCOM": 16204,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Ninhue"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 16204,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Ninhue"
   },
@@ -2369,7 +2377,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 54.0,
    "2025": 45.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -2387,7 +2395,7 @@
    "delito": "HURTOS",
    "2024": 12.0,
    "2025": 22.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -2518,7 +2526,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "Ñuble"
  }
 }

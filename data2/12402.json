@@ -109,6 +109,15 @@
    "COMUNA": "Torres del Paine"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 12402,
+   "2025": 0.0,
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Torres del Paine"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 12402,
    "2025": 0.0,
@@ -121,9 +130,9 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 12402,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Torres del Paine"
   },
   {
@@ -242,6 +251,14 @@
    "COMUNA": "Torres del Paine"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 12402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Torres del Paine"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 12402,
    "anio": 2025,
@@ -462,6 +479,14 @@
    "CODCOM": 12402,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Torres del Paine"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 12402,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Torres del Paine"
   },
@@ -930,6 +955,14 @@
    "COMUNA": "Torres del Paine"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 12402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Torres del Paine"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 12402,
    "anio": 2025,
@@ -1030,6 +1063,14 @@
    "CODCOM": 12402,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Torres del Paine"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 12402,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Torres del Paine"
   },
@@ -1362,6 +1403,14 @@
    "COMUNA": "Torres del Paine"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 12402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Torres del Paine"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 12402,
    "anio": 2025,
@@ -1466,6 +1515,14 @@
    "COMUNA": "Torres del Paine"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 12402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Torres del Paine"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 12402,
    "anio": 2025,
@@ -1570,6 +1627,14 @@
    "COMUNA": "Torres del Paine"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 12402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Torres del Paine"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 12402,
    "anio": 2025,
@@ -1671,6 +1736,14 @@
    "anio": 2026,
    "mes": 1,
    "casos": 0.0,
+   "COMUNA": "Torres del Paine"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 12402,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 1.0,
    "COMUNA": "Torres del Paine"
   },
   {
@@ -1927,7 +2000,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 0.0,
    "2025": 0.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Torres del Paine"
   },
   {
@@ -1963,7 +2036,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 2.0,
    "2025": 0.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Torres del Paine"
   },
   {
@@ -1986,7 +2059,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "Magallanes"
  }
 }

@@ -12,35 +12,35 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10304,
-   "2025": 22.0,
-   "2026": 18.0,
-   "variacion": -18.0,
+   "2025": 25.0,
+   "2026": 21.0,
+   "variacion": -16.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Puyehue"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10304,
-   "2025": 30.0,
+   "2025": 37.0,
    "2026": 21.0,
-   "variacion": -30.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Puyehue"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10304,
-   "2025": 21.0,
+   "2025": 23.0,
    "2026": 17.0,
-   "variacion": -19.0,
+   "variacion": -26.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Puyehue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10304,
-   "2025": 23.0,
-   "2026": 27.0,
+   "2025": 24.0,
+   "2026": 28.0,
    "variacion": 17.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Puyehue"
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 10304,
    "2025": 20.0,
-   "2026": 13.0,
-   "variacion": -35.0,
+   "2026": 15.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Puyehue"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 10304,
    "2025": 8.0,
-   "2026": 5.0,
-   "variacion": -38.0,
+   "2026": 6.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Puyehue"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10304,
-   "2025": 10.0,
-   "2026": 3.0,
-   "variacion": -70.0,
+   "2025": 11.0,
+   "2026": 5.0,
+   "variacion": -55.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Puyehue"
   },
@@ -102,8 +102,8 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10304,
-   "2025": 9.0,
-   "2026": 9.0,
+   "2025": 10.0,
+   "2026": 10.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Puyehue"
@@ -428,7 +428,7 @@
    "CODCOM": 10304,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 3.0,
    "COMUNA": "Puyehue"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 10304,
    "anio": 2026,
    "mes": 3,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Puyehue"
   },
   {
@@ -1028,7 +1028,7 @@
    "CODCOM": 10304,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Puyehue"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 10304,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Puyehue"
   },
   {
@@ -1388,7 +1388,7 @@
    "CODCOM": 10304,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Puyehue"
   },
   {
@@ -1628,7 +1628,7 @@
    "CODCOM": 10304,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Puyehue"
   },
   {
@@ -1852,6 +1852,14 @@
    "CODCOM": 10304,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Puyehue"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 10304,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Puyehue"
   },
@@ -2560,6 +2568,14 @@
    "COMUNA": "Puyehue"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 10304,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Puyehue"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10304,
    "anio": 2025,
@@ -2696,7 +2712,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 81.0,
    "2025": 95.0,
-   "2026": 18.0,
+   "2026": 21.0,
    "COMUNA": "Puyehue"
   },
   {
@@ -2723,7 +2739,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 131.0,
    "2025": 95.0,
-   "2026": 27.0,
+   "2026": 28.0,
    "COMUNA": "Puyehue"
   },
   {
@@ -2741,7 +2757,7 @@
    "delito": "HURTOS",
    "2024": 59.0,
    "2025": 63.0,
-   "2026": 13.0,
+   "2026": 15.0,
    "COMUNA": "Puyehue"
   },
   {
@@ -2750,7 +2766,7 @@
    "delito": "INCIVILIDADES",
    "2024": 37.0,
    "2025": 26.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Puyehue"
   },
   {
@@ -2768,7 +2784,7 @@
    "delito": "LESIONES LEVES",
    "2024": 35.0,
    "2025": 29.0,
-   "2026": 3.0,
+   "2026": 5.0,
    "COMUNA": "Puyehue"
   },
   {
@@ -2786,7 +2802,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 17.0,
    "2025": 26.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Puyehue"
   },
   {
@@ -2872,7 +2888,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "Los Lagos"
  }
 }

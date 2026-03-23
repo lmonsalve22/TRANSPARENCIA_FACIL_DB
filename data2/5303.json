@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5303,
-   "2025": 22.0,
-   "2026": 24.0,
-   "variacion": 9.0,
+   "2025": 24.0,
+   "2026": 25.0,
+   "variacion": 4.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Rinconada"
   },
@@ -30,19 +30,19 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 5303,
-   "2025": 18.0,
-   "2026": 19.0,
-   "variacion": 6.0,
+   "2025": 20.0,
+   "2026": 23.0,
+   "variacion": 15.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Rinconada"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5303,
-   "2025": 16.0,
-   "2026": 16.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 18.0,
+   "2026": 17.0,
+   "variacion": -6.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Rinconada"
   },
   {
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5303,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 12.0,
-   "variacion": 500.0,
+   "variacion": 300.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Rinconada"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5303,
-   "2025": 5.0,
+   "2025": 7.0,
    "2026": 2.0,
-   "variacion": -60.0,
+   "variacion": -71.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Rinconada"
   },
@@ -103,9 +103,9 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5303,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 1.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Rinconada"
   },
   {
@@ -138,7 +138,7 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 5303,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5303,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 4.0,
-   "variacion": -33.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Rinconada"
   },
@@ -157,17 +157,17 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5303,
    "2025": 6.0,
-   "2026": 4.0,
-   "variacion": -33.0,
+   "2026": 5.0,
+   "variacion": -17.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Rinconada"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5303,
-   "2025": 17.0,
-   "2026": 13.0,
-   "variacion": -24.0,
+   "2025": 19.0,
+   "2026": 14.0,
+   "variacion": -26.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Rinconada"
   },
@@ -428,7 +428,7 @@
    "CODCOM": 5303,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Rinconada"
   },
   {
@@ -668,7 +668,7 @@
    "CODCOM": 5303,
    "anio": 2026,
    "mes": 3,
-   "casos": 4.0,
+   "casos": 8.0,
    "COMUNA": "Rinconada"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 5303,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Rinconada"
   },
   {
@@ -892,6 +892,14 @@
    "CODCOM": 5303,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Rinconada"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 5303,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Rinconada"
   },
@@ -1612,7 +1620,7 @@
    "CODCOM": 5303,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Rinconada"
   },
   {
@@ -1836,6 +1844,14 @@
    "CODCOM": 5303,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Rinconada"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 5303,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Rinconada"
   },
@@ -2316,7 +2332,7 @@
    "CODCOM": 5303,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Rinconada"
   },
   {
@@ -2436,7 +2452,7 @@
    "CODCOM": 5303,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Rinconada"
   },
   {
@@ -2696,7 +2712,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 117.0,
    "2025": 94.0,
-   "2026": 24.0,
+   "2026": 25.0,
    "COMUNA": "Rinconada"
   },
   {
@@ -2714,7 +2730,7 @@
    "delito": "DAÑOS",
    "2024": 96.0,
    "2025": 103.0,
-   "2026": 19.0,
+   "2026": 23.0,
    "COMUNA": "Rinconada"
   },
   {
@@ -2723,7 +2739,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 81.0,
    "2025": 72.0,
-   "2026": 16.0,
+   "2026": 17.0,
    "COMUNA": "Rinconada"
   },
   {
@@ -2786,7 +2802,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 7.0,
    "2025": 11.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Rinconada"
   },
   {
@@ -2840,7 +2856,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 24.0,
    "2025": 27.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Rinconada"
   },
   {
@@ -2849,7 +2865,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 89.0,
    "2025": 114.0,
-   "2026": 13.0,
+   "2026": 14.0,
    "COMUNA": "Rinconada"
   },
   {
@@ -2872,7 +2888,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "Valparaíso"
  }
 }

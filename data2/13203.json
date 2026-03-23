@@ -12,27 +12,27 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13203,
-   "2025": 56.0,
-   "2026": 33.0,
-   "variacion": -41.0,
+   "2025": 60.0,
+   "2026": 38.0,
+   "variacion": -37.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San José de Maipo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13203,
-   "2025": 10.0,
+   "2025": 11.0,
    "2026": 14.0,
-   "variacion": 40.0,
+   "variacion": 27.0,
    "situación": "Aumento de Casos",
    "COMUNA": "San José de Maipo"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 13203,
-   "2025": 49.0,
-   "2026": 32.0,
-   "variacion": -35.0,
+   "2025": 50.0,
+   "2026": 34.0,
+   "variacion": -32.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San José de Maipo"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13203,
-   "2025": 19.0,
-   "2026": 10.0,
-   "variacion": -47.0,
+   "2025": 20.0,
+   "2026": 11.0,
+   "variacion": -45.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San José de Maipo"
   },
@@ -76,17 +76,17 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 13203,
    "2025": 4.0,
-   "2026": 2.0,
-   "variacion": -50.0,
+   "2026": 3.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San José de Maipo"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 13203,
-   "2025": 24.0,
+   "2025": 26.0,
    "2026": 13.0,
-   "variacion": -46.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San José de Maipo"
   },
@@ -102,19 +102,19 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 13203,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 3.0,
-   "variacion": 200.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "San José de Maipo"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 13203,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 2.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "San José de Maipo"
   },
   {
@@ -138,9 +138,9 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 13203,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 2.0,
-   "variacion": -33.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San José de Maipo"
   },
@@ -148,26 +148,26 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 13203,
    "2025": 7.0,
-   "2026": 11.0,
-   "variacion": 57.0,
+   "2026": 12.0,
+   "variacion": 71.0,
    "situación": "Aumento de Casos",
    "COMUNA": "San José de Maipo"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 13203,
-   "2025": 23.0,
-   "2026": 20.0,
-   "variacion": -13.0,
+   "2025": 25.0,
+   "2026": 21.0,
+   "variacion": -16.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San José de Maipo"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13203,
-   "2025": 28.0,
+   "2025": 29.0,
    "2026": 17.0,
-   "variacion": -39.0,
+   "variacion": -41.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San José de Maipo"
   },
@@ -428,7 +428,7 @@
    "CODCOM": 13203,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 7.0,
    "COMUNA": "San José de Maipo"
   },
   {
@@ -668,7 +668,7 @@
    "CODCOM": 13203,
    "anio": 2026,
    "mes": 3,
-   "casos": 4.0,
+   "casos": 6.0,
    "COMUNA": "San José de Maipo"
   },
   {
@@ -1028,7 +1028,7 @@
    "CODCOM": 13203,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "San José de Maipo"
   },
   {
@@ -1268,7 +1268,7 @@
    "CODCOM": 13203,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "San José de Maipo"
   },
   {
@@ -1856,6 +1856,14 @@
    "COMUNA": "San José de Maipo"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 13203,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "San José de Maipo"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 13203,
    "anio": 2025,
@@ -2212,7 +2220,7 @@
    "CODCOM": 13203,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "San José de Maipo"
   },
   {
@@ -2332,7 +2340,7 @@
    "CODCOM": 13203,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "San José de Maipo"
   },
   {
@@ -2712,7 +2720,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 276.0,
    "2025": 218.0,
-   "2026": 33.0,
+   "2026": 38.0,
    "COMUNA": "San José de Maipo"
   },
   {
@@ -2730,7 +2738,7 @@
    "delito": "DAÑOS",
    "2024": 211.0,
    "2025": 191.0,
-   "2026": 32.0,
+   "2026": 34.0,
    "COMUNA": "San José de Maipo"
   },
   {
@@ -2757,7 +2765,7 @@
    "delito": "HURTOS",
    "2024": 98.0,
    "2025": 64.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "San José de Maipo"
   },
   {
@@ -2775,7 +2783,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 14.0,
    "2025": 9.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "San José de Maipo"
   },
   {
@@ -2847,7 +2855,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 18.0,
    "2025": 23.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "San José de Maipo"
   },
   {
@@ -2856,7 +2864,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 153.0,
    "2025": 92.0,
-   "2026": 20.0,
+   "2026": 21.0,
    "COMUNA": "San José de Maipo"
   },
   {
@@ -2888,7 +2896,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "Metropolitana"
  }
 }

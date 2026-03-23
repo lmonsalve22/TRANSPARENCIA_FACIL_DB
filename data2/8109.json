@@ -12,28 +12,28 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8109,
-   "2025": 23.0,
-   "2026": 23.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 25.0,
+   "2026": 29.0,
+   "variacion": 16.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Santa Juana"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8109,
-   "2025": 23.0,
+   "2025": 26.0,
    "2026": 15.0,
-   "variacion": -35.0,
+   "variacion": -42.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Juana"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 8109,
-   "2025": 17.0,
+   "2025": 19.0,
    "2026": 18.0,
-   "variacion": 6.0,
-   "situación": "Aumento de Casos",
+   "variacion": -5.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Santa Juana"
   },
   {
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8109,
-   "2025": 10.0,
+   "2025": 12.0,
    "2026": 6.0,
-   "variacion": -40.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Juana"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8109,
-   "2025": 16.0,
-   "2026": 4.0,
-   "variacion": -75.0,
+   "2025": 18.0,
+   "2026": 6.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Juana"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 8109,
    "2025": 0.0,
-   "2026": 1.0,
-   "variacion": 100.0,
+   "2026": 2.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa Juana"
   },
@@ -129,10 +129,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8109,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Santa Juana"
   },
   {
@@ -147,10 +147,10 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8109,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Santa Juana"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8109,
-   "2025": 14.0,
-   "2026": 22.0,
-   "variacion": 57.0,
+   "2025": 17.0,
+   "2026": 24.0,
+   "variacion": 41.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa Juana"
   },
@@ -184,9 +184,9 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8109,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 3.0,
+   "variacion": 200.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Santa Juana"
   }
  ],
@@ -428,7 +428,7 @@
    "CODCOM": 8109,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 7.0,
    "COMUNA": "Santa Juana"
   },
   {
@@ -1388,7 +1388,7 @@
    "CODCOM": 8109,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Santa Juana"
   },
   {
@@ -1748,7 +1748,7 @@
    "CODCOM": 8109,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Santa Juana"
   },
   {
@@ -1852,6 +1852,14 @@
    "CODCOM": 8109,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Santa Juana"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8109,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Santa Juana"
   },
@@ -2452,7 +2460,7 @@
    "CODCOM": 8109,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Santa Juana"
   },
   {
@@ -2692,7 +2700,7 @@
    "CODCOM": 8109,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Santa Juana"
   }
  ],
@@ -2712,7 +2720,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 127.0,
    "2025": 122.0,
-   "2026": 23.0,
+   "2026": 29.0,
    "COMUNA": "Santa Juana"
   },
   {
@@ -2784,7 +2792,7 @@
    "delito": "LESIONES LEVES",
    "2024": 36.0,
    "2025": 53.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Santa Juana"
   },
   {
@@ -2811,7 +2819,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 3.0,
    "2025": 10.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Santa Juana"
   },
   {
@@ -2865,7 +2873,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 101.0,
    "2025": 94.0,
-   "2026": 22.0,
+   "2026": 24.0,
    "COMUNA": "Santa Juana"
   },
   {
@@ -2883,12 +2891,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 11.0,
    "2025": 16.0,
-   "2026": 1.0,
+   "2026": 3.0,
    "COMUNA": "Santa Juana"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "Biobío"
  }
 }

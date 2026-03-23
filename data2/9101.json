@@ -3,44 +3,44 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 9101,
-   "2025": 10.0,
-   "2026": 9.0,
-   "variacion": -10.0,
+   "2025": 13.0,
+   "2026": 10.0,
+   "variacion": -23.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Temuco"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9101,
-   "2025": 367.0,
-   "2026": 337.0,
-   "variacion": -8.0,
+   "2025": 412.0,
+   "2026": 376.0,
+   "variacion": -9.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Temuco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9101,
-   "2025": 904.0,
-   "2026": 724.0,
-   "variacion": -20.0,
+   "2025": 975.0,
+   "2026": 796.0,
+   "variacion": -18.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Temuco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9101,
-   "2025": 307.0,
-   "2026": 310.0,
-   "variacion": 1.0,
-   "situación": "Aumento de Casos",
+   "2025": 354.0,
+   "2026": 348.0,
+   "variacion": -2.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Temuco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9101,
-   "2025": 530.0,
-   "2026": 465.0,
+   "2025": 585.0,
+   "2026": 512.0,
    "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Temuco"
@@ -57,23 +57,41 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9101,
-   "2025": 505.0,
-   "2026": 399.0,
-   "variacion": -21.0,
+   "2025": 564.0,
+   "2026": 451.0,
+   "variacion": -20.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Temuco"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9101,
-   "2025": 76.0,
-   "2026": 82.0,
-   "variacion": 8.0,
+   "2025": 80.0,
+   "2026": 90.0,
+   "variacion": 12.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Temuco"
   },
   {
    "delito": "LESIONES GRAVES",
+   "CODCOM": 9101,
+   "2025": 23.0,
+   "2026": 24.0,
+   "variacion": 4.0,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Temuco"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9101,
+   "2025": 166.0,
+   "2026": 140.0,
+   "variacion": -16.0,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Temuco"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9101,
    "2025": 22.0,
    "2026": 22.0,
@@ -82,38 +100,20 @@
    "COMUNA": "Temuco"
   },
   {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 9101,
-   "2025": 145.0,
-   "2026": 126.0,
-   "variacion": -13.0,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Temuco"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 9101,
-   "2025": 21.0,
-   "2026": 19.0,
-   "variacion": -10.0,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Temuco"
-  },
-  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9101,
-   "2025": 61.0,
-   "2026": 56.0,
-   "variacion": -8.0,
+   "2025": 73.0,
+   "2026": 60.0,
+   "variacion": -18.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Temuco"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9101,
-   "2025": 71.0,
-   "2026": 62.0,
-   "variacion": -13.0,
+   "2025": 83.0,
+   "2026": 69.0,
+   "variacion": -17.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Temuco"
   },
@@ -129,17 +129,17 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 9101,
-   "2025": 36.0,
-   "2026": 26.0,
-   "variacion": -28.0,
+   "2025": 37.0,
+   "2026": 27.0,
+   "variacion": -27.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Temuco"
   },
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9101,
-   "2025": 24.0,
-   "2026": 23.0,
+   "2025": 27.0,
+   "2026": 26.0,
    "variacion": -4.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Temuco"
@@ -147,46 +147,46 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9101,
-   "2025": 101.0,
-   "2026": 66.0,
-   "variacion": -35.0,
+   "2025": 117.0,
+   "2026": 75.0,
+   "variacion": -36.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Temuco"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9101,
-   "2025": 292.0,
-   "2026": 205.0,
-   "variacion": -30.0,
+   "2025": 332.0,
+   "2026": 222.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Temuco"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9101,
-   "2025": 239.0,
-   "2026": 210.0,
-   "variacion": -12.0,
+   "2025": 265.0,
+   "2026": 237.0,
+   "variacion": -11.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Temuco"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9101,
-   "2025": 57.0,
-   "2026": 33.0,
-   "variacion": -42.0,
+   "2025": 60.0,
+   "2026": 34.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Temuco"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9101,
-   "2025": 26.0,
-   "2026": 24.0,
-   "variacion": -8.0,
-   "situación": "Disminución de Casos",
+   "2025": 28.0,
+   "2026": 31.0,
+   "variacion": 11.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Temuco"
   }
  ],
@@ -308,7 +308,7 @@
    "CODCOM": 9101,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Temuco"
   },
   {
@@ -428,7 +428,7 @@
    "CODCOM": 9101,
    "anio": 2026,
    "mes": 3,
-   "casos": 25.0,
+   "casos": 64.0,
    "COMUNA": "Temuco"
   },
   {
@@ -548,7 +548,7 @@
    "CODCOM": 9101,
    "anio": 2026,
    "mes": 3,
-   "casos": 93.0,
+   "casos": 165.0,
    "COMUNA": "Temuco"
   },
   {
@@ -668,7 +668,7 @@
    "CODCOM": 9101,
    "anio": 2026,
    "mes": 3,
-   "casos": 38.0,
+   "casos": 76.0,
    "COMUNA": "Temuco"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 9101,
    "anio": 2026,
    "mes": 3,
-   "casos": 59.0,
+   "casos": 106.0,
    "COMUNA": "Temuco"
   },
   {
@@ -1028,7 +1028,7 @@
    "CODCOM": 9101,
    "anio": 2026,
    "mes": 3,
-   "casos": 45.0,
+   "casos": 97.0,
    "COMUNA": "Temuco"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 9101,
    "anio": 2026,
    "mes": 3,
-   "casos": 13.0,
+   "casos": 21.0,
    "COMUNA": "Temuco"
   },
   {
@@ -1268,7 +1268,7 @@
    "CODCOM": 9101,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Temuco"
   },
   {
@@ -1388,7 +1388,7 @@
    "CODCOM": 9101,
    "anio": 2026,
    "mes": 3,
-   "casos": 15.0,
+   "casos": 29.0,
    "COMUNA": "Temuco"
   },
   {
@@ -1508,7 +1508,7 @@
    "CODCOM": 9101,
    "anio": 2026,
    "mes": 3,
-   "casos": 4.0,
+   "casos": 7.0,
    "COMUNA": "Temuco"
   },
   {
@@ -1628,7 +1628,7 @@
    "CODCOM": 9101,
    "anio": 2026,
    "mes": 3,
-   "casos": 13.0,
+   "casos": 17.0,
    "COMUNA": "Temuco"
   },
   {
@@ -1748,7 +1748,7 @@
    "CODCOM": 9101,
    "anio": 2026,
    "mes": 3,
-   "casos": 12.0,
+   "casos": 19.0,
    "COMUNA": "Temuco"
   },
   {
@@ -1988,7 +1988,7 @@
    "CODCOM": 9101,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2108,7 +2108,7 @@
    "CODCOM": 9101,
    "anio": 2026,
    "mes": 3,
-   "casos": 3.0,
+   "casos": 6.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2228,7 +2228,7 @@
    "CODCOM": 9101,
    "anio": 2026,
    "mes": 3,
-   "casos": 10.0,
+   "casos": 19.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2348,7 +2348,7 @@
    "CODCOM": 9101,
    "anio": 2026,
    "mes": 3,
-   "casos": 18.0,
+   "casos": 35.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2468,7 +2468,7 @@
    "CODCOM": 9101,
    "anio": 2026,
    "mes": 3,
-   "casos": 25.0,
+   "casos": 52.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2588,7 +2588,7 @@
    "CODCOM": 9101,
    "anio": 2026,
    "mes": 3,
-   "casos": 5.0,
+   "casos": 6.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2708,7 +2708,7 @@
    "CODCOM": 9101,
    "anio": 2026,
    "mes": 3,
-   "casos": 4.0,
+   "casos": 11.0,
    "COMUNA": "Temuco"
   }
  ],
@@ -2719,7 +2719,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 54.0,
    "2025": 68.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2728,7 +2728,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 1957.0,
    "2025": 1917.0,
-   "2026": 337.0,
+   "2026": 376.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2737,7 +2737,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 4688.0,
    "2025": 4189.0,
-   "2026": 724.0,
+   "2026": 796.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2746,7 +2746,7 @@
    "delito": "DAÑOS",
    "2024": 1941.0,
    "2025": 1863.0,
-   "2026": 310.0,
+   "2026": 348.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2755,7 +2755,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 2386.0,
    "2025": 2457.0,
-   "2026": 465.0,
+   "2026": 512.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2773,7 +2773,7 @@
    "delito": "HURTOS",
    "2024": 3190.0,
    "2025": 2633.0,
-   "2026": 399.0,
+   "2026": 451.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2782,7 +2782,7 @@
    "delito": "INCIVILIDADES",
    "2024": 437.0,
    "2025": 467.0,
-   "2026": 82.0,
+   "2026": 90.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2791,7 +2791,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 103.0,
    "2025": 85.0,
-   "2026": 22.0,
+   "2026": 24.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2800,7 +2800,7 @@
    "delito": "LESIONES LEVES",
    "2024": 968.0,
    "2025": 905.0,
-   "2026": 126.0,
+   "2026": 140.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2809,7 +2809,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 95.0,
    "2025": 115.0,
-   "2026": 19.0,
+   "2026": 22.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2818,7 +2818,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 255.0,
    "2025": 444.0,
-   "2026": 56.0,
+   "2026": 60.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2827,7 +2827,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 263.0,
    "2025": 361.0,
-   "2026": 62.0,
+   "2026": 69.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2845,7 +2845,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 122.0,
    "2025": 100.0,
-   "2026": 26.0,
+   "2026": 27.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2854,7 +2854,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 134.0,
    "2025": 138.0,
-   "2026": 23.0,
+   "2026": 26.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2863,7 +2863,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 583.0,
    "2025": 526.0,
-   "2026": 66.0,
+   "2026": 75.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2872,7 +2872,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 1449.0,
    "2025": 1292.0,
-   "2026": 205.0,
+   "2026": 222.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2881,7 +2881,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 1519.0,
    "2025": 1239.0,
-   "2026": 210.0,
+   "2026": 237.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2890,7 +2890,7 @@
    "delito": "ROBOS POR SORPRESA",
    "2024": 281.0,
    "2025": 217.0,
-   "2026": 33.0,
+   "2026": 34.0,
    "COMUNA": "Temuco"
   },
   {
@@ -2899,12 +2899,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 237.0,
    "2025": 210.0,
-   "2026": 24.0,
+   "2026": 31.0,
    "COMUNA": "Temuco"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "La Araucanía"
  }
 }

@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8314,
    "2025": 17.0,
-   "2026": 49.0,
-   "variacion": 188.0,
+   "2026": 59.0,
+   "variacion": 247.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Alto Biobío"
   },
@@ -39,10 +39,10 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8314,
-   "2025": 9.0,
-   "2026": 9.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 14.0,
+   "2026": 12.0,
+   "variacion": -14.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Alto Biobío"
   },
   {
@@ -58,9 +58,9 @@
    "delito": "HURTOS",
    "CODCOM": 8314,
    "2025": 5.0,
-   "2026": 5.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 6.0,
+   "variacion": 20.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Alto Biobío"
   },
   {
@@ -548,7 +548,7 @@
    "CODCOM": 8314,
    "anio": 2026,
    "mes": 3,
-   "casos": 4.0,
+   "casos": 14.0,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 8314,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 3.0,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -892,6 +892,14 @@
    "CODCOM": 8314,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 8314,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Alto Biobío"
   },
@@ -1012,7 +1020,7 @@
    "CODCOM": 8314,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -1720,6 +1728,14 @@
    "COMUNA": "Alto Biobío"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8314,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 8314,
    "anio": 2025,
@@ -1824,6 +1840,14 @@
    "COMUNA": "Alto Biobío"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8314,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8314,
    "anio": 2025,
@@ -1924,6 +1948,14 @@
    "CODCOM": 8314,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8314,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Alto Biobío"
   },
@@ -2148,6 +2180,14 @@
    "CODCOM": 8314,
    "anio": 2026,
    "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 8314,
+   "anio": 2026,
+   "mes": 3,
    "casos": 0.0,
    "COMUNA": "Alto Biobío"
   },
@@ -2657,7 +2697,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 95.0,
    "2025": 135.0,
-   "2026": 49.0,
+   "2026": 59.0,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -2675,7 +2715,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 59.0,
    "2025": 58.0,
-   "2026": 9.0,
+   "2026": 12.0,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -2693,7 +2733,7 @@
    "delito": "HURTOS",
    "2024": 15.0,
    "2025": 21.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -2824,7 +2864,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 10/2026 (del 02/03/2026 al 08/03/2026)",
+  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
   "region": "Biobío"
  }
 }
