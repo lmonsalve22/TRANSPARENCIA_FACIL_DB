@@ -12,10 +12,10 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6206,
-   "2025": 11.0,
+   "2025": 13.0,
    "2026": 13.0,
-   "variacion": 18.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Paredones"
   },
   {
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6206,
-   "2025": 14.0,
+   "2025": 17.0,
    "2026": 13.0,
-   "variacion": -7.0,
+   "variacion": -24.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Paredones"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6206,
-   "2025": 15.0,
+   "2025": 16.0,
    "2026": 10.0,
-   "variacion": -33.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Paredones"
   },
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6206,
-   "2025": 2.0,
+   "2025": 5.0,
    "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -60.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Paredones"
   },
   {
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6206,
-   "2025": 10.0,
+   "2025": 11.0,
    "2026": 10.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -9.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Paredones"
   },
   {
@@ -2888,7 +2888,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
+  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
   "region": "O'Higgins"
  }
 }

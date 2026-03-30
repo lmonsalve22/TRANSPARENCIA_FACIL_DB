@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16105,
-   "2025": 18.0,
+   "2025": 21.0,
    "2026": 15.0,
-   "variacion": -17.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pemuco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16105,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 8.0,
-   "variacion": 33.0,
+   "variacion": 14.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pemuco"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 16105,
    "2025": 18.0,
-   "2026": 17.0,
-   "variacion": -6.0,
-   "situación": "Disminución de Casos",
+   "2026": 21.0,
+   "variacion": 17.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Pemuco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16105,
-   "2025": 15.0,
+   "2025": 17.0,
    "2026": 9.0,
-   "variacion": -40.0,
+   "variacion": -47.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pemuco"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 16105,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 2.0,
-   "variacion": -33.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pemuco"
   },
@@ -129,10 +129,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16105,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 4.0,
-   "variacion": 33.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Pemuco"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16105,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 8.0,
-   "variacion": 33.0,
+   "variacion": 14.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pemuco"
   },
@@ -660,7 +660,7 @@
    "CODCOM": 16105,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 5.0,
    "COMUNA": "Pemuco"
   },
   {
@@ -2706,7 +2706,7 @@
    "delito": "DAÑOS",
    "2024": 59.0,
    "2025": 64.0,
-   "2026": 17.0,
+   "2026": 21.0,
    "COMUNA": "Pemuco"
   },
   {
@@ -2864,7 +2864,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
+  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
   "region": "Ñuble"
  }
 }

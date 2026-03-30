@@ -4,8 +4,8 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 6309,
    "2025": 0.0,
-   "2026": 1.0,
-   "variacion": 100.0,
+   "2026": 2.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pumanque"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6309,
-   "2025": 4.0,
-   "2026": 7.0,
-   "variacion": 75.0,
+   "2025": 5.0,
+   "2026": 8.0,
+   "variacion": 60.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pumanque"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6309,
-   "2025": 5.0,
+   "2025": 7.0,
    "2026": 11.0,
-   "variacion": 120.0,
+   "variacion": 57.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pumanque"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6309,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 2.0,
-   "variacion": 200.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pumanque"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 6309,
    "2025": 3.0,
-   "2026": 4.0,
-   "variacion": 33.0,
+   "2026": 6.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pumanque"
   },
@@ -299,7 +299,7 @@
    "CODCOM": 6309,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Pumanque"
   },
   {
@@ -659,7 +659,7 @@
    "CODCOM": 6309,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Pumanque"
   },
   {
@@ -1131,7 +1131,7 @@
    "CODCOM": 6309,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Pumanque"
   },
   {
@@ -2542,7 +2542,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 2.0,
    "2025": 0.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Pumanque"
   },
   {
@@ -2569,7 +2569,7 @@
    "delito": "DAÑOS",
    "2024": 35.0,
    "2025": 32.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Pumanque"
   },
   {
@@ -2605,7 +2605,7 @@
    "delito": "INCIVILIDADES",
    "2024": 5.0,
    "2025": 11.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Pumanque"
   },
   {
@@ -2727,7 +2727,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
+  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
   "region": "O'Higgins"
  }
 }

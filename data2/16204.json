@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16204,
    "2025": 12.0,
-   "2026": 6.0,
-   "variacion": -50.0,
+   "2026": 8.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ninhue"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16204,
-   "2025": 6.0,
+   "2025": 8.0,
    "2026": 13.0,
-   "variacion": 117.0,
+   "variacion": 62.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Ninhue"
   },
@@ -93,7 +93,7 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 16204,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -156,9 +156,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16204,
-   "2025": 8.0,
+   "2025": 9.0,
    "2026": 2.0,
-   "variacion": -75.0,
+   "variacion": -78.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ninhue"
   },
@@ -410,7 +410,7 @@
    "CODCOM": 16204,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -2350,7 +2350,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 50.0,
    "2025": 43.0,
-   "2026": 6.0,
+   "2026": 8.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -2526,7 +2526,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
+  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
   "region": "Ñuble"
  }
 }

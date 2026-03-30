@@ -58,9 +58,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 15102,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Camarones"
   },
   {
@@ -93,7 +93,7 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 15102,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -166,9 +166,9 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 15102,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 1.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Camarones"
   }
  ],
@@ -1010,7 +1010,7 @@
    "CODCOM": 15102,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Camarones"
   },
   {
@@ -2426,7 +2426,7 @@
    "CODCOM": 15102,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Camarones"
   }
  ],
@@ -2500,7 +2500,7 @@
    "delito": "INCIVILIDADES",
    "2024": 1.0,
    "2025": 4.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Camarones"
   },
   {
@@ -2617,12 +2617,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 1.0,
    "2025": 3.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Camarones"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
+  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
   "region": "Arica y Parinacota"
  }
 }

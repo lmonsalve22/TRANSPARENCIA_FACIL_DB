@@ -3,45 +3,45 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 10105,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Frutillar"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10105,
-   "2025": 38.0,
-   "2026": 47.0,
-   "variacion": 24.0,
+   "2025": 45.0,
+   "2026": 49.0,
+   "variacion": 9.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Frutillar"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10105,
-   "2025": 29.0,
-   "2026": 53.0,
-   "variacion": 83.0,
+   "2025": 37.0,
+   "2026": 57.0,
+   "variacion": 54.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Frutillar"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10105,
-   "2025": 43.0,
-   "2026": 41.0,
-   "variacion": -5.0,
+   "2025": 46.0,
+   "2026": 43.0,
+   "variacion": -7.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Frutillar"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10105,
-   "2025": 51.0,
-   "2026": 38.0,
-   "variacion": -25.0,
+   "2025": 53.0,
+   "2026": 41.0,
+   "variacion": -23.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Frutillar"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10105,
-   "2025": 27.0,
-   "2026": 19.0,
-   "variacion": -30.0,
+   "2025": 29.0,
+   "2026": 23.0,
+   "variacion": -21.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Frutillar"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10105,
-   "2025": 21.0,
-   "2026": 16.0,
-   "variacion": -24.0,
+   "2025": 24.0,
+   "2026": 18.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Frutillar"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10105,
-   "2025": 4.0,
-   "2026": 5.0,
-   "variacion": 25.0,
+   "2025": 5.0,
+   "2026": 7.0,
+   "variacion": 40.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Frutillar"
   },
@@ -174,7 +174,7 @@
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 10105,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10105,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 4.0,
-   "variacion": -33.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Frutillar"
   }
@@ -428,7 +428,7 @@
    "CODCOM": 10105,
    "anio": 2026,
    "mes": 3,
-   "casos": 6.0,
+   "casos": 8.0,
    "COMUNA": "Frutillar"
   },
   {
@@ -548,7 +548,7 @@
    "CODCOM": 10105,
    "anio": 2026,
    "mes": 3,
-   "casos": 6.0,
+   "casos": 10.0,
    "COMUNA": "Frutillar"
   },
   {
@@ -668,7 +668,7 @@
    "CODCOM": 10105,
    "anio": 2026,
    "mes": 3,
-   "casos": 4.0,
+   "casos": 6.0,
    "COMUNA": "Frutillar"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 10105,
    "anio": 2026,
    "mes": 3,
-   "casos": 7.0,
+   "casos": 10.0,
    "COMUNA": "Frutillar"
   },
   {
@@ -1028,7 +1028,7 @@
    "CODCOM": 10105,
    "anio": 2026,
    "mes": 3,
-   "casos": 5.0,
+   "casos": 9.0,
    "COMUNA": "Frutillar"
   },
   {
@@ -1388,7 +1388,7 @@
    "CODCOM": 10105,
    "anio": 2026,
    "mes": 3,
-   "casos": 3.0,
+   "casos": 5.0,
    "COMUNA": "Frutillar"
   },
   {
@@ -1628,7 +1628,7 @@
    "CODCOM": 10105,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Frutillar"
   },
   {
@@ -2728,7 +2728,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 217.0,
    "2025": 217.0,
-   "2026": 47.0,
+   "2026": 49.0,
    "COMUNA": "Frutillar"
   },
   {
@@ -2737,7 +2737,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 210.0,
    "2025": 219.0,
-   "2026": 53.0,
+   "2026": 57.0,
    "COMUNA": "Frutillar"
   },
   {
@@ -2746,7 +2746,7 @@
    "delito": "DAÑOS",
    "2024": 172.0,
    "2025": 175.0,
-   "2026": 41.0,
+   "2026": 43.0,
    "COMUNA": "Frutillar"
   },
   {
@@ -2755,7 +2755,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 201.0,
    "2025": 203.0,
-   "2026": 38.0,
+   "2026": 41.0,
    "COMUNA": "Frutillar"
   },
   {
@@ -2773,7 +2773,7 @@
    "delito": "HURTOS",
    "2024": 104.0,
    "2025": 105.0,
-   "2026": 19.0,
+   "2026": 23.0,
    "COMUNA": "Frutillar"
   },
   {
@@ -2800,7 +2800,7 @@
    "delito": "LESIONES LEVES",
    "2024": 61.0,
    "2025": 101.0,
-   "2026": 16.0,
+   "2026": 18.0,
    "COMUNA": "Frutillar"
   },
   {
@@ -2818,7 +2818,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 29.0,
    "2025": 25.0,
-   "2026": 5.0,
+   "2026": 7.0,
    "COMUNA": "Frutillar"
   },
   {
@@ -2904,7 +2904,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
+  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
   "region": "Los Lagos"
  }
 }

@@ -4,16 +4,16 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 7103,
    "2025": 0.0,
-   "2026": 1.0,
-   "variacion": 100.0,
+   "2026": 2.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Curepto"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7103,
-   "2025": 14.0,
-   "2026": 14.0,
+   "2025": 16.0,
+   "2026": 16.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Curepto"
@@ -21,18 +21,18 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7103,
-   "2025": 3.0,
+   "2025": 7.0,
    "2026": 21.0,
-   "variacion": 600.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Curepto"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7103,
-   "2025": 14.0,
+   "2025": 17.0,
    "2026": 10.0,
-   "variacion": -29.0,
+   "variacion": -41.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curepto"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7103,
    "2025": 8.0,
-   "2026": 12.0,
-   "variacion": 50.0,
+   "2026": 13.0,
+   "variacion": 62.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Curepto"
   },
@@ -57,19 +57,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7103,
-   "2025": 7.0,
+   "2025": 8.0,
    "2026": 4.0,
-   "variacion": -43.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curepto"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 7103,
-   "2025": 1.0,
+   "2025": 3.0,
    "2026": 3.0,
-   "variacion": 200.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Curepto"
   },
   {
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 7103,
    "2025": 4.0,
-   "2026": 7.0,
-   "variacion": 75.0,
+   "2026": 8.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Curepto"
   },
@@ -299,7 +299,7 @@
    "CODCOM": 7103,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Curepto"
   },
   {
@@ -419,7 +419,7 @@
    "CODCOM": 7103,
    "anio": 2026,
    "mes": 3,
-   "casos": 4.0,
+   "casos": 6.0,
    "COMUNA": "Curepto"
   },
   {
@@ -779,7 +779,7 @@
    "CODCOM": 7103,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Curepto"
   },
   {
@@ -1371,7 +1371,7 @@
    "CODCOM": 7103,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Curepto"
   },
   {
@@ -2558,7 +2558,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 7.0,
    "2025": 0.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Curepto"
   },
   {
@@ -2567,7 +2567,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 47.0,
    "2025": 51.0,
-   "2026": 14.0,
+   "2026": 16.0,
    "COMUNA": "Curepto"
   },
   {
@@ -2594,7 +2594,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 51.0,
    "2025": 33.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "Curepto"
   },
   {
@@ -2639,7 +2639,7 @@
    "delito": "LESIONES LEVES",
    "2024": 15.0,
    "2025": 19.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Curepto"
   },
   {
@@ -2743,7 +2743,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
+  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
   "region": "Maule"
  }
 }

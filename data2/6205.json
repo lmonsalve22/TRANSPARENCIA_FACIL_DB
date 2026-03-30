@@ -12,10 +12,10 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6205,
-   "2025": 19.0,
-   "2026": 19.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 22.0,
+   "2026": 21.0,
+   "variacion": -5.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Navidad"
   },
   {
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6205,
-   "2025": 22.0,
+   "2025": 24.0,
    "2026": 9.0,
-   "variacion": -59.0,
+   "variacion": -62.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Navidad"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6205,
-   "2025": 23.0,
-   "2026": 8.0,
-   "variacion": -65.0,
+   "2025": 28.0,
+   "2026": 9.0,
+   "variacion": -68.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Navidad"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6205,
-   "2025": 9.0,
+   "2025": 11.0,
    "2026": 12.0,
-   "variacion": 33.0,
+   "variacion": 9.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Navidad"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 6205,
    "2025": 17.0,
-   "2026": 5.0,
-   "variacion": -71.0,
+   "2026": 6.0,
+   "variacion": -65.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Navidad"
   },
@@ -139,9 +139,9 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 6205,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Navidad"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6205,
-   "2025": 7.0,
+   "2025": 9.0,
    "2026": 4.0,
-   "variacion": -43.0,
+   "variacion": -56.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Navidad"
   },
@@ -428,7 +428,7 @@
    "CODCOM": 6205,
    "anio": 2026,
    "mes": 3,
-   "casos": 5.0,
+   "casos": 7.0,
    "COMUNA": "Navidad"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 6205,
    "anio": 2026,
    "mes": 3,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Navidad"
   },
   {
@@ -1380,7 +1380,7 @@
    "CODCOM": 6205,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Navidad"
   },
   {
@@ -2084,7 +2084,7 @@
    "CODCOM": 6205,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Navidad"
   },
   {
@@ -2696,7 +2696,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 102.0,
    "2025": 76.0,
-   "2026": 19.0,
+   "2026": 21.0,
    "COMUNA": "Navidad"
   },
   {
@@ -2723,7 +2723,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 64.0,
    "2025": 82.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Navidad"
   },
   {
@@ -2768,7 +2768,7 @@
    "delito": "LESIONES LEVES",
    "2024": 40.0,
    "2025": 42.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Navidad"
   },
   {
@@ -2822,7 +2822,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 1.0,
    "2025": 0.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Navidad"
   },
   {
@@ -2872,7 +2872,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
+  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
   "region": "O'Higgins"
  }
 }

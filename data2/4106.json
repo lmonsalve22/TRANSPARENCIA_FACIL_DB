@@ -3,17 +3,17 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 4106,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 5.0,
-   "variacion": 500.0,
+   "variacion": 400.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Vicuña"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4106,
-   "2025": 46.0,
-   "2026": 26.0,
+   "2025": 51.0,
+   "2026": 29.0,
    "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Vicuña"
@@ -21,28 +21,28 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 4106,
-   "2025": 219.0,
-   "2026": 346.0,
-   "variacion": 58.0,
+   "2025": 228.0,
+   "2026": 370.0,
+   "variacion": 62.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Vicuña"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 4106,
-   "2025": 30.0,
+   "2025": 40.0,
    "2026": 40.0,
-   "variacion": 33.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Vicuña"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 4106,
-   "2025": 49.0,
-   "2026": 53.0,
-   "variacion": 8.0,
-   "situación": "Aumento de Casos",
+   "2025": 57.0,
+   "2026": 56.0,
+   "variacion": -2.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Vicuña"
   },
   {
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4106,
-   "2025": 31.0,
-   "2026": 25.0,
-   "variacion": -19.0,
+   "2025": 35.0,
+   "2026": 26.0,
+   "variacion": -26.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Vicuña"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 4106,
-   "2025": 81.0,
-   "2026": 94.0,
-   "variacion": 16.0,
+   "2025": 86.0,
+   "2026": 95.0,
+   "variacion": 10.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Vicuña"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 4106,
-   "2025": 26.0,
-   "2026": 19.0,
-   "variacion": -27.0,
+   "2025": 29.0,
+   "2026": 22.0,
+   "variacion": -24.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Vicuña"
   },
@@ -102,18 +102,18 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 4106,
-   "2025": 10.0,
+   "2025": 12.0,
    "2026": 10.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -17.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Vicuña"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 4106,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 5.0,
-   "variacion": 150.0,
+   "variacion": 67.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Vicuña"
   },
@@ -138,7 +138,7 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 4106,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 4106,
-   "2025": 36.0,
-   "2026": 26.0,
-   "variacion": -28.0,
+   "2025": 39.0,
+   "2026": 29.0,
+   "variacion": -26.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Vicuña"
   },
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 4106,
-   "2025": 6.0,
-   "2026": 7.0,
-   "variacion": 17.0,
-   "situación": "Aumento de Casos",
+   "2025": 8.0,
+   "2026": 8.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Vicuña"
   }
  ],
@@ -428,7 +428,7 @@
    "CODCOM": 4106,
    "anio": 2026,
    "mes": 3,
-   "casos": 6.0,
+   "casos": 9.0,
    "COMUNA": "Vicuña"
   },
   {
@@ -548,7 +548,7 @@
    "CODCOM": 4106,
    "anio": 2026,
    "mes": 3,
-   "casos": 60.0,
+   "casos": 84.0,
    "COMUNA": "Vicuña"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 4106,
    "anio": 2026,
    "mes": 3,
-   "casos": 4.0,
+   "casos": 7.0,
    "COMUNA": "Vicuña"
   },
   {
@@ -1028,7 +1028,7 @@
    "CODCOM": 4106,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Vicuña"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 4106,
    "anio": 2026,
    "mes": 3,
-   "casos": 10.0,
+   "casos": 11.0,
    "COMUNA": "Vicuña"
   },
   {
@@ -1388,7 +1388,7 @@
    "CODCOM": 4106,
    "anio": 2026,
    "mes": 3,
-   "casos": 6.0,
+   "casos": 9.0,
    "COMUNA": "Vicuña"
   },
   {
@@ -2468,7 +2468,7 @@
    "CODCOM": 4106,
    "anio": 2026,
    "mes": 3,
-   "casos": 5.0,
+   "casos": 8.0,
    "COMUNA": "Vicuña"
   },
   {
@@ -2708,7 +2708,7 @@
    "CODCOM": 4106,
    "anio": 2026,
    "mes": 3,
-   "casos": 4.0,
+   "casos": 5.0,
    "COMUNA": "Vicuña"
   }
  ],
@@ -2728,7 +2728,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 244.0,
    "2025": 226.0,
-   "2026": 26.0,
+   "2026": 29.0,
    "COMUNA": "Vicuña"
   },
   {
@@ -2737,7 +2737,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 810.0,
    "2025": 1003.0,
-   "2026": 346.0,
+   "2026": 370.0,
    "COMUNA": "Vicuña"
   },
   {
@@ -2755,7 +2755,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 239.0,
    "2025": 217.0,
-   "2026": 53.0,
+   "2026": 56.0,
    "COMUNA": "Vicuña"
   },
   {
@@ -2773,7 +2773,7 @@
    "delito": "HURTOS",
    "2024": 169.0,
    "2025": 127.0,
-   "2026": 25.0,
+   "2026": 26.0,
    "COMUNA": "Vicuña"
   },
   {
@@ -2782,7 +2782,7 @@
    "delito": "INCIVILIDADES",
    "2024": 216.0,
    "2025": 230.0,
-   "2026": 94.0,
+   "2026": 95.0,
    "COMUNA": "Vicuña"
   },
   {
@@ -2800,7 +2800,7 @@
    "delito": "LESIONES LEVES",
    "2024": 104.0,
    "2025": 117.0,
-   "2026": 19.0,
+   "2026": 22.0,
    "COMUNA": "Vicuña"
   },
   {
@@ -2881,7 +2881,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 179.0,
    "2025": 138.0,
-   "2026": 26.0,
+   "2026": 29.0,
    "COMUNA": "Vicuña"
   },
   {
@@ -2899,12 +2899,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 29.0,
    "2025": 34.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Vicuña"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
+  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
   "region": "Coquimbo"
  }
 }

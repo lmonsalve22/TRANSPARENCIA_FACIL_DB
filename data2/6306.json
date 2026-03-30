@@ -12,35 +12,35 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6306,
-   "2025": 14.0,
+   "2025": 17.0,
    "2026": 17.0,
-   "variacion": 21.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Palmilla"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6306,
    "2025": 8.0,
-   "2026": 38.0,
-   "variacion": 375.0,
+   "2026": 46.0,
+   "variacion": 475.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Palmilla"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6306,
-   "2025": 11.0,
-   "2026": 21.0,
-   "variacion": 91.0,
+   "2025": 12.0,
+   "2026": 23.0,
+   "variacion": 92.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Palmilla"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6306,
-   "2025": 25.0,
-   "2026": 22.0,
+   "2025": 26.0,
+   "2026": 23.0,
    "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Palmilla"
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6306,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 11.0,
-   "variacion": 1000.0,
+   "variacion": 450.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Palmilla"
   },
@@ -111,10 +111,10 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6306,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Palmilla"
   },
   {
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6306,
-   "2025": 3.0,
-   "2026": 2.0,
-   "variacion": -33.0,
+   "2025": 4.0,
+   "2026": 3.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Palmilla"
   }
@@ -548,7 +548,7 @@
    "CODCOM": 6306,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 9.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -668,7 +668,7 @@
    "CODCOM": 6306,
    "anio": 2026,
    "mes": 3,
-   "casos": 4.0,
+   "casos": 6.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 6306,
    "anio": 2026,
    "mes": 3,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -2692,7 +2692,7 @@
    "CODCOM": 6306,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Palmilla"
   }
  ],
@@ -2721,7 +2721,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 66.0,
    "2025": 69.0,
-   "2026": 38.0,
+   "2026": 46.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -2730,7 +2730,7 @@
    "delito": "DAÑOS",
    "2024": 98.0,
    "2025": 69.0,
-   "2026": 21.0,
+   "2026": 23.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -2739,7 +2739,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 83.0,
    "2025": 94.0,
-   "2026": 22.0,
+   "2026": 23.0,
    "COMUNA": "Palmilla"
   },
   {
@@ -2883,12 +2883,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 11.0,
    "2025": 10.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Palmilla"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
+  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
   "region": "O'Higgins"
  }
 }

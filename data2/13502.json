@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13502,
-   "2025": 12.0,
-   "2026": 16.0,
-   "variacion": 33.0,
+   "2025": 14.0,
+   "2026": 18.0,
+   "variacion": 29.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Alhué"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 13502,
-   "2025": 11.0,
+   "2025": 12.0,
    "2026": 9.0,
-   "variacion": -18.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Alhué"
   },
@@ -40,9 +40,9 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13502,
    "2025": 22.0,
-   "2026": 21.0,
-   "variacion": -5.0,
-   "situación": "Disminución de Casos",
+   "2026": 25.0,
+   "variacion": 14.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Alhué"
   },
   {
@@ -75,9 +75,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 13502,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 14.0,
-   "variacion": 133.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Alhué"
   },
@@ -156,9 +156,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13502,
-   "2025": 6.0,
-   "2026": 1.0,
-   "variacion": -83.0,
+   "2025": 8.0,
+   "2026": 3.0,
+   "variacion": -62.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Alhué"
   },
@@ -411,7 +411,7 @@
    "CODCOM": 13502,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Alhué"
   },
   {
@@ -771,7 +771,7 @@
    "CODCOM": 13502,
    "anio": 2026,
    "mes": 3,
-   "casos": 3.0,
+   "casos": 7.0,
    "COMUNA": "Alhué"
   },
   {
@@ -2323,7 +2323,7 @@
    "CODCOM": 13502,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Alhué"
   },
   {
@@ -2583,7 +2583,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 68.0,
    "2025": 58.0,
-   "2026": 16.0,
+   "2026": 18.0,
    "COMUNA": "Alhué"
   },
   {
@@ -2610,7 +2610,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 87.0,
    "2025": 61.0,
-   "2026": 21.0,
+   "2026": 25.0,
    "COMUNA": "Alhué"
   },
   {
@@ -2736,7 +2736,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 43.0,
    "2025": 40.0,
-   "2026": 1.0,
+   "2026": 3.0,
    "COMUNA": "Alhué"
   },
   {
@@ -2759,7 +2759,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
+  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
   "region": "Metropolitana"
  }
 }

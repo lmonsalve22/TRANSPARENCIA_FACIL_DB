@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11203,
    "2025": 2.0,
-   "2026": 25.0,
-   "variacion": 1150.0,
+   "2026": 29.0,
+   "variacion": 1350.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Guaitecas"
   },
@@ -39,10 +39,10 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11203,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 4.0,
-   "variacion": 33.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Guaitecas"
   },
   {
@@ -58,9 +58,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 11203,
    "2025": 4.0,
-   "2026": 3.0,
-   "variacion": -25.0,
-   "situación": "Disminución de Casos",
+   "2026": 5.0,
+   "variacion": 25.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Guaitecas"
   },
   {
@@ -522,7 +522,7 @@
    "CODCOM": 11203,
    "anio": 2026,
    "mes": 3,
-   "casos": 5.0,
+   "casos": 9.0,
    "COMUNA": "Guaitecas"
   },
   {
@@ -1002,7 +1002,7 @@
    "CODCOM": 11203,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Guaitecas"
   },
   {
@@ -2415,7 +2415,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 123.0,
    "2025": 47.0,
-   "2026": 25.0,
+   "2026": 29.0,
    "COMUNA": "Guaitecas"
   },
   {
@@ -2460,7 +2460,7 @@
    "delito": "INCIVILIDADES",
    "2024": 15.0,
    "2025": 23.0,
-   "2026": 3.0,
+   "2026": 5.0,
    "COMUNA": "Guaitecas"
   },
   {
@@ -2582,7 +2582,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
+  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
   "region": "Aysén"
  }
 }

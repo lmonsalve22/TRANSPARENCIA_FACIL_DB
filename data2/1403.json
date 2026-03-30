@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 1403,
-   "2025": 6.0,
-   "2026": 7.0,
-   "variacion": 17.0,
+   "2025": 7.0,
+   "2026": 8.0,
+   "variacion": 14.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 1403,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 30.0,
-   "variacion": 900.0,
+   "variacion": 650.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
@@ -138,9 +138,9 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 1403,
-   "2025": 4.0,
+   "2025": 6.0,
    "2026": 1.0,
-   "variacion": -75.0,
+   "variacion": -83.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Colchane"
   },
@@ -157,9 +157,9 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 1403,
    "2025": 3.0,
-   "2026": 3.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 4.0,
+   "variacion": 33.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
   {
@@ -660,7 +660,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Colchane"
   },
   {
@@ -2324,7 +2324,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Colchane"
   },
   {
@@ -2722,7 +2722,7 @@
    "delito": "DAÑOS",
    "2024": 25.0,
    "2025": 31.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Colchane"
   },
   {
@@ -2848,7 +2848,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 1.0,
    "2025": 6.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Colchane"
   },
   {
@@ -2880,7 +2880,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
+  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
   "region": "Tarapacá"
  }
 }

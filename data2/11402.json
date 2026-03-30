@@ -4,17 +4,17 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 11402,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 1.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Río Ibáñez"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 11402,
    "2025": 7.0,
-   "2026": 4.0,
-   "variacion": -43.0,
+   "2026": 5.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Ibáñez"
   },
@@ -40,17 +40,17 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11402,
    "2025": 7.0,
-   "2026": 4.0,
-   "variacion": -43.0,
+   "2026": 5.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Ibáñez"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 11402,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 2.0,
-   "variacion": -33.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Ibáñez"
   },
@@ -76,9 +76,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 11402,
    "2025": 2.0,
-   "2026": 1.0,
-   "variacion": -50.0,
-   "situación": "Disminución de Casos",
+   "2026": 2.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Río Ibáñez"
   },
   {
@@ -290,7 +290,7 @@
    "CODCOM": 11402,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Río Ibáñez"
   },
   {
@@ -410,7 +410,7 @@
    "CODCOM": 11402,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Río Ibáñez"
   },
   {
@@ -770,7 +770,7 @@
    "CODCOM": 11402,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Río Ibáñez"
   },
   {
@@ -1242,7 +1242,7 @@
    "CODCOM": 11402,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Río Ibáñez"
   },
   {
@@ -2437,7 +2437,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 1.0,
    "2025": 2.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Río Ibáñez"
   },
   {
@@ -2446,7 +2446,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 30.0,
    "2025": 22.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Río Ibáñez"
   },
   {
@@ -2473,7 +2473,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 20.0,
    "2025": 20.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Río Ibáñez"
   },
   {
@@ -2518,7 +2518,7 @@
    "delito": "LESIONES LEVES",
    "2024": 4.0,
    "2025": 8.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Río Ibáñez"
   },
   {
@@ -2622,7 +2622,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 11/2026 (del 09/03/2026 al 15/03/2026)",
+  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
   "region": "Aysén"
  }
 }
