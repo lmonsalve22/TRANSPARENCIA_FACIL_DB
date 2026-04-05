@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8204,
-   "2025": 6.0,
-   "2026": 13.0,
-   "variacion": 117.0,
+   "2025": 7.0,
+   "2026": 14.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Contulmo"
   },
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8204,
    "2025": 9.0,
-   "2026": 10.0,
-   "variacion": 11.0,
+   "2026": 12.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Contulmo"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 8204,
-   "2025": 8.0,
-   "2026": 11.0,
-   "variacion": 38.0,
+   "2025": 9.0,
+   "2026": 12.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Contulmo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8204,
-   "2025": 10.0,
+   "2025": 11.0,
    "2026": 9.0,
-   "variacion": -10.0,
+   "variacion": -18.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Contulmo"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8204,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 9.0,
-   "variacion": 125.0,
+   "variacion": 80.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Contulmo"
   },
@@ -94,8 +94,8 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8204,
    "2025": 0.0,
-   "2026": 1.0,
-   "variacion": 100.0,
+   "2026": 2.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Contulmo"
   },
@@ -103,9 +103,9 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 8204,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 1.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Contulmo"
   },
   {
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8204,
    "2025": 0.0,
-   "2026": 3.0,
-   "variacion": 300.0,
+   "2026": 4.0,
+   "variacion": 400.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Contulmo"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8204,
    "2025": 2.0,
-   "2026": 7.0,
-   "variacion": 250.0,
+   "2026": 8.0,
+   "variacion": 300.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Contulmo"
   },
@@ -420,7 +420,7 @@
    "CODCOM": 8204,
    "anio": 2026,
    "mes": 3,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -537,6 +537,126 @@
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 8204,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 7.0,
+   "COMUNA": "Contulmo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8204,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3.0,
+   "COMUNA": "Contulmo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8204,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3.0,
+   "COMUNA": "Contulmo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8204,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4.0,
+   "COMUNA": "Contulmo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8204,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2.0,
+   "COMUNA": "Contulmo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8204,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Contulmo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8204,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Contulmo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8204,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3.0,
+   "COMUNA": "Contulmo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8204,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3.0,
+   "COMUNA": "Contulmo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8204,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2.0,
+   "COMUNA": "Contulmo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8204,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2.0,
+   "COMUNA": "Contulmo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8204,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 2.0,
+   "COMUNA": "Contulmo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8204,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1.0,
+   "COMUNA": "Contulmo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8204,
+   "anio": 2026,
+   "mes": 1,
+   "casos": 5.0,
+   "COMUNA": "Contulmo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8204,
+   "anio": 2026,
+   "mes": 2,
+   "casos": 2.0,
+   "COMUNA": "Contulmo"
+  },
+  {
+   "delito": "DAÑOS",
    "CODCOM": 8204,
    "anio": 2026,
    "mes": 3,
@@ -544,126 +664,6 @@
    "COMUNA": "Contulmo"
   },
   {
-   "delito": "DAÑOS",
-   "CODCOM": 8204,
-   "anio": 2025,
-   "mes": 1,
-   "casos": 3.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "DAÑOS",
-   "CODCOM": 8204,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 3.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "DAÑOS",
-   "CODCOM": 8204,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 4.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "DAÑOS",
-   "CODCOM": 8204,
-   "anio": 2025,
-   "mes": 4,
-   "casos": 2.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "DAÑOS",
-   "CODCOM": 8204,
-   "anio": 2025,
-   "mes": 5,
-   "casos": 2.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "DAÑOS",
-   "CODCOM": 8204,
-   "anio": 2025,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "DAÑOS",
-   "CODCOM": 8204,
-   "anio": 2025,
-   "mes": 7,
-   "casos": 3.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "DAÑOS",
-   "CODCOM": 8204,
-   "anio": 2025,
-   "mes": 8,
-   "casos": 3.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "DAÑOS",
-   "CODCOM": 8204,
-   "anio": 2025,
-   "mes": 9,
-   "casos": 2.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "DAÑOS",
-   "CODCOM": 8204,
-   "anio": 2025,
-   "mes": 10,
-   "casos": 2.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "DAÑOS",
-   "CODCOM": 8204,
-   "anio": 2025,
-   "mes": 11,
-   "casos": 2.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "DAÑOS",
-   "CODCOM": 8204,
-   "anio": 2025,
-   "mes": 12,
-   "casos": 1.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "DAÑOS",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 1,
-   "casos": 5.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "DAÑOS",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 2,
-   "casos": 2.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "DAÑOS",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 3,
-   "casos": 4.0,
-   "COMUNA": "Contulmo"
-  },
-  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8204,
    "anio": 2025,
@@ -1484,7 +1484,7 @@
    "CODCOM": 8204,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -1604,7 +1604,7 @@
    "CODCOM": 8204,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -2196,7 +2196,7 @@
    "CODCOM": 8204,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -2436,7 +2436,7 @@
    "CODCOM": 8204,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -2688,7 +2688,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 52.0,
    "2025": 37.0,
-   "2026": 13.0,
+   "2026": 14.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -2697,7 +2697,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 23.0,
    "2025": 24.0,
-   "2026": 10.0,
+   "2026": 12.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -2706,7 +2706,7 @@
    "delito": "DAÑOS",
    "2024": 39.0,
    "2025": 27.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -2769,7 +2769,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 4.0,
    "2025": 2.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -2778,7 +2778,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 36.0,
    "2025": 8.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -2823,7 +2823,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 6.0,
    "2025": 1.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -2841,7 +2841,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 22.0,
    "2025": 15.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -2864,7 +2864,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
+  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
   "region": "Biobío"
  }
 }

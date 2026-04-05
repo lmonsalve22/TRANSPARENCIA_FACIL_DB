@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7203,
-   "2025": 19.0,
-   "2026": 20.0,
+   "2025": 22.0,
+   "2026": 23.0,
    "variacion": 5.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pelluhue"
@@ -21,8 +21,8 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7203,
-   "2025": 77.0,
-   "2026": 39.0,
+   "2025": 82.0,
+   "2026": 42.0,
    "variacion": -49.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pelluhue"
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 7203,
-   "2025": 32.0,
+   "2025": 33.0,
    "2026": 32.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -3.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Pelluhue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7203,
-   "2025": 28.0,
-   "2026": 21.0,
-   "variacion": -25.0,
+   "2025": 29.0,
+   "2026": 24.0,
+   "variacion": -17.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pelluhue"
   },
@@ -58,16 +58,16 @@
    "delito": "HURTOS",
    "CODCOM": 7203,
    "2025": 11.0,
-   "2026": 17.0,
-   "variacion": 55.0,
+   "2026": 18.0,
+   "variacion": 64.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pelluhue"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 7203,
-   "2025": 31.0,
-   "2026": 33.0,
+   "2025": 32.0,
+   "2026": 34.0,
    "variacion": 6.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pelluhue"
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 7203,
-   "2025": 13.0,
+   "2025": 15.0,
    "2026": 14.0,
-   "variacion": 8.0,
-   "situación": "Aumento de Casos",
+   "variacion": -7.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Pelluhue"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7203,
-   "2025": 13.0,
+   "2025": 14.0,
    "2026": 3.0,
-   "variacion": -77.0,
+   "variacion": -79.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pelluhue"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 7203,
    "2025": 2.0,
-   "2026": 6.0,
-   "variacion": 200.0,
+   "2026": 7.0,
+   "variacion": 250.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pelluhue"
   }
@@ -428,7 +428,7 @@
    "CODCOM": 7203,
    "anio": 2026,
    "mes": 3,
-   "casos": 3.0,
+   "casos": 6.0,
    "COMUNA": "Pelluhue"
   },
   {
@@ -548,7 +548,7 @@
    "CODCOM": 7203,
    "anio": 2026,
    "mes": 3,
-   "casos": 5.0,
+   "casos": 8.0,
    "COMUNA": "Pelluhue"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 7203,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 4.0,
    "COMUNA": "Pelluhue"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 7203,
    "anio": 2026,
    "mes": 3,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Pelluhue"
   },
   {
@@ -1140,7 +1140,7 @@
    "CODCOM": 7203,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Pelluhue"
   },
   {
@@ -2700,7 +2700,7 @@
    "CODCOM": 7203,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Pelluhue"
   }
  ],
@@ -2720,7 +2720,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 73.0,
    "2025": 95.0,
-   "2026": 20.0,
+   "2026": 23.0,
    "COMUNA": "Pelluhue"
   },
   {
@@ -2729,7 +2729,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 178.0,
    "2025": 184.0,
-   "2026": 39.0,
+   "2026": 42.0,
    "COMUNA": "Pelluhue"
   },
   {
@@ -2747,7 +2747,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 78.0,
    "2025": 80.0,
-   "2026": 21.0,
+   "2026": 24.0,
    "COMUNA": "Pelluhue"
   },
   {
@@ -2765,7 +2765,7 @@
    "delito": "HURTOS",
    "2024": 48.0,
    "2025": 32.0,
-   "2026": 17.0,
+   "2026": 18.0,
    "COMUNA": "Pelluhue"
   },
   {
@@ -2774,7 +2774,7 @@
    "delito": "INCIVILIDADES",
    "2024": 43.0,
    "2025": 65.0,
-   "2026": 33.0,
+   "2026": 34.0,
    "COMUNA": "Pelluhue"
   },
   {
@@ -2891,12 +2891,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 13.0,
    "2025": 6.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Pelluhue"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
+  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
   "region": "Maule"
  }
 }

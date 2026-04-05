@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5403,
-   "2025": 22.0,
+   "2025": 24.0,
    "2026": 17.0,
-   "variacion": -23.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Papudo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5403,
-   "2025": 63.0,
+   "2025": 64.0,
    "2026": 55.0,
-   "variacion": -13.0,
+   "variacion": -14.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Papudo"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5403,
-   "2025": 17.0,
+   "2025": 19.0,
    "2026": 17.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -11.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Papudo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5403,
-   "2025": 19.0,
+   "2025": 21.0,
    "2026": 11.0,
-   "variacion": -42.0,
+   "variacion": -48.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Papudo"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 5403,
    "2025": 11.0,
-   "2026": 7.0,
-   "variacion": -36.0,
+   "2026": 8.0,
+   "variacion": -27.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Papudo"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5403,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 7.0,
-   "variacion": 75.0,
+   "variacion": 40.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Papudo"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5403,
    "2025": 11.0,
-   "2026": 14.0,
-   "variacion": 27.0,
+   "2026": 15.0,
+   "variacion": 36.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Papudo"
   },
@@ -1140,7 +1140,7 @@
    "CODCOM": 5403,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Papudo"
   },
   {
@@ -2452,7 +2452,7 @@
    "CODCOM": 5403,
    "anio": 2026,
    "mes": 3,
-   "casos": 4.0,
+   "casos": 5.0,
    "COMUNA": "Papudo"
   },
   {
@@ -2766,7 +2766,7 @@
    "delito": "INCIVILIDADES",
    "2024": 36.0,
    "2025": 27.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Papudo"
   },
   {
@@ -2865,7 +2865,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 61.0,
    "2025": 39.0,
-   "2026": 14.0,
+   "2026": 15.0,
    "COMUNA": "Papudo"
   },
   {
@@ -2888,7 +2888,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
+  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
   "region": "Valparaíso"
  }
 }

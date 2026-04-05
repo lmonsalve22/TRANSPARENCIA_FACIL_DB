@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11402,
    "2025": 11.0,
-   "2026": 2.0,
-   "variacion": -82.0,
+   "2026": 3.0,
+   "variacion": -73.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Ibáñez"
   },
@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 11402,
    "2025": 6.0,
-   "2026": 14.0,
-   "variacion": 133.0,
+   "2026": 15.0,
+   "variacion": 150.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Río Ibáñez"
   },
@@ -48,9 +48,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 11402,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 2.0,
-   "variacion": -50.0,
+   "variacion": -60.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Ibáñez"
   },
@@ -102,10 +102,10 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 11402,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Río Ibáñez"
   },
   {
@@ -156,10 +156,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 11402,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Río Ibáñez"
   },
   {
@@ -530,7 +530,7 @@
    "CODCOM": 11402,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Río Ibáñez"
   },
   {
@@ -650,7 +650,7 @@
    "CODCOM": 11402,
    "anio": 2026,
    "mes": 3,
-   "casos": 5.0,
+   "casos": 6.0,
    "COMUNA": "Río Ibáñez"
   },
   {
@@ -2455,7 +2455,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 11.0,
    "2025": 15.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Río Ibáñez"
   },
   {
@@ -2464,7 +2464,7 @@
    "delito": "DAÑOS",
    "2024": 44.0,
    "2025": 28.0,
-   "2026": 14.0,
+   "2026": 15.0,
    "COMUNA": "Río Ibáñez"
   },
   {
@@ -2622,7 +2622,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
+  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
   "region": "Aysén"
  }
 }

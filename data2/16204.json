@@ -22,17 +22,17 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16204,
    "2025": 10.0,
-   "2026": 18.0,
-   "variacion": 80.0,
+   "2026": 19.0,
+   "variacion": 90.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Ninhue"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 16204,
-   "2025": 8.0,
-   "2026": 13.0,
-   "variacion": 62.0,
+   "2025": 9.0,
+   "2026": 14.0,
+   "variacion": 56.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Ninhue"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 16204,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 3.0,
-   "variacion": 50.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Ninhue"
   },
   {
@@ -76,8 +76,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 16204,
    "2025": 1.0,
-   "2026": 2.0,
-   "variacion": 100.0,
+   "2026": 3.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Ninhue"
   },
@@ -156,9 +156,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16204,
-   "2025": 9.0,
+   "2025": 10.0,
    "2026": 2.0,
-   "variacion": -78.0,
+   "variacion": -80.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ninhue"
   },
@@ -530,7 +530,7 @@
    "CODCOM": 16204,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -650,7 +650,7 @@
    "CODCOM": 16204,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -1242,7 +1242,7 @@
    "CODCOM": 16204,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -2359,7 +2359,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 20.0,
    "2025": 30.0,
-   "2026": 18.0,
+   "2026": 19.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -2368,7 +2368,7 @@
    "delito": "DAÑOS",
    "2024": 44.0,
    "2025": 55.0,
-   "2026": 13.0,
+   "2026": 14.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -2422,7 +2422,7 @@
    "delito": "LESIONES LEVES",
    "2024": 9.0,
    "2025": 15.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -2526,7 +2526,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
+  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
   "region": "Ñuble"
  }
 }

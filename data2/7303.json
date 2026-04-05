@@ -3,25 +3,25 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 7303,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Licantén"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7303,
-   "2025": 18.0,
-   "2026": 25.0,
-   "variacion": 39.0,
+   "2025": 20.0,
+   "2026": 26.0,
+   "variacion": 30.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Licantén"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7303,
-   "2025": 58.0,
+   "2025": 59.0,
    "2026": 24.0,
    "variacion": -59.0,
    "situación": "Disminución de Casos",
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 7303,
    "2025": 26.0,
-   "2026": 26.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 27.0,
+   "variacion": 4.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Licantén"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7303,
-   "2025": 13.0,
-   "2026": 29.0,
-   "variacion": 123.0,
+   "2025": 14.0,
+   "2026": 31.0,
+   "variacion": 121.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Licantén"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7303,
-   "2025": 12.0,
+   "2025": 14.0,
    "2026": 20.0,
-   "variacion": 67.0,
+   "variacion": 43.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Licantén"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 7303,
-   "2025": 14.0,
+   "2025": 17.0,
    "2026": 10.0,
-   "variacion": -29.0,
+   "variacion": -41.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Licantén"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7303,
    "2025": 7.0,
-   "2026": 12.0,
-   "variacion": 71.0,
+   "2026": 13.0,
+   "variacion": 86.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Licantén"
   },
@@ -428,7 +428,7 @@
    "CODCOM": 7303,
    "anio": 2026,
    "mes": 3,
-   "casos": 8.0,
+   "casos": 9.0,
    "COMUNA": "Licantén"
   },
   {
@@ -668,7 +668,7 @@
    "CODCOM": 7303,
    "anio": 2026,
    "mes": 3,
-   "casos": 7.0,
+   "casos": 8.0,
    "COMUNA": "Licantén"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 7303,
    "anio": 2026,
    "mes": 3,
-   "casos": 9.0,
+   "casos": 11.0,
    "COMUNA": "Licantén"
   },
   {
@@ -2468,7 +2468,7 @@
    "CODCOM": 7303,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Licantén"
   },
   {
@@ -2720,7 +2720,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 76.0,
    "2025": 71.0,
-   "2026": 25.0,
+   "2026": 26.0,
    "COMUNA": "Licantén"
   },
   {
@@ -2738,7 +2738,7 @@
    "delito": "DAÑOS",
    "2024": 91.0,
    "2025": 110.0,
-   "2026": 26.0,
+   "2026": 27.0,
    "COMUNA": "Licantén"
   },
   {
@@ -2747,7 +2747,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 46.0,
    "2025": 52.0,
-   "2026": 29.0,
+   "2026": 31.0,
    "COMUNA": "Licantén"
   },
   {
@@ -2873,7 +2873,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 47.0,
    "2025": 43.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "Licantén"
   },
   {
@@ -2896,7 +2896,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
+  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
   "region": "Maule"
  }
 }

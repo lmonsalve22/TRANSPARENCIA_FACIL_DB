@@ -13,35 +13,35 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8309,
    "2025": 4.0,
-   "2026": 11.0,
-   "variacion": 175.0,
+   "2026": 12.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Quilleco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8309,
-   "2025": 17.0,
+   "2025": 19.0,
    "2026": 42.0,
-   "variacion": 147.0,
+   "variacion": 121.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Quilleco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 8309,
-   "2025": 12.0,
+   "2025": 15.0,
    "2026": 18.0,
-   "variacion": 50.0,
+   "variacion": 20.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Quilleco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8309,
-   "2025": 21.0,
+   "2025": 22.0,
    "2026": 27.0,
-   "variacion": 29.0,
+   "variacion": 23.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Quilleco"
   },
@@ -129,10 +129,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8309,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 3.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -25.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Quilleco"
   },
   {
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8309,
    "2025": 6.0,
-   "2026": 11.0,
-   "variacion": 83.0,
+   "2026": 12.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Quilleco"
   },
@@ -420,7 +420,7 @@
    "CODCOM": 8309,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Quilleco"
   },
   {
@@ -2436,7 +2436,7 @@
    "CODCOM": 8309,
    "anio": 2026,
    "mes": 3,
-   "casos": 5.0,
+   "casos": 6.0,
    "COMUNA": "Quilleco"
   },
   {
@@ -2688,7 +2688,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 39.0,
    "2025": 35.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "Quilleco"
   },
   {
@@ -2841,7 +2841,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 33.0,
    "2025": 29.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "Quilleco"
   },
   {
@@ -2864,7 +2864,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
+  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
   "region": "Biobío"
  }
 }

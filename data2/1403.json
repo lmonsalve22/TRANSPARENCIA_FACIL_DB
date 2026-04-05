@@ -22,9 +22,9 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 1403,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 3.0,
+   "variacion": 200.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
   {
@@ -40,9 +40,9 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 1403,
    "2025": 4.0,
-   "2026": 3.0,
-   "variacion": -25.0,
-   "situación": "Disminución de Casos",
+   "2026": 4.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Colchane"
   },
   {
@@ -75,18 +75,18 @@
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 1403,
-   "2025": 0.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Colchane"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 1403,
    "2025": 5.0,
-   "2026": 1.0,
-   "variacion": -80.0,
+   "2026": 2.0,
+   "variacion": -60.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Colchane"
   },
@@ -102,18 +102,18 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 1403,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 4.0,
-   "variacion": 100.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 1403,
-   "2025": 2.0,
-   "2026": 8.0,
-   "variacion": 300.0,
+   "2025": 3.0,
+   "2026": 9.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
@@ -157,18 +157,18 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 1403,
    "2025": 3.0,
-   "2026": 4.0,
-   "variacion": 33.0,
+   "2026": 5.0,
+   "variacion": 67.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 1403,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Colchane"
   },
   {
@@ -540,7 +540,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Colchane"
   },
   {
@@ -780,7 +780,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Colchane"
   },
   {
@@ -1380,7 +1380,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Colchane"
   },
   {
@@ -1740,7 +1740,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Colchane"
   },
   {
@@ -2324,7 +2324,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 3,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Colchane"
   },
   {
@@ -2713,7 +2713,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 9.0,
    "2025": 17.0,
-   "2026": 1.0,
+   "2026": 3.0,
    "COMUNA": "Colchane"
   },
   {
@@ -2731,7 +2731,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 10.0,
    "2025": 8.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Colchane"
   },
   {
@@ -2776,7 +2776,7 @@
    "delito": "LESIONES LEVES",
    "2024": 12.0,
    "2025": 11.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Colchane"
   },
   {
@@ -2803,7 +2803,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 38.0,
    "2025": 17.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Colchane"
   },
   {
@@ -2848,7 +2848,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 1.0,
    "2025": 6.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Colchane"
   },
   {
@@ -2880,7 +2880,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
+  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
   "region": "Tarapacá"
  }
 }

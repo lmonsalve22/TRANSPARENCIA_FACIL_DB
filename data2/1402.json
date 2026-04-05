@@ -21,18 +21,18 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 1402,
-   "2025": 4.0,
-   "2026": 1.0,
-   "variacion": -75.0,
-   "situación": "Disminución de Casos",
+   "2025": 6.0,
+   "2026": 16.0,
+   "variacion": 167.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Camiña"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 1402,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 3.0,
-   "variacion": 300.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Camiña"
   },
@@ -48,7 +48,7 @@
   {
    "delito": "HURTOS",
    "CODCOM": 1402,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -58,9 +58,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 1402,
    "2025": 3.0,
-   "2026": 1.0,
-   "variacion": -67.0,
-   "situación": "Disminución de Casos",
+   "2026": 4.0,
+   "variacion": 33.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Camiña"
   },
   {
@@ -523,7 +523,7 @@
    "CODCOM": 1402,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 15.0,
    "COMUNA": "Camiña"
   },
   {
@@ -1003,7 +1003,7 @@
    "CODCOM": 1402,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 3.0,
    "COMUNA": "Camiña"
   },
   {
@@ -2536,7 +2536,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 36.0,
    "2025": 21.0,
-   "2026": 1.0,
+   "2026": 16.0,
    "COMUNA": "Camiña"
   },
   {
@@ -2581,7 +2581,7 @@
    "delito": "INCIVILIDADES",
    "2024": 4.0,
    "2025": 4.0,
-   "2026": 1.0,
+   "2026": 4.0,
    "COMUNA": "Camiña"
   },
   {
@@ -2703,7 +2703,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
+  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
   "region": "Tarapacá"
  }
 }

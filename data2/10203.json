@@ -12,35 +12,35 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10203,
-   "2025": 38.0,
-   "2026": 34.0,
-   "variacion": -11.0,
+   "2025": 42.0,
+   "2026": 36.0,
+   "variacion": -14.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10203,
-   "2025": 24.0,
+   "2025": 28.0,
    "2026": 86.0,
-   "variacion": 258.0,
+   "variacion": 207.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chonchi"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10203,
-   "2025": 19.0,
+   "2025": 22.0,
    "2026": 21.0,
-   "variacion": 11.0,
-   "situación": "Aumento de Casos",
+   "variacion": -5.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10203,
-   "2025": 33.0,
-   "2026": 25.0,
+   "2025": 34.0,
+   "2026": 26.0,
    "variacion": -24.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10203,
-   "2025": 8.0,
+   "2025": 10.0,
    "2026": 6.0,
-   "variacion": -25.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
   },
@@ -84,18 +84,18 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10203,
-   "2025": 7.0,
+   "2025": 8.0,
    "2026": 9.0,
-   "variacion": 29.0,
+   "variacion": 12.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chonchi"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10203,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 2.0,
-   "variacion": -33.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
   },
@@ -121,9 +121,9 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 10203,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Chonchi"
   },
   {
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 10203,
    "2025": 0.0,
-   "2026": 4.0,
-   "variacion": 400.0,
+   "2026": 5.0,
+   "variacion": 500.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chonchi"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10203,
-   "2025": 9.0,
+   "2025": 10.0,
    "2026": 6.0,
-   "variacion": -33.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
   },
@@ -183,8 +183,8 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10203,
-   "2025": 2.0,
-   "2026": 2.0,
+   "2025": 3.0,
+   "2026": 3.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Chonchi"
@@ -428,7 +428,7 @@
    "CODCOM": 10203,
    "anio": 2026,
    "mes": 3,
-   "casos": 10.0,
+   "casos": 12.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 10203,
    "anio": 2026,
    "mes": 3,
-   "casos": 8.0,
+   "casos": 9.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -1852,7 +1852,7 @@
    "CODCOM": 10203,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -2212,7 +2212,7 @@
    "CODCOM": 10203,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -2692,7 +2692,7 @@
    "CODCOM": 10203,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Chonchi"
   }
  ],
@@ -2712,7 +2712,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 133.0,
    "2025": 144.0,
-   "2026": 34.0,
+   "2026": 36.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -2739,7 +2739,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 136.0,
    "2025": 118.0,
-   "2026": 25.0,
+   "2026": 26.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -2820,7 +2820,7 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2024": 0.0,
    "2025": 0.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -2847,7 +2847,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 5.0,
    "2025": 6.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -2883,12 +2883,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 11.0,
    "2025": 11.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Chonchi"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
+  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
   "region": "Los Lagos"
  }
 }

@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9206,
-   "2025": 20.0,
-   "2026": 12.0,
-   "variacion": -40.0,
+   "2025": 21.0,
+   "2026": 14.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Sauces"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9206,
    "2025": 21.0,
-   "2026": 8.0,
-   "variacion": -62.0,
+   "2026": 9.0,
+   "variacion": -57.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Sauces"
   },
@@ -66,10 +66,10 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9206,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 3.0,
-   "variacion": 50.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Los Sauces"
   },
   {
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 9206,
    "2025": 4.0,
-   "2026": 7.0,
-   "variacion": 75.0,
+   "2026": 8.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Los Sauces"
   },
@@ -94,9 +94,9 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9206,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Los Sauces"
   },
   {
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9206,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 1.0,
-   "variacion": -83.0,
+   "variacion": -86.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Sauces"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9206,
-   "2025": 10.0,
+   "2025": 11.0,
    "2026": 3.0,
-   "variacion": -70.0,
+   "variacion": -73.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Sauces"
   },
@@ -428,7 +428,7 @@
    "CODCOM": 9206,
    "anio": 2026,
    "mes": 3,
-   "casos": 4.0,
+   "casos": 6.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 9206,
    "anio": 2026,
    "mes": 3,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -1372,7 +1372,7 @@
    "CODCOM": 9206,
    "anio": 2026,
    "mes": 3,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -1492,7 +1492,7 @@
    "CODCOM": 9206,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -2704,7 +2704,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 51.0,
    "2025": 46.0,
-   "2026": 12.0,
+   "2026": 14.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -2731,7 +2731,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 58.0,
    "2025": 47.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -2776,7 +2776,7 @@
    "delito": "LESIONES LEVES",
    "2024": 29.0,
    "2025": 29.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -2785,7 +2785,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 3.0,
    "2025": 4.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -2880,7 +2880,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
+  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
   "region": "La Araucanía"
  }
 }

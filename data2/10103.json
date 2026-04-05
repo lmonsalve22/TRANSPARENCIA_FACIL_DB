@@ -13,9 +13,9 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10103,
    "2025": 9.0,
-   "2026": 8.0,
-   "variacion": -11.0,
-   "situación": "Disminución de Casos",
+   "2026": 9.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cochamó"
   },
   {
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 10103,
-   "2025": 10.0,
+   "2025": 11.0,
    "2026": 17.0,
-   "variacion": 70.0,
+   "variacion": 55.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochamó"
   },
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10103,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 3.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -25.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Cochamó"
   },
   {
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 10103,
    "2025": 0.0,
-   "2026": 2.0,
-   "variacion": 200.0,
+   "2026": 3.0,
+   "variacion": 300.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochamó"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10103,
    "2025": 0.0,
-   "2026": 3.0,
-   "variacion": 300.0,
+   "2026": 4.0,
+   "variacion": 400.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochamó"
   },
@@ -428,7 +428,7 @@
    "CODCOM": 10103,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Cochamó"
   },
   {
@@ -1740,7 +1740,7 @@
    "CODCOM": 10103,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Cochamó"
   },
   {
@@ -2460,7 +2460,7 @@
    "CODCOM": 10103,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Cochamó"
   },
   {
@@ -2712,7 +2712,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 38.0,
    "2025": 37.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Cochamó"
   },
   {
@@ -2811,7 +2811,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 1.0,
    "2025": 0.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Cochamó"
   },
   {
@@ -2865,7 +2865,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 5.0,
    "2025": 8.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Cochamó"
   },
   {
@@ -2888,7 +2888,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
+  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
   "region": "Los Lagos"
  }
 }

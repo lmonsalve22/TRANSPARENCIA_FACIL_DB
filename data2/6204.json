@@ -21,9 +21,9 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6204,
-   "2025": 5.0,
+   "2025": 15.0,
    "2026": 18.0,
-   "variacion": 260.0,
+   "variacion": 20.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Marchihue"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6204,
-   "2025": 8.0,
-   "2026": 14.0,
-   "variacion": 75.0,
+   "2025": 9.0,
+   "2026": 16.0,
+   "variacion": 78.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Marchihue"
   },
@@ -102,7 +102,7 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6204,
-   "2025": 1.0,
+   "2025": 3.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6204,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 4.0,
-   "variacion": 300.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Marchihue"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6204,
-   "2025": 14.0,
-   "2026": 8.0,
-   "variacion": -43.0,
+   "2025": 15.0,
+   "2026": 11.0,
+   "variacion": -27.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Marchihue"
   },
@@ -788,7 +788,7 @@
    "CODCOM": 6204,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Marchihue"
   },
   {
@@ -2436,7 +2436,7 @@
    "CODCOM": 6204,
    "anio": 2026,
    "mes": 3,
-   "casos": 4.0,
+   "casos": 7.0,
    "COMUNA": "Marchihue"
   },
   {
@@ -2723,7 +2723,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 66.0,
    "2025": 42.0,
-   "2026": 14.0,
+   "2026": 16.0,
    "COMUNA": "Marchihue"
   },
   {
@@ -2849,7 +2849,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 38.0,
    "2025": 59.0,
-   "2026": 8.0,
+   "2026": 11.0,
    "COMUNA": "Marchihue"
   },
   {
@@ -2872,7 +2872,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
+  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
   "region": "O'Higgins"
  }
 }

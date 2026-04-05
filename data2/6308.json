@@ -21,28 +21,28 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6308,
-   "2025": 77.0,
+   "2025": 80.0,
    "2026": 9.0,
-   "variacion": -88.0,
+   "variacion": -89.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Placilla"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6308,
-   "2025": 10.0,
-   "2026": 13.0,
-   "variacion": 30.0,
+   "2025": 11.0,
+   "2026": 14.0,
+   "variacion": 27.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Placilla"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6308,
-   "2025": 28.0,
-   "2026": 28.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 30.0,
+   "2026": 31.0,
+   "variacion": 3.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Placilla"
   },
   {
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6308,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 9.0,
-   "variacion": 80.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Placilla"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 6308,
    "2025": 12.0,
-   "2026": 5.0,
-   "variacion": -58.0,
+   "2026": 8.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Placilla"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 6308,
    "2025": 4.0,
-   "2026": 5.0,
-   "variacion": 25.0,
+   "2026": 6.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Placilla"
   },
@@ -94,8 +94,8 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6308,
    "2025": 3.0,
-   "2026": 0.0,
-   "variacion": -100.0,
+   "2026": 1.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Placilla"
   },
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6308,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 2.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Placilla"
   }
  ],
@@ -668,7 +668,7 @@
    "CODCOM": 6308,
    "anio": 2026,
    "mes": 3,
-   "casos": 6.0,
+   "casos": 7.0,
    "COMUNA": "Placilla"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 6308,
    "anio": 2026,
    "mes": 3,
-   "casos": 5.0,
+   "casos": 8.0,
    "COMUNA": "Placilla"
   },
   {
@@ -1132,7 +1132,7 @@
    "CODCOM": 6308,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 4.0,
    "COMUNA": "Placilla"
   },
   {
@@ -1372,7 +1372,7 @@
    "CODCOM": 6308,
    "anio": 2026,
    "mes": 3,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Placilla"
   },
   {
@@ -1492,7 +1492,7 @@
    "CODCOM": 6308,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Placilla"
   },
   {
@@ -2722,7 +2722,7 @@
    "delito": "DAÑOS",
    "2024": 65.0,
    "2025": 48.0,
-   "2026": 13.0,
+   "2026": 14.0,
    "COMUNA": "Placilla"
   },
   {
@@ -2731,7 +2731,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 102.0,
    "2025": 100.0,
-   "2026": 28.0,
+   "2026": 31.0,
    "COMUNA": "Placilla"
   },
   {
@@ -2758,7 +2758,7 @@
    "delito": "INCIVILIDADES",
    "2024": 45.0,
    "2025": 51.0,
-   "2026": 5.0,
+   "2026": 8.0,
    "COMUNA": "Placilla"
   },
   {
@@ -2776,7 +2776,7 @@
    "delito": "LESIONES LEVES",
    "2024": 27.0,
    "2025": 17.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Placilla"
   },
   {
@@ -2785,7 +2785,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 7.0,
    "2025": 7.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Placilla"
   },
   {
@@ -2880,7 +2880,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
+  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
   "region": "O'Higgins"
  }
 }

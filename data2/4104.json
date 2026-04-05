@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4104,
-   "2025": 21.0,
-   "2026": 12.0,
+   "2025": 23.0,
+   "2026": 13.0,
    "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "La Higuera"
@@ -21,27 +21,27 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 4104,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 3.0,
-   "variacion": 50.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "La Higuera"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 4104,
-   "2025": 19.0,
+   "2025": 20.0,
    "2026": 22.0,
-   "variacion": 16.0,
+   "variacion": 10.0,
    "situación": "Aumento de Casos",
    "COMUNA": "La Higuera"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 4104,
-   "2025": 17.0,
-   "2026": 4.0,
-   "variacion": -76.0,
+   "2025": 18.0,
+   "2026": 8.0,
+   "variacion": -56.0,
    "situación": "Disminución de Casos",
    "COMUNA": "La Higuera"
   },
@@ -120,10 +120,10 @@
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 4104,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "La Higuera"
   },
   {
@@ -165,7 +165,7 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 4104,
-   "2025": 16.0,
+   "2025": 17.0,
    "2026": 2.0,
    "variacion": -88.0,
    "situación": "Disminución de Casos",
@@ -428,7 +428,7 @@
    "CODCOM": 4104,
    "anio": 2026,
    "mes": 3,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "La Higuera"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 4104,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 6.0,
    "COMUNA": "La Higuera"
   },
   {
@@ -2712,7 +2712,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 49.0,
    "2025": 75.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "La Higuera"
   },
   {
@@ -2739,7 +2739,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 38.0,
    "2025": 38.0,
-   "2026": 4.0,
+   "2026": 8.0,
    "COMUNA": "La Higuera"
   },
   {
@@ -2888,7 +2888,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
+  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
   "region": "Coquimbo"
  }
 }

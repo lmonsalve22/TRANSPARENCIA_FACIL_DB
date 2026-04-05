@@ -3,35 +3,35 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 5405,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Zapallar"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5405,
-   "2025": 17.0,
+   "2025": 18.0,
    "2026": 25.0,
-   "variacion": 47.0,
+   "variacion": 39.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Zapallar"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5405,
-   "2025": 40.0,
-   "2026": 25.0,
-   "variacion": -38.0,
+   "2025": 41.0,
+   "2026": 26.0,
+   "variacion": -37.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Zapallar"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5405,
-   "2025": 31.0,
-   "2026": 30.0,
+   "2025": 33.0,
+   "2026": 32.0,
    "variacion": -3.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Zapallar"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5405,
-   "2025": 20.0,
+   "2025": 21.0,
    "2026": 10.0,
-   "variacion": -50.0,
+   "variacion": -52.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Zapallar"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 5405,
    "2025": 29.0,
-   "2026": 25.0,
-   "variacion": -14.0,
+   "2026": 27.0,
+   "variacion": -7.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Zapallar"
   },
@@ -102,10 +102,10 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5405,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Zapallar"
   },
   {
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 5405,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 5.0,
-   "variacion": 400.0,
+   "variacion": 150.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Zapallar"
   },
@@ -156,9 +156,9 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5405,
-   "2025": 28.0,
+   "2025": 30.0,
    "2026": 13.0,
-   "variacion": -54.0,
+   "variacion": -57.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Zapallar"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5405,
    "2025": 17.0,
-   "2026": 23.0,
-   "variacion": 35.0,
+   "2026": 25.0,
+   "variacion": 47.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Zapallar"
   },
@@ -548,7 +548,7 @@
    "CODCOM": 5405,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Zapallar"
   },
   {
@@ -668,7 +668,7 @@
    "CODCOM": 5405,
    "anio": 2026,
    "mes": 3,
-   "casos": 7.0,
+   "casos": 9.0,
    "COMUNA": "Zapallar"
   },
   {
@@ -1020,7 +1020,7 @@
    "CODCOM": 5405,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Zapallar"
   },
   {
@@ -2460,7 +2460,7 @@
    "CODCOM": 5405,
    "anio": 2026,
    "mes": 3,
-   "casos": 6.0,
+   "casos": 8.0,
    "COMUNA": "Zapallar"
   },
   {
@@ -2729,7 +2729,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 56.0,
    "2025": 80.0,
-   "2026": 25.0,
+   "2026": 26.0,
    "COMUNA": "Zapallar"
   },
   {
@@ -2738,7 +2738,7 @@
    "delito": "DAÑOS",
    "2024": 109.0,
    "2025": 107.0,
-   "2026": 30.0,
+   "2026": 32.0,
    "COMUNA": "Zapallar"
   },
   {
@@ -2765,7 +2765,7 @@
    "delito": "HURTOS",
    "2024": 49.0,
    "2025": 63.0,
-   "2026": 25.0,
+   "2026": 27.0,
    "COMUNA": "Zapallar"
   },
   {
@@ -2873,7 +2873,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 66.0,
    "2025": 57.0,
-   "2026": 23.0,
+   "2026": 25.0,
    "COMUNA": "Zapallar"
   },
   {
@@ -2896,7 +2896,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
+  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
   "region": "Valparaíso"
  }
 }

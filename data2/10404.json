@@ -40,9 +40,9 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10404,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Palena"
   },
   {
@@ -76,15 +76,15 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 10404,
    "2025": 2.0,
-   "2026": 0.0,
-   "variacion": -100.0,
+   "2026": 1.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Palena"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10404,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -761,7 +761,7 @@
    "CODCOM": 10404,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Palena"
   },
   {
@@ -1233,7 +1233,7 @@
    "CODCOM": 10404,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Palena"
   },
   {
@@ -2328,7 +2328,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 19.0,
    "2025": 10.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Palena"
   },
   {
@@ -2373,7 +2373,7 @@
    "delito": "LESIONES LEVES",
    "2024": 4.0,
    "2025": 6.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Palena"
   },
   {
@@ -2477,7 +2477,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
+  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
   "region": "Los Lagos"
  }
 }

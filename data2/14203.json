@@ -3,45 +3,45 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 14203,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Lago Ranco"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14203,
-   "2025": 21.0,
-   "2026": 25.0,
-   "variacion": 19.0,
+   "2025": 23.0,
+   "2026": 27.0,
+   "variacion": 17.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lago Ranco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 14203,
-   "2025": 136.0,
-   "2026": 79.0,
-   "variacion": -42.0,
+   "2025": 138.0,
+   "2026": 81.0,
+   "variacion": -41.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lago Ranco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 14203,
-   "2025": 19.0,
-   "2026": 24.0,
-   "variacion": 26.0,
+   "2025": 21.0,
+   "2026": 26.0,
+   "variacion": 24.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lago Ranco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 14203,
-   "2025": 22.0,
+   "2025": 26.0,
    "2026": 27.0,
-   "variacion": 23.0,
+   "variacion": 4.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lago Ranco"
   },
@@ -58,17 +58,17 @@
    "delito": "HURTOS",
    "CODCOM": 14203,
    "2025": 5.0,
-   "2026": 6.0,
-   "variacion": 20.0,
+   "2026": 7.0,
+   "variacion": 40.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lago Ranco"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 14203,
-   "2025": 12.0,
+   "2025": 15.0,
    "2026": 20.0,
-   "variacion": 67.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lago Ranco"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 14203,
-   "2025": 9.0,
+   "2025": 10.0,
    "2026": 8.0,
-   "variacion": -11.0,
+   "variacion": -20.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lago Ranco"
   },
@@ -103,9 +103,9 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 14203,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 2.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Lago Ranco"
   },
   {
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 14203,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 4.0,
-   "variacion": 33.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Lago Ranco"
   },
   {
@@ -428,7 +428,7 @@
    "CODCOM": 14203,
    "anio": 2026,
    "mes": 3,
-   "casos": 5.0,
+   "casos": 7.0,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -548,7 +548,7 @@
    "CODCOM": 14203,
    "anio": 2026,
    "mes": 3,
-   "casos": 13.0,
+   "casos": 15.0,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -668,7 +668,7 @@
    "CODCOM": 14203,
    "anio": 2026,
    "mes": 3,
-   "casos": 4.0,
+   "casos": 6.0,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -1028,7 +1028,7 @@
    "CODCOM": 14203,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -1628,7 +1628,7 @@
    "CODCOM": 14203,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -2712,7 +2712,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 90.0,
    "2025": 75.0,
-   "2026": 25.0,
+   "2026": 27.0,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -2721,7 +2721,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 314.0,
    "2025": 320.0,
-   "2026": 79.0,
+   "2026": 81.0,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -2730,7 +2730,7 @@
    "delito": "DAÑOS",
    "2024": 91.0,
    "2025": 72.0,
-   "2026": 24.0,
+   "2026": 26.0,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -2757,7 +2757,7 @@
    "delito": "HURTOS",
    "2024": 34.0,
    "2025": 21.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -2802,7 +2802,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 20.0,
    "2025": 2.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Lago Ranco"
   },
   {
@@ -2888,7 +2888,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
+  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
   "region": "Los Ríos"
  }
 }

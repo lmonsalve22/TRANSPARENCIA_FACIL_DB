@@ -13,17 +13,17 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8314,
    "2025": 12.0,
-   "2026": 11.0,
-   "variacion": -8.0,
-   "situación": "Disminución de Casos",
+   "2026": 13.0,
+   "variacion": 8.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Alto Biobío"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8314,
-   "2025": 20.0,
-   "2026": 65.0,
-   "variacion": 225.0,
+   "2025": 21.0,
+   "2026": 68.0,
+   "variacion": 224.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Alto Biobío"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8314,
-   "2025": 16.0,
-   "2026": 15.0,
-   "variacion": -6.0,
+   "2025": 19.0,
+   "2026": 16.0,
+   "variacion": -16.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Alto Biobío"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8314,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 6.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -14.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Alto Biobío"
   },
   {
@@ -76,9 +76,9 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 8314,
    "2025": 2.0,
-   "2026": 1.0,
-   "variacion": -50.0,
-   "situación": "Disminución de Casos",
+   "2026": 2.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Alto Biobío"
   },
   {
@@ -428,7 +428,7 @@
    "CODCOM": 8314,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -548,7 +548,7 @@
    "CODCOM": 8314,
    "anio": 2026,
    "mes": 3,
-   "casos": 20.0,
+   "casos": 23.0,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 8314,
    "anio": 2026,
    "mes": 3,
-   "casos": 6.0,
+   "casos": 7.0,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -1260,7 +1260,7 @@
    "CODCOM": 8314,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -2688,7 +2688,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 58.0,
    "2025": 54.0,
-   "2026": 11.0,
+   "2026": 13.0,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -2697,7 +2697,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 95.0,
    "2025": 135.0,
-   "2026": 65.0,
+   "2026": 68.0,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -2715,7 +2715,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 59.0,
    "2025": 58.0,
-   "2026": 15.0,
+   "2026": 16.0,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -2751,7 +2751,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 0.0,
    "2025": 2.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -2864,7 +2864,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 12/2026 (del 16/03/2026 al 22/03/2026)",
+  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
   "region": "Biobío"
  }
 }
