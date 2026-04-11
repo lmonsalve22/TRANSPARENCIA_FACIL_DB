@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5104,
-   "2025": 2.0,
-   "2026": 7.0,
-   "variacion": 250.0,
+   "2025": 3.0,
+   "2026": 8.0,
+   "variacion": 167.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Juan Fernández"
   },
@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5104,
    "2025": 0.0,
-   "2026": 4.0,
-   "variacion": 400.0,
+   "2026": 5.0,
+   "variacion": 500.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Juan Fernández"
   },
@@ -58,8 +58,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 5104,
    "2025": 6.0,
-   "2026": 9.0,
-   "variacion": 50.0,
+   "2026": 12.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Juan Fernández"
   },
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5104,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 2.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Juan Fernández"
   },
   {
@@ -138,9 +138,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5104,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 2.0,
-   "variacion": 200.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Juan Fernández"
   },
@@ -384,7 +384,7 @@
    "CODCOM": 5104,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Juan Fernández"
   },
   {
@@ -504,7 +504,7 @@
    "CODCOM": 5104,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Juan Fernández"
   },
   {
@@ -984,7 +984,7 @@
    "CODCOM": 5104,
    "anio": 2026,
    "mes": 3,
-   "casos": 4.0,
+   "casos": 7.0,
    "COMUNA": "Juan Fernández"
   },
   {
@@ -2156,7 +2156,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 17.0,
    "2025": 13.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Juan Fernández"
   },
   {
@@ -2165,7 +2165,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 7.0,
    "2025": 0.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Juan Fernández"
   },
   {
@@ -2210,7 +2210,7 @@
    "delito": "INCIVILIDADES",
    "2024": 10.0,
    "2025": 25.0,
-   "2026": 9.0,
+   "2026": 12.0,
    "COMUNA": "Juan Fernández"
   },
   {
@@ -2332,7 +2332,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
+  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
   "region": "Valparaíso"
  }
 }

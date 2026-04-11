@@ -12,27 +12,27 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6111,
-   "2025": 42.0,
-   "2026": 22.0,
-   "variacion": -48.0,
+   "2025": 46.0,
+   "2026": 23.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Olivar"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6111,
-   "2025": 7.0,
-   "2026": 5.0,
-   "variacion": -29.0,
+   "2025": 11.0,
+   "2026": 7.0,
+   "variacion": -36.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Olivar"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6111,
-   "2025": 32.0,
+   "2025": 33.0,
    "2026": 19.0,
-   "variacion": -41.0,
+   "variacion": -42.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Olivar"
   },
@@ -48,10 +48,10 @@
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6111,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Olivar"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6111,
-   "2025": 11.0,
-   "2026": 7.0,
-   "variacion": -36.0,
+   "2025": 13.0,
+   "2026": 8.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Olivar"
   },
@@ -112,9 +112,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 6111,
    "2025": 2.0,
-   "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 3.0,
+   "variacion": 50.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Olivar"
   },
   {
@@ -138,18 +138,18 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6111,
-   "2025": 2.0,
-   "2026": 1.0,
-   "variacion": -50.0,
+   "2025": 3.0,
+   "2026": 2.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Olivar"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6111,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 1.0,
-   "variacion": -50.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Olivar"
   },
@@ -165,8 +165,8 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6111,
-   "2025": 26.0,
-   "2026": 14.0,
+   "2025": 28.0,
+   "2026": 15.0,
    "variacion": -46.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Olivar"
@@ -428,7 +428,7 @@
    "CODCOM": 6111,
    "anio": 2026,
    "mes": 3,
-   "casos": 9.0,
+   "casos": 10.0,
    "COMUNA": "Olivar"
   },
   {
@@ -548,7 +548,7 @@
    "CODCOM": 6111,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Olivar"
   },
   {
@@ -1388,7 +1388,7 @@
    "CODCOM": 6111,
    "anio": 2026,
    "mes": 3,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Olivar"
   },
   {
@@ -1748,7 +1748,7 @@
    "CODCOM": 6111,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Olivar"
   },
   {
@@ -2100,7 +2100,7 @@
    "CODCOM": 6111,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Olivar"
   },
   {
@@ -2460,7 +2460,7 @@
    "CODCOM": 6111,
    "anio": 2026,
    "mes": 3,
-   "casos": 5.0,
+   "casos": 6.0,
    "COMUNA": "Olivar"
   },
   {
@@ -2720,7 +2720,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 115.0,
    "2025": 114.0,
-   "2026": 22.0,
+   "2026": 23.0,
    "COMUNA": "Olivar"
   },
   {
@@ -2729,7 +2729,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 36.0,
    "2025": 35.0,
-   "2026": 5.0,
+   "2026": 7.0,
    "COMUNA": "Olivar"
   },
   {
@@ -2792,7 +2792,7 @@
    "delito": "LESIONES LEVES",
    "2024": 50.0,
    "2025": 51.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Olivar"
   },
   {
@@ -2819,7 +2819,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 6.0,
    "2025": 6.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Olivar"
   },
   {
@@ -2846,7 +2846,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 5.0,
    "2025": 9.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Olivar"
   },
   {
@@ -2873,7 +2873,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 98.0,
    "2025": 95.0,
-   "2026": 14.0,
+   "2026": 15.0,
    "COMUNA": "Olivar"
   },
   {
@@ -2896,7 +2896,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
+  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
   "region": "O'Higgins"
  }
 }

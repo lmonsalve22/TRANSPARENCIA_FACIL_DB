@@ -12,35 +12,35 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9205,
-   "2025": 21.0,
+   "2025": 24.0,
    "2026": 20.0,
-   "variacion": -5.0,
+   "variacion": -17.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lonquimay"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9205,
-   "2025": 35.0,
-   "2026": 11.0,
-   "variacion": -69.0,
+   "2025": 36.0,
+   "2026": 12.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lonquimay"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9205,
-   "2025": 31.0,
-   "2026": 29.0,
-   "variacion": -6.0,
+   "2025": 36.0,
+   "2026": 33.0,
+   "variacion": -8.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lonquimay"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9205,
-   "2025": 22.0,
-   "2026": 20.0,
+   "2025": 23.0,
+   "2026": 21.0,
    "variacion": -9.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lonquimay"
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 9205,
    "2025": 8.0,
-   "2026": 5.0,
-   "variacion": -38.0,
+   "2026": 6.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lonquimay"
   },
@@ -84,28 +84,28 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9205,
-   "2025": 10.0,
-   "2026": 9.0,
-   "variacion": -10.0,
+   "2025": 12.0,
+   "2026": 10.0,
+   "variacion": -17.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lonquimay"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9205,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 3.0,
-   "variacion": -50.0,
+   "variacion": -57.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lonquimay"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9205,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 7.0,
-   "variacion": 17.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Lonquimay"
   },
   {
@@ -139,9 +139,9 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 9205,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 2.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Lonquimay"
   },
   {
@@ -184,9 +184,9 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9205,
    "2025": 6.0,
-   "2026": 6.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 7.0,
+   "variacion": 17.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Lonquimay"
   }
  ],
@@ -548,7 +548,7 @@
    "CODCOM": 9205,
    "anio": 2026,
    "mes": 3,
-   "casos": 4.0,
+   "casos": 5.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -668,7 +668,7 @@
    "CODCOM": 9205,
    "anio": 2026,
    "mes": 3,
-   "casos": 9.0,
+   "casos": 13.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 9205,
    "anio": 2026,
    "mes": 3,
-   "casos": 6.0,
+   "casos": 7.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -1012,7 +1012,7 @@
    "CODCOM": 9205,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -1372,7 +1372,7 @@
    "CODCOM": 9205,
    "anio": 2026,
    "mes": 3,
-   "casos": 4.0,
+   "casos": 5.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -2084,7 +2084,7 @@
    "CODCOM": 9205,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -2668,7 +2668,7 @@
    "CODCOM": 9205,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Lonquimay"
   }
  ],
@@ -2697,7 +2697,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 68.0,
    "2025": 74.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -2706,7 +2706,7 @@
    "delito": "DAÑOS",
    "2024": 81.0,
    "2025": 94.0,
-   "2026": 29.0,
+   "2026": 33.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -2715,7 +2715,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 70.0,
    "2025": 83.0,
-   "2026": 20.0,
+   "2026": 21.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -2733,7 +2733,7 @@
    "delito": "HURTOS",
    "2024": 23.0,
    "2025": 31.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -2760,7 +2760,7 @@
    "delito": "LESIONES LEVES",
    "2024": 30.0,
    "2025": 43.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -2814,7 +2814,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 3.0,
    "2025": 3.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Lonquimay"
   },
   {
@@ -2859,12 +2859,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 19.0,
    "2025": 18.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Lonquimay"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
+  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
   "region": "La Araucanía"
  }
 }

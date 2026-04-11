@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 15201,
-   "2025": 1.0,
+   "2025": 3.0,
    "2026": 4.0,
-   "variacion": 300.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Putre"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 15201,
-   "2025": 8.0,
-   "2026": 12.0,
-   "variacion": 50.0,
+   "2025": 9.0,
+   "2026": 13.0,
+   "variacion": 44.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Putre"
   },
@@ -58,8 +58,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 15201,
    "2025": 0.0,
-   "2026": 1.0,
-   "variacion": 100.0,
+   "2026": 2.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Putre"
   },
@@ -174,10 +174,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 15201,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Putre"
   }
  ],
@@ -651,7 +651,7 @@
    "CODCOM": 15201,
    "anio": 2026,
    "mes": 3,
-   "casos": 5.0,
+   "casos": 6.0,
    "COMUNA": "Putre"
   },
   {
@@ -1011,7 +1011,7 @@
    "CODCOM": 15201,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Putre"
   },
   {
@@ -2561,7 +2561,7 @@
    "delito": "DAÑOS",
    "2024": 55.0,
    "2025": 40.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "Putre"
   },
   {
@@ -2597,7 +2597,7 @@
    "delito": "INCIVILIDADES",
    "2024": 4.0,
    "2025": 8.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Putre"
   },
   {
@@ -2719,7 +2719,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
+  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
   "region": "Arica y Parinacota"
  }
 }

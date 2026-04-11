@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16204,
    "2025": 12.0,
-   "2026": 8.0,
-   "variacion": -33.0,
+   "2026": 9.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ninhue"
   },
@@ -30,27 +30,27 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16204,
-   "2025": 9.0,
+   "2025": 10.0,
    "2026": 14.0,
-   "variacion": 56.0,
+   "variacion": 40.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Ninhue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16204,
-   "2025": 8.0,
+   "2025": 9.0,
    "2026": 10.0,
-   "variacion": 25.0,
+   "variacion": 11.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Ninhue"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 16204,
-   "2025": 7.0,
-   "2026": 6.0,
-   "variacion": -14.0,
+   "2025": 8.0,
+   "2026": 7.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ninhue"
   },
@@ -58,9 +58,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 16204,
    "2025": 3.0,
-   "2026": 3.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 4.0,
+   "variacion": 33.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Ninhue"
   },
   {
@@ -130,9 +130,9 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 16204,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Ninhue"
   },
   {
@@ -410,7 +410,7 @@
    "CODCOM": 16204,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -890,7 +890,7 @@
    "CODCOM": 16204,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -1010,7 +1010,7 @@
    "CODCOM": 16204,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -1850,7 +1850,7 @@
    "CODCOM": 16204,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -2350,7 +2350,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 50.0,
    "2025": 43.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -2395,7 +2395,7 @@
    "delito": "HURTOS",
    "2024": 12.0,
    "2025": 22.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -2404,7 +2404,7 @@
    "delito": "INCIVILIDADES",
    "2024": 4.0,
    "2025": 13.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -2476,7 +2476,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 1.0,
    "2025": 1.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -2526,7 +2526,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
+  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
   "region": "Ñuble"
  }
 }

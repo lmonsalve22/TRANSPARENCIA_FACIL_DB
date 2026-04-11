@@ -12,15 +12,6 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 1403,
-   "2025": 0.0,
-   "2026": 3.0,
-   "variacion": 300.0,
-   "situación": "Aumento de Casos",
-   "COMUNA": "Colchane"
-  },
-  {
-   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "CODCOM": 1403,
    "2025": 1.0,
    "2026": 3.0,
    "variacion": 200.0,
@@ -28,11 +19,20 @@
    "COMUNA": "Colchane"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 1403,
+   "2025": 6.0,
+   "2026": 3.0,
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Colchane"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 1403,
    "2025": 7.0,
-   "2026": 8.0,
-   "variacion": 14.0,
+   "2026": 9.0,
+   "variacion": 29.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
@@ -111,9 +111,9 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 1403,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 9.0,
-   "variacion": 200.0,
+   "variacion": 125.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
@@ -139,8 +139,8 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 1403,
    "2025": 6.0,
-   "2026": 1.0,
-   "variacion": -83.0,
+   "2026": 2.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Colchane"
   },
@@ -660,7 +660,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 3,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Colchane"
   },
   {
@@ -2084,7 +2084,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Colchane"
   },
   {
@@ -2722,7 +2722,7 @@
    "delito": "DAÑOS",
    "2024": 25.0,
    "2025": 31.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Colchane"
   },
   {
@@ -2830,7 +2830,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 14.0,
    "2025": 16.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Colchane"
   },
   {
@@ -2880,7 +2880,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
+  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
   "region": "Tarapacá"
  }
 }

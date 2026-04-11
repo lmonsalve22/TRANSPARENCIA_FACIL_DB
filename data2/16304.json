@@ -12,10 +12,10 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16304,
-   "2025": 8.0,
+   "2025": 9.0,
    "2026": 9.0,
-   "variacion": 12.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "San Fabián"
   },
   {
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16304,
-   "2025": 12.0,
-   "2026": 9.0,
-   "variacion": -25.0,
+   "2025": 13.0,
+   "2026": 10.0,
+   "variacion": -23.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 16304,
-   "2025": 15.0,
-   "2026": 21.0,
-   "variacion": 40.0,
+   "2025": 16.0,
+   "2026": 22.0,
+   "variacion": 38.0,
    "situación": "Aumento de Casos",
    "COMUNA": "San Fabián"
   },
@@ -85,9 +85,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 16304,
    "2025": 2.0,
-   "2026": 1.0,
-   "variacion": -50.0,
-   "situación": "Disminución de Casos",
+   "2026": 2.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "San Fabián"
   },
   {
@@ -130,9 +130,9 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16304,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 2.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "San Fabián"
   },
   {
@@ -668,7 +668,7 @@
    "CODCOM": 16304,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "San Fabián"
   },
   {
@@ -1132,7 +1132,7 @@
    "CODCOM": 16304,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "San Fabián"
   },
   {
@@ -1372,7 +1372,7 @@
    "CODCOM": 16304,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "San Fabián"
   },
   {
@@ -1964,7 +1964,7 @@
    "CODCOM": 16304,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "San Fabián"
   },
   {
@@ -2714,7 +2714,7 @@
    "delito": "DAÑOS",
    "2024": 49.0,
    "2025": 51.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "San Fabián"
   },
   {
@@ -2750,7 +2750,7 @@
    "delito": "INCIVILIDADES",
    "2024": 28.0,
    "2025": 27.0,
-   "2026": 21.0,
+   "2026": 22.0,
    "COMUNA": "San Fabián"
   },
   {
@@ -2768,7 +2768,7 @@
    "delito": "LESIONES LEVES",
    "2024": 13.0,
    "2025": 8.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "San Fabián"
   },
   {
@@ -2813,7 +2813,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 4.0,
    "2025": 3.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "San Fabián"
   },
   {
@@ -2872,7 +2872,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
+  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
   "region": "Ñuble"
  }
 }

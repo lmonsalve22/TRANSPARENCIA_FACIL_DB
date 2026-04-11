@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10203,
-   "2025": 42.0,
-   "2026": 36.0,
+   "2025": 44.0,
+   "2026": 38.0,
    "variacion": -14.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
@@ -21,27 +21,27 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10203,
-   "2025": 28.0,
-   "2026": 86.0,
-   "variacion": 207.0,
+   "2025": 30.0,
+   "2026": 93.0,
+   "variacion": 210.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chonchi"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10203,
-   "2025": 22.0,
-   "2026": 21.0,
-   "variacion": -5.0,
-   "situación": "Disminución de Casos",
+   "2025": 23.0,
+   "2026": 23.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Chonchi"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10203,
-   "2025": 34.0,
-   "2026": 26.0,
-   "variacion": -24.0,
+   "2025": 35.0,
+   "2026": 27.0,
+   "variacion": -23.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10203,
-   "2025": 10.0,
+   "2025": 11.0,
    "2026": 6.0,
-   "variacion": -40.0,
+   "variacion": -45.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 10203,
    "2025": 4.0,
-   "2026": 7.0,
-   "variacion": 75.0,
+   "2026": 10.0,
+   "variacion": 150.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chonchi"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 10203,
    "2025": 8.0,
-   "2026": 9.0,
-   "variacion": 12.0,
+   "2026": 10.0,
+   "variacion": 25.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chonchi"
   },
@@ -94,8 +94,8 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10203,
    "2025": 4.0,
-   "2026": 2.0,
-   "variacion": -50.0,
+   "2026": 3.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chonchi"
   },
@@ -121,8 +121,8 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 10203,
    "2025": 0.0,
-   "2026": 1.0,
-   "variacion": 100.0,
+   "2026": 8.0,
+   "variacion": 800.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chonchi"
   },
@@ -183,8 +183,8 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10203,
-   "2025": 3.0,
-   "2026": 3.0,
+   "2025": 4.0,
+   "2026": 4.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Chonchi"
@@ -428,7 +428,7 @@
    "CODCOM": 10203,
    "anio": 2026,
    "mes": 3,
-   "casos": 12.0,
+   "casos": 14.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -548,7 +548,7 @@
    "CODCOM": 10203,
    "anio": 2026,
    "mes": 3,
-   "casos": 23.0,
+   "casos": 30.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -668,7 +668,7 @@
    "CODCOM": 10203,
    "anio": 2026,
    "mes": 3,
-   "casos": 5.0,
+   "casos": 7.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 10203,
    "anio": 2026,
    "mes": 3,
-   "casos": 9.0,
+   "casos": 10.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -1140,7 +1140,7 @@
    "CODCOM": 10203,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 4.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -1380,6 +1380,78 @@
    "CODCOM": 10203,
    "anio": 2026,
    "mes": 3,
+   "casos": 5.0,
+   "COMUNA": "Chonchi"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2.0,
+   "COMUNA": "Chonchi"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1.0,
+   "COMUNA": "Chonchi"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Chonchi"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2.0,
+   "COMUNA": "Chonchi"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Chonchi"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Chonchi"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1.0,
+   "COMUNA": "Chonchi"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10203,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0.0,
+   "COMUNA": "Chonchi"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10203,
+   "anio": 2025,
+   "mes": 9,
    "casos": 4.0,
    "COMUNA": "Chonchi"
   },
@@ -1387,78 +1459,6 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10203,
    "anio": 2025,
-   "mes": 1,
-   "casos": 2.0,
-   "COMUNA": "Chonchi"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 10203,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 1.0,
-   "COMUNA": "Chonchi"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 10203,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 1.0,
-   "COMUNA": "Chonchi"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 10203,
-   "anio": 2025,
-   "mes": 4,
-   "casos": 2.0,
-   "COMUNA": "Chonchi"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 10203,
-   "anio": 2025,
-   "mes": 5,
-   "casos": 1.0,
-   "COMUNA": "Chonchi"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 10203,
-   "anio": 2025,
-   "mes": 6,
-   "casos": 1.0,
-   "COMUNA": "Chonchi"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 10203,
-   "anio": 2025,
-   "mes": 7,
-   "casos": 1.0,
-   "COMUNA": "Chonchi"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 10203,
-   "anio": 2025,
-   "mes": 8,
-   "casos": 0.0,
-   "COMUNA": "Chonchi"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 10203,
-   "anio": 2025,
-   "mes": 9,
-   "casos": 4.0,
-   "COMUNA": "Chonchi"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 10203,
-   "anio": 2025,
    "mes": 10,
    "casos": 1.0,
    "COMUNA": "Chonchi"
@@ -1500,7 +1500,7 @@
    "CODCOM": 10203,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -1852,7 +1852,7 @@
    "CODCOM": 10203,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 8.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -2692,7 +2692,7 @@
    "CODCOM": 10203,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Chonchi"
   }
  ],
@@ -2712,7 +2712,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 133.0,
    "2025": 144.0,
-   "2026": 36.0,
+   "2026": 38.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -2721,7 +2721,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 325.0,
    "2025": 152.0,
-   "2026": 86.0,
+   "2026": 93.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -2730,7 +2730,7 @@
    "delito": "DAÑOS",
    "2024": 119.0,
    "2025": 70.0,
-   "2026": 21.0,
+   "2026": 23.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -2739,7 +2739,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 136.0,
    "2025": 118.0,
-   "2026": 26.0,
+   "2026": 27.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -2766,7 +2766,7 @@
    "delito": "INCIVILIDADES",
    "2024": 26.0,
    "2025": 18.0,
-   "2026": 7.0,
+   "2026": 10.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -2784,7 +2784,7 @@
    "delito": "LESIONES LEVES",
    "2024": 46.0,
    "2025": 29.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -2793,7 +2793,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 15.0,
    "2025": 15.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -2820,7 +2820,7 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2024": 0.0,
    "2025": 0.0,
-   "2026": 1.0,
+   "2026": 8.0,
    "COMUNA": "Chonchi"
   },
   {
@@ -2883,12 +2883,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 11.0,
    "2025": 11.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Chonchi"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
+  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
   "region": "Los Lagos"
  }
 }

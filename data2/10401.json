@@ -3,18 +3,18 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 10401,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10401,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 13.0,
-   "variacion": 333.0,
+   "variacion": 225.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chaitén"
   },
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10401,
    "2025": 7.0,
-   "2026": 33.0,
-   "variacion": 371.0,
+   "2026": 36.0,
+   "variacion": 414.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chaitén"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10401,
-   "2025": 11.0,
+   "2025": 12.0,
    "2026": 8.0,
-   "variacion": -27.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10401,
-   "2025": 11.0,
+   "2025": 12.0,
    "2026": 9.0,
-   "variacion": -18.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 10401,
    "2025": 5.0,
-   "2026": 3.0,
-   "variacion": -40.0,
+   "2026": 4.0,
+   "variacion": -20.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
@@ -75,7 +75,7 @@
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10401,
-   "2025": 1.0,
+   "2025": 3.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10401,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 4.0,
-   "variacion": 300.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chaitén"
   },
@@ -165,7 +165,7 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10401,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -539,7 +539,7 @@
    "CODCOM": 10401,
    "anio": 2026,
    "mes": 3,
-   "casos": 7.0,
+   "casos": 10.0,
    "COMUNA": "Chaitén"
   },
   {
@@ -907,7 +907,7 @@
    "CODCOM": 10401,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Chaitén"
   },
   {
@@ -2472,7 +2472,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 42.0,
    "2025": 38.0,
-   "2026": 33.0,
+   "2026": 36.0,
    "COMUNA": "Chaitén"
   },
   {
@@ -2508,7 +2508,7 @@
    "delito": "HURTOS",
    "2024": 13.0,
    "2025": 13.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Chaitén"
   },
   {
@@ -2639,7 +2639,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
+  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
   "region": "Los Lagos"
  }
 }

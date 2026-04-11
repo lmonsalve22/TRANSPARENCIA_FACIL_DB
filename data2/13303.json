@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13303,
-   "2025": 50.0,
-   "2026": 49.0,
+   "2025": 54.0,
+   "2026": 53.0,
    "variacion": -2.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Tiltil"
@@ -21,17 +21,17 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13303,
-   "2025": 15.0,
+   "2025": 25.0,
    "2026": 25.0,
-   "variacion": 67.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Tiltil"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 13303,
-   "2025": 40.0,
-   "2026": 42.0,
+   "2025": 43.0,
+   "2026": 45.0,
    "variacion": 5.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Tiltil"
@@ -39,27 +39,27 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13303,
-   "2025": 30.0,
-   "2026": 20.0,
-   "variacion": -33.0,
+   "2025": 34.0,
+   "2026": 26.0,
+   "variacion": -24.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Tiltil"
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 13303,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Tiltil"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 13303,
-   "2025": 7.0,
-   "2026": 9.0,
-   "variacion": 29.0,
+   "2025": 8.0,
+   "2026": 11.0,
+   "variacion": 38.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Tiltil"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 13303,
    "2025": 8.0,
-   "2026": 4.0,
-   "variacion": -50.0,
+   "2026": 5.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Tiltil"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 13303,
-   "2025": 19.0,
-   "2026": 11.0,
-   "variacion": -42.0,
+   "2025": 20.0,
+   "2026": 13.0,
+   "variacion": -35.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Tiltil"
   },
@@ -129,27 +129,27 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 13303,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 6.0,
-   "variacion": 200.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Tiltil"
   },
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 13303,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 2.0,
-   "variacion": -33.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Tiltil"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 13303,
-   "2025": 20.0,
+   "2025": 21.0,
    "2026": 16.0,
-   "variacion": -20.0,
+   "variacion": -24.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Tiltil"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13303,
-   "2025": 35.0,
-   "2026": 36.0,
-   "variacion": 3.0,
+   "2025": 38.0,
+   "2026": 40.0,
+   "variacion": 5.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Tiltil"
   },
@@ -428,7 +428,7 @@
    "CODCOM": 13303,
    "anio": 2026,
    "mes": 3,
-   "casos": 10.0,
+   "casos": 14.0,
    "COMUNA": "Tiltil"
   },
   {
@@ -668,7 +668,7 @@
    "CODCOM": 13303,
    "anio": 2026,
    "mes": 3,
-   "casos": 11.0,
+   "casos": 14.0,
    "COMUNA": "Tiltil"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 13303,
    "anio": 2026,
    "mes": 3,
-   "casos": 9.0,
+   "casos": 15.0,
    "COMUNA": "Tiltil"
   },
   {
@@ -1028,7 +1028,7 @@
    "CODCOM": 13303,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Tiltil"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 13303,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Tiltil"
   },
   {
@@ -1388,7 +1388,7 @@
    "CODCOM": 13303,
    "anio": 2026,
    "mes": 3,
-   "casos": 5.0,
+   "casos": 7.0,
    "COMUNA": "Tiltil"
   },
   {
@@ -2468,7 +2468,7 @@
    "CODCOM": 13303,
    "anio": 2026,
    "mes": 3,
-   "casos": 17.0,
+   "casos": 21.0,
    "COMUNA": "Tiltil"
   },
   {
@@ -2728,7 +2728,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 209.0,
    "2025": 195.0,
-   "2026": 49.0,
+   "2026": 53.0,
    "COMUNA": "Tiltil"
   },
   {
@@ -2746,7 +2746,7 @@
    "delito": "DAÑOS",
    "2024": 164.0,
    "2025": 152.0,
-   "2026": 42.0,
+   "2026": 45.0,
    "COMUNA": "Tiltil"
   },
   {
@@ -2755,7 +2755,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 112.0,
    "2025": 109.0,
-   "2026": 20.0,
+   "2026": 26.0,
    "COMUNA": "Tiltil"
   },
   {
@@ -2773,7 +2773,7 @@
    "delito": "HURTOS",
    "2024": 39.0,
    "2025": 53.0,
-   "2026": 9.0,
+   "2026": 11.0,
    "COMUNA": "Tiltil"
   },
   {
@@ -2782,7 +2782,7 @@
    "delito": "INCIVILIDADES",
    "2024": 28.0,
    "2025": 29.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Tiltil"
   },
   {
@@ -2800,7 +2800,7 @@
    "delito": "LESIONES LEVES",
    "2024": 59.0,
    "2025": 79.0,
-   "2026": 11.0,
+   "2026": 13.0,
    "COMUNA": "Tiltil"
   },
   {
@@ -2881,7 +2881,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 211.0,
    "2025": 181.0,
-   "2026": 36.0,
+   "2026": 40.0,
    "COMUNA": "Tiltil"
   },
   {
@@ -2904,7 +2904,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
+  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
   "region": "Metropolitana"
  }
 }

@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 2103,
-   "2025": 7.0,
-   "2026": 9.0,
-   "variacion": 29.0,
+   "2025": 8.0,
+   "2026": 10.0,
+   "variacion": 25.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Sierra Gorda"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 2103,
-   "2025": 91.0,
+   "2025": 98.0,
    "2026": 30.0,
-   "variacion": -67.0,
+   "variacion": -69.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Sierra Gorda"
   },
@@ -39,10 +39,10 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 2103,
-   "2025": 7.0,
+   "2025": 9.0,
    "2026": 8.0,
-   "variacion": 14.0,
-   "situación": "Aumento de Casos",
+   "variacion": -11.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -58,9 +58,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 2103,
    "2025": 2.0,
-   "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 3.0,
+   "variacion": 50.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -102,10 +102,10 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 2103,
-   "2025": 0.0,
-   "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "2025": 2.0,
+   "2026": 2.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -129,36 +129,36 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 2103,
-   "2025": 14.0,
-   "2026": 5.0,
-   "variacion": -64.0,
+   "2025": 16.0,
+   "2026": 6.0,
+   "variacion": -62.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Sierra Gorda"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 2103,
-   "2025": 2.0,
+   "2025": 4.0,
    "2026": 3.0,
-   "variacion": 50.0,
-   "situación": "Aumento de Casos",
+   "variacion": -25.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Sierra Gorda"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 2103,
-   "2025": 15.0,
+   "2025": 16.0,
    "2026": 10.0,
-   "variacion": -33.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Sierra Gorda"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 2103,
-   "2025": 17.0,
+   "2025": 19.0,
    "2026": 6.0,
-   "variacion": -65.0,
+   "variacion": -68.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Sierra Gorda"
   },
@@ -419,7 +419,7 @@
    "CODCOM": 2103,
    "anio": 2026,
    "mes": 3,
-   "casos": 4.0,
+   "casos": 5.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -1019,7 +1019,7 @@
    "CODCOM": 2103,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -1619,7 +1619,7 @@
    "CODCOM": 2103,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -1979,7 +1979,7 @@
    "CODCOM": 2103,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -2599,7 +2599,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 22.0,
    "2025": 31.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -2653,7 +2653,7 @@
    "delito": "INCIVILIDADES",
    "2024": 8.0,
    "2025": 9.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -2698,7 +2698,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 4.0,
    "2025": 8.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -2725,7 +2725,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 44.0,
    "2025": 49.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -2775,7 +2775,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
+  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
   "region": "Antofagasta"
  }
 }

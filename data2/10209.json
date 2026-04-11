@@ -4,17 +4,17 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 10209,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 1.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Quemchi"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10209,
-   "2025": 9.0,
-   "2026": 6.0,
-   "variacion": -33.0,
+   "2025": 10.0,
+   "2026": 7.0,
+   "variacion": -30.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quemchi"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 10209,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 8.0,
-   "variacion": 33.0,
+   "variacion": 14.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Quemchi"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10209,
-   "2025": 11.0,
+   "2025": 12.0,
    "2026": 9.0,
-   "variacion": -18.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quemchi"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10209,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Quemchi"
   },
   {
@@ -103,18 +103,18 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10209,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 1.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Quemchi"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 10209,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Quemchi"
   },
   {
@@ -166,17 +166,17 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10209,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 2.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Quemchi"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10209,
    "2025": 2.0,
-   "2026": 0.0,
-   "variacion": -100.0,
+   "2026": 1.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quemchi"
   }
@@ -299,7 +299,7 @@
    "CODCOM": 10209,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -419,7 +419,7 @@
    "CODCOM": 10209,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -1603,7 +1603,7 @@
    "CODCOM": 10209,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -1723,7 +1723,7 @@
    "CODCOM": 10209,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2427,7 +2427,7 @@
    "CODCOM": 10209,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2547,7 +2547,7 @@
    "CODCOM": 10209,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Quemchi"
   }
  ],
@@ -2558,7 +2558,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 0.0,
    "2025": 2.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2567,7 +2567,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 46.0,
    "2025": 33.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2657,7 +2657,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 7.0,
    "2025": 5.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2666,7 +2666,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 1.0,
    "2025": 2.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2720,7 +2720,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 9.0,
    "2025": 7.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2738,12 +2738,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 4.0,
    "2025": 9.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Quemchi"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
+  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
   "region": "Los Lagos"
  }
 }

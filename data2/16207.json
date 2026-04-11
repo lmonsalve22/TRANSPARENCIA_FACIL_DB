@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16207,
-   "2025": 17.0,
-   "2026": 11.0,
-   "variacion": -35.0,
+   "2025": 18.0,
+   "2026": 13.0,
+   "variacion": -28.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 16207,
    "2025": 26.0,
-   "2026": 16.0,
-   "variacion": -38.0,
+   "2026": 17.0,
+   "variacion": -35.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16207,
    "2025": 15.0,
-   "2026": 6.0,
-   "variacion": -60.0,
+   "2026": 8.0,
+   "variacion": -47.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
@@ -57,7 +57,7 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16207,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -66,10 +66,10 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 16207,
-   "2025": 6.0,
+   "2025": 9.0,
    "2026": 6.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16207,
-   "2025": 9.0,
+   "2025": 10.0,
    "2026": 6.0,
-   "variacion": -33.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Treguaco"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 16207,
    "2025": 0.0,
-   "2026": 3.0,
-   "variacion": 300.0,
+   "2026": 4.0,
+   "variacion": 400.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Treguaco"
   },
@@ -420,7 +420,7 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 3,
-   "casos": 4.0,
+   "casos": 6.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -660,7 +660,7 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 3,
-   "casos": 5.0,
+   "casos": 6.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -780,7 +780,7 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 3,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -1724,7 +1724,7 @@
    "CODCOM": 16207,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2672,7 +2672,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 65.0,
    "2025": 57.0,
-   "2026": 11.0,
+   "2026": 13.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2690,7 +2690,7 @@
    "delito": "DAÑOS",
    "2024": 64.0,
    "2025": 70.0,
-   "2026": 16.0,
+   "2026": 17.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2699,7 +2699,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 59.0,
    "2025": 50.0,
-   "2026": 6.0,
+   "2026": 8.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2771,7 +2771,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 3.0,
    "2025": 1.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Treguaco"
   },
   {
@@ -2848,7 +2848,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
+  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
   "region": "Ñuble"
  }
 }

@@ -3,45 +3,45 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 6107,
-   "2025": 2.0,
-   "2026": 0.0,
-   "variacion": -100.0,
+   "2025": 3.0,
+   "2026": 1.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Las Cabras"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6107,
-   "2025": 81.0,
-   "2026": 91.0,
-   "variacion": 12.0,
+   "2025": 87.0,
+   "2026": 98.0,
+   "variacion": 13.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Las Cabras"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6107,
-   "2025": 43.0,
-   "2026": 63.0,
-   "variacion": 47.0,
+   "2025": 44.0,
+   "2026": 65.0,
+   "variacion": 48.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Las Cabras"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6107,
-   "2025": 56.0,
-   "2026": 46.0,
-   "variacion": -18.0,
+   "2025": 60.0,
+   "2026": 51.0,
+   "variacion": -15.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Las Cabras"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6107,
-   "2025": 94.0,
-   "2026": 84.0,
-   "variacion": -11.0,
+   "2025": 103.0,
+   "2026": 89.0,
+   "variacion": -14.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Las Cabras"
   },
@@ -57,19 +57,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6107,
-   "2025": 28.0,
-   "2026": 22.0,
-   "variacion": -21.0,
+   "2025": 32.0,
+   "2026": 23.0,
+   "variacion": -28.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Las Cabras"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6107,
-   "2025": 26.0,
-   "2026": 28.0,
-   "variacion": 8.0,
-   "situación": "Aumento de Casos",
+   "2025": 32.0,
+   "2026": 30.0,
+   "variacion": -6.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Las Cabras"
   },
   {
@@ -84,27 +84,27 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6107,
-   "2025": 39.0,
+   "2025": 42.0,
    "2026": 41.0,
-   "variacion": 5.0,
-   "situación": "Aumento de Casos",
+   "variacion": -2.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Las Cabras"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6107,
    "2025": 14.0,
-   "2026": 6.0,
-   "variacion": -57.0,
+   "2026": 8.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Las Cabras"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6107,
-   "2025": 3.0,
-   "2026": 5.0,
-   "variacion": 67.0,
+   "2025": 4.0,
+   "2026": 6.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Las Cabras"
   },
@@ -138,14 +138,23 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6107,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 5.0,
-   "variacion": 67.0,
+   "variacion": 25.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Las Cabras"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6107,
+   "2025": 10.0,
+   "2026": 2.0,
+   "variacion": -80.0,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Las Cabras"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6107,
    "2025": 9.0,
    "2026": 2.0,
@@ -154,29 +163,20 @@
    "COMUNA": "Las Cabras"
   },
   {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 6107,
-   "2025": 8.0,
-   "2026": 2.0,
-   "variacion": -75.0,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Las Cabras"
-  },
-  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6107,
-   "2025": 55.0,
-   "2026": 51.0,
-   "variacion": -7.0,
+   "2025": 56.0,
+   "2026": 55.0,
+   "variacion": -2.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Las Cabras"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6107,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 1.0,
-   "variacion": -80.0,
+   "variacion": -83.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Las Cabras"
   },
@@ -308,7 +308,7 @@
    "CODCOM": 6107,
    "anio": 2026,
    "mes": 3,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Las Cabras"
   },
   {
@@ -428,7 +428,7 @@
    "CODCOM": 6107,
    "anio": 2026,
    "mes": 3,
-   "casos": 29.0,
+   "casos": 36.0,
    "COMUNA": "Las Cabras"
   },
   {
@@ -548,7 +548,7 @@
    "CODCOM": 6107,
    "anio": 2026,
    "mes": 3,
-   "casos": 14.0,
+   "casos": 16.0,
    "COMUNA": "Las Cabras"
   },
   {
@@ -668,7 +668,7 @@
    "CODCOM": 6107,
    "anio": 2026,
    "mes": 3,
-   "casos": 14.0,
+   "casos": 19.0,
    "COMUNA": "Las Cabras"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 6107,
    "anio": 2026,
    "mes": 3,
-   "casos": 17.0,
+   "casos": 22.0,
    "COMUNA": "Las Cabras"
   },
   {
@@ -1028,7 +1028,7 @@
    "CODCOM": 6107,
    "anio": 2026,
    "mes": 3,
-   "casos": 5.0,
+   "casos": 6.0,
    "COMUNA": "Las Cabras"
   },
   {
@@ -1148,7 +1148,7 @@
    "CODCOM": 6107,
    "anio": 2026,
    "mes": 3,
-   "casos": 4.0,
+   "casos": 6.0,
    "COMUNA": "Las Cabras"
   },
   {
@@ -1508,7 +1508,7 @@
    "CODCOM": 6107,
    "anio": 2026,
    "mes": 3,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Las Cabras"
   },
   {
@@ -1628,7 +1628,7 @@
    "CODCOM": 6107,
    "anio": 2026,
    "mes": 3,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Las Cabras"
   },
   {
@@ -2468,7 +2468,7 @@
    "CODCOM": 6107,
    "anio": 2026,
    "mes": 3,
-   "casos": 12.0,
+   "casos": 16.0,
    "COMUNA": "Las Cabras"
   },
   {
@@ -2719,7 +2719,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 12.0,
    "2025": 15.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Las Cabras"
   },
   {
@@ -2728,7 +2728,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 309.0,
    "2025": 330.0,
-   "2026": 91.0,
+   "2026": 98.0,
    "COMUNA": "Las Cabras"
   },
   {
@@ -2737,7 +2737,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 171.0,
    "2025": 194.0,
-   "2026": 63.0,
+   "2026": 65.0,
    "COMUNA": "Las Cabras"
   },
   {
@@ -2746,7 +2746,7 @@
    "delito": "DAÑOS",
    "2024": 204.0,
    "2025": 178.0,
-   "2026": 46.0,
+   "2026": 51.0,
    "COMUNA": "Las Cabras"
   },
   {
@@ -2755,7 +2755,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 301.0,
    "2025": 301.0,
-   "2026": 84.0,
+   "2026": 89.0,
    "COMUNA": "Las Cabras"
   },
   {
@@ -2773,7 +2773,7 @@
    "delito": "HURTOS",
    "2024": 128.0,
    "2025": 104.0,
-   "2026": 22.0,
+   "2026": 23.0,
    "COMUNA": "Las Cabras"
   },
   {
@@ -2782,7 +2782,7 @@
    "delito": "INCIVILIDADES",
    "2024": 86.0,
    "2025": 84.0,
-   "2026": 28.0,
+   "2026": 30.0,
    "COMUNA": "Las Cabras"
   },
   {
@@ -2809,7 +2809,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 38.0,
    "2025": 37.0,
-   "2026": 6.0,
+   "2026": 8.0,
    "COMUNA": "Las Cabras"
   },
   {
@@ -2818,7 +2818,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 21.0,
    "2025": 22.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Las Cabras"
   },
   {
@@ -2881,7 +2881,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 201.0,
    "2025": 190.0,
-   "2026": 51.0,
+   "2026": 55.0,
    "COMUNA": "Las Cabras"
   },
   {
@@ -2904,7 +2904,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 13/2026 (del 23/03/2026 al 29/03/2026)",
+  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
   "region": "O'Higgins"
  }
 }
