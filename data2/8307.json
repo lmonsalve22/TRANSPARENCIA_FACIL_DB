@@ -3,18 +3,18 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 8307,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Negrete"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8307,
-   "2025": 30.0,
-   "2026": 17.0,
-   "variacion": -43.0,
+   "2025": 31.0,
+   "2026": 19.0,
+   "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Negrete"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8307,
    "2025": 31.0,
-   "2026": 16.0,
-   "variacion": -48.0,
+   "2026": 18.0,
+   "variacion": -42.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Negrete"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8307,
-   "2025": 26.0,
-   "2026": 7.0,
-   "variacion": -73.0,
+   "2025": 28.0,
+   "2026": 8.0,
+   "variacion": -71.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Negrete"
   },
@@ -85,9 +85,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 8307,
    "2025": 9.0,
-   "2026": 8.0,
-   "variacion": -11.0,
-   "situación": "Disminución de Casos",
+   "2026": 9.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Negrete"
   },
   {
@@ -138,9 +138,9 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8307,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 1.0,
-   "variacion": -67.0,
+   "variacion": -75.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Negrete"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8307,
    "2025": 14.0,
-   "2026": 15.0,
-   "variacion": 7.0,
+   "2026": 16.0,
+   "variacion": 14.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Negrete"
   },
@@ -312,6 +312,14 @@
    "COMUNA": "Negrete"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8307,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Negrete"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8307,
    "anio": 2025,
@@ -429,6 +437,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 5.0,
+   "COMUNA": "Negrete"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 8307,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 2.0,
    "COMUNA": "Negrete"
   },
   {
@@ -552,6 +568,14 @@
    "COMUNA": "Negrete"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 8307,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Negrete"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 8307,
    "anio": 2025,
@@ -669,6 +693,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 7.0,
+   "COMUNA": "Negrete"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8307,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Negrete"
   },
   {
@@ -792,6 +824,14 @@
    "COMUNA": "Negrete"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 8307,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 2.0,
+   "COMUNA": "Negrete"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 8307,
    "anio": 2025,
@@ -900,6 +940,14 @@
    "CODCOM": 8307,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Negrete"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 8307,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Negrete"
   },
@@ -1024,6 +1072,14 @@
    "COMUNA": "Negrete"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 8307,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Negrete"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 8307,
    "anio": 2025,
@@ -1144,6 +1200,14 @@
    "COMUNA": "Negrete"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 8307,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Negrete"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8307,
    "anio": 2025,
@@ -1260,6 +1324,14 @@
    "CODCOM": 8307,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Negrete"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 8307,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Negrete"
   },
@@ -1384,6 +1456,14 @@
    "COMUNA": "Negrete"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 8307,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Negrete"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8307,
    "anio": 2025,
@@ -1500,6 +1580,14 @@
    "CODCOM": 8307,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Negrete"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 8307,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Negrete"
   },
@@ -1624,6 +1712,14 @@
    "COMUNA": "Negrete"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 8307,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Negrete"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8307,
    "anio": 2025,
@@ -1736,6 +1832,14 @@
    "COMUNA": "Negrete"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8307,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Negrete"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 8307,
    "anio": 2025,
@@ -1848,6 +1952,14 @@
    "COMUNA": "Negrete"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8307,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Negrete"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8307,
    "anio": 2025,
@@ -1964,6 +2076,14 @@
    "CODCOM": 8307,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Negrete"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8307,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Negrete"
   },
@@ -2088,6 +2208,14 @@
    "COMUNA": "Negrete"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 8307,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Negrete"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8307,
    "anio": 2025,
@@ -2204,6 +2332,14 @@
    "CODCOM": 8307,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Negrete"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 8307,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Negrete"
   },
@@ -2325,6 +2461,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Negrete"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 8307,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Negrete"
   },
   {
@@ -2448,6 +2592,14 @@
    "COMUNA": "Negrete"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8307,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Negrete"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8307,
    "anio": 2025,
@@ -2564,6 +2716,14 @@
    "CODCOM": 8307,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Negrete"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 8307,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Negrete"
   },
@@ -2686,6 +2846,14 @@
    "mes": 3,
    "casos": 1.0,
    "COMUNA": "Negrete"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 8307,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Negrete"
   }
  ],
  "info": [
@@ -2704,7 +2872,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 75.0,
    "2025": 87.0,
-   "2026": 17.0,
+   "2026": 19.0,
    "COMUNA": "Negrete"
   },
   {
@@ -2731,7 +2899,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 98.0,
    "2025": 80.0,
-   "2026": 16.0,
+   "2026": 18.0,
    "COMUNA": "Negrete"
   },
   {
@@ -2749,7 +2917,7 @@
    "delito": "HURTOS",
    "2024": 48.0,
    "2025": 50.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Negrete"
   },
   {
@@ -2776,7 +2944,7 @@
    "delito": "LESIONES LEVES",
    "2024": 33.0,
    "2025": 34.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Negrete"
   },
   {
@@ -2857,7 +3025,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 83.0,
    "2025": 62.0,
-   "2026": 15.0,
+   "2026": 16.0,
    "COMUNA": "Negrete"
   },
   {
@@ -2880,7 +3048,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
+  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
   "region": "Biobío"
  }
 }

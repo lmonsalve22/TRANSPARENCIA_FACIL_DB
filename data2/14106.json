@@ -3,17 +3,17 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 14106,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Mariquina"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14106,
-   "2025": 75.0,
-   "2026": 65.0,
+   "2025": 83.0,
+   "2026": 72.0,
    "variacion": -13.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Mariquina"
@@ -21,27 +21,27 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 14106,
-   "2025": 70.0,
-   "2026": 49.0,
-   "variacion": -30.0,
+   "2025": 72.0,
+   "2026": 61.0,
+   "variacion": -15.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Mariquina"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 14106,
-   "2025": 48.0,
-   "2026": 57.0,
-   "variacion": 19.0,
+   "2025": 50.0,
+   "2026": 62.0,
+   "variacion": 24.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Mariquina"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 14106,
-   "2025": 51.0,
-   "2026": 46.0,
-   "variacion": -10.0,
+   "2025": 56.0,
+   "2026": 48.0,
+   "variacion": -14.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Mariquina"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 14106,
-   "2025": 31.0,
-   "2026": 39.0,
-   "variacion": 26.0,
+   "2025": 36.0,
+   "2026": 42.0,
+   "variacion": 17.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Mariquina"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 14106,
-   "2025": 29.0,
-   "2026": 23.0,
-   "variacion": -21.0,
+   "2025": 31.0,
+   "2026": 25.0,
+   "variacion": -19.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Mariquina"
   },
@@ -85,25 +85,25 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 14106,
    "2025": 22.0,
-   "2026": 28.0,
-   "variacion": 27.0,
+   "2026": 30.0,
+   "variacion": 36.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Mariquina"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 14106,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 4.0,
-   "variacion": -20.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Mariquina"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 14106,
-   "2025": 29.0,
-   "2026": 6.0,
+   "2025": 33.0,
+   "2026": 7.0,
    "variacion": -79.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Mariquina"
@@ -165,17 +165,17 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 14106,
-   "2025": 34.0,
-   "2026": 26.0,
-   "variacion": -24.0,
+   "2025": 35.0,
+   "2026": 30.0,
+   "variacion": -14.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Mariquina"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 14106,
-   "2025": 1.0,
-   "2026": 1.0,
+   "2025": 2.0,
+   "2026": 2.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Mariquina"
@@ -312,6 +312,14 @@
    "COMUNA": "Mariquina"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 14106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Mariquina"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14106,
    "anio": 2025,
@@ -429,6 +437,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 19.0,
+   "COMUNA": "Mariquina"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 14106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 7.0,
    "COMUNA": "Mariquina"
   },
   {
@@ -552,6 +568,14 @@
    "COMUNA": "Mariquina"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 14106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 12.0,
+   "COMUNA": "Mariquina"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 14106,
    "anio": 2025,
@@ -669,6 +693,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 22.0,
+   "COMUNA": "Mariquina"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 14106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 5.0,
    "COMUNA": "Mariquina"
   },
   {
@@ -792,6 +824,14 @@
    "COMUNA": "Mariquina"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 14106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 2.0,
+   "COMUNA": "Mariquina"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 14106,
    "anio": 2025,
@@ -908,6 +948,14 @@
    "CODCOM": 14106,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Mariquina"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 14106,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Mariquina"
   },
@@ -1032,6 +1080,14 @@
    "COMUNA": "Mariquina"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 14106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 3.0,
+   "COMUNA": "Mariquina"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 14106,
    "anio": 2025,
@@ -1152,6 +1208,14 @@
    "COMUNA": "Mariquina"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 14106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 2.0,
+   "COMUNA": "Mariquina"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 14106,
    "anio": 2025,
@@ -1269,6 +1333,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Mariquina"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 14106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Mariquina"
   },
   {
@@ -1392,6 +1464,14 @@
    "COMUNA": "Mariquina"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 14106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 2.0,
+   "COMUNA": "Mariquina"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 14106,
    "anio": 2025,
@@ -1509,6 +1589,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Mariquina"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 14106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Mariquina"
   },
   {
@@ -1632,6 +1720,14 @@
    "COMUNA": "Mariquina"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 14106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Mariquina"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 14106,
    "anio": 2025,
@@ -1749,6 +1845,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 3.0,
+   "COMUNA": "Mariquina"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 14106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Mariquina"
   },
   {
@@ -1872,6 +1976,14 @@
    "COMUNA": "Mariquina"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 14106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Mariquina"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 14106,
    "anio": 2025,
@@ -1992,6 +2104,14 @@
    "COMUNA": "Mariquina"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 14106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Mariquina"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 14106,
    "anio": 2025,
@@ -2112,6 +2232,14 @@
    "COMUNA": "Mariquina"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 14106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Mariquina"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 14106,
    "anio": 2025,
@@ -2232,6 +2360,14 @@
    "COMUNA": "Mariquina"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 14106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Mariquina"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 14106,
    "anio": 2025,
@@ -2349,6 +2485,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Mariquina"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 14106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Mariquina"
   },
   {
@@ -2472,6 +2616,14 @@
    "COMUNA": "Mariquina"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 14106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 4.0,
+   "COMUNA": "Mariquina"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 14106,
    "anio": 2025,
@@ -2589,6 +2741,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 0.0,
+   "COMUNA": "Mariquina"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 14106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
    "COMUNA": "Mariquina"
   },
   {
@@ -2710,6 +2870,14 @@
    "mes": 3,
    "casos": 2.0,
    "COMUNA": "Mariquina"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 14106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Mariquina"
   }
  ],
  "info": [
@@ -2728,7 +2896,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 228.0,
    "2025": 233.0,
-   "2026": 65.0,
+   "2026": 72.0,
    "COMUNA": "Mariquina"
   },
   {
@@ -2737,7 +2905,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 269.0,
    "2025": 273.0,
-   "2026": 49.0,
+   "2026": 61.0,
    "COMUNA": "Mariquina"
   },
   {
@@ -2746,7 +2914,7 @@
    "delito": "DAÑOS",
    "2024": 272.0,
    "2025": 191.0,
-   "2026": 57.0,
+   "2026": 62.0,
    "COMUNA": "Mariquina"
   },
   {
@@ -2755,7 +2923,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 205.0,
    "2025": 185.0,
-   "2026": 46.0,
+   "2026": 48.0,
    "COMUNA": "Mariquina"
   },
   {
@@ -2773,7 +2941,7 @@
    "delito": "HURTOS",
    "2024": 124.0,
    "2025": 110.0,
-   "2026": 39.0,
+   "2026": 42.0,
    "COMUNA": "Mariquina"
   },
   {
@@ -2782,7 +2950,7 @@
    "delito": "INCIVILIDADES",
    "2024": 73.0,
    "2025": 72.0,
-   "2026": 23.0,
+   "2026": 25.0,
    "COMUNA": "Mariquina"
   },
   {
@@ -2800,7 +2968,7 @@
    "delito": "LESIONES LEVES",
    "2024": 88.0,
    "2025": 72.0,
-   "2026": 28.0,
+   "2026": 30.0,
    "COMUNA": "Mariquina"
   },
   {
@@ -2818,7 +2986,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 109.0,
    "2025": 98.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Mariquina"
   },
   {
@@ -2881,7 +3049,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 175.0,
    "2025": 138.0,
-   "2026": 26.0,
+   "2026": 30.0,
    "COMUNA": "Mariquina"
   },
   {
@@ -2890,7 +3058,7 @@
    "delito": "ROBOS POR SORPRESA",
    "2024": 12.0,
    "2025": 7.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Mariquina"
   },
   {
@@ -2904,7 +3072,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
+  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
   "region": "Los Ríos"
  }
 }

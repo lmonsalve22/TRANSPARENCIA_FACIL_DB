@@ -3,27 +3,27 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 6112,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 1.0,
-   "variacion": -67.0,
+   "variacion": -75.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Peumo"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6112,
-   "2025": 46.0,
-   "2026": 48.0,
-   "variacion": 4.0,
-   "situación": "Aumento de Casos",
+   "2025": 51.0,
+   "2026": 49.0,
+   "variacion": -4.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Peumo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6112,
-   "2025": 59.0,
-   "2026": 49.0,
-   "variacion": -17.0,
+   "2025": 60.0,
+   "2026": 54.0,
+   "variacion": -10.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Peumo"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 6112,
    "2025": 25.0,
-   "2026": 23.0,
-   "variacion": -8.0,
-   "situación": "Disminución de Casos",
+   "2026": 25.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Peumo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6112,
-   "2025": 34.0,
-   "2026": 32.0,
-   "variacion": -6.0,
+   "2025": 37.0,
+   "2026": 35.0,
+   "variacion": -5.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Peumo"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 6112,
    "2025": 3.0,
-   "2026": 4.0,
-   "variacion": 33.0,
+   "2026": 5.0,
+   "variacion": 67.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Peumo"
   },
@@ -84,19 +84,19 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6112,
-   "2025": 15.0,
-   "2026": 11.0,
-   "variacion": -27.0,
+   "2025": 18.0,
+   "2026": 14.0,
+   "variacion": -22.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Peumo"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6112,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Peumo"
   },
   {
@@ -111,9 +111,9 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6112,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 5.0,
-   "variacion": 150.0,
+   "variacion": 67.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Peumo"
   },
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6112,
    "2025": 1.0,
-   "2026": 3.0,
-   "variacion": 200.0,
+   "2026": 4.0,
+   "variacion": 300.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Peumo"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6112,
    "2025": 11.0,
-   "2026": 8.0,
-   "variacion": -27.0,
+   "2026": 9.0,
+   "variacion": -18.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Peumo"
   },
@@ -312,6 +312,14 @@
    "COMUNA": "Peumo"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 6112,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Peumo"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6112,
    "anio": 2025,
@@ -429,6 +437,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 19.0,
+   "COMUNA": "Peumo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 6112,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
    "COMUNA": "Peumo"
   },
   {
@@ -552,6 +568,14 @@
    "COMUNA": "Peumo"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 6112,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 5.0,
+   "COMUNA": "Peumo"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 6112,
    "anio": 2025,
@@ -669,6 +693,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 12.0,
+   "COMUNA": "Peumo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 6112,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 2.0,
    "COMUNA": "Peumo"
   },
   {
@@ -792,6 +824,14 @@
    "COMUNA": "Peumo"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6112,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 3.0,
+   "COMUNA": "Peumo"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6112,
    "anio": 2025,
@@ -901,6 +941,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Peumo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 6112,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Peumo"
   },
   {
@@ -1024,6 +1072,14 @@
    "COMUNA": "Peumo"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6112,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Peumo"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 6112,
    "anio": 2025,
@@ -1144,6 +1200,14 @@
    "COMUNA": "Peumo"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 6112,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Peumo"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6112,
    "anio": 2025,
@@ -1260,6 +1324,14 @@
    "CODCOM": 6112,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Peumo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 6112,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Peumo"
   },
@@ -1384,6 +1456,14 @@
    "COMUNA": "Peumo"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 6112,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 3.0,
+   "COMUNA": "Peumo"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6112,
    "anio": 2025,
@@ -1504,6 +1584,14 @@
    "COMUNA": "Peumo"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 6112,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Peumo"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6112,
    "anio": 2025,
@@ -1624,6 +1712,14 @@
    "COMUNA": "Peumo"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 6112,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Peumo"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6112,
    "anio": 2025,
@@ -1744,6 +1840,14 @@
    "COMUNA": "Peumo"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 6112,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Peumo"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6112,
    "anio": 2025,
@@ -1860,6 +1964,14 @@
    "CODCOM": 6112,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Peumo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 6112,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Peumo"
   },
@@ -1984,6 +2096,14 @@
    "COMUNA": "Peumo"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6112,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Peumo"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6112,
    "anio": 2025,
@@ -2100,6 +2220,14 @@
    "CODCOM": 6112,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Peumo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 6112,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Peumo"
   },
@@ -2224,6 +2352,14 @@
    "COMUNA": "Peumo"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6112,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Peumo"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6112,
    "anio": 2025,
@@ -2340,6 +2476,14 @@
    "CODCOM": 6112,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Peumo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 6112,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Peumo"
   },
@@ -2464,6 +2608,14 @@
    "COMUNA": "Peumo"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 6112,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Peumo"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6112,
    "anio": 2025,
@@ -2580,6 +2732,14 @@
    "CODCOM": 6112,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Peumo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6112,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Peumo"
   },
@@ -2702,6 +2862,14 @@
    "mes": 3,
    "casos": 2.0,
    "COMUNA": "Peumo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 6112,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Peumo"
   }
  ],
  "info": [
@@ -2720,7 +2888,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 158.0,
    "2025": 139.0,
-   "2026": 48.0,
+   "2026": 49.0,
    "COMUNA": "Peumo"
   },
   {
@@ -2729,7 +2897,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 141.0,
    "2025": 323.0,
-   "2026": 49.0,
+   "2026": 54.0,
    "COMUNA": "Peumo"
   },
   {
@@ -2738,7 +2906,7 @@
    "delito": "DAÑOS",
    "2024": 100.0,
    "2025": 101.0,
-   "2026": 23.0,
+   "2026": 25.0,
    "COMUNA": "Peumo"
   },
   {
@@ -2747,7 +2915,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 144.0,
    "2025": 141.0,
-   "2026": 32.0,
+   "2026": 35.0,
    "COMUNA": "Peumo"
   },
   {
@@ -2774,7 +2942,7 @@
    "delito": "INCIVILIDADES",
    "2024": 51.0,
    "2025": 53.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Peumo"
   },
   {
@@ -2792,7 +2960,7 @@
    "delito": "LESIONES LEVES",
    "2024": 50.0,
    "2025": 44.0,
-   "2026": 11.0,
+   "2026": 14.0,
    "COMUNA": "Peumo"
   },
   {
@@ -2855,7 +3023,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 12.0,
    "2025": 10.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Peumo"
   },
   {
@@ -2873,7 +3041,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 107.0,
    "2025": 64.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Peumo"
   },
   {
@@ -2896,7 +3064,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
+  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
   "region": "O'Higgins"
  }
 }

@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16109,
-   "2025": 46.0,
+   "2025": 49.0,
    "2026": 39.0,
-   "variacion": -15.0,
+   "variacion": -20.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Yungay"
   },
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16109,
    "2025": 13.0,
-   "2026": 24.0,
-   "variacion": 85.0,
+   "2026": 25.0,
+   "variacion": 92.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Yungay"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 16109,
-   "2025": 42.0,
-   "2026": 41.0,
-   "variacion": -2.0,
+   "2025": 45.0,
+   "2026": 42.0,
+   "variacion": -7.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Yungay"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16109,
-   "2025": 51.0,
-   "2026": 30.0,
-   "variacion": -41.0,
+   "2025": 53.0,
+   "2026": 33.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Yungay"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16109,
-   "2025": 21.0,
-   "2026": 22.0,
+   "2025": 22.0,
+   "2026": 23.0,
    "variacion": 5.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Yungay"
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16109,
-   "2025": 13.0,
-   "2026": 12.0,
-   "variacion": -8.0,
-   "situación": "Disminución de Casos",
+   "2025": 14.0,
+   "2026": 14.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Yungay"
   },
   {
@@ -111,10 +111,10 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 16109,
-   "2025": 6.0,
-   "2026": 5.0,
-   "variacion": -17.0,
-   "situación": "Disminución de Casos",
+   "2025": 7.0,
+   "2026": 8.0,
+   "variacion": 14.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Yungay"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16109,
-   "2025": 21.0,
-   "2026": 26.0,
-   "variacion": 24.0,
+   "2025": 26.0,
+   "2026": 27.0,
+   "variacion": 4.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Yungay"
   },
@@ -312,6 +312,14 @@
    "COMUNA": "Yungay"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 16109,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Yungay"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16109,
    "anio": 2025,
@@ -432,6 +440,14 @@
    "COMUNA": "Yungay"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 16109,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Yungay"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16109,
    "anio": 2025,
@@ -549,6 +565,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 16.0,
+   "COMUNA": "Yungay"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 16109,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
    "COMUNA": "Yungay"
   },
   {
@@ -672,6 +696,14 @@
    "COMUNA": "Yungay"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 16109,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Yungay"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16109,
    "anio": 2025,
@@ -792,6 +824,14 @@
    "COMUNA": "Yungay"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 16109,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 3.0,
+   "COMUNA": "Yungay"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 16109,
    "anio": 2025,
@@ -908,6 +948,14 @@
    "CODCOM": 16109,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Yungay"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 16109,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Yungay"
   },
@@ -1032,6 +1080,14 @@
    "COMUNA": "Yungay"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 16109,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Yungay"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 16109,
    "anio": 2025,
@@ -1152,6 +1208,14 @@
    "COMUNA": "Yungay"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 16109,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Yungay"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16109,
    "anio": 2025,
@@ -1268,6 +1332,14 @@
    "CODCOM": 16109,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Yungay"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 16109,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Yungay"
   },
@@ -1392,6 +1464,14 @@
    "COMUNA": "Yungay"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16109,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 2.0,
+   "COMUNA": "Yungay"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16109,
    "anio": 2025,
@@ -1508,6 +1588,14 @@
    "CODCOM": 16109,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Yungay"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16109,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Yungay"
   },
@@ -1632,6 +1720,14 @@
    "COMUNA": "Yungay"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16109,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Yungay"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 16109,
    "anio": 2025,
@@ -1752,6 +1848,14 @@
    "COMUNA": "Yungay"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 16109,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 3.0,
+   "COMUNA": "Yungay"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 16109,
    "anio": 2025,
@@ -1868,6 +1972,14 @@
    "CODCOM": 16109,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Yungay"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 16109,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Yungay"
   },
@@ -1992,6 +2104,14 @@
    "COMUNA": "Yungay"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16109,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Yungay"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 16109,
    "anio": 2025,
@@ -2109,6 +2229,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 2.0,
+   "COMUNA": "Yungay"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16109,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Yungay"
   },
   {
@@ -2232,6 +2360,14 @@
    "COMUNA": "Yungay"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16109,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Yungay"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16109,
    "anio": 2025,
@@ -2349,6 +2485,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Yungay"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16109,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Yungay"
   },
   {
@@ -2472,6 +2616,14 @@
    "COMUNA": "Yungay"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 16109,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Yungay"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 16109,
    "anio": 2025,
@@ -2588,6 +2740,14 @@
    "CODCOM": 16109,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Yungay"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 16109,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Yungay"
   },
@@ -2710,6 +2870,14 @@
    "mes": 3,
    "casos": 2.0,
    "COMUNA": "Yungay"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 16109,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Yungay"
   }
  ],
  "info": [
@@ -2737,7 +2905,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 62.0,
    "2025": 42.0,
-   "2026": 24.0,
+   "2026": 25.0,
    "COMUNA": "Yungay"
   },
   {
@@ -2746,7 +2914,7 @@
    "delito": "DAÑOS",
    "2024": 154.0,
    "2025": 144.0,
-   "2026": 41.0,
+   "2026": 42.0,
    "COMUNA": "Yungay"
   },
   {
@@ -2755,7 +2923,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 173.0,
    "2025": 174.0,
-   "2026": 30.0,
+   "2026": 33.0,
    "COMUNA": "Yungay"
   },
   {
@@ -2773,7 +2941,7 @@
    "delito": "HURTOS",
    "2024": 69.0,
    "2025": 80.0,
-   "2026": 22.0,
+   "2026": 23.0,
    "COMUNA": "Yungay"
   },
   {
@@ -2800,7 +2968,7 @@
    "delito": "LESIONES LEVES",
    "2024": 54.0,
    "2025": 60.0,
-   "2026": 12.0,
+   "2026": 14.0,
    "COMUNA": "Yungay"
   },
   {
@@ -2827,7 +2995,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 13.0,
    "2025": 12.0,
-   "2026": 5.0,
+   "2026": 8.0,
    "COMUNA": "Yungay"
   },
   {
@@ -2881,7 +3049,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 118.0,
    "2025": 74.0,
-   "2026": 26.0,
+   "2026": 27.0,
    "COMUNA": "Yungay"
   },
   {
@@ -2904,7 +3072,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
+  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
   "region": "Ñuble"
  }
 }

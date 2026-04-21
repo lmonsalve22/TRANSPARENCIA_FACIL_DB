@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9204,
-   "2025": 32.0,
-   "2026": 26.0,
-   "variacion": -19.0,
+   "2025": 36.0,
+   "2026": 27.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ercilla"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9204,
-   "2025": 65.0,
-   "2026": 49.0,
-   "variacion": -25.0,
+   "2025": 71.0,
+   "2026": 51.0,
+   "variacion": -28.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ercilla"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9204,
-   "2025": 25.0,
+   "2025": 26.0,
    "2026": 18.0,
-   "variacion": -28.0,
+   "variacion": -31.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ercilla"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9204,
-   "2025": 22.0,
-   "2026": 16.0,
-   "variacion": -27.0,
+   "2025": 23.0,
+   "2026": 18.0,
+   "variacion": -22.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ercilla"
   },
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 9204,
    "2025": 9.0,
-   "2026": 9.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 10.0,
+   "variacion": 11.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Ercilla"
   },
   {
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 9204,
    "2025": 11.0,
-   "2026": 3.0,
-   "variacion": -73.0,
+   "2026": 4.0,
+   "variacion": -64.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ercilla"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9204,
-   "2025": 13.0,
+   "2025": 14.0,
    "2026": 10.0,
-   "variacion": -23.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ercilla"
   },
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9204,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 2.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Ercilla"
   },
   {
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9204,
-   "2025": 2.0,
+   "2025": 4.0,
    "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Ercilla"
   }
  ],
@@ -312,6 +312,14 @@
    "COMUNA": "Ercilla"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Ercilla"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9204,
    "anio": 2025,
@@ -429,6 +437,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 13.0,
+   "COMUNA": "Ercilla"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
    "COMUNA": "Ercilla"
   },
   {
@@ -552,6 +568,14 @@
    "COMUNA": "Ercilla"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 2.0,
+   "COMUNA": "Ercilla"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 9204,
    "anio": 2025,
@@ -672,6 +696,14 @@
    "COMUNA": "Ercilla"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 9204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Ercilla"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9204,
    "anio": 2025,
@@ -792,6 +824,14 @@
    "COMUNA": "Ercilla"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 2.0,
+   "COMUNA": "Ercilla"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9204,
    "anio": 2025,
@@ -900,6 +940,14 @@
    "CODCOM": 9204,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Ercilla"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9204,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Ercilla"
   },
@@ -1024,6 +1072,14 @@
    "COMUNA": "Ercilla"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Ercilla"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9204,
    "anio": 2025,
@@ -1144,6 +1200,14 @@
    "COMUNA": "Ercilla"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Ercilla"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9204,
    "anio": 2025,
@@ -1260,6 +1324,14 @@
    "CODCOM": 9204,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Ercilla"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9204,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Ercilla"
   },
@@ -1384,6 +1456,14 @@
    "COMUNA": "Ercilla"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Ercilla"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9204,
    "anio": 2025,
@@ -1500,6 +1580,14 @@
    "CODCOM": 9204,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Ercilla"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9204,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Ercilla"
   },
@@ -1624,6 +1712,14 @@
    "COMUNA": "Ercilla"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Ercilla"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9204,
    "anio": 2025,
@@ -1744,6 +1840,14 @@
    "COMUNA": "Ercilla"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Ercilla"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9204,
    "anio": 2025,
@@ -1861,6 +1965,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Ercilla"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Ercilla"
   },
   {
@@ -1984,6 +2096,14 @@
    "COMUNA": "Ercilla"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Ercilla"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9204,
    "anio": 2025,
@@ -2101,6 +2221,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 2.0,
+   "COMUNA": "Ercilla"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Ercilla"
   },
   {
@@ -2224,6 +2352,14 @@
    "COMUNA": "Ercilla"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Ercilla"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9204,
    "anio": 2025,
@@ -2340,6 +2476,14 @@
    "CODCOM": 9204,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Ercilla"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9204,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Ercilla"
   },
@@ -2464,6 +2608,14 @@
    "COMUNA": "Ercilla"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Ercilla"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9204,
    "anio": 2025,
@@ -2584,6 +2736,14 @@
    "COMUNA": "Ercilla"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Ercilla"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9204,
    "anio": 2025,
@@ -2701,6 +2861,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Ercilla"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Ercilla"
   }
  ],
@@ -2720,7 +2888,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 72.0,
    "2025": 89.0,
-   "2026": 26.0,
+   "2026": 27.0,
    "COMUNA": "Ercilla"
   },
   {
@@ -2729,7 +2897,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 214.0,
    "2025": 214.0,
-   "2026": 49.0,
+   "2026": 51.0,
    "COMUNA": "Ercilla"
   },
   {
@@ -2747,7 +2915,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 59.0,
    "2025": 60.0,
-   "2026": 16.0,
+   "2026": 18.0,
    "COMUNA": "Ercilla"
   },
   {
@@ -2774,7 +2942,7 @@
    "delito": "INCIVILIDADES",
    "2024": 21.0,
    "2025": 19.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Ercilla"
   },
   {
@@ -2792,7 +2960,7 @@
    "delito": "LESIONES LEVES",
    "2024": 25.0,
    "2025": 21.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Ercilla"
   },
   {
@@ -2896,7 +3064,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
+  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
   "region": "La Araucanía"
  }
 }

@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8106,
-   "2025": 92.0,
-   "2026": 71.0,
+   "2025": 99.0,
+   "2026": 76.0,
    "variacion": -23.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lota"
@@ -21,17 +21,17 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8106,
-   "2025": 26.0,
-   "2026": 4.0,
-   "variacion": -85.0,
+   "2025": 28.0,
+   "2026": 6.0,
+   "variacion": -79.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lota"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 8106,
-   "2025": 55.0,
-   "2026": 39.0,
+   "2025": 59.0,
+   "2026": 42.0,
    "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lota"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8106,
-   "2025": 59.0,
-   "2026": 74.0,
-   "variacion": 25.0,
+   "2025": 65.0,
+   "2026": 75.0,
+   "variacion": 15.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lota"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8106,
-   "2025": 26.0,
-   "2026": 20.0,
-   "variacion": -23.0,
+   "2025": 29.0,
+   "2026": 22.0,
+   "variacion": -24.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lota"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8106,
-   "2025": 17.0,
-   "2026": 21.0,
-   "variacion": 24.0,
+   "2025": 18.0,
+   "2026": 26.0,
+   "variacion": 44.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lota"
   },
@@ -76,58 +76,22 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 8106,
    "2025": 15.0,
-   "2026": 6.0,
-   "variacion": -60.0,
+   "2026": 7.0,
+   "variacion": -53.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lota"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8106,
-   "2025": 38.0,
-   "2026": 46.0,
-   "variacion": 21.0,
+   "2025": 44.0,
+   "2026": 51.0,
+   "variacion": 16.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lota"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 8106,
-   "2025": 10.0,
-   "2026": 10.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
-   "COMUNA": "Lota"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 8106,
-   "2025": 22.0,
-   "2026": 15.0,
-   "variacion": -32.0,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Lota"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 8106,
-   "2025": 15.0,
-   "2026": 9.0,
-   "variacion": -40.0,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Lota"
-  },
-  {
-   "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "CODCOM": 8106,
-   "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Lota"
-  },
-  {
-   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8106,
    "2025": 10.0,
    "2026": 11.0,
@@ -136,56 +100,92 @@
    "COMUNA": "Lota"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 8106,
+   "2025": 23.0,
+   "2026": 21.0,
+   "variacion": -9.0,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Lota"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8106,
+   "2025": 15.0,
+   "2026": 11.0,
+   "variacion": -27.0,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Lota"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8106,
+   "2025": 2.0,
+   "2026": 0.0,
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Lota"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8106,
+   "2025": 12.0,
+   "2026": 14.0,
+   "variacion": 17.0,
+   "situación": "Aumento de Casos",
+   "COMUNA": "Lota"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8106,
    "2025": 5.0,
-   "2026": 3.0,
-   "variacion": -40.0,
-   "situación": "Disminución de Casos",
+   "2026": 5.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Lota"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8106,
-   "2025": 17.0,
-   "2026": 31.0,
-   "variacion": 82.0,
+   "2025": 18.0,
+   "2026": 32.0,
+   "variacion": 78.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lota"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8106,
-   "2025": 10.0,
-   "2026": 16.0,
-   "variacion": 60.0,
+   "2025": 11.0,
+   "2026": 21.0,
+   "variacion": 91.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lota"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8106,
-   "2025": 61.0,
-   "2026": 57.0,
-   "variacion": -7.0,
-   "situación": "Disminución de Casos",
+   "2025": 62.0,
+   "2026": 64.0,
+   "variacion": 3.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Lota"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8106,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 6.0,
-   "variacion": 50.0,
+   "variacion": 20.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lota"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8106,
-   "2025": 7.0,
+   "2025": 8.0,
    "2026": 2.0,
-   "variacion": -71.0,
+   "variacion": -75.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lota"
   }
@@ -312,6 +312,14 @@
    "COMUNA": "Lota"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Lota"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8106,
    "anio": 2025,
@@ -429,6 +437,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 23.0,
+   "COMUNA": "Lota"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 8106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 5.0,
    "COMUNA": "Lota"
   },
   {
@@ -552,6 +568,14 @@
    "COMUNA": "Lota"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 8106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 2.0,
+   "COMUNA": "Lota"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 8106,
    "anio": 2025,
@@ -669,6 +693,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 16.0,
+   "COMUNA": "Lota"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 3.0,
    "COMUNA": "Lota"
   },
   {
@@ -792,6 +824,14 @@
    "COMUNA": "Lota"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 8106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Lota"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 8106,
    "anio": 2025,
@@ -908,6 +948,14 @@
    "CODCOM": 8106,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Lota"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 8106,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Lota"
   },
@@ -1029,6 +1077,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 6.0,
+   "COMUNA": "Lota"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 2.0,
    "COMUNA": "Lota"
   },
   {
@@ -1152,6 +1208,14 @@
    "COMUNA": "Lota"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 8106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 5.0,
+   "COMUNA": "Lota"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8106,
    "anio": 2025,
@@ -1268,6 +1332,14 @@
    "CODCOM": 8106,
    "anio": 2026,
    "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Lota"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 8106,
+   "anio": 2026,
+   "mes": 4,
    "casos": 1.0,
    "COMUNA": "Lota"
   },
@@ -1392,6 +1464,14 @@
    "COMUNA": "Lota"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 8106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 5.0,
+   "COMUNA": "Lota"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8106,
    "anio": 2025,
@@ -1509,6 +1589,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 3.0,
+   "COMUNA": "Lota"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 8106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
    "COMUNA": "Lota"
   },
   {
@@ -1632,6 +1720,14 @@
    "COMUNA": "Lota"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 8106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 6.0,
+   "COMUNA": "Lota"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8106,
    "anio": 2025,
@@ -1752,6 +1848,14 @@
    "COMUNA": "Lota"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 2.0,
+   "COMUNA": "Lota"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 8106,
    "anio": 2025,
@@ -1868,6 +1972,14 @@
    "CODCOM": 8106,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Lota"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8106,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Lota"
   },
@@ -1992,6 +2104,14 @@
    "COMUNA": "Lota"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 3.0,
+   "COMUNA": "Lota"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8106,
    "anio": 2025,
@@ -2108,6 +2228,14 @@
    "CODCOM": 8106,
    "anio": 2026,
    "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Lota"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 8106,
+   "anio": 2026,
+   "mes": 4,
    "casos": 2.0,
    "COMUNA": "Lota"
   },
@@ -2232,6 +2360,14 @@
    "COMUNA": "Lota"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 8106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Lota"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8106,
    "anio": 2025,
@@ -2348,6 +2484,14 @@
    "CODCOM": 8106,
    "anio": 2026,
    "mes": 3,
+   "casos": 5.0,
+   "COMUNA": "Lota"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 8106,
+   "anio": 2026,
+   "mes": 4,
    "casos": 5.0,
    "COMUNA": "Lota"
   },
@@ -2472,6 +2616,14 @@
    "COMUNA": "Lota"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 7.0,
+   "COMUNA": "Lota"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8106,
    "anio": 2025,
@@ -2592,6 +2744,14 @@
    "COMUNA": "Lota"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 8106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Lota"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8106,
    "anio": 2025,
@@ -2710,6 +2870,14 @@
    "mes": 3,
    "casos": 0.0,
    "COMUNA": "Lota"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 8106,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Lota"
   }
  ],
  "info": [
@@ -2728,7 +2896,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 306.0,
    "2025": 279.0,
-   "2026": 71.0,
+   "2026": 76.0,
    "COMUNA": "Lota"
   },
   {
@@ -2737,7 +2905,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 129.0,
    "2025": 86.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Lota"
   },
   {
@@ -2746,7 +2914,7 @@
    "delito": "DAÑOS",
    "2024": 195.0,
    "2025": 155.0,
-   "2026": 39.0,
+   "2026": 42.0,
    "COMUNA": "Lota"
   },
   {
@@ -2755,7 +2923,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 252.0,
    "2025": 217.0,
-   "2026": 74.0,
+   "2026": 75.0,
    "COMUNA": "Lota"
   },
   {
@@ -2773,7 +2941,7 @@
    "delito": "HURTOS",
    "2024": 101.0,
    "2025": 92.0,
-   "2026": 20.0,
+   "2026": 22.0,
    "COMUNA": "Lota"
   },
   {
@@ -2782,7 +2950,7 @@
    "delito": "INCIVILIDADES",
    "2024": 230.0,
    "2025": 86.0,
-   "2026": 21.0,
+   "2026": 26.0,
    "COMUNA": "Lota"
   },
   {
@@ -2791,7 +2959,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 45.0,
    "2025": 47.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Lota"
   },
   {
@@ -2800,7 +2968,7 @@
    "delito": "LESIONES LEVES",
    "2024": 151.0,
    "2025": 146.0,
-   "2026": 46.0,
+   "2026": 51.0,
    "COMUNA": "Lota"
   },
   {
@@ -2809,7 +2977,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 50.0,
    "2025": 45.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "Lota"
   },
   {
@@ -2818,7 +2986,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 91.0,
    "2025": 81.0,
-   "2026": 15.0,
+   "2026": 21.0,
    "COMUNA": "Lota"
   },
   {
@@ -2827,7 +2995,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 31.0,
    "2025": 32.0,
-   "2026": 9.0,
+   "2026": 11.0,
    "COMUNA": "Lota"
   },
   {
@@ -2845,7 +3013,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 25.0,
    "2025": 33.0,
-   "2026": 11.0,
+   "2026": 14.0,
    "COMUNA": "Lota"
   },
   {
@@ -2854,7 +3022,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 20.0,
    "2025": 12.0,
-   "2026": 3.0,
+   "2026": 5.0,
    "COMUNA": "Lota"
   },
   {
@@ -2863,7 +3031,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 124.0,
    "2025": 85.0,
-   "2026": 31.0,
+   "2026": 32.0,
    "COMUNA": "Lota"
   },
   {
@@ -2872,7 +3040,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 55.0,
    "2025": 49.0,
-   "2026": 16.0,
+   "2026": 21.0,
    "COMUNA": "Lota"
   },
   {
@@ -2881,7 +3049,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 319.0,
    "2025": 210.0,
-   "2026": 57.0,
+   "2026": 64.0,
    "COMUNA": "Lota"
   },
   {
@@ -2904,7 +3072,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
+  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
   "region": "Biobío"
  }
 }

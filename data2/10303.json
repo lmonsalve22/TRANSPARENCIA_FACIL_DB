@@ -3,45 +3,45 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 10303,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Purranque"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10303,
-   "2025": 48.0,
-   "2026": 28.0,
-   "variacion": -42.0,
+   "2025": 51.0,
+   "2026": 32.0,
+   "variacion": -37.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Purranque"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10303,
-   "2025": 56.0,
-   "2026": 53.0,
-   "variacion": -5.0,
+   "2025": 60.0,
+   "2026": 56.0,
+   "variacion": -7.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Purranque"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10303,
-   "2025": 32.0,
-   "2026": 19.0,
-   "variacion": -41.0,
+   "2025": 34.0,
+   "2026": 24.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Purranque"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10303,
-   "2025": 48.0,
+   "2025": 50.0,
    "2026": 39.0,
-   "variacion": -19.0,
+   "variacion": -22.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Purranque"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10303,
-   "2025": 43.0,
-   "2026": 29.0,
-   "variacion": -33.0,
+   "2025": 45.0,
+   "2026": 33.0,
+   "variacion": -27.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Purranque"
   },
@@ -75,36 +75,36 @@
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10303,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 3.0,
-   "variacion": 200.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Purranque"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10303,
-   "2025": 14.0,
-   "2026": 20.0,
-   "variacion": 43.0,
+   "2025": 15.0,
+   "2026": 23.0,
+   "variacion": 53.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Purranque"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10303,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 4.0,
-   "variacion": -20.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Purranque"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10303,
-   "2025": 8.0,
+   "2025": 10.0,
    "2026": 4.0,
-   "variacion": -50.0,
+   "variacion": -60.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Purranque"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 10303,
    "2025": 5.0,
-   "2026": 6.0,
-   "variacion": 20.0,
+   "2026": 7.0,
+   "variacion": 40.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Purranque"
   },
@@ -139,35 +139,35 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 10303,
    "2025": 2.0,
-   "2026": 0.0,
-   "variacion": -100.0,
+   "2026": 1.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Purranque"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 10303,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 4.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -20.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Purranque"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 10303,
    "2025": 2.0,
-   "2026": 3.0,
-   "variacion": 50.0,
+   "2026": 4.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Purranque"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10303,
-   "2025": 17.0,
-   "2026": 24.0,
-   "variacion": 41.0,
+   "2025": 20.0,
+   "2026": 25.0,
+   "variacion": 25.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Purranque"
   },
@@ -312,6 +312,14 @@
    "COMUNA": "Purranque"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 10303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Purranque"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10303,
    "anio": 2025,
@@ -429,6 +437,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 5.0,
+   "COMUNA": "Purranque"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 10303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 4.0,
    "COMUNA": "Purranque"
   },
   {
@@ -552,6 +568,14 @@
    "COMUNA": "Purranque"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 10303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 3.0,
+   "COMUNA": "Purranque"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 10303,
    "anio": 2025,
@@ -669,6 +693,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 6.0,
+   "COMUNA": "Purranque"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 10303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 5.0,
    "COMUNA": "Purranque"
   },
   {
@@ -792,6 +824,14 @@
    "COMUNA": "Purranque"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 10303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Purranque"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 10303,
    "anio": 2025,
@@ -900,6 +940,14 @@
    "CODCOM": 10303,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Purranque"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 10303,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Purranque"
   },
@@ -1024,6 +1072,14 @@
    "COMUNA": "Purranque"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 10303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 4.0,
+   "COMUNA": "Purranque"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 10303,
    "anio": 2025,
@@ -1144,6 +1200,14 @@
    "COMUNA": "Purranque"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 10303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Purranque"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10303,
    "anio": 2025,
@@ -1260,6 +1324,14 @@
    "CODCOM": 10303,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Purranque"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 10303,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Purranque"
   },
@@ -1384,6 +1456,14 @@
    "COMUNA": "Purranque"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 10303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 3.0,
+   "COMUNA": "Purranque"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10303,
    "anio": 2025,
@@ -1504,6 +1584,14 @@
    "COMUNA": "Purranque"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Purranque"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10303,
    "anio": 2025,
@@ -1621,6 +1709,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 2.0,
+   "COMUNA": "Purranque"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 10303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Purranque"
   },
   {
@@ -1744,6 +1840,14 @@
    "COMUNA": "Purranque"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 10303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Purranque"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 10303,
    "anio": 2025,
@@ -1852,6 +1956,14 @@
    "CODCOM": 10303,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Purranque"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 10303,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Purranque"
   },
@@ -1976,6 +2088,14 @@
    "COMUNA": "Purranque"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 10303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Purranque"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 10303,
    "anio": 2025,
@@ -2096,6 +2216,14 @@
    "COMUNA": "Purranque"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 10303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Purranque"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 10303,
    "anio": 2025,
@@ -2216,6 +2344,14 @@
    "COMUNA": "Purranque"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 10303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Purranque"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 10303,
    "anio": 2025,
@@ -2332,6 +2468,14 @@
    "CODCOM": 10303,
    "anio": 2026,
    "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Purranque"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 10303,
+   "anio": 2026,
+   "mes": 4,
    "casos": 1.0,
    "COMUNA": "Purranque"
   },
@@ -2456,6 +2600,14 @@
    "COMUNA": "Purranque"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 10303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Purranque"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 10303,
    "anio": 2025,
@@ -2572,6 +2724,14 @@
    "CODCOM": 10303,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Purranque"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 10303,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Purranque"
   },
@@ -2694,6 +2854,14 @@
    "mes": 3,
    "casos": 1.0,
    "COMUNA": "Purranque"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 10303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Purranque"
   }
  ],
  "info": [
@@ -2712,7 +2880,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 152.0,
    "2025": 161.0,
-   "2026": 28.0,
+   "2026": 32.0,
    "COMUNA": "Purranque"
   },
   {
@@ -2721,7 +2889,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 144.0,
    "2025": 220.0,
-   "2026": 53.0,
+   "2026": 56.0,
    "COMUNA": "Purranque"
   },
   {
@@ -2730,7 +2898,7 @@
    "delito": "DAÑOS",
    "2024": 108.0,
    "2025": 134.0,
-   "2026": 19.0,
+   "2026": 24.0,
    "COMUNA": "Purranque"
   },
   {
@@ -2757,7 +2925,7 @@
    "delito": "HURTOS",
    "2024": 124.0,
    "2025": 143.0,
-   "2026": 29.0,
+   "2026": 33.0,
    "COMUNA": "Purranque"
   },
   {
@@ -2784,7 +2952,7 @@
    "delito": "LESIONES LEVES",
    "2024": 65.0,
    "2025": 69.0,
-   "2026": 20.0,
+   "2026": 23.0,
    "COMUNA": "Purranque"
   },
   {
@@ -2811,7 +2979,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 7.0,
    "2025": 25.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Purranque"
   },
   {
@@ -2838,7 +3006,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 11.0,
    "2025": 6.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Purranque"
   },
   {
@@ -2856,7 +3024,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 19.0,
    "2025": 14.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Purranque"
   },
   {
@@ -2865,7 +3033,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 95.0,
    "2025": 100.0,
-   "2026": 24.0,
+   "2026": 25.0,
    "COMUNA": "Purranque"
   },
   {
@@ -2888,7 +3056,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
+  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
   "region": "Los Lagos"
  }
 }

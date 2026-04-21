@@ -12,16 +12,16 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5605,
-   "2025": 127.0,
-   "2026": 99.0,
-   "variacion": -22.0,
+   "2025": 132.0,
+   "2026": 110.0,
+   "variacion": -17.0,
    "situación": "Disminución de Casos",
    "COMUNA": "El Tabo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5605,
-   "2025": 306.0,
+   "2025": 308.0,
    "2026": 111.0,
    "variacion": -64.0,
    "situación": "Disminución de Casos",
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 5605,
-   "2025": 68.0,
-   "2026": 55.0,
-   "variacion": -19.0,
+   "2025": 69.0,
+   "2026": 60.0,
+   "variacion": -13.0,
    "situación": "Disminución de Casos",
    "COMUNA": "El Tabo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5605,
-   "2025": 66.0,
-   "2026": 59.0,
-   "variacion": -11.0,
+   "2025": 67.0,
+   "2026": 64.0,
+   "variacion": -4.0,
    "situación": "Disminución de Casos",
    "COMUNA": "El Tabo"
   },
@@ -57,17 +57,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5605,
-   "2025": 25.0,
-   "2026": 29.0,
-   "variacion": 16.0,
+   "2025": 27.0,
+   "2026": 30.0,
+   "variacion": 11.0,
    "situación": "Aumento de Casos",
    "COMUNA": "El Tabo"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5605,
-   "2025": 122.0,
-   "2026": 56.0,
+   "2025": 125.0,
+   "2026": 57.0,
    "variacion": -54.0,
    "situación": "Disminución de Casos",
    "COMUNA": "El Tabo"
@@ -84,18 +84,18 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5605,
-   "2025": 56.0,
-   "2026": 48.0,
-   "variacion": -14.0,
+   "2025": 57.0,
+   "2026": 51.0,
+   "variacion": -11.0,
    "situación": "Disminución de Casos",
    "COMUNA": "El Tabo"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5605,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 8.0,
-   "variacion": 100.0,
+   "variacion": 60.0,
    "situación": "Aumento de Casos",
    "COMUNA": "El Tabo"
   },
@@ -148,35 +148,35 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5605,
    "2025": 9.0,
-   "2026": 11.0,
-   "variacion": 22.0,
+   "2026": 12.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "El Tabo"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5605,
-   "2025": 33.0,
+   "2025": 35.0,
    "2026": 34.0,
-   "variacion": 3.0,
-   "situación": "Aumento de Casos",
+   "variacion": -3.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "El Tabo"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5605,
-   "2025": 53.0,
-   "2026": 37.0,
-   "variacion": -30.0,
+   "2025": 54.0,
+   "2026": 42.0,
+   "variacion": -22.0,
    "situación": "Disminución de Casos",
    "COMUNA": "El Tabo"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5605,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 6.0,
-   "variacion": 200.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "El Tabo"
   },
@@ -312,6 +312,14 @@
    "COMUNA": "El Tabo"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 5605,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "El Tabo"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5605,
    "anio": 2025,
@@ -429,6 +437,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 20.0,
+   "COMUNA": "El Tabo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 5605,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 11.0,
    "COMUNA": "El Tabo"
   },
   {
@@ -552,6 +568,14 @@
    "COMUNA": "El Tabo"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 5605,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "El Tabo"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 5605,
    "anio": 2025,
@@ -669,6 +693,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 19.0,
+   "COMUNA": "El Tabo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 5605,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 5.0,
    "COMUNA": "El Tabo"
   },
   {
@@ -792,6 +824,14 @@
    "COMUNA": "El Tabo"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 5605,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 5.0,
+   "COMUNA": "El Tabo"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 5605,
    "anio": 2025,
@@ -900,6 +940,14 @@
    "CODCOM": 5605,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "El Tabo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 5605,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "El Tabo"
   },
@@ -1024,6 +1072,14 @@
    "COMUNA": "El Tabo"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5605,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "El Tabo"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 5605,
    "anio": 2025,
@@ -1144,6 +1200,14 @@
    "COMUNA": "El Tabo"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 5605,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "El Tabo"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5605,
    "anio": 2025,
@@ -1260,6 +1324,14 @@
    "CODCOM": 5605,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "El Tabo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 5605,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "El Tabo"
   },
@@ -1384,6 +1456,14 @@
    "COMUNA": "El Tabo"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 5605,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 3.0,
+   "COMUNA": "El Tabo"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5605,
    "anio": 2025,
@@ -1504,6 +1584,14 @@
    "COMUNA": "El Tabo"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 5605,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "El Tabo"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5605,
    "anio": 2025,
@@ -1620,6 +1708,14 @@
    "CODCOM": 5605,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "El Tabo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 5605,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "El Tabo"
   },
@@ -1744,6 +1840,14 @@
    "COMUNA": "El Tabo"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 5605,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "El Tabo"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 5605,
    "anio": 2025,
@@ -1860,6 +1964,14 @@
    "CODCOM": 5605,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "El Tabo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 5605,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "El Tabo"
   },
@@ -1981,6 +2093,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "El Tabo"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 5605,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "El Tabo"
   },
   {
@@ -2100,6 +2220,14 @@
    "CODCOM": 5605,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "El Tabo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 5605,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "El Tabo"
   },
@@ -2224,6 +2352,14 @@
    "COMUNA": "El Tabo"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 5605,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "El Tabo"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5605,
    "anio": 2025,
@@ -2341,6 +2477,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 5.0,
+   "COMUNA": "El Tabo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 5605,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "El Tabo"
   },
   {
@@ -2464,6 +2608,14 @@
    "COMUNA": "El Tabo"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 5605,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 5.0,
+   "COMUNA": "El Tabo"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5605,
    "anio": 2025,
@@ -2581,6 +2733,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "El Tabo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 5605,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "El Tabo"
   },
   {
@@ -2702,6 +2862,14 @@
    "mes": 3,
    "casos": 2.0,
    "COMUNA": "El Tabo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 5605,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "El Tabo"
   }
  ],
  "info": [
@@ -2720,7 +2888,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 356.0,
    "2025": 361.0,
-   "2026": 99.0,
+   "2026": 110.0,
    "COMUNA": "El Tabo"
   },
   {
@@ -2738,7 +2906,7 @@
    "delito": "DAÑOS",
    "2024": 170.0,
    "2025": 156.0,
-   "2026": 55.0,
+   "2026": 60.0,
    "COMUNA": "El Tabo"
   },
   {
@@ -2747,7 +2915,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 216.0,
    "2025": 192.0,
-   "2026": 59.0,
+   "2026": 64.0,
    "COMUNA": "El Tabo"
   },
   {
@@ -2765,7 +2933,7 @@
    "delito": "HURTOS",
    "2024": 86.0,
    "2025": 78.0,
-   "2026": 29.0,
+   "2026": 30.0,
    "COMUNA": "El Tabo"
   },
   {
@@ -2774,7 +2942,7 @@
    "delito": "INCIVILIDADES",
    "2024": 109.0,
    "2025": 270.0,
-   "2026": 56.0,
+   "2026": 57.0,
    "COMUNA": "El Tabo"
   },
   {
@@ -2792,7 +2960,7 @@
    "delito": "LESIONES LEVES",
    "2024": 158.0,
    "2025": 141.0,
-   "2026": 48.0,
+   "2026": 51.0,
    "COMUNA": "El Tabo"
   },
   {
@@ -2855,7 +3023,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 43.0,
    "2025": 41.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "El Tabo"
   },
   {
@@ -2873,7 +3041,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 282.0,
    "2025": 211.0,
-   "2026": 37.0,
+   "2026": 42.0,
    "COMUNA": "El Tabo"
   },
   {
@@ -2896,7 +3064,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
+  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
   "region": "Valparaíso"
  }
 }

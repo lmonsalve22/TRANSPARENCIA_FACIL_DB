@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6204,
-   "2025": 7.0,
-   "2026": 25.0,
-   "variacion": 257.0,
+   "2025": 8.0,
+   "2026": 26.0,
+   "variacion": 225.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Marchihue"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6204,
-   "2025": 9.0,
+   "2025": 11.0,
    "2026": 17.0,
-   "variacion": 89.0,
+   "variacion": 55.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Marchihue"
   },
@@ -58,9 +58,9 @@
    "delito": "HURTOS",
    "CODCOM": 6204,
    "2025": 4.0,
-   "2026": 4.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 5.0,
+   "variacion": 25.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Marchihue"
   },
   {
@@ -138,10 +138,10 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6204,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Marchihue"
   },
   {
@@ -312,6 +312,14 @@
    "COMUNA": "Marchihue"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 6204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Marchihue"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6204,
    "anio": 2025,
@@ -429,6 +437,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 11.0,
+   "COMUNA": "Marchihue"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 6204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
    "COMUNA": "Marchihue"
   },
   {
@@ -552,6 +568,14 @@
    "COMUNA": "Marchihue"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 6204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Marchihue"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 6204,
    "anio": 2025,
@@ -672,6 +696,14 @@
    "COMUNA": "Marchihue"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 6204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Marchihue"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6204,
    "anio": 2025,
@@ -789,6 +821,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 4.0,
+   "COMUNA": "Marchihue"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Marchihue"
   },
   {
@@ -1016,6 +1056,14 @@
    "COMUNA": "Marchihue"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Marchihue"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 6204,
    "anio": 2025,
@@ -1136,6 +1184,14 @@
    "COMUNA": "Marchihue"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 6204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Marchihue"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6204,
    "anio": 2025,
@@ -1252,6 +1308,14 @@
    "CODCOM": 6204,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Marchihue"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 6204,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Marchihue"
   },
@@ -1376,6 +1440,14 @@
    "COMUNA": "Marchihue"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 6204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Marchihue"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6204,
    "anio": 2025,
@@ -1496,6 +1568,14 @@
    "COMUNA": "Marchihue"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 6204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Marchihue"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6204,
    "anio": 2025,
@@ -1612,6 +1692,14 @@
    "CODCOM": 6204,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Marchihue"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 6204,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Marchihue"
   },
@@ -1736,6 +1824,14 @@
    "COMUNA": "Marchihue"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 6204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Marchihue"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6204,
    "anio": 2025,
@@ -1960,6 +2056,14 @@
    "COMUNA": "Marchihue"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Marchihue"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6204,
    "anio": 2025,
@@ -2080,6 +2184,14 @@
    "COMUNA": "Marchihue"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 6204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Marchihue"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6204,
    "anio": 2025,
@@ -2196,6 +2308,14 @@
    "CODCOM": 6204,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Marchihue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6204,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Marchihue"
   },
@@ -2316,6 +2436,14 @@
    "CODCOM": 6204,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Marchihue"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 6204,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Marchihue"
   },
@@ -2440,6 +2568,14 @@
    "COMUNA": "Marchihue"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 6204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Marchihue"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6204,
    "anio": 2025,
@@ -2556,6 +2692,14 @@
    "CODCOM": 6204,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Marchihue"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6204,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Marchihue"
   },
@@ -2677,6 +2821,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Marchihue"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 6204,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Marchihue"
   }
  ],
@@ -2696,7 +2848,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 50.0,
    "2025": 48.0,
-   "2026": 25.0,
+   "2026": 26.0,
    "COMUNA": "Marchihue"
   },
   {
@@ -2741,7 +2893,7 @@
    "delito": "HURTOS",
    "2024": 21.0,
    "2025": 22.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Marchihue"
   },
   {
@@ -2872,7 +3024,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
+  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
   "region": "O'Higgins"
  }
 }

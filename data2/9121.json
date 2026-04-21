@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9121,
-   "2025": 31.0,
-   "2026": 34.0,
-   "variacion": 10.0,
+   "2025": 33.0,
+   "2026": 40.0,
+   "variacion": 21.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cholchol"
   },
@@ -22,44 +22,44 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9121,
    "2025": 50.0,
-   "2026": 175.0,
-   "variacion": 250.0,
+   "2026": 184.0,
+   "variacion": 268.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cholchol"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9121,
-   "2025": 22.0,
-   "2026": 16.0,
-   "variacion": -27.0,
+   "2025": 23.0,
+   "2026": 17.0,
+   "variacion": -26.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cholchol"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9121,
-   "2025": 39.0,
-   "2026": 34.0,
-   "variacion": -13.0,
+   "2025": 40.0,
+   "2026": 35.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cholchol"
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9121,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Cholchol"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 9121,
    "2025": 10.0,
-   "2026": 8.0,
-   "variacion": -20.0,
+   "2026": 9.0,
+   "variacion": -10.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cholchol"
   },
@@ -76,8 +76,8 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 9121,
    "2025": 0.0,
-   "2026": 3.0,
-   "variacion": 300.0,
+   "2026": 4.0,
+   "variacion": 400.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cholchol"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9121,
    "2025": 16.0,
-   "2026": 7.0,
-   "variacion": -56.0,
+   "2026": 8.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cholchol"
   },
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 9121,
-   "2025": 5.0,
+   "2025": 7.0,
    "2026": 1.0,
-   "variacion": -80.0,
+   "variacion": -86.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cholchol"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9121,
    "2025": 11.0,
-   "2026": 3.0,
-   "variacion": -73.0,
+   "2026": 4.0,
+   "variacion": -64.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cholchol"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9121,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 4.0,
-   "variacion": 100.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cholchol"
   }
@@ -312,6 +312,14 @@
    "COMUNA": "Cholchol"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9121,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cholchol"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9121,
    "anio": 2025,
@@ -429,6 +437,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 15.0,
+   "COMUNA": "Cholchol"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9121,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 6.0,
    "COMUNA": "Cholchol"
   },
   {
@@ -552,6 +568,14 @@
    "COMUNA": "Cholchol"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9121,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 9.0,
+   "COMUNA": "Cholchol"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 9121,
    "anio": 2025,
@@ -669,6 +693,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 3.0,
+   "COMUNA": "Cholchol"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 9121,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
    "COMUNA": "Cholchol"
   },
   {
@@ -792,6 +824,14 @@
    "COMUNA": "Cholchol"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9121,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Cholchol"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9121,
    "anio": 2025,
@@ -908,6 +948,14 @@
    "CODCOM": 9121,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Cholchol"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9121,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Cholchol"
   },
@@ -1032,6 +1080,14 @@
    "COMUNA": "Cholchol"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9121,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Cholchol"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9121,
    "anio": 2025,
@@ -1152,6 +1208,14 @@
    "COMUNA": "Cholchol"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9121,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cholchol"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9121,
    "anio": 2025,
@@ -1269,6 +1333,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 0.0,
+   "COMUNA": "Cholchol"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9121,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
    "COMUNA": "Cholchol"
   },
   {
@@ -1392,6 +1464,14 @@
    "COMUNA": "Cholchol"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9121,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cholchol"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9121,
    "anio": 2025,
@@ -1509,6 +1589,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Cholchol"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9121,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Cholchol"
   },
   {
@@ -1632,6 +1720,14 @@
    "COMUNA": "Cholchol"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9121,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Cholchol"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9121,
    "anio": 2025,
@@ -1752,6 +1848,14 @@
    "COMUNA": "Cholchol"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9121,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cholchol"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9121,
    "anio": 2025,
@@ -1868,6 +1972,14 @@
    "CODCOM": 9121,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Cholchol"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9121,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Cholchol"
   },
@@ -1992,6 +2104,14 @@
    "COMUNA": "Cholchol"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9121,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cholchol"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9121,
    "anio": 2025,
@@ -2109,6 +2229,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Cholchol"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9121,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Cholchol"
   },
   {
@@ -2232,6 +2360,14 @@
    "COMUNA": "Cholchol"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9121,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cholchol"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9121,
    "anio": 2025,
@@ -2348,6 +2484,14 @@
    "CODCOM": 9121,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Cholchol"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9121,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Cholchol"
   },
@@ -2472,6 +2616,14 @@
    "COMUNA": "Cholchol"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9121,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Cholchol"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9121,
    "anio": 2025,
@@ -2580,6 +2732,14 @@
    "CODCOM": 9121,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Cholchol"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9121,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Cholchol"
   },
@@ -2701,6 +2861,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Cholchol"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9121,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Cholchol"
   }
  ],
@@ -2720,7 +2888,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 93.0,
    "2025": 109.0,
-   "2026": 34.0,
+   "2026": 40.0,
    "COMUNA": "Cholchol"
   },
   {
@@ -2729,7 +2897,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 255.0,
    "2025": 384.0,
-   "2026": 175.0,
+   "2026": 184.0,
    "COMUNA": "Cholchol"
   },
   {
@@ -2738,7 +2906,7 @@
    "delito": "DAÑOS",
    "2024": 84.0,
    "2025": 69.0,
-   "2026": 16.0,
+   "2026": 17.0,
    "COMUNA": "Cholchol"
   },
   {
@@ -2747,7 +2915,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 110.0,
    "2025": 108.0,
-   "2026": 34.0,
+   "2026": 35.0,
    "COMUNA": "Cholchol"
   },
   {
@@ -2765,7 +2933,7 @@
    "delito": "HURTOS",
    "2024": 34.0,
    "2025": 37.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Cholchol"
   },
   {
@@ -2783,7 +2951,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 5.0,
    "2025": 1.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Cholchol"
   },
   {
@@ -2810,7 +2978,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 15.0,
    "2025": 37.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Cholchol"
   },
   {
@@ -2873,7 +3041,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 51.0,
    "2025": 32.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Cholchol"
   },
   {
@@ -2896,7 +3064,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
+  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
   "region": "La Araucanía"
  }
 }

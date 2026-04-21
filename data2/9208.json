@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9208,
-   "2025": 56.0,
-   "2026": 23.0,
-   "variacion": -59.0,
+   "2025": 57.0,
+   "2026": 25.0,
+   "variacion": -56.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Purén"
   },
@@ -22,17 +22,17 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9208,
    "2025": 6.0,
-   "2026": 6.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 9.0,
+   "variacion": 50.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Purén"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9208,
    "2025": 17.0,
-   "2026": 23.0,
-   "variacion": 35.0,
+   "2026": 24.0,
+   "variacion": 41.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Purén"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9208,
    "2025": 14.0,
-   "2026": 23.0,
-   "variacion": 64.0,
+   "2026": 25.0,
+   "variacion": 79.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Purén"
   },
@@ -58,9 +58,9 @@
    "delito": "HURTOS",
    "CODCOM": 9208,
    "2025": 6.0,
-   "2026": 6.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 7.0,
+   "variacion": 17.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Purén"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9208,
-   "2025": 15.0,
+   "2025": 19.0,
    "2026": 12.0,
-   "variacion": -20.0,
+   "variacion": -37.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Purén"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9208,
    "2025": 0.0,
-   "2026": 6.0,
-   "variacion": 600.0,
+   "2026": 7.0,
+   "variacion": 700.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Purén"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9208,
-   "2025": 21.0,
+   "2025": 22.0,
    "2026": 17.0,
-   "variacion": -19.0,
+   "variacion": -23.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Purén"
   },
@@ -312,6 +312,14 @@
    "COMUNA": "Purén"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9208,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Purén"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9208,
    "anio": 2025,
@@ -432,6 +440,14 @@
    "COMUNA": "Purén"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9208,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 2.0,
+   "COMUNA": "Purén"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9208,
    "anio": 2025,
@@ -549,6 +565,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Purén"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9208,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 3.0,
    "COMUNA": "Purén"
   },
   {
@@ -669,6 +693,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 5.0,
+   "COMUNA": "Purén"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 9208,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
    "COMUNA": "Purén"
   },
   {
@@ -792,6 +824,14 @@
    "COMUNA": "Purén"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9208,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 2.0,
+   "COMUNA": "Purén"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9208,
    "anio": 2025,
@@ -1016,6 +1056,14 @@
    "COMUNA": "Purén"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9208,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Purén"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9208,
    "anio": 2025,
@@ -1136,6 +1184,14 @@
    "COMUNA": "Purén"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9208,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Purén"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9208,
    "anio": 2025,
@@ -1252,6 +1308,14 @@
    "CODCOM": 9208,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Purén"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9208,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Purén"
   },
@@ -1376,6 +1440,14 @@
    "COMUNA": "Purén"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9208,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Purén"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9208,
    "anio": 2025,
@@ -1492,6 +1564,14 @@
    "CODCOM": 9208,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Purén"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9208,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Purén"
   },
@@ -1616,6 +1696,14 @@
    "COMUNA": "Purén"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9208,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Purén"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9208,
    "anio": 2025,
@@ -1736,6 +1824,14 @@
    "COMUNA": "Purén"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9208,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Purén"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9208,
    "anio": 2025,
@@ -1852,6 +1948,14 @@
    "CODCOM": 9208,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Purén"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9208,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Purén"
   },
@@ -1976,6 +2080,14 @@
    "COMUNA": "Purén"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9208,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Purén"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9208,
    "anio": 2025,
@@ -2096,6 +2208,14 @@
    "COMUNA": "Purén"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9208,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Purén"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9208,
    "anio": 2025,
@@ -2216,6 +2336,14 @@
    "COMUNA": "Purén"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9208,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Purén"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9208,
    "anio": 2025,
@@ -2333,6 +2461,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Purén"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9208,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Purén"
   },
   {
@@ -2456,6 +2592,14 @@
    "COMUNA": "Purén"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9208,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Purén"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9208,
    "anio": 2025,
@@ -2572,6 +2716,14 @@
    "CODCOM": 9208,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Purén"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9208,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Purén"
   },
@@ -2694,6 +2846,14 @@
    "mes": 3,
    "casos": 0.0,
    "COMUNA": "Purén"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9208,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Purén"
   }
  ],
  "info": [
@@ -2712,7 +2872,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 116.0,
    "2025": 149.0,
-   "2026": 23.0,
+   "2026": 25.0,
    "COMUNA": "Purén"
   },
   {
@@ -2721,7 +2881,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 53.0,
    "2025": 41.0,
-   "2026": 6.0,
+   "2026": 9.0,
    "COMUNA": "Purén"
   },
   {
@@ -2730,7 +2890,7 @@
    "delito": "DAÑOS",
    "2024": 81.0,
    "2025": 82.0,
-   "2026": 23.0,
+   "2026": 24.0,
    "COMUNA": "Purén"
   },
   {
@@ -2739,7 +2899,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 74.0,
    "2025": 89.0,
-   "2026": 23.0,
+   "2026": 25.0,
    "COMUNA": "Purén"
   },
   {
@@ -2757,7 +2917,7 @@
    "delito": "HURTOS",
    "2024": 43.0,
    "2025": 35.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Purén"
   },
   {
@@ -2802,7 +2962,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 3.0,
    "2025": 11.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Purén"
   },
   {
@@ -2888,7 +3048,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
+  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
   "region": "La Araucanía"
  }
 }

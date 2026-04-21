@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16303,
-   "2025": 23.0,
+   "2025": 24.0,
    "2026": 21.0,
-   "variacion": -9.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ñiquén"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16303,
-   "2025": 23.0,
-   "2026": 17.0,
-   "variacion": -26.0,
+   "2025": 25.0,
+   "2026": 18.0,
+   "variacion": -28.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ñiquén"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16303,
    "2025": 19.0,
-   "2026": 20.0,
-   "variacion": 5.0,
+   "2026": 21.0,
+   "variacion": 11.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Ñiquén"
   },
@@ -84,23 +84,14 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16303,
-   "2025": 1.0,
+   "2025": 4.0,
    "2026": 6.0,
-   "variacion": 500.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Ñiquén"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16303,
-   "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Ñiquén"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 16303,
    "2025": 2.0,
    "2026": 1.0,
@@ -109,12 +100,21 @@
    "COMUNA": "Ñiquén"
   },
   {
-   "delito": "LEY DE DROGAS",
+   "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 16303,
-   "2025": 0.0,
-   "2026": 0.0,
+   "2025": 2.0,
+   "2026": 2.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
+   "COMUNA": "Ñiquén"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 16303,
+   "2025": 1.0,
+   "2026": 0.0,
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Ñiquén"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16303,
-   "2025": 12.0,
-   "2026": 9.0,
-   "variacion": -25.0,
+   "2025": 13.0,
+   "2026": 10.0,
+   "variacion": -23.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ñiquén"
   },
@@ -312,6 +312,14 @@
    "COMUNA": "Ñiquén"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 16303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Ñiquén"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16303,
    "anio": 2025,
@@ -432,6 +440,14 @@
    "COMUNA": "Ñiquén"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 16303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Ñiquén"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16303,
    "anio": 2025,
@@ -549,6 +565,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Ñiquén"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 16303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Ñiquén"
   },
   {
@@ -669,6 +693,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 10.0,
+   "COMUNA": "Ñiquén"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 16303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
    "COMUNA": "Ñiquén"
   },
   {
@@ -792,6 +824,14 @@
    "COMUNA": "Ñiquén"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 16303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Ñiquén"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 16303,
    "anio": 2025,
@@ -904,6 +944,14 @@
    "COMUNA": "Ñiquén"
   },
   {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 16303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Ñiquén"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 16303,
    "anio": 2025,
@@ -1024,6 +1072,14 @@
    "COMUNA": "Ñiquén"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 16303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Ñiquén"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 16303,
    "anio": 2025,
@@ -1144,6 +1200,14 @@
    "COMUNA": "Ñiquén"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 16303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Ñiquén"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16303,
    "anio": 2025,
@@ -1260,6 +1324,14 @@
    "CODCOM": 16303,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Ñiquén"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 16303,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Ñiquén"
   },
@@ -1384,6 +1456,14 @@
    "COMUNA": "Ñiquén"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Ñiquén"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16303,
    "anio": 2025,
@@ -1504,6 +1584,14 @@
    "COMUNA": "Ñiquén"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Ñiquén"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 16303,
    "anio": 2025,
@@ -1624,6 +1712,14 @@
    "COMUNA": "Ñiquén"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Ñiquén"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 16303,
    "anio": 2025,
@@ -1740,6 +1836,14 @@
    "CODCOM": 16303,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Ñiquén"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 16303,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Ñiquén"
   },
@@ -1968,6 +2072,14 @@
    "COMUNA": "Ñiquén"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Ñiquén"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 16303,
    "anio": 2025,
@@ -2084,6 +2196,14 @@
    "CODCOM": 16303,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Ñiquén"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16303,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Ñiquén"
   },
@@ -2204,6 +2324,14 @@
    "CODCOM": 16303,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Ñiquén"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16303,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Ñiquén"
   },
@@ -2325,6 +2453,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Ñiquén"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Ñiquén"
   },
   {
@@ -2448,6 +2584,14 @@
    "COMUNA": "Ñiquén"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 16303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Ñiquén"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 16303,
    "anio": 2025,
@@ -2564,6 +2708,14 @@
    "CODCOM": 16303,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Ñiquén"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 16303,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Ñiquén"
   },
@@ -2685,6 +2837,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Ñiquén"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 16303,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Ñiquén"
   }
  ],
@@ -2722,7 +2882,7 @@
    "delito": "DAÑOS",
    "2024": 86.0,
    "2025": 74.0,
-   "2026": 17.0,
+   "2026": 18.0,
    "COMUNA": "Ñiquén"
   },
   {
@@ -2731,7 +2891,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 58.0,
    "2025": 53.0,
-   "2026": 20.0,
+   "2026": 21.0,
    "COMUNA": "Ñiquén"
   },
   {
@@ -2785,7 +2945,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 2.0,
    "2025": 4.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Ñiquén"
   },
   {
@@ -2794,7 +2954,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 18.0,
    "2025": 12.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Ñiquén"
   },
   {
@@ -2857,7 +3017,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 72.0,
    "2025": 53.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Ñiquén"
   },
   {
@@ -2880,7 +3040,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
+  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
   "region": "Ñuble"
  }
 }

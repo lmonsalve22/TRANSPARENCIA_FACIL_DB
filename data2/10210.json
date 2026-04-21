@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 10210,
-   "2025": 21.0,
-   "2026": 15.0,
-   "variacion": -29.0,
+   "2025": 23.0,
+   "2026": 17.0,
+   "variacion": -26.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quinchao"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10210,
-   "2025": 6.0,
+   "2025": 8.0,
    "2026": 7.0,
-   "variacion": 17.0,
-   "situación": "Aumento de Casos",
+   "variacion": -12.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Quinchao"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10210,
-   "2025": 8.0,
-   "2026": 9.0,
-   "variacion": 12.0,
+   "2025": 9.0,
+   "2026": 10.0,
+   "variacion": 11.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Quinchao"
   },
@@ -166,9 +166,9 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10210,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 1.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Quinchao"
   },
   {
@@ -312,6 +312,14 @@
    "COMUNA": "Quinchao"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 10210,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quinchao"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10210,
    "anio": 2025,
@@ -429,6 +437,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 7.0,
+   "COMUNA": "Quinchao"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 10210,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Quinchao"
   },
   {
@@ -552,6 +568,14 @@
    "COMUNA": "Quinchao"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 10210,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quinchao"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 10210,
    "anio": 2025,
@@ -672,6 +696,14 @@
    "COMUNA": "Quinchao"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 10210,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 2.0,
+   "COMUNA": "Quinchao"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10210,
    "anio": 2025,
@@ -792,6 +824,14 @@
    "COMUNA": "Quinchao"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 10210,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quinchao"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 10210,
    "anio": 2025,
@@ -900,6 +940,14 @@
    "CODCOM": 10210,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Quinchao"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 10210,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Quinchao"
   },
@@ -1021,6 +1069,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 2.0,
+   "COMUNA": "Quinchao"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10210,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Quinchao"
   },
   {
@@ -1144,6 +1200,14 @@
    "COMUNA": "Quinchao"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 10210,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quinchao"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10210,
    "anio": 2025,
@@ -1260,6 +1324,14 @@
    "CODCOM": 10210,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Quinchao"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 10210,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Quinchao"
   },
@@ -1384,6 +1456,14 @@
    "COMUNA": "Quinchao"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 10210,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Quinchao"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10210,
    "anio": 2025,
@@ -1504,6 +1584,14 @@
    "COMUNA": "Quinchao"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10210,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quinchao"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10210,
    "anio": 2025,
@@ -1624,6 +1712,14 @@
    "COMUNA": "Quinchao"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 10210,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quinchao"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 10210,
    "anio": 2025,
@@ -1744,6 +1840,14 @@
    "COMUNA": "Quinchao"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 10210,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quinchao"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 10210,
    "anio": 2025,
@@ -1856,6 +1960,14 @@
    "COMUNA": "Quinchao"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 10210,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quinchao"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 10210,
    "anio": 2025,
@@ -1964,6 +2076,14 @@
    "CODCOM": 10210,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Quinchao"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 10210,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Quinchao"
   },
@@ -2088,6 +2208,14 @@
    "COMUNA": "Quinchao"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 10210,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quinchao"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 10210,
    "anio": 2025,
@@ -2196,6 +2324,14 @@
    "CODCOM": 10210,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Quinchao"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 10210,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Quinchao"
   },
@@ -2316,6 +2452,14 @@
    "CODCOM": 10210,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Quinchao"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 10210,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Quinchao"
   },
@@ -2440,6 +2584,14 @@
    "COMUNA": "Quinchao"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 10210,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Quinchao"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 10210,
    "anio": 2025,
@@ -2552,6 +2704,14 @@
    "COMUNA": "Quinchao"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 10210,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quinchao"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10210,
    "anio": 2025,
@@ -2668,6 +2828,14 @@
    "CODCOM": 10210,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Quinchao"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 10210,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Quinchao"
   }
@@ -2706,7 +2874,7 @@
    "delito": "DAÑOS",
    "2024": 77.0,
    "2025": 61.0,
-   "2026": 15.0,
+   "2026": 17.0,
    "COMUNA": "Quinchao"
   },
   {
@@ -2760,7 +2928,7 @@
    "delito": "LESIONES LEVES",
    "2024": 32.0,
    "2025": 24.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Quinchao"
   },
   {
@@ -2841,7 +3009,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 9.0,
    "2025": 4.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Quinchao"
   },
   {
@@ -2864,7 +3032,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
+  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
   "region": "Los Lagos"
  }
 }

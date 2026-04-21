@@ -12,26 +12,26 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8203,
-   "2025": 85.0,
-   "2026": 72.0,
-   "variacion": -15.0,
+   "2025": 88.0,
+   "2026": 79.0,
+   "variacion": -10.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cañete"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8203,
-   "2025": 81.0,
-   "2026": 74.0,
-   "variacion": -9.0,
+   "2025": 95.0,
+   "2026": 85.0,
+   "variacion": -11.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cañete"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 8203,
-   "2025": 60.0,
-   "2026": 52.0,
+   "2025": 63.0,
+   "2026": 55.0,
    "variacion": -13.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cañete"
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8203,
    "2025": 70.0,
-   "2026": 54.0,
-   "variacion": -23.0,
+   "2026": 57.0,
+   "variacion": -19.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cañete"
   },
@@ -57,17 +57,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8203,
-   "2025": 32.0,
-   "2026": 29.0,
-   "variacion": -9.0,
+   "2025": 33.0,
+   "2026": 32.0,
+   "variacion": -3.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cañete"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8203,
-   "2025": 26.0,
-   "2026": 12.0,
+   "2025": 28.0,
+   "2026": 13.0,
    "variacion": -54.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cañete"
@@ -85,36 +85,36 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 8203,
    "2025": 29.0,
-   "2026": 39.0,
-   "variacion": 34.0,
+   "2026": 42.0,
+   "variacion": 45.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cañete"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8203,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 4.0,
-   "variacion": 300.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cañete"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 8203,
-   "2025": 8.0,
+   "2025": 10.0,
    "2026": 17.0,
-   "variacion": 112.0,
+   "variacion": 70.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cañete"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8203,
-   "2025": 8.0,
-   "2026": 8.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 9.0,
+   "2026": 10.0,
+   "variacion": 11.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Cañete"
   },
   {
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8203,
-   "2025": 12.0,
+   "2025": 13.0,
    "2026": 8.0,
-   "variacion": -33.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cañete"
   },
@@ -157,17 +157,17 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8203,
    "2025": 12.0,
-   "2026": 8.0,
-   "variacion": -33.0,
+   "2026": 9.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cañete"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8203,
-   "2025": 52.0,
-   "2026": 59.0,
-   "variacion": 13.0,
+   "2025": 54.0,
+   "2026": 65.0,
+   "variacion": 20.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cañete"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8203,
-   "2025": 11.0,
+   "2025": 12.0,
    "2026": 8.0,
-   "variacion": -27.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cañete"
   }
@@ -312,6 +312,14 @@
    "COMUNA": "Cañete"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8203,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cañete"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8203,
    "anio": 2025,
@@ -429,6 +437,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 28.0,
+   "COMUNA": "Cañete"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 8203,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 7.0,
    "COMUNA": "Cañete"
   },
   {
@@ -552,6 +568,14 @@
    "COMUNA": "Cañete"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 8203,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 11.0,
+   "COMUNA": "Cañete"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 8203,
    "anio": 2025,
@@ -669,6 +693,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 19.0,
+   "COMUNA": "Cañete"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8203,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 3.0,
    "COMUNA": "Cañete"
   },
   {
@@ -792,6 +824,14 @@
    "COMUNA": "Cañete"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 8203,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 3.0,
+   "COMUNA": "Cañete"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 8203,
    "anio": 2025,
@@ -900,6 +940,14 @@
    "CODCOM": 8203,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Cañete"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 8203,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Cañete"
   },
@@ -1024,6 +1072,14 @@
    "COMUNA": "Cañete"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 8203,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 3.0,
+   "COMUNA": "Cañete"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 8203,
    "anio": 2025,
@@ -1144,6 +1200,14 @@
    "COMUNA": "Cañete"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 8203,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Cañete"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8203,
    "anio": 2025,
@@ -1261,6 +1325,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 2.0,
+   "COMUNA": "Cañete"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 8203,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Cañete"
   },
   {
@@ -1384,6 +1456,14 @@
    "COMUNA": "Cañete"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 8203,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 3.0,
+   "COMUNA": "Cañete"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8203,
    "anio": 2025,
@@ -1501,6 +1581,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 4.0,
+   "COMUNA": "Cañete"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 8203,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Cañete"
   },
   {
@@ -1624,6 +1712,14 @@
    "COMUNA": "Cañete"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 8203,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cañete"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8203,
    "anio": 2025,
@@ -1744,6 +1840,14 @@
    "COMUNA": "Cañete"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8203,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 2.0,
+   "COMUNA": "Cañete"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 8203,
    "anio": 2025,
@@ -1860,6 +1964,14 @@
    "CODCOM": 8203,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Cañete"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8203,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Cañete"
   },
@@ -1984,6 +2096,14 @@
    "COMUNA": "Cañete"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8203,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cañete"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8203,
    "anio": 2025,
@@ -2101,6 +2221,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Cañete"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 8203,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Cañete"
   },
   {
@@ -2224,6 +2352,14 @@
    "COMUNA": "Cañete"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 8203,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cañete"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8203,
    "anio": 2025,
@@ -2341,6 +2477,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 2.0,
+   "COMUNA": "Cañete"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 8203,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
    "COMUNA": "Cañete"
   },
   {
@@ -2464,6 +2608,14 @@
    "COMUNA": "Cañete"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8203,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 6.0,
+   "COMUNA": "Cañete"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8203,
    "anio": 2025,
@@ -2581,6 +2733,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Cañete"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 8203,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Cañete"
   },
   {
@@ -2702,6 +2862,14 @@
    "mes": 3,
    "casos": 1.0,
    "COMUNA": "Cañete"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 8203,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cañete"
   }
  ],
  "info": [
@@ -2720,7 +2888,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 291.0,
    "2025": 272.0,
-   "2026": 72.0,
+   "2026": 79.0,
    "COMUNA": "Cañete"
   },
   {
@@ -2729,7 +2897,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 179.0,
    "2025": 409.0,
-   "2026": 74.0,
+   "2026": 85.0,
    "COMUNA": "Cañete"
   },
   {
@@ -2738,7 +2906,7 @@
    "delito": "DAÑOS",
    "2024": 269.0,
    "2025": 200.0,
-   "2026": 52.0,
+   "2026": 55.0,
    "COMUNA": "Cañete"
   },
   {
@@ -2747,7 +2915,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 215.0,
    "2025": 217.0,
-   "2026": 54.0,
+   "2026": 57.0,
    "COMUNA": "Cañete"
   },
   {
@@ -2765,7 +2933,7 @@
    "delito": "HURTOS",
    "2024": 155.0,
    "2025": 129.0,
-   "2026": 29.0,
+   "2026": 32.0,
    "COMUNA": "Cañete"
   },
   {
@@ -2774,7 +2942,7 @@
    "delito": "INCIVILIDADES",
    "2024": 42.0,
    "2025": 59.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "Cañete"
   },
   {
@@ -2792,7 +2960,7 @@
    "delito": "LESIONES LEVES",
    "2024": 114.0,
    "2025": 92.0,
-   "2026": 39.0,
+   "2026": 42.0,
    "COMUNA": "Cañete"
   },
   {
@@ -2819,7 +2987,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 27.0,
    "2025": 28.0,
-   "2026": 8.0,
+   "2026": 10.0,
    "COMUNA": "Cañete"
   },
   {
@@ -2864,7 +3032,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 46.0,
    "2025": 40.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Cañete"
   },
   {
@@ -2873,7 +3041,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 199.0,
    "2025": 178.0,
-   "2026": 59.0,
+   "2026": 65.0,
    "COMUNA": "Cañete"
   },
   {
@@ -2896,7 +3064,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
+  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
   "region": "Biobío"
  }
 }

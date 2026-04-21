@@ -13,36 +13,36 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 2104,
    "2025": 43.0,
-   "2026": 27.0,
-   "variacion": -37.0,
+   "2026": 28.0,
+   "variacion": -35.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Taltal"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 2104,
-   "2025": 37.0,
-   "2026": 48.0,
-   "variacion": 30.0,
+   "2025": 42.0,
+   "2026": 52.0,
+   "variacion": 24.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Taltal"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 2104,
-   "2025": 32.0,
+   "2025": 33.0,
    "2026": 21.0,
-   "variacion": -34.0,
+   "variacion": -36.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Taltal"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 2104,
-   "2025": 30.0,
-   "2026": 30.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 32.0,
+   "2026": 35.0,
+   "variacion": 9.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Taltal"
   },
   {
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 2104,
-   "2025": 8.0,
-   "2026": 17.0,
-   "variacion": 112.0,
+   "2025": 9.0,
+   "2026": 19.0,
+   "variacion": 111.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Taltal"
   },
@@ -85,17 +85,17 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 2104,
    "2025": 8.0,
-   "2026": 13.0,
-   "variacion": 62.0,
+   "2026": 14.0,
+   "variacion": 75.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Taltal"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 2104,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 6.0,
-   "variacion": 500.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Taltal"
   },
@@ -103,18 +103,18 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 2104,
    "2025": 1.0,
-   "2026": 4.0,
-   "variacion": 300.0,
+   "2026": 5.0,
+   "variacion": 400.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Taltal"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 2104,
-   "2025": 2.0,
+   "2025": 6.0,
    "2026": 4.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": -33.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Taltal"
   },
   {
@@ -138,9 +138,9 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 2104,
-   "2025": 11.0,
+   "2025": 13.0,
    "2026": 9.0,
-   "variacion": -18.0,
+   "variacion": -31.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Taltal"
   },
@@ -157,8 +157,8 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 2104,
    "2025": 7.0,
-   "2026": 9.0,
-   "variacion": 29.0,
+   "2026": 10.0,
+   "variacion": 43.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Taltal"
   },
@@ -312,6 +312,14 @@
    "COMUNA": "Taltal"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 2104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Taltal"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 2104,
    "anio": 2025,
@@ -429,6 +437,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 10.0,
+   "COMUNA": "Taltal"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 2104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
    "COMUNA": "Taltal"
   },
   {
@@ -552,6 +568,14 @@
    "COMUNA": "Taltal"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 2104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 4.0,
+   "COMUNA": "Taltal"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 2104,
    "anio": 2025,
@@ -669,6 +693,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 5.0,
+   "COMUNA": "Taltal"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 2104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Taltal"
   },
   {
@@ -792,6 +824,14 @@
    "COMUNA": "Taltal"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 2104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 5.0,
+   "COMUNA": "Taltal"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 2104,
    "anio": 2025,
@@ -900,6 +940,14 @@
    "CODCOM": 2104,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Taltal"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 2104,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Taltal"
   },
@@ -1024,6 +1072,14 @@
    "COMUNA": "Taltal"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 2104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 2.0,
+   "COMUNA": "Taltal"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 2104,
    "anio": 2025,
@@ -1144,6 +1200,14 @@
    "COMUNA": "Taltal"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 2104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Taltal"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 2104,
    "anio": 2025,
@@ -1261,6 +1325,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Taltal"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 2104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Taltal"
   },
   {
@@ -1384,6 +1456,14 @@
    "COMUNA": "Taltal"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 2104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Taltal"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 2104,
    "anio": 2025,
@@ -1504,6 +1584,14 @@
    "COMUNA": "Taltal"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 2104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Taltal"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 2104,
    "anio": 2025,
@@ -1621,6 +1709,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 2.0,
+   "COMUNA": "Taltal"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 2104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
    "COMUNA": "Taltal"
   },
   {
@@ -1744,6 +1840,14 @@
    "COMUNA": "Taltal"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 2104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Taltal"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 2104,
    "anio": 2025,
@@ -1852,6 +1956,14 @@
    "CODCOM": 2104,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Taltal"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 2104,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Taltal"
   },
@@ -1973,6 +2085,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Taltal"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 2104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Taltal"
   },
   {
@@ -2096,6 +2216,14 @@
    "COMUNA": "Taltal"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 2104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Taltal"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 2104,
    "anio": 2025,
@@ -2216,6 +2344,14 @@
    "COMUNA": "Taltal"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 2104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Taltal"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 2104,
    "anio": 2025,
@@ -2333,6 +2469,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 2.0,
+   "COMUNA": "Taltal"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 2104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
    "COMUNA": "Taltal"
   },
   {
@@ -2456,6 +2600,14 @@
    "COMUNA": "Taltal"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 2104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Taltal"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 2104,
    "anio": 2025,
@@ -2573,6 +2725,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Taltal"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 2104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Taltal"
   },
   {
@@ -2694,6 +2854,14 @@
    "mes": 3,
    "casos": 0.0,
    "COMUNA": "Taltal"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 2104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Taltal"
   }
  ],
  "info": [
@@ -2712,7 +2880,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 167.0,
    "2025": 119.0,
-   "2026": 27.0,
+   "2026": 28.0,
    "COMUNA": "Taltal"
   },
   {
@@ -2721,7 +2889,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 142.0,
    "2025": 151.0,
-   "2026": 48.0,
+   "2026": 52.0,
    "COMUNA": "Taltal"
   },
   {
@@ -2739,7 +2907,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 113.0,
    "2025": 114.0,
-   "2026": 30.0,
+   "2026": 35.0,
    "COMUNA": "Taltal"
   },
   {
@@ -2757,7 +2925,7 @@
    "delito": "HURTOS",
    "2024": 54.0,
    "2025": 51.0,
-   "2026": 17.0,
+   "2026": 19.0,
    "COMUNA": "Taltal"
   },
   {
@@ -2784,7 +2952,7 @@
    "delito": "LESIONES LEVES",
    "2024": 44.0,
    "2025": 48.0,
-   "2026": 13.0,
+   "2026": 14.0,
    "COMUNA": "Taltal"
   },
   {
@@ -2802,7 +2970,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 19.0,
    "2025": 6.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Taltal"
   },
   {
@@ -2856,7 +3024,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 34.0,
    "2025": 35.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Taltal"
   },
   {
@@ -2888,7 +3056,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
+  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
   "region": "Antofagasta"
  }
 }

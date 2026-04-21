@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7104,
    "2025": 13.0,
-   "2026": 7.0,
-   "variacion": -46.0,
+   "2026": 8.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Empedrado"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7104,
-   "2025": 12.0,
+   "2025": 13.0,
    "2026": 11.0,
-   "variacion": -8.0,
+   "variacion": -15.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Empedrado"
   },
@@ -94,9 +94,9 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7104,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Empedrado"
   },
   {
@@ -303,6 +303,14 @@
    "COMUNA": "Empedrado"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7104,
    "anio": 2025,
@@ -420,6 +428,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -543,6 +559,14 @@
    "COMUNA": "Empedrado"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 7104,
    "anio": 2025,
@@ -660,6 +684,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 4.0,
+   "COMUNA": "Empedrado"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -783,6 +815,14 @@
    "COMUNA": "Empedrado"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 7104,
    "anio": 2025,
@@ -891,6 +931,14 @@
    "CODCOM": 7104,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Empedrado"
   },
@@ -1015,6 +1063,14 @@
    "COMUNA": "Empedrado"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 7104,
    "anio": 2025,
@@ -1135,6 +1191,14 @@
    "COMUNA": "Empedrado"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 7104,
    "anio": 2025,
@@ -1244,6 +1308,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Empedrado"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -1367,6 +1439,14 @@
    "COMUNA": "Empedrado"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7104,
    "anio": 2025,
@@ -1476,6 +1556,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -1599,6 +1687,14 @@
    "COMUNA": "Empedrado"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7104,
    "anio": 2025,
@@ -1711,6 +1807,14 @@
    "COMUNA": "Empedrado"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 7104,
    "anio": 2025,
@@ -1935,6 +2039,14 @@
    "COMUNA": "Empedrado"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 7104,
    "anio": 2025,
@@ -2055,6 +2167,14 @@
    "COMUNA": "Empedrado"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 7104,
    "anio": 2025,
@@ -2175,6 +2295,14 @@
    "COMUNA": "Empedrado"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 7104,
    "anio": 2025,
@@ -2295,6 +2423,14 @@
    "COMUNA": "Empedrado"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7104,
    "anio": 2025,
@@ -2360,126 +2496,6 @@
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "CODCOM": 7104,
-   "anio": 2025,
-   "mes": 9,
-   "casos": 2.0,
-   "COMUNA": "Empedrado"
-  },
-  {
-   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "CODCOM": 7104,
-   "anio": 2025,
-   "mes": 10,
-   "casos": 0.0,
-   "COMUNA": "Empedrado"
-  },
-  {
-   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "CODCOM": 7104,
-   "anio": 2025,
-   "mes": 11,
-   "casos": 0.0,
-   "COMUNA": "Empedrado"
-  },
-  {
-   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "CODCOM": 7104,
-   "anio": 2025,
-   "mes": 12,
-   "casos": 1.0,
-   "COMUNA": "Empedrado"
-  },
-  {
-   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "CODCOM": 7104,
-   "anio": 2026,
-   "mes": 1,
-   "casos": 1.0,
-   "COMUNA": "Empedrado"
-  },
-  {
-   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "CODCOM": 7104,
-   "anio": 2026,
-   "mes": 2,
-   "casos": 2.0,
-   "COMUNA": "Empedrado"
-  },
-  {
-   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "CODCOM": 7104,
-   "anio": 2026,
-   "mes": 3,
-   "casos": 0.0,
-   "COMUNA": "Empedrado"
-  },
-  {
-   "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "CODCOM": 7104,
-   "anio": 2025,
-   "mes": 1,
-   "casos": 1.0,
-   "COMUNA": "Empedrado"
-  },
-  {
-   "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "CODCOM": 7104,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 0.0,
-   "COMUNA": "Empedrado"
-  },
-  {
-   "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "CODCOM": 7104,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 2.0,
-   "COMUNA": "Empedrado"
-  },
-  {
-   "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "CODCOM": 7104,
-   "anio": 2025,
-   "mes": 4,
-   "casos": 0.0,
-   "COMUNA": "Empedrado"
-  },
-  {
-   "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "CODCOM": 7104,
-   "anio": 2025,
-   "mes": 5,
-   "casos": 1.0,
-   "COMUNA": "Empedrado"
-  },
-  {
-   "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "CODCOM": 7104,
-   "anio": 2025,
-   "mes": 6,
-   "casos": 1.0,
-   "COMUNA": "Empedrado"
-  },
-  {
-   "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "CODCOM": 7104,
-   "anio": 2025,
-   "mes": 7,
-   "casos": 0.0,
-   "COMUNA": "Empedrado"
-  },
-  {
-   "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "CODCOM": 7104,
-   "anio": 2025,
-   "mes": 8,
-   "casos": 1.0,
-   "COMUNA": "Empedrado"
-  },
-  {
-   "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 7104,
    "anio": 2025,
    "mes": 9,
@@ -2487,6 +2503,134 @@
    "COMUNA": "Empedrado"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1.0,
+   "COMUNA": "Empedrado"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 1,
+   "casos": 1.0,
+   "COMUNA": "Empedrado"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 2,
+   "casos": 2.0,
+   "COMUNA": "Empedrado"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1.0,
+   "COMUNA": "Empedrado"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2.0,
+   "COMUNA": "Empedrado"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Empedrado"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Empedrado"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 0.0,
+   "COMUNA": "Empedrado"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1.0,
+   "COMUNA": "Empedrado"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2.0,
+   "COMUNA": "Empedrado"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 7104,
    "anio": 2025,
@@ -2532,6 +2676,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Empedrado"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7104,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Empedrado"
   }
  ],
@@ -2551,7 +2703,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 32.0,
    "2025": 38.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -2632,7 +2784,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 1.0,
    "2025": 0.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -2727,7 +2879,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
+  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
   "region": "Maule"
  }
 }

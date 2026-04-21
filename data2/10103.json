@@ -13,26 +13,26 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10103,
    "2025": 9.0,
-   "2026": 11.0,
-   "variacion": 22.0,
+   "2026": 13.0,
+   "variacion": 44.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochamó"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10103,
-   "2025": 18.0,
+   "2025": 22.0,
    "2026": 17.0,
-   "variacion": -6.0,
+   "variacion": -23.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cochamó"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10103,
-   "2025": 12.0,
+   "2025": 13.0,
    "2026": 18.0,
-   "variacion": 50.0,
+   "variacion": 38.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochamó"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10103,
    "2025": 13.0,
-   "2026": 6.0,
-   "variacion": -54.0,
+   "2026": 7.0,
+   "variacion": -46.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cochamó"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 10103,
    "2025": 4.0,
-   "2026": 5.0,
-   "variacion": 25.0,
+   "2026": 6.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cochamó"
   },
@@ -103,9 +103,9 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10103,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 1.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cochamó"
   },
   {
@@ -312,6 +312,14 @@
    "COMUNA": "Cochamó"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 10103,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cochamó"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10103,
    "anio": 2025,
@@ -429,6 +437,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 4.0,
+   "COMUNA": "Cochamó"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 10103,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 2.0,
    "COMUNA": "Cochamó"
   },
   {
@@ -552,6 +568,14 @@
    "COMUNA": "Cochamó"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 10103,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cochamó"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 10103,
    "anio": 2025,
@@ -672,6 +696,14 @@
    "COMUNA": "Cochamó"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 10103,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cochamó"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10103,
    "anio": 2025,
@@ -792,6 +824,14 @@
    "COMUNA": "Cochamó"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 10103,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Cochamó"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 10103,
    "anio": 2025,
@@ -900,6 +940,14 @@
    "CODCOM": 10103,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Cochamó"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 10103,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Cochamó"
   },
@@ -1024,6 +1072,14 @@
    "COMUNA": "Cochamó"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 10103,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cochamó"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 10103,
    "anio": 2025,
@@ -1144,6 +1200,14 @@
    "COMUNA": "Cochamó"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 10103,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cochamó"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10103,
    "anio": 2025,
@@ -1260,6 +1324,14 @@
    "CODCOM": 10103,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Cochamó"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 10103,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Cochamó"
   },
@@ -1384,6 +1456,14 @@
    "COMUNA": "Cochamó"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 10103,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Cochamó"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10103,
    "anio": 2025,
@@ -1504,6 +1584,14 @@
    "COMUNA": "Cochamó"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10103,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cochamó"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10103,
    "anio": 2025,
@@ -1621,6 +1709,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 0.0,
+   "COMUNA": "Cochamó"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 10103,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
    "COMUNA": "Cochamó"
   },
   {
@@ -1744,6 +1840,14 @@
    "COMUNA": "Cochamó"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 10103,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cochamó"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 10103,
    "anio": 2025,
@@ -1864,6 +1968,14 @@
    "COMUNA": "Cochamó"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 10103,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cochamó"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 10103,
    "anio": 2025,
@@ -1984,6 +2096,14 @@
    "COMUNA": "Cochamó"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 10103,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cochamó"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 10103,
    "anio": 2025,
@@ -2104,6 +2224,14 @@
    "COMUNA": "Cochamó"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 10103,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cochamó"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 10103,
    "anio": 2025,
@@ -2224,6 +2352,14 @@
    "COMUNA": "Cochamó"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 10103,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cochamó"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 10103,
    "anio": 2025,
@@ -2341,6 +2477,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Cochamó"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 10103,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Cochamó"
   },
   {
@@ -2464,6 +2608,14 @@
    "COMUNA": "Cochamó"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 10103,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cochamó"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 10103,
    "anio": 2025,
@@ -2576,6 +2728,14 @@
    "COMUNA": "Cochamó"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 10103,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Cochamó"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10103,
    "anio": 2025,
@@ -2693,6 +2853,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Cochamó"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 10103,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Cochamó"
   }
  ],
@@ -2712,7 +2880,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 38.0,
    "2025": 37.0,
-   "2026": 11.0,
+   "2026": 13.0,
    "COMUNA": "Cochamó"
   },
   {
@@ -2739,7 +2907,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 26.0,
    "2025": 44.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Cochamó"
   },
   {
@@ -2784,7 +2952,7 @@
    "delito": "LESIONES LEVES",
    "2024": 18.0,
    "2025": 12.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Cochamó"
   },
   {
@@ -2802,7 +2970,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 2.0,
    "2025": 2.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Cochamó"
   },
   {
@@ -2888,7 +3056,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
+  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
   "region": "Los Lagos"
  }
 }

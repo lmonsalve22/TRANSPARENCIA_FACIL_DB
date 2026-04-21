@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 3201,
-   "2025": 31.0,
+   "2025": 33.0,
    "2026": 22.0,
-   "variacion": -29.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chañaral"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 3201,
-   "2025": 25.0,
-   "2026": 33.0,
-   "variacion": 32.0,
+   "2025": 26.0,
+   "2026": 37.0,
+   "variacion": 42.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chañaral"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 3201,
-   "2025": 31.0,
-   "2026": 32.0,
-   "variacion": 3.0,
-   "situación": "Aumento de Casos",
+   "2025": 36.0,
+   "2026": 33.0,
+   "variacion": -8.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Chañaral"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 3201,
-   "2025": 25.0,
-   "2026": 23.0,
-   "variacion": -8.0,
+   "2025": 26.0,
+   "2026": 25.0,
+   "variacion": -4.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chañaral"
   },
@@ -66,8 +66,8 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 3201,
-   "2025": 16.0,
-   "2026": 17.0,
+   "2025": 17.0,
+   "2026": 18.0,
    "variacion": 6.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chañaral"
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 3201,
-   "2025": 13.0,
-   "2026": 19.0,
-   "variacion": 46.0,
+   "2025": 15.0,
+   "2026": 21.0,
+   "variacion": 40.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chañaral"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 3201,
-   "2025": 7.0,
+   "2025": 8.0,
    "2026": 24.0,
-   "variacion": 243.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chañaral"
   },
@@ -304,6 +304,14 @@
    "COMUNA": "Chañaral"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 3201,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Chañaral"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 3201,
    "anio": 2025,
@@ -421,6 +429,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 5.0,
+   "COMUNA": "Chañaral"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 3201,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Chañaral"
   },
   {
@@ -544,6 +560,14 @@
    "COMUNA": "Chañaral"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 3201,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 4.0,
+   "COMUNA": "Chañaral"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 3201,
    "anio": 2025,
@@ -661,6 +685,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 11.0,
+   "COMUNA": "Chañaral"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 3201,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
    "COMUNA": "Chañaral"
   },
   {
@@ -784,6 +816,14 @@
    "COMUNA": "Chañaral"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 3201,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 2.0,
+   "COMUNA": "Chañaral"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 3201,
    "anio": 2025,
@@ -1005,6 +1045,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 4.0,
+   "COMUNA": "Chañaral"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3201,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Chañaral"
   },
   {
@@ -1128,6 +1176,14 @@
    "COMUNA": "Chañaral"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 3201,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Chañaral"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 3201,
    "anio": 2025,
@@ -1244,6 +1300,14 @@
    "CODCOM": 3201,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Chañaral"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 3201,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Chañaral"
   },
@@ -1368,6 +1432,14 @@
    "COMUNA": "Chañaral"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 3201,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 2.0,
+   "COMUNA": "Chañaral"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 3201,
    "anio": 2025,
@@ -1488,6 +1560,14 @@
    "COMUNA": "Chañaral"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 3201,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Chañaral"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 3201,
    "anio": 2025,
@@ -1605,6 +1685,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 1.0,
+   "COMUNA": "Chañaral"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 3201,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Chañaral"
   },
   {
@@ -1728,6 +1816,14 @@
    "COMUNA": "Chañaral"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 3201,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Chañaral"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 3201,
    "anio": 2025,
@@ -1844,6 +1940,14 @@
    "CODCOM": 3201,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Chañaral"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 3201,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Chañaral"
   },
@@ -1965,6 +2069,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 2.0,
+   "COMUNA": "Chañaral"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 3201,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Chañaral"
   },
   {
@@ -2088,6 +2200,14 @@
    "COMUNA": "Chañaral"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 3201,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Chañaral"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 3201,
    "anio": 2025,
@@ -2205,6 +2325,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 2.0,
+   "COMUNA": "Chañaral"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 3201,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Chañaral"
   },
   {
@@ -2325,6 +2453,14 @@
    "anio": 2026,
    "mes": 3,
    "casos": 5.0,
+   "COMUNA": "Chañaral"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 3201,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
    "COMUNA": "Chañaral"
   },
   {
@@ -2448,6 +2584,14 @@
    "COMUNA": "Chañaral"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 3201,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Chañaral"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 3201,
    "anio": 2025,
@@ -2556,6 +2700,14 @@
    "CODCOM": 3201,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Chañaral"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 3201,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Chañaral"
   },
@@ -2676,6 +2828,14 @@
    "CODCOM": 3201,
    "anio": 2026,
    "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Chañaral"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 3201,
+   "anio": 2026,
+   "mes": 4,
    "casos": 0.0,
    "COMUNA": "Chañaral"
   }
@@ -2705,7 +2865,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 119.0,
    "2025": 107.0,
-   "2026": 33.0,
+   "2026": 37.0,
    "COMUNA": "Chañaral"
   },
   {
@@ -2714,7 +2874,7 @@
    "delito": "DAÑOS",
    "2024": 91.0,
    "2025": 115.0,
-   "2026": 32.0,
+   "2026": 33.0,
    "COMUNA": "Chañaral"
   },
   {
@@ -2723,7 +2883,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 85.0,
    "2025": 79.0,
-   "2026": 23.0,
+   "2026": 25.0,
    "COMUNA": "Chañaral"
   },
   {
@@ -2750,7 +2910,7 @@
    "delito": "INCIVILIDADES",
    "2024": 77.0,
    "2025": 46.0,
-   "2026": 17.0,
+   "2026": 18.0,
    "COMUNA": "Chañaral"
   },
   {
@@ -2768,7 +2928,7 @@
    "delito": "LESIONES LEVES",
    "2024": 75.0,
    "2025": 60.0,
-   "2026": 19.0,
+   "2026": 21.0,
    "COMUNA": "Chañaral"
   },
   {
@@ -2872,7 +3032,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 14/2026 (del 30/03/2026 al 05/04/2026)",
+  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
   "region": "Atacama"
  }
 }
