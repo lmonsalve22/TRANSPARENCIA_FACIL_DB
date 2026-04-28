@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6202,
    "2025": 7.0,
-   "2026": 8.0,
-   "variacion": 14.0,
+   "2026": 9.0,
+   "variacion": 29.0,
    "situación": "Aumento de Casos",
    "COMUNA": "La Estrella"
   },
@@ -22,17 +22,17 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6202,
    "2025": 5.0,
-   "2026": 8.0,
-   "variacion": 60.0,
+   "2026": 10.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "La Estrella"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6202,
-   "2025": 9.0,
-   "2026": 12.0,
-   "variacion": 33.0,
+   "2025": 10.0,
+   "2026": 14.0,
+   "variacion": 40.0,
    "situación": "Aumento de Casos",
    "COMUNA": "La Estrella"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 6202,
    "2025": 6.0,
-   "2026": 0.0,
-   "variacion": -100.0,
+   "2026": 1.0,
+   "variacion": -83.0,
    "situación": "Disminución de Casos",
    "COMUNA": "La Estrella"
   },
@@ -147,7 +147,7 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6202,
-   "2025": 1.0,
+   "2025": 3.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6202,
-   "2025": 9.0,
+   "2025": 10.0,
    "2026": 6.0,
-   "variacion": -33.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "La Estrella"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 6202,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "La Estrella"
   },
   {
@@ -564,7 +564,7 @@
    "CODCOM": 6202,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "La Estrella"
   },
   {
@@ -692,7 +692,7 @@
    "CODCOM": 6202,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "La Estrella"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 6202,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "La Estrella"
   },
   {
@@ -2832,7 +2832,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 28.0,
    "2025": 22.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "La Estrella"
   },
   {
@@ -2841,7 +2841,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 21.0,
    "2025": 15.0,
-   "2026": 8.0,
+   "2026": 10.0,
    "COMUNA": "La Estrella"
   },
   {
@@ -2850,7 +2850,7 @@
    "delito": "DAÑOS",
    "2024": 27.0,
    "2025": 25.0,
-   "2026": 12.0,
+   "2026": 14.0,
    "COMUNA": "La Estrella"
   },
   {
@@ -2877,7 +2877,7 @@
    "delito": "HURTOS",
    "2024": 12.0,
    "2025": 15.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "La Estrella"
   },
   {
@@ -3008,7 +3008,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
+  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
   "region": "O'Higgins"
  }
 }

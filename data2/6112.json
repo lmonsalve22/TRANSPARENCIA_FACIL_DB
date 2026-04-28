@@ -13,35 +13,35 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6112,
    "2025": 51.0,
-   "2026": 49.0,
-   "variacion": -4.0,
-   "situación": "Disminución de Casos",
+   "2026": 52.0,
+   "variacion": 2.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Peumo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6112,
-   "2025": 60.0,
-   "2026": 54.0,
-   "variacion": -10.0,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Peumo"
-  },
-  {
-   "delito": "DAÑOS",
-   "CODCOM": 6112,
-   "2025": 25.0,
-   "2026": 25.0,
+   "2025": 63.0,
+   "2026": 63.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Peumo"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 6112,
+   "2025": 27.0,
+   "2026": 25.0,
+   "variacion": -7.0,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Peumo"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6112,
-   "2025": 37.0,
-   "2026": 35.0,
-   "variacion": -5.0,
+   "2025": 42.0,
+   "2026": 37.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Peumo"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 6112,
    "2025": 3.0,
-   "2026": 5.0,
-   "variacion": 67.0,
+   "2026": 6.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Peumo"
   },
@@ -111,9 +111,9 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6112,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 5.0,
-   "variacion": 67.0,
+   "variacion": 25.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Peumo"
   },
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 6112,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 2.0,
-   "variacion": 200.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Peumo"
   },
@@ -156,7 +156,7 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6112,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -444,7 +444,7 @@
    "CODCOM": 6112,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 4.0,
    "COMUNA": "Peumo"
   },
   {
@@ -572,7 +572,7 @@
    "CODCOM": 6112,
    "anio": 2026,
    "mes": 4,
-   "casos": 5.0,
+   "casos": 14.0,
    "COMUNA": "Peumo"
   },
   {
@@ -828,7 +828,7 @@
    "CODCOM": 6112,
    "anio": 2026,
    "mes": 4,
-   "casos": 3.0,
+   "casos": 5.0,
    "COMUNA": "Peumo"
   },
   {
@@ -1204,7 +1204,7 @@
    "CODCOM": 6112,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Peumo"
   },
   {
@@ -2888,7 +2888,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 158.0,
    "2025": 139.0,
-   "2026": 49.0,
+   "2026": 52.0,
    "COMUNA": "Peumo"
   },
   {
@@ -2897,7 +2897,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 141.0,
    "2025": 323.0,
-   "2026": 54.0,
+   "2026": 63.0,
    "COMUNA": "Peumo"
   },
   {
@@ -2915,7 +2915,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 144.0,
    "2025": 141.0,
-   "2026": 35.0,
+   "2026": 37.0,
    "COMUNA": "Peumo"
   },
   {
@@ -2942,7 +2942,7 @@
    "delito": "INCIVILIDADES",
    "2024": 51.0,
    "2025": 53.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Peumo"
   },
   {
@@ -3064,7 +3064,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
+  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
   "region": "O'Higgins"
  }
 }

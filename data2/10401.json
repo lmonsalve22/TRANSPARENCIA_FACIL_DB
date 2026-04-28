@@ -21,18 +21,18 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10401,
-   "2025": 8.0,
+   "2025": 11.0,
    "2026": 37.0,
-   "variacion": 362.0,
+   "variacion": 236.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chaitén"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10401,
-   "2025": 12.0,
+   "2025": 13.0,
    "2026": 10.0,
-   "variacion": -17.0,
+   "variacion": -23.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 10401,
    "2025": 6.0,
-   "2026": 3.0,
-   "variacion": -50.0,
+   "2026": 4.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
@@ -93,10 +93,10 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10401,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
   {
@@ -111,9 +111,9 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 10401,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 7.0,
-   "variacion": 75.0,
+   "variacion": 40.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chaitén"
   },
@@ -1091,7 +1091,7 @@
    "CODCOM": 10401,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Chaitén"
   },
   {
@@ -2677,7 +2677,7 @@
    "delito": "INCIVILIDADES",
    "2024": 23.0,
    "2025": 19.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Chaitén"
   },
   {
@@ -2799,7 +2799,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
+  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
   "region": "Los Lagos"
  }
 }

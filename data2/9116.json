@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9116,
-   "2025": 30.0,
+   "2025": 32.0,
    "2026": 33.0,
-   "variacion": 10.0,
+   "variacion": 3.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Saavedra"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9116,
-   "2025": 63.0,
-   "2026": 49.0,
-   "variacion": -22.0,
+   "2025": 64.0,
+   "2026": 52.0,
+   "variacion": -19.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Saavedra"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9116,
    "2025": 35.0,
-   "2026": 29.0,
-   "variacion": -17.0,
+   "2026": 34.0,
+   "variacion": -3.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Saavedra"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9116,
-   "2025": 12.0,
-   "2026": 7.0,
-   "variacion": -42.0,
+   "2025": 14.0,
+   "2026": 8.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Saavedra"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9116,
-   "2025": 2.0,
-   "2026": 4.0,
-   "variacion": 100.0,
+   "2025": 3.0,
+   "2026": 5.0,
+   "variacion": 67.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Saavedra"
   },
@@ -148,9 +148,9 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9116,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Saavedra"
   },
   {
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9116,
-   "2025": 8.0,
+   "2025": 10.0,
    "2026": 10.0,
-   "variacion": 25.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Saavedra"
   },
   {
@@ -572,7 +572,7 @@
    "CODCOM": 9116,
    "anio": 2026,
    "mes": 4,
-   "casos": 3.0,
+   "casos": 6.0,
    "COMUNA": "Saavedra"
   },
   {
@@ -828,7 +828,7 @@
    "CODCOM": 9116,
    "anio": 2026,
    "mes": 4,
-   "casos": 2.0,
+   "casos": 7.0,
    "COMUNA": "Saavedra"
   },
   {
@@ -1468,7 +1468,7 @@
    "CODCOM": 9116,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Saavedra"
   },
   {
@@ -1724,7 +1724,7 @@
    "CODCOM": 9116,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Saavedra"
   },
   {
@@ -2356,7 +2356,7 @@
    "CODCOM": 9116,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Saavedra"
   },
   {
@@ -2889,7 +2889,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 122.0,
    "2025": 161.0,
-   "2026": 49.0,
+   "2026": 52.0,
    "COMUNA": "Saavedra"
   },
   {
@@ -2907,7 +2907,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 87.0,
    "2025": 87.0,
-   "2026": 29.0,
+   "2026": 34.0,
    "COMUNA": "Saavedra"
   },
   {
@@ -2952,7 +2952,7 @@
    "delito": "LESIONES LEVES",
    "2024": 37.0,
    "2025": 44.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Saavedra"
   },
   {
@@ -2970,7 +2970,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 3.0,
    "2025": 13.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Saavedra"
   },
   {
@@ -3015,7 +3015,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 5.0,
    "2025": 2.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Saavedra"
   },
   {
@@ -3056,7 +3056,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
+  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
   "region": "La Araucanía"
  }
 }

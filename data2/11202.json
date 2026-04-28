@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 11202,
-   "2025": 20.0,
+   "2025": 22.0,
    "2026": 17.0,
-   "variacion": -15.0,
+   "variacion": -23.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cisnes"
   },
@@ -22,17 +22,17 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11202,
    "2025": 88.0,
-   "2026": 36.0,
-   "variacion": -59.0,
+   "2026": 37.0,
+   "variacion": -58.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cisnes"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 11202,
-   "2025": 15.0,
+   "2025": 17.0,
    "2026": 23.0,
-   "variacion": 53.0,
+   "variacion": 35.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cisnes"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 11202,
-   "2025": 29.0,
-   "2026": 12.0,
-   "variacion": -59.0,
+   "2025": 30.0,
+   "2026": 14.0,
+   "variacion": -53.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cisnes"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 11202,
    "2025": 9.0,
-   "2026": 4.0,
-   "variacion": -56.0,
+   "2026": 5.0,
+   "variacion": -44.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Cisnes"
   },
@@ -147,18 +147,18 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 11202,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Cisnes"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 11202,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 2.0,
-   "variacion": 200.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Cisnes"
   },
@@ -563,7 +563,7 @@
    "CODCOM": 11202,
    "anio": 2026,
    "mes": 4,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Cisnes"
   },
   {
@@ -1195,7 +1195,7 @@
    "CODCOM": 11202,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Cisnes"
   },
   {
@@ -1451,7 +1451,7 @@
    "CODCOM": 11202,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Cisnes"
   },
   {
@@ -2752,7 +2752,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 148.0,
    "2025": 173.0,
-   "2026": 36.0,
+   "2026": 37.0,
    "COMUNA": "Cisnes"
   },
   {
@@ -2797,7 +2797,7 @@
    "delito": "INCIVILIDADES",
    "2024": 36.0,
    "2025": 68.0,
-   "2026": 12.0,
+   "2026": 14.0,
    "COMUNA": "Cisnes"
   },
   {
@@ -2815,7 +2815,7 @@
    "delito": "LESIONES LEVES",
    "2024": 32.0,
    "2025": 27.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Cisnes"
   },
   {
@@ -2919,7 +2919,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
+  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
   "region": "Aysén"
  }
 }

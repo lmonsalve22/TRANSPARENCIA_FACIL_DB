@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13502,
-   "2025": 17.0,
-   "2026": 20.0,
-   "variacion": 18.0,
+   "2025": 19.0,
+   "2026": 22.0,
+   "variacion": 16.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Alhué"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13502,
-   "2025": 18.0,
-   "2026": 28.0,
-   "variacion": 56.0,
+   "2025": 21.0,
+   "2026": 34.0,
+   "variacion": 62.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Alhué"
   },
@@ -40,17 +40,17 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13502,
    "2025": 23.0,
-   "2026": 30.0,
-   "variacion": 30.0,
+   "2026": 32.0,
+   "variacion": 39.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Alhué"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 13502,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 3.0,
-   "variacion": 200.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Alhué"
   },
@@ -76,18 +76,18 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 13502,
    "2025": 8.0,
-   "2026": 14.0,
-   "variacion": 75.0,
+   "2026": 15.0,
+   "variacion": 88.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Alhué"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 13502,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Alhué"
   },
   {
@@ -427,7 +427,7 @@
    "CODCOM": 13502,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Alhué"
   },
   {
@@ -555,7 +555,7 @@
    "CODCOM": 13502,
    "anio": 2026,
    "mes": 4,
-   "casos": 12.0,
+   "casos": 18.0,
    "COMUNA": "Alhué"
   },
   {
@@ -811,7 +811,7 @@
    "CODCOM": 13502,
    "anio": 2026,
    "mes": 4,
-   "casos": 3.0,
+   "casos": 5.0,
    "COMUNA": "Alhué"
   },
   {
@@ -1323,7 +1323,7 @@
    "CODCOM": 13502,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Alhué"
   },
   {
@@ -2743,7 +2743,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 68.0,
    "2025": 58.0,
-   "2026": 20.0,
+   "2026": 22.0,
    "COMUNA": "Alhué"
   },
   {
@@ -2752,7 +2752,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 70.0,
    "2025": 87.0,
-   "2026": 28.0,
+   "2026": 34.0,
    "COMUNA": "Alhué"
   },
   {
@@ -2770,7 +2770,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 87.0,
    "2025": 61.0,
-   "2026": 30.0,
+   "2026": 32.0,
    "COMUNA": "Alhué"
   },
   {
@@ -2815,7 +2815,7 @@
    "delito": "LESIONES LEVES",
    "2024": 23.0,
    "2025": 29.0,
-   "2026": 14.0,
+   "2026": 15.0,
    "COMUNA": "Alhué"
   },
   {
@@ -2919,7 +2919,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
+  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
   "region": "Metropolitana"
  }
 }

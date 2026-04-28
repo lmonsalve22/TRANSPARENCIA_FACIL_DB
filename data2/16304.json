@@ -12,10 +12,10 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16304,
-   "2025": 9.0,
+   "2025": 12.0,
    "2026": 11.0,
-   "variacion": 22.0,
-   "situación": "Aumento de Casos",
+   "variacion": -8.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
   },
   {
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16304,
-   "2025": 15.0,
+   "2025": 16.0,
    "2026": 11.0,
-   "variacion": -27.0,
+   "variacion": -31.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 16304,
-   "2025": 16.0,
+   "2025": 17.0,
    "2026": 23.0,
-   "variacion": 44.0,
+   "variacion": 35.0,
    "situación": "Aumento de Casos",
    "COMUNA": "San Fabián"
   },
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16304,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 3.0,
-   "variacion": 50.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "San Fabián"
   },
   {
@@ -102,18 +102,18 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 16304,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 4.0,
-   "variacion": 400.0,
+   "variacion": 300.0,
    "situación": "Aumento de Casos",
    "COMUNA": "San Fabián"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 16304,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 1.0,
-   "variacion": -67.0,
+   "variacion": -75.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
   },
@@ -3032,7 +3032,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
+  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
   "region": "Ñuble"
  }
 }

@@ -21,9 +21,9 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11203,
-   "2025": 2.0,
-   "2026": 38.0,
-   "variacion": 1800.0,
+   "2025": 3.0,
+   "2026": 39.0,
+   "variacion": 1200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Guaitecas"
   },
@@ -31,18 +31,18 @@
    "delito": "DAÑOS",
    "CODCOM": 11203,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 2.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Guaitecas"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11203,
    "2025": 5.0,
-   "2026": 4.0,
-   "variacion": -20.0,
-   "situación": "Disminución de Casos",
+   "2026": 5.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Guaitecas"
   },
   {
@@ -546,7 +546,7 @@
    "CODCOM": 11203,
    "anio": 2026,
    "mes": 4,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Guaitecas"
   },
   {
@@ -674,7 +674,7 @@
    "CODCOM": 11203,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Guaitecas"
   },
   {
@@ -802,7 +802,7 @@
    "CODCOM": 11203,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Guaitecas"
   },
   {
@@ -2567,7 +2567,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 123.0,
    "2025": 47.0,
-   "2026": 38.0,
+   "2026": 39.0,
    "COMUNA": "Guaitecas"
   },
   {
@@ -2576,7 +2576,7 @@
    "delito": "DAÑOS",
    "2024": 8.0,
    "2025": 6.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Guaitecas"
   },
   {
@@ -2585,7 +2585,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 16.0,
    "2025": 18.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Guaitecas"
   },
   {
@@ -2734,7 +2734,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
+  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
   "region": "Aysén"
  }
 }

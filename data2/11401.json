@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 11401,
    "2025": 13.0,
-   "2026": 9.0,
-   "variacion": -31.0,
+   "2026": 10.0,
+   "variacion": -23.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11401,
    "2025": 38.0,
-   "2026": 35.0,
-   "variacion": -8.0,
-   "situación": "Disminución de Casos",
+   "2026": 38.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Chile Chico"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 11401,
-   "2025": 15.0,
-   "2026": 18.0,
-   "variacion": 20.0,
+   "2025": 18.0,
+   "2026": 19.0,
+   "variacion": 6.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chile Chico"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11401,
-   "2025": 16.0,
+   "2025": 17.0,
    "2026": 8.0,
-   "variacion": -50.0,
+   "variacion": -53.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
@@ -66,10 +66,10 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 11401,
-   "2025": 15.0,
+   "2025": 16.0,
    "2026": 15.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -6.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
   {
@@ -435,7 +435,7 @@
    "CODCOM": 11401,
    "anio": 2026,
    "mes": 4,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -563,7 +563,7 @@
    "CODCOM": 11401,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 4.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -691,7 +691,7 @@
    "CODCOM": 11401,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2743,7 +2743,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 39.0,
    "2025": 33.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2752,7 +2752,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 136.0,
    "2025": 110.0,
-   "2026": 35.0,
+   "2026": 38.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2761,7 +2761,7 @@
    "delito": "DAÑOS",
    "2024": 62.0,
    "2025": 48.0,
-   "2026": 18.0,
+   "2026": 19.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2919,7 +2919,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
+  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
   "region": "Aysén"
  }
 }

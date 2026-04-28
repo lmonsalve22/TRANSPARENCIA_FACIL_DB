@@ -12,37 +12,37 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4304,
-   "2025": 25.0,
-   "2026": 19.0,
-   "variacion": -24.0,
+   "2025": 29.0,
+   "2026": 21.0,
+   "variacion": -28.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Punitaqui"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 4304,
-   "2025": 22.0,
-   "2026": 21.0,
-   "variacion": -5.0,
+   "2025": 26.0,
+   "2026": 22.0,
+   "variacion": -15.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Punitaqui"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 4304,
-   "2025": 16.0,
+   "2025": 17.0,
    "2026": 17.0,
-   "variacion": 6.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Punitaqui"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 4304,
-   "2025": 15.0,
+   "2025": 16.0,
    "2026": 15.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -6.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Punitaqui"
   },
   {
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4304,
-   "2025": 8.0,
+   "2025": 9.0,
    "2026": 3.0,
-   "variacion": -62.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Punitaqui"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 4304,
    "2025": 12.0,
-   "2026": 10.0,
-   "variacion": -17.0,
+   "2026": 11.0,
+   "variacion": -8.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Punitaqui"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 4304,
-   "2025": 11.0,
+   "2025": 12.0,
    "2026": 14.0,
-   "variacion": 27.0,
+   "variacion": 17.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Punitaqui"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 4304,
    "2025": 8.0,
-   "2026": 10.0,
-   "variacion": 25.0,
+   "2026": 11.0,
+   "variacion": 38.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Punitaqui"
   },
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 4304,
-   "2025": 20.0,
+   "2025": 21.0,
    "2026": 21.0,
-   "variacion": 5.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Punitaqui"
   },
   {
@@ -444,7 +444,7 @@
    "CODCOM": 4304,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Punitaqui"
   },
   {
@@ -572,7 +572,7 @@
    "CODCOM": 4304,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Punitaqui"
   },
   {
@@ -1204,7 +1204,7 @@
    "CODCOM": 4304,
    "anio": 2026,
    "mes": 4,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Punitaqui"
   },
   {
@@ -1844,7 +1844,7 @@
    "CODCOM": 4304,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Punitaqui"
   },
   {
@@ -2864,7 +2864,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 75.0,
    "2025": 60.0,
-   "2026": 19.0,
+   "2026": 21.0,
    "COMUNA": "Punitaqui"
   },
   {
@@ -2873,7 +2873,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 165.0,
    "2025": 63.0,
-   "2026": 21.0,
+   "2026": 22.0,
    "COMUNA": "Punitaqui"
   },
   {
@@ -2918,7 +2918,7 @@
    "delito": "INCIVILIDADES",
    "2024": 27.0,
    "2025": 31.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "Punitaqui"
   },
   {
@@ -2963,7 +2963,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 12.0,
    "2025": 15.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "Punitaqui"
   },
   {
@@ -3040,7 +3040,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
+  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
   "region": "Coquimbo"
  }
 }

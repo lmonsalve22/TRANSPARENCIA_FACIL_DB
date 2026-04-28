@@ -3,18 +3,18 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 10210,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Quinchao"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10210,
    "2025": 14.0,
-   "2026": 23.0,
-   "variacion": 64.0,
+   "2026": 24.0,
+   "variacion": 71.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Quinchao"
   },
@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 10210,
    "2025": 23.0,
-   "2026": 17.0,
-   "variacion": -26.0,
+   "2026": 18.0,
+   "variacion": -22.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quinchao"
   },
@@ -58,17 +58,17 @@
    "delito": "HURTOS",
    "CODCOM": 10210,
    "2025": 8.0,
-   "2026": 7.0,
-   "variacion": -12.0,
-   "situación": "Disminución de Casos",
+   "2026": 8.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Quinchao"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10210,
-   "2025": 26.0,
+   "2025": 27.0,
    "2026": 3.0,
-   "variacion": -88.0,
+   "variacion": -89.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quinchao"
   },
@@ -166,9 +166,9 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10210,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 2.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Quinchao"
   },
   {
@@ -444,7 +444,7 @@
    "CODCOM": 10210,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Quinchao"
   },
   {
@@ -700,7 +700,7 @@
    "CODCOM": 10210,
    "anio": 2026,
    "mes": 4,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Quinchao"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 10210,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Quinchao"
   },
   {
@@ -2588,7 +2588,7 @@
    "CODCOM": 10210,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Quinchao"
   },
   {
@@ -2856,7 +2856,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 62.0,
    "2025": 57.0,
-   "2026": 23.0,
+   "2026": 24.0,
    "COMUNA": "Quinchao"
   },
   {
@@ -2874,7 +2874,7 @@
    "delito": "DAÑOS",
    "2024": 77.0,
    "2025": 61.0,
-   "2026": 17.0,
+   "2026": 18.0,
    "COMUNA": "Quinchao"
   },
   {
@@ -2901,7 +2901,7 @@
    "delito": "HURTOS",
    "2024": 23.0,
    "2025": 22.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Quinchao"
   },
   {
@@ -3009,7 +3009,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 9.0,
    "2025": 4.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Quinchao"
   },
   {
@@ -3032,7 +3032,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
+  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
   "region": "Los Lagos"
  }
 }

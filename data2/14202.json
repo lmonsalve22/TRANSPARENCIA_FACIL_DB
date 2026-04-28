@@ -12,27 +12,27 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14202,
-   "2025": 38.0,
-   "2026": 40.0,
-   "variacion": 5.0,
+   "2025": 40.0,
+   "2026": 44.0,
+   "variacion": 10.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Futrono"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 14202,
-   "2025": 162.0,
-   "2026": 160.0,
-   "variacion": -1.0,
+   "2025": 173.0,
+   "2026": 167.0,
+   "variacion": -3.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Futrono"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 14202,
-   "2025": 35.0,
+   "2025": 37.0,
    "2026": 32.0,
-   "variacion": -9.0,
+   "variacion": -14.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Futrono"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 14202,
    "2025": 42.0,
-   "2026": 38.0,
-   "variacion": -10.0,
+   "2026": 40.0,
+   "variacion": -5.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Futrono"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 14202,
-   "2025": 27.0,
-   "2026": 16.0,
-   "variacion": -41.0,
+   "2025": 28.0,
+   "2026": 17.0,
+   "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Futrono"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 14202,
-   "2025": 32.0,
-   "2026": 18.0,
-   "variacion": -44.0,
+   "2025": 33.0,
+   "2026": 20.0,
+   "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Futrono"
   },
@@ -102,19 +102,19 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 14202,
-   "2025": 2.0,
-   "2026": 5.0,
-   "variacion": 150.0,
+   "2025": 3.0,
+   "2026": 6.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Futrono"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 14202,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 3.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -25.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Futrono"
   },
   {
@@ -147,10 +147,10 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 14202,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Futrono"
   },
   {
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 14202,
    "2025": 21.0,
-   "2026": 9.0,
-   "variacion": -57.0,
+   "2026": 13.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Futrono"
   },
@@ -175,9 +175,9 @@
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 14202,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 2.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Futrono"
   },
   {
@@ -444,7 +444,7 @@
    "CODCOM": 14202,
    "anio": 2026,
    "mes": 4,
-   "casos": 6.0,
+   "casos": 10.0,
    "COMUNA": "Futrono"
   },
   {
@@ -572,7 +572,7 @@
    "CODCOM": 14202,
    "anio": 2026,
    "mes": 4,
-   "casos": 9.0,
+   "casos": 16.0,
    "COMUNA": "Futrono"
   },
   {
@@ -828,7 +828,7 @@
    "CODCOM": 14202,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Futrono"
   },
   {
@@ -1060,7 +1060,7 @@
    "CODCOM": 14202,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Futrono"
   },
   {
@@ -1188,7 +1188,7 @@
    "CODCOM": 14202,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Futrono"
   },
   {
@@ -1700,7 +1700,7 @@
    "CODCOM": 14202,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Futrono"
   },
   {
@@ -2588,7 +2588,7 @@
    "CODCOM": 14202,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 4.0,
    "COMUNA": "Futrono"
   },
   {
@@ -2716,7 +2716,7 @@
    "CODCOM": 14202,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Futrono"
   },
   {
@@ -2864,7 +2864,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 120.0,
    "2025": 125.0,
-   "2026": 40.0,
+   "2026": 44.0,
    "COMUNA": "Futrono"
   },
   {
@@ -2873,7 +2873,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 372.0,
    "2025": 445.0,
-   "2026": 160.0,
+   "2026": 167.0,
    "COMUNA": "Futrono"
   },
   {
@@ -2891,7 +2891,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 123.0,
    "2025": 142.0,
-   "2026": 38.0,
+   "2026": 40.0,
    "COMUNA": "Futrono"
   },
   {
@@ -2909,7 +2909,7 @@
    "delito": "HURTOS",
    "2024": 71.0,
    "2025": 57.0,
-   "2026": 16.0,
+   "2026": 17.0,
    "COMUNA": "Futrono"
   },
   {
@@ -2918,7 +2918,7 @@
    "delito": "INCIVILIDADES",
    "2024": 105.0,
    "2025": 75.0,
-   "2026": 18.0,
+   "2026": 20.0,
    "COMUNA": "Futrono"
   },
   {
@@ -2954,7 +2954,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 10.0,
    "2025": 11.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Futrono"
   },
   {
@@ -3017,7 +3017,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 90.0,
    "2025": 59.0,
-   "2026": 9.0,
+   "2026": 13.0,
    "COMUNA": "Futrono"
   },
   {
@@ -3026,7 +3026,7 @@
    "delito": "ROBOS POR SORPRESA",
    "2024": 1.0,
    "2025": 4.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Futrono"
   },
   {
@@ -3040,7 +3040,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
+  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
   "region": "Los Ríos"
  }
 }

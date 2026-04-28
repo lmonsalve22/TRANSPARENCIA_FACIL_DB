@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5704,
-   "2025": 16.0,
+   "2025": 18.0,
    "2026": 16.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -11.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5704,
    "2025": 6.0,
-   "2026": 5.0,
-   "variacion": -17.0,
-   "situación": "Disminución de Casos",
+   "2026": 6.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Panquehue"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5704,
-   "2025": 28.0,
+   "2025": 30.0,
    "2026": 27.0,
-   "variacion": -4.0,
+   "variacion": -10.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5704,
-   "2025": 34.0,
-   "2026": 15.0,
-   "variacion": -56.0,
+   "2025": 35.0,
+   "2026": 17.0,
+   "variacion": -51.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
@@ -93,7 +93,7 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5704,
-   "2025": 2.0,
+   "2025": 4.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -156,9 +156,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5704,
-   "2025": 14.0,
-   "2026": 10.0,
-   "variacion": -29.0,
+   "2025": 15.0,
+   "2026": 11.0,
+   "variacion": -27.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
@@ -563,7 +563,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -819,7 +819,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2483,7 +2483,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2768,7 +2768,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 15.0,
    "2025": 13.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2786,7 +2786,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 76.0,
    "2025": 86.0,
-   "2026": 15.0,
+   "2026": 17.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2912,7 +2912,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 40.0,
    "2025": 57.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2935,7 +2935,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
+  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
   "region": "Valparaíso"
  }
 }

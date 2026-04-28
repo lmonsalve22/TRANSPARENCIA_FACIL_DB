@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16104,
    "2025": 24.0,
-   "2026": 21.0,
-   "variacion": -12.0,
+   "2026": 22.0,
+   "variacion": -8.0,
    "situación": "Disminución de Casos",
    "COMUNA": "El Carmen"
   },
@@ -22,25 +22,25 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16104,
    "2025": 11.0,
-   "2026": 25.0,
-   "variacion": 127.0,
+   "2026": 26.0,
+   "variacion": 136.0,
    "situación": "Aumento de Casos",
    "COMUNA": "El Carmen"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 16104,
-   "2025": 21.0,
+   "2025": 22.0,
    "2026": 21.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -5.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "El Carmen"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16104,
-   "2025": 25.0,
-   "2026": 28.0,
+   "2025": 26.0,
+   "2026": 29.0,
    "variacion": 12.0,
    "situación": "Aumento de Casos",
    "COMUNA": "El Carmen"
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16104,
-   "2025": 6.0,
-   "2026": 11.0,
-   "variacion": 83.0,
+   "2025": 7.0,
+   "2026": 13.0,
+   "variacion": 86.0,
    "situación": "Aumento de Casos",
    "COMUNA": "El Carmen"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 16104,
    "2025": 3.0,
-   "2026": 12.0,
-   "variacion": 300.0,
+   "2026": 13.0,
+   "variacion": 333.0,
    "situación": "Aumento de Casos",
    "COMUNA": "El Carmen"
   },
@@ -138,7 +138,7 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 16104,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -148,9 +148,9 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 16104,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "El Carmen"
   },
   {
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16104,
-   "2025": 12.0,
+   "2025": 14.0,
    "2026": 14.0,
-   "variacion": 17.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "El Carmen"
   },
   {
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 16104,
    "2025": 4.0,
-   "2026": 2.0,
-   "variacion": -50.0,
+   "2026": 3.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "El Carmen"
   }
@@ -444,7 +444,7 @@
    "CODCOM": 16104,
    "anio": 2026,
    "mes": 4,
-   "casos": 4.0,
+   "casos": 5.0,
    "COMUNA": "El Carmen"
   },
   {
@@ -572,7 +572,7 @@
    "CODCOM": 16104,
    "anio": 2026,
    "mes": 4,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "El Carmen"
   },
   {
@@ -828,7 +828,7 @@
    "CODCOM": 16104,
    "anio": 2026,
    "mes": 4,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "El Carmen"
   },
   {
@@ -1084,7 +1084,7 @@
    "CODCOM": 16104,
    "anio": 2026,
    "mes": 4,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "El Carmen"
   },
   {
@@ -1468,7 +1468,7 @@
    "CODCOM": 16104,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "El Carmen"
   },
   {
@@ -2364,7 +2364,7 @@
    "CODCOM": 16104,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "El Carmen"
   },
   {
@@ -2868,7 +2868,7 @@
    "CODCOM": 16104,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "El Carmen"
   }
  ],
@@ -2888,7 +2888,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 77.0,
    "2025": 81.0,
-   "2026": 21.0,
+   "2026": 22.0,
    "COMUNA": "El Carmen"
   },
   {
@@ -2897,7 +2897,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 14.0,
    "2025": 20.0,
-   "2026": 25.0,
+   "2026": 26.0,
    "COMUNA": "El Carmen"
   },
   {
@@ -2915,7 +2915,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 88.0,
    "2025": 97.0,
-   "2026": 28.0,
+   "2026": 29.0,
    "COMUNA": "El Carmen"
   },
   {
@@ -2933,7 +2933,7 @@
    "delito": "HURTOS",
    "2024": 33.0,
    "2025": 37.0,
-   "2026": 11.0,
+   "2026": 13.0,
    "COMUNA": "El Carmen"
   },
   {
@@ -2960,7 +2960,7 @@
    "delito": "LESIONES LEVES",
    "2024": 29.0,
    "2025": 19.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "El Carmen"
   },
   {
@@ -3023,7 +3023,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 3.0,
    "2025": 2.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "El Carmen"
   },
   {
@@ -3059,12 +3059,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 5.0,
    "2025": 8.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "El Carmen"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
+  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
   "region": "Ñuble"
  }
 }

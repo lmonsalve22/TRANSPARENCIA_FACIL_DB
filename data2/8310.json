@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8310,
    "2025": 20.0,
-   "2026": 11.0,
-   "variacion": -45.0,
+   "2026": 12.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rosendo"
   },
@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8310,
    "2025": 18.0,
-   "2026": 11.0,
-   "variacion": -39.0,
+   "2026": 13.0,
+   "variacion": -28.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rosendo"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8310,
-   "2025": 14.0,
+   "2025": 16.0,
    "2026": 10.0,
-   "variacion": -29.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rosendo"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 8310,
    "2025": 13.0,
-   "2026": 2.0,
-   "variacion": -85.0,
+   "2026": 4.0,
+   "variacion": -69.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rosendo"
   },
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8310,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 1.0,
-   "variacion": -67.0,
+   "variacion": -75.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rosendo"
   },
@@ -147,10 +147,10 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8310,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 3.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -25.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "San Rosendo"
   },
   {
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8310,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "San Rosendo"
   }
  ],
@@ -420,7 +420,7 @@
    "CODCOM": 8310,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "San Rosendo"
   },
   {
@@ -548,7 +548,7 @@
    "CODCOM": 8310,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "San Rosendo"
   },
   {
@@ -1180,7 +1180,7 @@
    "CODCOM": 8310,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "San Rosendo"
   },
   {
@@ -2856,7 +2856,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 46.0,
    "2025": 54.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "San Rosendo"
   },
   {
@@ -2865,7 +2865,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 36.0,
    "2025": 33.0,
-   "2026": 11.0,
+   "2026": 13.0,
    "COMUNA": "San Rosendo"
   },
   {
@@ -2910,7 +2910,7 @@
    "delito": "INCIVILIDADES",
    "2024": 16.0,
    "2025": 24.0,
-   "2026": 2.0,
+   "2026": 4.0,
    "COMUNA": "San Rosendo"
   },
   {
@@ -3032,7 +3032,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 15/2026 (del 06/04/2026 al 12/04/2026)",
+  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
   "region": "Biobío"
  }
 }
