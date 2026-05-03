@@ -3,18 +3,18 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 8207,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Tirúa"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8207,
-   "2025": 45.0,
+   "2025": 49.0,
    "2026": 26.0,
-   "variacion": -42.0,
+   "variacion": -47.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Tirúa"
   },
@@ -30,10 +30,10 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 8207,
-   "2025": 23.0,
+   "2025": 24.0,
    "2026": 23.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -4.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Tirúa"
   },
   {
@@ -57,36 +57,36 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8207,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 8.0,
-   "variacion": 60.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Tirúa"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8207,
-   "2025": 9.0,
+   "2025": 10.0,
    "2026": 7.0,
-   "variacion": -22.0,
+   "variacion": -30.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Tirúa"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8207,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Tirúa"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8207,
-   "2025": 10.0,
+   "2025": 12.0,
    "2026": 8.0,
-   "variacion": -20.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Tirúa"
   },
@@ -3064,7 +3064,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
+  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
   "region": "Biobío"
  }
 }

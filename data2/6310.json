@@ -3,45 +3,45 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 6310,
-   "2025": 2.0,
+   "2025": 4.0,
    "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Santa Cruz"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6310,
-   "2025": 107.0,
+   "2025": 111.0,
    "2026": 109.0,
-   "variacion": 2.0,
-   "situación": "Aumento de Casos",
+   "variacion": -2.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Santa Cruz"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6310,
-   "2025": 116.0,
+   "2025": 125.0,
    "2026": 74.0,
-   "variacion": -36.0,
+   "variacion": -41.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Cruz"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6310,
-   "2025": 90.0,
+   "2025": 93.0,
    "2026": 82.0,
-   "variacion": -9.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Cruz"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6310,
-   "2025": 103.0,
+   "2025": 107.0,
    "2026": 73.0,
-   "variacion": -29.0,
+   "variacion": -32.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Cruz"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6310,
-   "2025": 76.0,
+   "2025": 80.0,
    "2026": 72.0,
-   "variacion": -5.0,
+   "variacion": -10.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Cruz"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6310,
-   "2025": 63.0,
+   "2025": 66.0,
    "2026": 39.0,
-   "variacion": -38.0,
+   "variacion": -41.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Cruz"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6310,
-   "2025": 48.0,
+   "2025": 51.0,
    "2026": 31.0,
-   "variacion": -35.0,
+   "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Cruz"
   },
@@ -102,18 +102,18 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6310,
-   "2025": 10.0,
+   "2025": 11.0,
    "2026": 3.0,
-   "variacion": -70.0,
+   "variacion": -73.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Cruz"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6310,
-   "2025": 7.0,
+   "2025": 10.0,
    "2026": 13.0,
-   "variacion": 86.0,
+   "variacion": 30.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa Cruz"
   },
@@ -138,9 +138,9 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6310,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 5.0,
-   "variacion": -17.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Cruz"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6310,
-   "2025": 49.0,
+   "2025": 54.0,
    "2026": 33.0,
-   "variacion": -33.0,
+   "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Cruz"
   },
@@ -3064,7 +3064,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
+  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
   "region": "O'Higgins"
  }
 }

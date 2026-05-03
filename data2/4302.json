@@ -3,18 +3,18 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 4302,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 2.0,
-   "variacion": 200.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Combarbalá"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4302,
-   "2025": 34.0,
+   "2025": 36.0,
    "2026": 29.0,
-   "variacion": -15.0,
+   "variacion": -19.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Combarbalá"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 4302,
-   "2025": 19.0,
+   "2025": 21.0,
    "2026": 43.0,
-   "variacion": 126.0,
+   "variacion": 105.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Combarbalá"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 4302,
-   "2025": 29.0,
+   "2025": 30.0,
    "2026": 24.0,
-   "variacion": -17.0,
+   "variacion": -20.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Combarbalá"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 4302,
-   "2025": 13.0,
+   "2025": 14.0,
    "2026": 17.0,
-   "variacion": 31.0,
+   "variacion": 21.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Combarbalá"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 4302,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 10.0,
-   "variacion": 233.0,
+   "variacion": 150.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Combarbalá"
   },
@@ -147,10 +147,10 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 4302,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Combarbalá"
   },
   {
@@ -3048,7 +3048,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
+  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
   "region": "Coquimbo"
  }
 }

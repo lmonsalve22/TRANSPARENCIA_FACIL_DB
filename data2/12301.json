@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 12301,
-   "2025": 14.0,
+   "2025": 16.0,
    "2026": 15.0,
-   "variacion": 7.0,
-   "situación": "Aumento de Casos",
+   "variacion": -6.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Porvenir"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 12301,
-   "2025": 18.0,
+   "2025": 19.0,
    "2026": 21.0,
-   "variacion": 17.0,
+   "variacion": 11.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Porvenir"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 12301,
-   "2025": 17.0,
+   "2025": 18.0,
    "2026": 9.0,
-   "variacion": -47.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Porvenir"
   },
@@ -138,10 +138,10 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 12301,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Porvenir"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 12301,
-   "2025": 5.0,
+   "2025": 7.0,
    "2026": 2.0,
-   "variacion": -60.0,
+   "variacion": -71.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Porvenir"
   },
@@ -3048,7 +3048,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
+  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
   "region": "Magallanes"
  }
 }

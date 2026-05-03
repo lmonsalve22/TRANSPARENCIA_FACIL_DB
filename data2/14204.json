@@ -3,46 +3,46 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 14204,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Río Bueno"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14204,
-   "2025": 104.0,
+   "2025": 110.0,
    "2026": 79.0,
-   "variacion": -24.0,
+   "variacion": -28.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Bueno"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 14204,
-   "2025": 97.0,
+   "2025": 105.0,
    "2026": 166.0,
-   "variacion": 71.0,
+   "variacion": 58.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Río Bueno"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 14204,
-   "2025": 80.0,
+   "2025": 83.0,
    "2026": 73.0,
-   "variacion": -9.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Bueno"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 14204,
-   "2025": 80.0,
+   "2025": 88.0,
    "2026": 83.0,
-   "variacion": 4.0,
-   "situación": "Aumento de Casos",
+   "variacion": -6.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Río Bueno"
   },
   {
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 14204,
-   "2025": 60.0,
+   "2025": 61.0,
    "2026": 48.0,
-   "variacion": -20.0,
+   "variacion": -21.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Bueno"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 14204,
-   "2025": 19.0,
+   "2025": 24.0,
    "2026": 30.0,
-   "variacion": 58.0,
+   "variacion": 25.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Río Bueno"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 14204,
-   "2025": 32.0,
+   "2025": 35.0,
    "2026": 29.0,
-   "variacion": -9.0,
+   "variacion": -17.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Bueno"
   },
@@ -111,9 +111,9 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 14204,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 7.0,
-   "variacion": 75.0,
+   "variacion": 40.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Río Bueno"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 14204,
-   "2025": 45.0,
+   "2025": 47.0,
    "2026": 13.0,
-   "variacion": -71.0,
+   "variacion": -72.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Bueno"
   },
@@ -3056,7 +3056,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
+  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
   "region": "Los Ríos"
  }
 }

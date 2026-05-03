@@ -12,10 +12,10 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6112,
-   "2025": 51.0,
+   "2025": 53.0,
    "2026": 52.0,
-   "variacion": 2.0,
-   "situación": "Aumento de Casos",
+   "variacion": -2.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Peumo"
   },
   {
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6112,
-   "2025": 27.0,
+   "2025": 30.0,
    "2026": 25.0,
-   "variacion": -7.0,
+   "variacion": -17.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Peumo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6112,
-   "2025": 42.0,
+   "2025": 47.0,
    "2026": 37.0,
-   "variacion": -12.0,
+   "variacion": -21.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Peumo"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6112,
-   "2025": 22.0,
+   "2025": 24.0,
    "2026": 8.0,
-   "variacion": -64.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Peumo"
   },
@@ -75,7 +75,7 @@
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6112,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6112,
-   "2025": 18.0,
+   "2025": 19.0,
    "2026": 14.0,
-   "variacion": -22.0,
+   "variacion": -26.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Peumo"
   },
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6112,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 4.0,
-   "variacion": 300.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Peumo"
   },
@@ -3064,7 +3064,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
+  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
   "region": "O'Higgins"
  }
 }

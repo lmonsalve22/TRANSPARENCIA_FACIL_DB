@@ -13,26 +13,26 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 2103,
    "2025": 8.0,
-   "2026": 10.0,
-   "variacion": 25.0,
+   "2026": 11.0,
+   "variacion": 38.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Sierra Gorda"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 2103,
-   "2025": 104.0,
-   "2026": 33.0,
-   "variacion": -68.0,
+   "2025": 109.0,
+   "2026": 38.0,
+   "variacion": -65.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Sierra Gorda"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 2103,
-   "2025": 25.0,
-   "2026": 31.0,
-   "variacion": 24.0,
+   "2025": 27.0,
+   "2026": 33.0,
+   "variacion": 22.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Sierra Gorda"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 2103,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 3.0,
-   "variacion": 50.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -129,9 +129,9 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 2103,
-   "2025": 16.0,
-   "2026": 7.0,
-   "variacion": -56.0,
+   "2025": 17.0,
+   "2026": 8.0,
+   "variacion": -53.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Sierra Gorda"
   },
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 2103,
-   "2025": 19.0,
-   "2026": 12.0,
-   "variacion": -37.0,
+   "2025": 20.0,
+   "2026": 15.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Sierra Gorda"
   },
@@ -435,7 +435,7 @@
    "CODCOM": 2103,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -563,7 +563,7 @@
    "CODCOM": 2103,
    "anio": 2026,
    "mes": 4,
-   "casos": 3.0,
+   "casos": 8.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -691,7 +691,7 @@
    "CODCOM": 2103,
    "anio": 2026,
    "mes": 4,
-   "casos": 6.0,
+   "casos": 8.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -2099,7 +2099,7 @@
    "CODCOM": 2103,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -2355,7 +2355,7 @@
    "CODCOM": 2103,
    "anio": 2026,
    "mes": 4,
-   "casos": 2.0,
+   "casos": 5.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -2759,7 +2759,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 22.0,
    "2025": 31.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -2768,7 +2768,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 225.0,
    "2025": 234.0,
-   "2026": 33.0,
+   "2026": 38.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -2777,7 +2777,7 @@
    "delito": "DAÑOS",
    "2024": 84.0,
    "2025": 72.0,
-   "2026": 31.0,
+   "2026": 33.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -2885,7 +2885,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 44.0,
    "2025": 49.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -2903,7 +2903,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 66.0,
    "2025": 46.0,
-   "2026": 12.0,
+   "2026": 15.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -2935,7 +2935,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
+  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
   "region": "Antofagasta"
  }
 }

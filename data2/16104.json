@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16104,
-   "2025": 22.0,
+   "2025": 23.0,
    "2026": 21.0,
-   "variacion": -5.0,
+   "variacion": -9.0,
    "situación": "Disminución de Casos",
    "COMUNA": "El Carmen"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16104,
-   "2025": 26.0,
+   "2025": 28.0,
    "2026": 29.0,
-   "variacion": 12.0,
+   "variacion": 4.0,
    "situación": "Aumento de Casos",
    "COMUNA": "El Carmen"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 16104,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 5.0,
-   "variacion": -17.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "El Carmen"
   },
@@ -129,10 +129,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16104,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 4.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -20.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "El Carmen"
   },
   {
@@ -3064,7 +3064,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
+  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
   "region": "Ñuble"
  }
 }

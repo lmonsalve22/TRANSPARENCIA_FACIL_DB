@@ -3,46 +3,46 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 4106,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 5.0,
-   "variacion": 400.0,
+   "variacion": 150.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Vicuña"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4106,
-   "2025": 67.0,
+   "2025": 70.0,
    "2026": 40.0,
-   "variacion": -40.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Vicuña"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 4106,
-   "2025": 276.0,
+   "2025": 291.0,
    "2026": 477.0,
-   "variacion": 73.0,
+   "variacion": 64.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Vicuña"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 4106,
-   "2025": 60.0,
+   "2025": 64.0,
    "2026": 55.0,
-   "variacion": -8.0,
+   "variacion": -14.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Vicuña"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 4106,
-   "2025": 70.0,
+   "2025": 75.0,
    "2026": 71.0,
-   "variacion": 1.0,
-   "situación": "Aumento de Casos",
+   "variacion": -5.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Vicuña"
   },
   {
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4106,
-   "2025": 41.0,
+   "2025": 42.0,
    "2026": 30.0,
-   "variacion": -27.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Vicuña"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 4106,
-   "2025": 103.0,
+   "2025": 104.0,
    "2026": 108.0,
-   "variacion": 5.0,
+   "variacion": 4.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Vicuña"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 4106,
-   "2025": 34.0,
+   "2025": 35.0,
    "2026": 33.0,
-   "variacion": -3.0,
+   "variacion": -6.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Vicuña"
   },
@@ -111,10 +111,10 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 4106,
-   "2025": 7.0,
+   "2025": 8.0,
    "2026": 8.0,
-   "variacion": 14.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Vicuña"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 4106,
-   "2025": 54.0,
+   "2025": 56.0,
    "2026": 41.0,
-   "variacion": -24.0,
+   "variacion": -27.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Vicuña"
   },
@@ -3072,7 +3072,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
+  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
   "region": "Coquimbo"
  }
 }

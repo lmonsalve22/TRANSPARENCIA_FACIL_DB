@@ -30,19 +30,19 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16204,
-   "2025": 11.0,
+   "2025": 15.0,
    "2026": 15.0,
-   "variacion": 36.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Ninhue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16204,
-   "2025": 10.0,
+   "2025": 13.0,
    "2026": 11.0,
-   "variacion": 10.0,
-   "situación": "Aumento de Casos",
+   "variacion": -15.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Ninhue"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 16204,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 1.0,
-   "variacion": -50.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ninhue"
   }
@@ -2670,7 +2670,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
+  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
   "region": "Ñuble"
  }
 }

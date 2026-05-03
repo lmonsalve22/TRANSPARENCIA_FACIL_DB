@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7106,
-   "2025": 21.0,
+   "2025": 23.0,
    "2026": 28.0,
-   "variacion": 33.0,
+   "variacion": 22.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pelarco"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 7106,
-   "2025": 15.0,
+   "2025": 16.0,
    "2026": 36.0,
-   "variacion": 140.0,
+   "variacion": 125.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pelarco"
   },
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 7106,
-   "2025": 5.0,
+   "2025": 7.0,
    "2026": 6.0,
-   "variacion": 20.0,
-   "situación": "Aumento de Casos",
+   "variacion": -14.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Pelarco"
   },
   {
@@ -147,7 +147,7 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 7106,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -3056,7 +3056,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
+  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
   "region": "Maule"
  }
 }

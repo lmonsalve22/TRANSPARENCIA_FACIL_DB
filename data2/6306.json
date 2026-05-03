@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6306,
-   "2025": 20.0,
+   "2025": 21.0,
    "2026": 28.0,
-   "variacion": 40.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Palmilla"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6306,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 12.0,
-   "variacion": 300.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Palmilla"
   },
@@ -138,7 +138,7 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6306,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6306,
-   "2025": 16.0,
+   "2025": 20.0,
    "2026": 20.0,
-   "variacion": 25.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Palmilla"
   },
   {
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6306,
-   "2025": 4.0,
+   "2025": 7.0,
    "2026": 3.0,
-   "variacion": -25.0,
+   "variacion": -57.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Palmilla"
   }
@@ -3056,7 +3056,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
+  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
   "region": "O'Higgins"
  }
 }

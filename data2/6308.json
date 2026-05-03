@@ -3,10 +3,10 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 6308,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Placilla"
   },
   {
@@ -30,19 +30,19 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6308,
-   "2025": 16.0,
+   "2025": 19.0,
    "2026": 16.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -16.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Placilla"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6308,
-   "2025": 36.0,
+   "2025": 40.0,
    "2026": 37.0,
-   "variacion": 3.0,
-   "situación": "Aumento de Casos",
+   "variacion": -8.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Placilla"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6308,
-   "2025": 8.0,
+   "2025": 9.0,
    "2026": 6.0,
-   "variacion": -25.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Placilla"
   },
@@ -3040,7 +3040,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
+  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
   "region": "O'Higgins"
  }
 }

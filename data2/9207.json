@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9207,
-   "2025": 17.0,
+   "2025": 18.0,
    "2026": 21.0,
-   "variacion": 24.0,
+   "variacion": 17.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lumaco"
   },
@@ -30,10 +30,10 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 9207,
-   "2025": 16.0,
+   "2025": 18.0,
    "2026": 17.0,
-   "variacion": 6.0,
-   "situación": "Aumento de Casos",
+   "variacion": -6.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Lumaco"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9207,
-   "2025": 17.0,
+   "2025": 18.0,
    "2026": 14.0,
-   "variacion": -18.0,
+   "variacion": -22.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lumaco"
   },
@@ -3048,7 +3048,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
+  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
   "region": "La Araucanía"
  }
 }

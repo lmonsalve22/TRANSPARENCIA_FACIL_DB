@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 3302,
-   "2025": 13.0,
+   "2025": 14.0,
    "2026": 9.0,
-   "variacion": -31.0,
+   "variacion": -36.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Alto del Carmen"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 3302,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 8.0,
-   "variacion": 60.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Alto del Carmen"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 3302,
-   "2025": 2.0,
+   "2025": 5.0,
    "2026": 3.0,
-   "variacion": 50.0,
-   "situación": "Aumento de Casos",
+   "variacion": -40.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -75,9 +75,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 3302,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 1.0,
-   "variacion": -50.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Alto del Carmen"
   },
@@ -2782,7 +2782,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 16/2026 (del 13/04/2026 al 19/04/2026)",
+  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
   "region": "Atacama"
  }
 }
