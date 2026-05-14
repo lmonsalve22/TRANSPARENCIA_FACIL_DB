@@ -13,17 +13,17 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 3302,
    "2025": 14.0,
-   "2026": 14.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 15.0,
+   "variacion": 7.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Alto del Carmen"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 3302,
-   "2025": 5.0,
-   "2026": 6.0,
-   "variacion": 20.0,
+   "2025": 6.0,
+   "2026": 7.0,
+   "variacion": 17.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Alto del Carmen"
   },
@@ -49,9 +49,9 @@
    "delito": "HURTOS",
    "CODCOM": 3302,
    "2025": 6.0,
-   "2026": 5.0,
-   "variacion": -17.0,
-   "situación": "Disminución de Casos",
+   "2026": 6.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -76,8 +76,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 3302,
    "2025": 3.0,
-   "2026": 1.0,
-   "variacion": -67.0,
+   "2026": 2.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Alto del Carmen"
   },
@@ -418,7 +418,7 @@
    "CODCOM": 3302,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -546,7 +546,7 @@
    "CODCOM": 3302,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -930,7 +930,7 @@
    "CODCOM": 3302,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -1314,7 +1314,7 @@
    "CODCOM": 3302,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -2606,7 +2606,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 25.0,
    "2025": 45.0,
-   "2026": 14.0,
+   "2026": 15.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -2615,7 +2615,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 44.0,
    "2025": 35.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -2651,7 +2651,7 @@
    "delito": "HURTOS",
    "2024": 12.0,
    "2025": 13.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -2678,7 +2678,7 @@
    "delito": "LESIONES LEVES",
    "2024": 15.0,
    "2025": 17.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -2782,7 +2782,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
+  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
   "region": "Atacama"
  }
 }

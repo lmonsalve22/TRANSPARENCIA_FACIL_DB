@@ -12,7 +12,7 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 1402,
-   "2025": 2.0,
+   "2025": 4.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -40,9 +40,9 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 1402,
    "2025": 2.0,
-   "2026": 1.0,
-   "variacion": -50.0,
-   "situación": "Disminución de Casos",
+   "2026": 2.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Camiña"
   },
   {
@@ -76,8 +76,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 1402,
    "2025": 0.0,
-   "2026": 2.0,
-   "variacion": 200.0,
+   "2026": 3.0,
+   "variacion": 300.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Camiña"
   },
@@ -795,7 +795,7 @@
    "CODCOM": 1402,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Camiña"
   },
   {
@@ -1299,7 +1299,7 @@
    "CODCOM": 1402,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Camiña"
   },
   {
@@ -2698,7 +2698,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 13.0,
    "2025": 9.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Camiña"
   },
   {
@@ -2743,7 +2743,7 @@
    "delito": "LESIONES LEVES",
    "2024": 11.0,
    "2025": 5.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Camiña"
   },
   {
@@ -2847,7 +2847,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
+  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
   "region": "Tarapacá"
  }
 }

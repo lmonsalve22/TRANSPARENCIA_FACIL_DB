@@ -4,17 +4,17 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 15102,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 2.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Camarones"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 15102,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 1.0,
-   "variacion": -75.0,
+   "variacion": -80.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Camarones"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 15102,
-   "2025": 6.0,
-   "2026": 2.0,
-   "variacion": -67.0,
+   "2025": 7.0,
+   "2026": 3.0,
+   "variacion": -57.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Camarones"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 15102,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 1.0,
-   "variacion": -50.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Camarones"
   },
@@ -85,18 +85,18 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 15102,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 2.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Camarones"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 15102,
    "2025": 5.0,
-   "2026": 4.0,
-   "variacion": -20.0,
-   "situación": "Disminución de Casos",
+   "2026": 5.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Camarones"
   },
   {
@@ -165,10 +165,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 15102,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Camarones"
   }
  ],
@@ -298,7 +298,7 @@
    "CODCOM": 15102,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Camarones"
   },
   {
@@ -682,7 +682,7 @@
    "CODCOM": 15102,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Camarones"
   },
   {
@@ -1426,7 +1426,7 @@
    "CODCOM": 15102,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Camarones"
   },
   {
@@ -1554,7 +1554,7 @@
    "CODCOM": 15102,
    "anio": 2026,
    "mes": 4,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Camarones"
   },
   {
@@ -2581,7 +2581,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 1.0,
    "2025": 2.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Camarones"
   },
   {
@@ -2608,7 +2608,7 @@
    "delito": "DAÑOS",
    "2024": 16.0,
    "2025": 27.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Camarones"
   },
   {
@@ -2680,7 +2680,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 0.0,
    "2025": 1.0,
-   "2026": 0.0,
+   "2026": 2.0,
    "COMUNA": "Camarones"
   },
   {
@@ -2689,7 +2689,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 11.0,
    "2025": 6.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Camarones"
   },
   {
@@ -2766,7 +2766,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
+  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
   "region": "Arica y Parinacota"
  }
 }

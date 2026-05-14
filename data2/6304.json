@@ -12,27 +12,27 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6304,
-   "2025": 10.0,
+   "2025": 11.0,
    "2026": 15.0,
-   "variacion": 50.0,
+   "variacion": 36.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lolol"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6304,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 14.0,
-   "variacion": 180.0,
+   "variacion": 133.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lolol"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6304,
-   "2025": 15.0,
+   "2025": 16.0,
    "2026": 20.0,
-   "variacion": 33.0,
+   "variacion": 25.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lolol"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6304,
-   "2025": 9.0,
+   "2025": 10.0,
    "2026": 4.0,
-   "variacion": -56.0,
+   "variacion": -60.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lolol"
   },
@@ -111,10 +111,10 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6304,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Lolol"
   },
   {
@@ -138,10 +138,10 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6304,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Lolol"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6304,
-   "2025": 19.0,
+   "2025": 20.0,
    "2026": 8.0,
-   "variacion": -58.0,
+   "variacion": -60.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lolol"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6304,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 1.0,
-   "variacion": -50.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lolol"
   }
@@ -3032,7 +3032,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
+  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
   "region": "O'Higgins"
  }
 }

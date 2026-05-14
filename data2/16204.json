@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16204,
-   "2025": 13.0,
-   "2026": 15.0,
-   "variacion": 15.0,
+   "2025": 14.0,
+   "2026": 16.0,
+   "variacion": 14.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Ninhue"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16204,
-   "2025": 15.0,
+   "2025": 17.0,
    "2026": 15.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -12.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Ninhue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16204,
-   "2025": 13.0,
+   "2025": 14.0,
    "2026": 11.0,
-   "variacion": -15.0,
+   "variacion": -21.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ninhue"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 16204,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 4.0,
-   "variacion": 33.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Ninhue"
   },
   {
@@ -426,7 +426,7 @@
    "CODCOM": 16204,
    "anio": 2026,
    "mes": 4,
-   "casos": 6.0,
+   "casos": 7.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -2494,7 +2494,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 50.0,
    "2025": 43.0,
-   "2026": 15.0,
+   "2026": 16.0,
    "COMUNA": "Ninhue"
   },
   {
@@ -2670,7 +2670,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
+  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
   "region": "Ñuble"
  }
 }

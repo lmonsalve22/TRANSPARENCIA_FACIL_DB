@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16205,
-   "2025": 8.0,
+   "2025": 9.0,
    "2026": 7.0,
-   "variacion": -12.0,
+   "variacion": -22.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Portezuelo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16205,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 2.0,
-   "variacion": 200.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Portezuelo"
   },
@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 16205,
    "2025": 9.0,
-   "2026": 7.0,
-   "variacion": -22.0,
+   "2026": 8.0,
+   "variacion": -11.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Portezuelo"
   },
@@ -76,8 +76,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 16205,
    "2025": 1.0,
-   "2026": 9.0,
-   "variacion": 800.0,
+   "2026": 10.0,
+   "variacion": 900.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Portezuelo"
   },
@@ -166,9 +166,9 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 16205,
    "2025": 2.0,
-   "2026": 1.0,
-   "variacion": -50.0,
-   "situación": "Disminución de Casos",
+   "2026": 3.0,
+   "variacion": 50.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Portezuelo"
   }
  ],
@@ -674,7 +674,7 @@
    "CODCOM": 16205,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Portezuelo"
   },
   {
@@ -1306,7 +1306,7 @@
    "CODCOM": 16205,
    "anio": 2026,
    "mes": 4,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Portezuelo"
   },
   {
@@ -2578,7 +2578,7 @@
    "CODCOM": 16205,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Portezuelo"
   }
  ],
@@ -2616,7 +2616,7 @@
    "delito": "DAÑOS",
    "2024": 32.0,
    "2025": 25.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Portezuelo"
   },
   {
@@ -2670,7 +2670,7 @@
    "delito": "LESIONES LEVES",
    "2024": 8.0,
    "2025": 5.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Portezuelo"
   },
   {
@@ -2769,12 +2769,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 2.0,
    "2025": 5.0,
-   "2026": 1.0,
+   "2026": 3.0,
    "COMUNA": "Portezuelo"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
+  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
   "region": "Ñuble"
  }
 }

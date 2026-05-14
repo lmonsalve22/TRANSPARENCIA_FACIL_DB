@@ -12,27 +12,27 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5403,
-   "2025": 30.0,
+   "2025": 31.0,
    "2026": 24.0,
-   "variacion": -20.0,
+   "variacion": -23.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Papudo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5403,
-   "2025": 66.0,
+   "2025": 67.0,
    "2026": 56.0,
-   "variacion": -15.0,
+   "variacion": -16.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Papudo"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5403,
-   "2025": 21.0,
+   "2025": 23.0,
    "2026": 20.0,
-   "variacion": -5.0,
+   "variacion": -13.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Papudo"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5403,
-   "2025": 20.0,
+   "2025": 22.0,
    "2026": 14.0,
-   "variacion": -30.0,
+   "variacion": -36.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Papudo"
   },
@@ -85,9 +85,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 5403,
    "2025": 9.0,
-   "2026": 9.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 10.0,
+   "variacion": 11.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Papudo"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5403,
-   "2025": 13.0,
-   "2026": 18.0,
-   "variacion": 38.0,
+   "2025": 15.0,
+   "2026": 19.0,
+   "variacion": 27.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Papudo"
   },
@@ -1460,7 +1460,7 @@
    "CODCOM": 5403,
    "anio": 2026,
    "mes": 4,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Papudo"
   },
   {
@@ -2604,7 +2604,7 @@
    "CODCOM": 5403,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Papudo"
   },
   {
@@ -2952,7 +2952,7 @@
    "delito": "LESIONES LEVES",
    "2024": 27.0,
    "2025": 30.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Papudo"
   },
   {
@@ -3033,7 +3033,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 61.0,
    "2025": 39.0,
-   "2026": 18.0,
+   "2026": 19.0,
    "COMUNA": "Papudo"
   },
   {
@@ -3056,7 +3056,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
+  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
   "region": "Valparaíso"
  }
 }

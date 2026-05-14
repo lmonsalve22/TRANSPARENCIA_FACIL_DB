@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7104,
-   "2025": 13.0,
-   "2026": 10.0,
-   "variacion": -23.0,
+   "2025": 14.0,
+   "2026": 11.0,
+   "variacion": -21.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Empedrado"
   },
@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7104,
    "2025": 9.0,
-   "2026": 16.0,
-   "variacion": 78.0,
+   "2026": 17.0,
+   "variacion": 89.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Empedrado"
   },
@@ -31,9 +31,9 @@
    "delito": "DAÑOS",
    "CODCOM": 7104,
    "2025": 9.0,
-   "2026": 9.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 10.0,
+   "variacion": 11.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Empedrado"
   },
   {
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 7104,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 3.0,
+   "variacion": 300.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Empedrado"
   },
   {
@@ -435,7 +435,7 @@
    "CODCOM": 7104,
    "anio": 2026,
    "mes": 4,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -563,7 +563,7 @@
    "CODCOM": 7104,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -691,7 +691,7 @@
    "CODCOM": 7104,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -1195,7 +1195,7 @@
    "CODCOM": 7104,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 3.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -2703,7 +2703,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 32.0,
    "2025": 38.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -2712,7 +2712,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 15.0,
    "2025": 21.0,
-   "2026": 16.0,
+   "2026": 17.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -2721,7 +2721,7 @@
    "delito": "DAÑOS",
    "2024": 35.0,
    "2025": 27.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -2757,7 +2757,7 @@
    "delito": "INCIVILIDADES",
    "2024": 5.0,
    "2025": 5.0,
-   "2026": 0.0,
+   "2026": 3.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -2879,7 +2879,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
+  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
   "region": "Maule"
  }
 }

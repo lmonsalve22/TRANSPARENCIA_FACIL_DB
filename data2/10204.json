@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10204,
-   "2025": 12.0,
+   "2025": 13.0,
    "2026": 6.0,
-   "variacion": -50.0,
+   "variacion": -54.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curaco de Vélez"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 10204,
-   "2025": 11.0,
-   "2026": 10.0,
-   "variacion": -9.0,
+   "2025": 12.0,
+   "2026": 11.0,
+   "variacion": -8.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curaco de Vélez"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10204,
-   "2025": 11.0,
+   "2025": 12.0,
    "2026": 6.0,
-   "variacion": -45.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curaco de Vélez"
   },
@@ -157,15 +157,15 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10204,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Curaco de Vélez"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10204,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -682,7 +682,7 @@
    "CODCOM": 10204,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -2410,7 +2410,7 @@
    "CODCOM": 10204,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -2576,7 +2576,7 @@
    "delito": "DAÑOS",
    "2024": 31.0,
    "2025": 23.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -2711,7 +2711,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 2.0,
    "2025": 1.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -2734,7 +2734,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
+  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
   "region": "Los Lagos"
  }
 }

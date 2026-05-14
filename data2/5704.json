@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5704,
    "2025": 19.0,
-   "2026": 16.0,
-   "variacion": -16.0,
+   "2026": 17.0,
+   "variacion": -11.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 5704,
-   "2025": 32.0,
-   "2026": 27.0,
-   "variacion": -16.0,
+   "2025": 34.0,
+   "2026": 28.0,
+   "variacion": -18.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
@@ -49,17 +49,17 @@
    "delito": "HURTOS",
    "CODCOM": 5704,
    "2025": 16.0,
-   "2026": 12.0,
-   "variacion": -25.0,
+   "2026": 13.0,
+   "variacion": -19.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5704,
-   "2025": 12.0,
+   "2025": 13.0,
    "2026": 2.0,
-   "variacion": -83.0,
+   "variacion": -85.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
@@ -157,8 +157,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5704,
    "2025": 17.0,
-   "2026": 11.0,
-   "variacion": -35.0,
+   "2026": 12.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
@@ -175,9 +175,9 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5704,
    "2025": 2.0,
-   "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 3.0,
+   "variacion": 50.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   }
  ],
@@ -435,7 +435,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 4,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -691,7 +691,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 4,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -947,7 +947,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2483,7 +2483,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 4,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2739,7 +2739,7 @@
    "CODCOM": 5704,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Panquehue"
   }
  ],
@@ -2759,7 +2759,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 47.0,
    "2025": 56.0,
-   "2026": 16.0,
+   "2026": 17.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2777,7 +2777,7 @@
    "delito": "DAÑOS",
    "2024": 86.0,
    "2025": 90.0,
-   "2026": 27.0,
+   "2026": 28.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2804,7 +2804,7 @@
    "delito": "HURTOS",
    "2024": 28.0,
    "2025": 27.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2912,7 +2912,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 40.0,
    "2025": 57.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "Panquehue"
   },
   {
@@ -2930,12 +2930,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 6.0,
    "2025": 9.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Panquehue"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
+  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
   "region": "Valparaíso"
  }
 }

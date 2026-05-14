@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 1403,
-   "2025": 7.0,
-   "2026": 11.0,
-   "variacion": 57.0,
+   "2025": 8.0,
+   "2026": 12.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
@@ -58,9 +58,9 @@
    "delito": "HURTOS",
    "CODCOM": 1403,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 2.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
   {
@@ -111,9 +111,9 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 1403,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 10.0,
-   "variacion": 100.0,
+   "variacion": 67.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
@@ -130,9 +130,9 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 1403,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 2.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Colchane"
   },
   {
@@ -692,7 +692,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 4,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Colchane"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Colchane"
   },
   {
@@ -2076,7 +2076,7 @@
    "CODCOM": 1403,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Colchane"
   },
   {
@@ -2882,7 +2882,7 @@
    "delito": "DAÑOS",
    "2024": 25.0,
    "2025": 31.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "Colchane"
   },
   {
@@ -2909,7 +2909,7 @@
    "delito": "HURTOS",
    "2024": 15.0,
    "2025": 8.0,
-   "2026": 0.0,
+   "2026": 2.0,
    "COMUNA": "Colchane"
   },
   {
@@ -2981,7 +2981,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 0.0,
    "2025": 3.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Colchane"
   },
   {
@@ -3040,7 +3040,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
+  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
   "region": "Tarapacá"
  }
 }

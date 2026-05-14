@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16206,
    "2025": 24.0,
-   "2026": 10.0,
-   "variacion": -58.0,
+   "2026": 11.0,
+   "variacion": -54.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ránquil"
   },
@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 16206,
    "2025": 19.0,
-   "2026": 13.0,
-   "variacion": -32.0,
+   "2026": 14.0,
+   "variacion": -26.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ránquil"
   },
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16206,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 2.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Ránquil"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16206,
-   "2025": 11.0,
+   "2025": 13.0,
    "2026": 14.0,
-   "variacion": 27.0,
+   "variacion": 8.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Ránquil"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 16206,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Ránquil"
   },
   {
@@ -692,7 +692,7 @@
    "CODCOM": 16206,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Ránquil"
   },
   {
@@ -2864,7 +2864,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 52.0,
    "2025": 67.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "Ránquil"
   },
   {
@@ -2882,7 +2882,7 @@
    "delito": "DAÑOS",
    "2024": 57.0,
    "2025": 46.0,
-   "2026": 13.0,
+   "2026": 14.0,
    "COMUNA": "Ránquil"
   },
   {
@@ -3040,7 +3040,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
+  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
   "region": "Ñuble"
  }
 }

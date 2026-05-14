@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5706,
-   "2025": 49.0,
-   "2026": 54.0,
-   "variacion": 10.0,
+   "2025": 53.0,
+   "2026": 58.0,
+   "variacion": 9.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa María"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5706,
-   "2025": 15.0,
-   "2026": 17.0,
-   "variacion": 13.0,
-   "situación": "Aumento de Casos",
+   "2025": 21.0,
+   "2026": 19.0,
+   "variacion": -10.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Santa María"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5706,
-   "2025": 25.0,
+   "2025": 26.0,
    "2026": 25.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -4.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Santa María"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5706,
-   "2025": 51.0,
-   "2026": 46.0,
-   "variacion": -10.0,
+   "2025": 54.0,
+   "2026": 47.0,
+   "variacion": -13.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa María"
   },
@@ -58,17 +58,17 @@
    "delito": "HURTOS",
    "CODCOM": 5706,
    "2025": 10.0,
-   "2026": 6.0,
-   "variacion": -40.0,
+   "2026": 7.0,
+   "variacion": -30.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa María"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5706,
-   "2025": 10.0,
+   "2025": 11.0,
    "2026": 6.0,
-   "variacion": -40.0,
+   "variacion": -45.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa María"
   },
@@ -84,27 +84,27 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5706,
-   "2025": 17.0,
+   "2025": 20.0,
    "2026": 9.0,
-   "variacion": -47.0,
+   "variacion": -55.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa María"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5706,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 2.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Santa María"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5706,
    "2025": 1.0,
-   "2026": 6.0,
-   "variacion": 500.0,
+   "2026": 9.0,
+   "variacion": 800.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa María"
   },
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5706,
    "2025": 4.0,
-   "2026": 5.0,
-   "variacion": 25.0,
+   "2026": 6.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa María"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5706,
-   "2025": 28.0,
+   "2025": 32.0,
    "2026": 25.0,
-   "variacion": -11.0,
+   "variacion": -22.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa María"
   },
@@ -444,7 +444,7 @@
    "CODCOM": 5706,
    "anio": 2026,
    "mes": 4,
-   "casos": 7.0,
+   "casos": 11.0,
    "COMUNA": "Santa María"
   },
   {
@@ -572,7 +572,7 @@
    "CODCOM": 5706,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Santa María"
   },
   {
@@ -828,7 +828,7 @@
    "CODCOM": 5706,
    "anio": 2026,
    "mes": 4,
-   "casos": 4.0,
+   "casos": 5.0,
    "COMUNA": "Santa María"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 5706,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Santa María"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 5706,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 4.0,
    "COMUNA": "Santa María"
   },
   {
@@ -2348,7 +2348,7 @@
    "CODCOM": 5706,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Santa María"
   },
   {
@@ -2880,7 +2880,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 157.0,
    "2025": 143.0,
-   "2026": 54.0,
+   "2026": 58.0,
    "COMUNA": "Santa María"
   },
   {
@@ -2889,7 +2889,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 14.0,
    "2025": 45.0,
-   "2026": 17.0,
+   "2026": 19.0,
    "COMUNA": "Santa María"
   },
   {
@@ -2907,7 +2907,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 159.0,
    "2025": 132.0,
-   "2026": 46.0,
+   "2026": 47.0,
    "COMUNA": "Santa María"
   },
   {
@@ -2925,7 +2925,7 @@
    "delito": "HURTOS",
    "2024": 33.0,
    "2025": 32.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Santa María"
   },
   {
@@ -2970,7 +2970,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 9.0,
    "2025": 8.0,
-   "2026": 6.0,
+   "2026": 9.0,
    "COMUNA": "Santa María"
   },
   {
@@ -3015,7 +3015,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 14.0,
    "2025": 18.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Santa María"
   },
   {
@@ -3056,7 +3056,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
+  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
   "region": "Valparaíso"
  }
 }

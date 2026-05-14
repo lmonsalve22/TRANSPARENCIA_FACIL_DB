@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13502,
-   "2025": 20.0,
-   "2026": 22.0,
+   "2025": 21.0,
+   "2026": 23.0,
    "variacion": 10.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Alhué"
@@ -21,9 +21,9 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13502,
-   "2025": 23.0,
-   "2026": 34.0,
-   "variacion": 48.0,
+   "2025": 26.0,
+   "2026": 39.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Alhué"
   },
@@ -49,17 +49,17 @@
    "delito": "HURTOS",
    "CODCOM": 13502,
    "2025": 3.0,
-   "2026": 3.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 4.0,
+   "variacion": 33.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Alhué"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 13502,
-   "2025": 0.0,
-   "2026": 3.0,
-   "variacion": 300.0,
+   "2025": 2.0,
+   "2026": 4.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Alhué"
   },
@@ -156,9 +156,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13502,
-   "2025": 14.0,
+   "2025": 15.0,
    "2026": 6.0,
-   "variacion": -57.0,
+   "variacion": -60.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Alhué"
   },
@@ -427,7 +427,7 @@
    "CODCOM": 13502,
    "anio": 2026,
    "mes": 4,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Alhué"
   },
   {
@@ -555,7 +555,7 @@
    "CODCOM": 13502,
    "anio": 2026,
    "mes": 4,
-   "casos": 18.0,
+   "casos": 23.0,
    "COMUNA": "Alhué"
   },
   {
@@ -939,7 +939,7 @@
    "CODCOM": 13502,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Alhué"
   },
   {
@@ -1067,7 +1067,7 @@
    "CODCOM": 13502,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Alhué"
   },
   {
@@ -2743,7 +2743,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 68.0,
    "2025": 58.0,
-   "2026": 22.0,
+   "2026": 23.0,
    "COMUNA": "Alhué"
   },
   {
@@ -2752,7 +2752,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 70.0,
    "2025": 87.0,
-   "2026": 34.0,
+   "2026": 39.0,
    "COMUNA": "Alhué"
   },
   {
@@ -2788,7 +2788,7 @@
    "delito": "HURTOS",
    "2024": 13.0,
    "2025": 10.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Alhué"
   },
   {
@@ -2797,7 +2797,7 @@
    "delito": "INCIVILIDADES",
    "2024": 13.0,
    "2025": 7.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Alhué"
   },
   {
@@ -2919,7 +2919,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
+  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
   "region": "Metropolitana"
  }
 }

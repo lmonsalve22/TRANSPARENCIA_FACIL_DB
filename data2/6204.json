@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6204,
-   "2025": 11.0,
+   "2025": 12.0,
    "2026": 28.0,
-   "variacion": 155.0,
+   "variacion": 133.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Marchihue"
   },
@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 6204,
    "2025": 13.0,
-   "2026": 15.0,
-   "variacion": 15.0,
+   "2026": 17.0,
+   "variacion": 31.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Marchihue"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6204,
    "2025": 12.0,
-   "2026": 18.0,
-   "variacion": 50.0,
+   "2026": 19.0,
+   "variacion": 58.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Marchihue"
   },
@@ -66,10 +66,10 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6204,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 6.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -14.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Marchihue"
   },
   {
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6204,
    "2025": 20.0,
-   "2026": 12.0,
-   "variacion": -40.0,
+   "2026": 13.0,
+   "variacion": -35.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Marchihue"
   },
@@ -700,7 +700,7 @@
    "CODCOM": 6204,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Marchihue"
   },
   {
@@ -828,7 +828,7 @@
    "CODCOM": 6204,
    "anio": 2026,
    "mes": 4,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Marchihue"
   },
   {
@@ -2572,7 +2572,7 @@
    "CODCOM": 6204,
    "anio": 2026,
    "mes": 4,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Marchihue"
   },
   {
@@ -2866,7 +2866,7 @@
    "delito": "DAÑOS",
    "2024": 50.0,
    "2025": 43.0,
-   "2026": 15.0,
+   "2026": 17.0,
    "COMUNA": "Marchihue"
   },
   {
@@ -2875,7 +2875,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 66.0,
    "2025": 42.0,
-   "2026": 18.0,
+   "2026": 19.0,
    "COMUNA": "Marchihue"
   },
   {
@@ -3001,7 +3001,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 38.0,
    "2025": 59.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "Marchihue"
   },
   {
@@ -3024,7 +3024,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 17/2026 (del 20/04/2026 al 26/04/2026)",
+  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
   "region": "O'Higgins"
  }
 }
