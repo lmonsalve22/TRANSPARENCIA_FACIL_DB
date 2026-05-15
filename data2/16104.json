@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16104,
-   "2025": 25.0,
+   "2025": 27.0,
    "2026": 24.0,
-   "variacion": -4.0,
+   "variacion": -11.0,
    "situación": "Disminución de Casos",
    "COMUNA": "El Carmen"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16104,
-   "2025": 25.0,
+   "2025": 26.0,
    "2026": 22.0,
-   "variacion": -12.0,
+   "variacion": -15.0,
    "situación": "Disminución de Casos",
    "COMUNA": "El Carmen"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16104,
-   "2025": 34.0,
-   "2026": 31.0,
-   "variacion": -9.0,
+   "2025": 35.0,
+   "2026": 34.0,
+   "variacion": -3.0,
    "situación": "Disminución de Casos",
    "COMUNA": "El Carmen"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16104,
-   "2025": 7.0,
-   "2026": 13.0,
-   "variacion": 86.0,
+   "2025": 11.0,
+   "2026": 15.0,
+   "variacion": 36.0,
    "situación": "Aumento de Casos",
    "COMUNA": "El Carmen"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 16104,
    "2025": 0.0,
-   "2026": 4.0,
-   "variacion": 400.0,
+   "2026": 5.0,
+   "variacion": 500.0,
    "situación": "Aumento de Casos",
    "COMUNA": "El Carmen"
   },
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16104,
-   "2025": 14.0,
+   "2025": 15.0,
    "2026": 14.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -7.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "El Carmen"
   },
   {
@@ -320,6 +320,14 @@
    "COMUNA": "El Carmen"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 16104,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "El Carmen"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16104,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 7.0,
+   "COMUNA": "El Carmen"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 16104,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "El Carmen"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "El Carmen"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 16104,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "El Carmen"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 16104,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 4.0,
+   "COMUNA": "El Carmen"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 16104,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "El Carmen"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "El Carmen"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 16104,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
+   "COMUNA": "El Carmen"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 16104,
    "anio": 2025,
@@ -956,6 +996,14 @@
    "CODCOM": 16104,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "El Carmen"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 16104,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "El Carmen"
   },
@@ -1088,6 +1136,14 @@
    "COMUNA": "El Carmen"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 16104,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "El Carmen"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 16104,
    "anio": 2025,
@@ -1216,6 +1272,14 @@
    "COMUNA": "El Carmen"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 16104,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "El Carmen"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16104,
    "anio": 2025,
@@ -1340,6 +1404,14 @@
    "CODCOM": 16104,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "El Carmen"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 16104,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "El Carmen"
   },
@@ -1472,6 +1544,14 @@
    "COMUNA": "El Carmen"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16104,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "El Carmen"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16104,
    "anio": 2025,
@@ -1596,6 +1676,14 @@
    "CODCOM": 16104,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "El Carmen"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16104,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "El Carmen"
   },
@@ -1728,6 +1816,14 @@
    "COMUNA": "El Carmen"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16104,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "El Carmen"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 16104,
    "anio": 2025,
@@ -1856,6 +1952,14 @@
    "COMUNA": "El Carmen"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 16104,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "El Carmen"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 16104,
    "anio": 2025,
@@ -1980,6 +2084,14 @@
    "CODCOM": 16104,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "El Carmen"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 16104,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "El Carmen"
   },
@@ -2112,6 +2224,14 @@
    "COMUNA": "El Carmen"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16104,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "El Carmen"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 16104,
    "anio": 2025,
@@ -2240,6 +2360,14 @@
    "COMUNA": "El Carmen"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16104,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "El Carmen"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 16104,
    "anio": 2025,
@@ -2368,6 +2496,14 @@
    "COMUNA": "El Carmen"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16104,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "El Carmen"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16104,
    "anio": 2025,
@@ -2492,6 +2628,14 @@
    "CODCOM": 16104,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "El Carmen"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16104,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "El Carmen"
   },
@@ -2624,6 +2768,14 @@
    "COMUNA": "El Carmen"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 16104,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "El Carmen"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 16104,
    "anio": 2025,
@@ -2740,6 +2892,14 @@
    "CODCOM": 16104,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "El Carmen"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 16104,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "El Carmen"
   },
@@ -2870,6 +3030,14 @@
    "mes": 4,
    "casos": 2.0,
    "COMUNA": "El Carmen"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 16104,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "El Carmen"
   }
  ],
  "info": [
@@ -2915,7 +3083,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 88.0,
    "2025": 97.0,
-   "2026": 31.0,
+   "2026": 34.0,
    "COMUNA": "El Carmen"
   },
   {
@@ -2933,7 +3101,7 @@
    "delito": "HURTOS",
    "2024": 33.0,
    "2025": 37.0,
-   "2026": 13.0,
+   "2026": 15.0,
    "COMUNA": "El Carmen"
   },
   {
@@ -2987,7 +3155,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 2.0,
    "2025": 1.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "El Carmen"
   },
   {
@@ -3064,7 +3232,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Ñuble"
  }
 }

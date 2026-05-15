@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8201,
-   "2025": 77.0,
-   "2026": 55.0,
+   "2025": 86.0,
+   "2026": 61.0,
    "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lebu"
@@ -21,28 +21,28 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8201,
-   "2025": 140.0,
-   "2026": 277.0,
-   "variacion": 98.0,
+   "2025": 155.0,
+   "2026": 286.0,
+   "variacion": 85.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lebu"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 8201,
-   "2025": 38.0,
-   "2026": 38.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 42.0,
+   "2026": 45.0,
+   "variacion": 7.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Lebu"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8201,
-   "2025": 50.0,
-   "2026": 50.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 52.0,
+   "2026": 54.0,
+   "variacion": 4.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Lebu"
   },
   {
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8201,
-   "2025": 24.0,
-   "2026": 22.0,
+   "2025": 25.0,
+   "2026": 23.0,
    "variacion": -8.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lebu"
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8201,
-   "2025": 19.0,
-   "2026": 38.0,
-   "variacion": 100.0,
+   "2025": 20.0,
+   "2026": 41.0,
+   "variacion": 105.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lebu"
   },
@@ -76,17 +76,17 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 8201,
    "2025": 4.0,
-   "2026": 2.0,
-   "variacion": -50.0,
+   "2026": 3.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lebu"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8201,
-   "2025": 24.0,
-   "2026": 30.0,
-   "variacion": 25.0,
+   "2025": 25.0,
+   "2026": 32.0,
+   "variacion": 28.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lebu"
   },
@@ -103,17 +103,17 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 8201,
    "2025": 10.0,
-   "2026": 10.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 11.0,
+   "variacion": 10.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Lebu"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8201,
-   "2025": 15.0,
-   "2026": 4.0,
-   "variacion": -73.0,
+   "2025": 17.0,
+   "2026": 5.0,
+   "variacion": -71.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lebu"
   },
@@ -138,8 +138,8 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8201,
-   "2025": 2.0,
-   "2026": 2.0,
+   "2025": 3.0,
+   "2026": 3.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Lebu"
@@ -156,9 +156,9 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8201,
-   "2025": 11.0,
-   "2026": 4.0,
-   "variacion": -64.0,
+   "2025": 12.0,
+   "2026": 6.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lebu"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8201,
    "2025": 44.0,
-   "2026": 26.0,
-   "variacion": -41.0,
+   "2026": 27.0,
+   "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lebu"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8201,
    "2025": 9.0,
-   "2026": 5.0,
-   "variacion": -44.0,
+   "2026": 7.0,
+   "variacion": -22.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lebu"
   }
@@ -320,6 +320,14 @@
    "COMUNA": "Lebu"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Lebu"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8201,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 15.0,
+   "COMUNA": "Lebu"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 8201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 6.0,
    "COMUNA": "Lebu"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Lebu"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 8201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 9.0,
+   "COMUNA": "Lebu"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 8201,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 6.0,
+   "COMUNA": "Lebu"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 7.0,
    "COMUNA": "Lebu"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "Lebu"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 8201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 4.0,
+   "COMUNA": "Lebu"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 8201,
    "anio": 2025,
@@ -948,6 +988,14 @@
    "CODCOM": 8201,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Lebu"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 8201,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Lebu"
   },
@@ -1077,6 +1125,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 5.0,
+   "COMUNA": "Lebu"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Lebu"
   },
   {
@@ -1208,6 +1264,14 @@
    "COMUNA": "Lebu"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 8201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
+   "COMUNA": "Lebu"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8201,
    "anio": 2025,
@@ -1333,6 +1397,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 0.0,
+   "COMUNA": "Lebu"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 8201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Lebu"
   },
   {
@@ -1464,6 +1536,14 @@
    "COMUNA": "Lebu"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 8201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Lebu"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8201,
    "anio": 2025,
@@ -1588,6 +1668,14 @@
    "CODCOM": 8201,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Lebu"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 8201,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Lebu"
   },
@@ -1720,6 +1808,14 @@
    "COMUNA": "Lebu"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 8201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Lebu"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8201,
    "anio": 2025,
@@ -1848,6 +1944,14 @@
    "COMUNA": "Lebu"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Lebu"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 8201,
    "anio": 2025,
@@ -1972,6 +2076,14 @@
    "CODCOM": 8201,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Lebu"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8201,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Lebu"
   },
@@ -2104,6 +2216,14 @@
    "COMUNA": "Lebu"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Lebu"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8201,
    "anio": 2025,
@@ -2232,6 +2352,14 @@
    "COMUNA": "Lebu"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 8201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Lebu"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8201,
    "anio": 2025,
@@ -2356,6 +2484,14 @@
    "CODCOM": 8201,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Lebu"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 8201,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Lebu"
   },
@@ -2485,6 +2621,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Lebu"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 8201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
    "COMUNA": "Lebu"
   },
   {
@@ -2616,6 +2760,14 @@
    "COMUNA": "Lebu"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Lebu"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8201,
    "anio": 2025,
@@ -2744,6 +2896,14 @@
    "COMUNA": "Lebu"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 8201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Lebu"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8201,
    "anio": 2025,
@@ -2869,6 +3029,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 0.0,
+   "COMUNA": "Lebu"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 8201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
    "COMUNA": "Lebu"
   }
  ],
@@ -2888,7 +3056,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 241.0,
    "2025": 231.0,
-   "2026": 55.0,
+   "2026": 61.0,
    "COMUNA": "Lebu"
   },
   {
@@ -2897,7 +3065,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 844.0,
    "2025": 484.0,
-   "2026": 277.0,
+   "2026": 286.0,
    "COMUNA": "Lebu"
   },
   {
@@ -2906,7 +3074,7 @@
    "delito": "DAÑOS",
    "2024": 160.0,
    "2025": 117.0,
-   "2026": 38.0,
+   "2026": 45.0,
    "COMUNA": "Lebu"
   },
   {
@@ -2915,7 +3083,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 153.0,
    "2025": 143.0,
-   "2026": 50.0,
+   "2026": 54.0,
    "COMUNA": "Lebu"
   },
   {
@@ -2933,7 +3101,7 @@
    "delito": "HURTOS",
    "2024": 81.0,
    "2025": 82.0,
-   "2026": 22.0,
+   "2026": 23.0,
    "COMUNA": "Lebu"
   },
   {
@@ -2942,7 +3110,7 @@
    "delito": "INCIVILIDADES",
    "2024": 51.0,
    "2025": 84.0,
-   "2026": 38.0,
+   "2026": 41.0,
    "COMUNA": "Lebu"
   },
   {
@@ -2951,7 +3119,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 8.0,
    "2025": 12.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Lebu"
   },
   {
@@ -2960,7 +3128,7 @@
    "delito": "LESIONES LEVES",
    "2024": 93.0,
    "2025": 85.0,
-   "2026": 30.0,
+   "2026": 32.0,
    "COMUNA": "Lebu"
   },
   {
@@ -2978,7 +3146,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 56.0,
    "2025": 28.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "Lebu"
   },
   {
@@ -2987,7 +3155,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 35.0,
    "2025": 36.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Lebu"
   },
   {
@@ -3014,7 +3182,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 16.0,
    "2025": 9.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Lebu"
   },
   {
@@ -3032,7 +3200,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 22.0,
    "2025": 21.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Lebu"
   },
   {
@@ -3041,7 +3209,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 124.0,
    "2025": 106.0,
-   "2026": 26.0,
+   "2026": 27.0,
    "COMUNA": "Lebu"
   },
   {
@@ -3059,12 +3227,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 22.0,
    "2025": 20.0,
-   "2026": 5.0,
+   "2026": 7.0,
    "COMUNA": "Lebu"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Biobío"
  }
 }

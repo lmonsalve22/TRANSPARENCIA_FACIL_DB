@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10202,
-   "2025": 102.0,
-   "2026": 104.0,
-   "variacion": 2.0,
+   "2025": 105.0,
+   "2026": 106.0,
+   "variacion": 1.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Ancud"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10202,
-   "2025": 156.0,
-   "2026": 399.0,
-   "variacion": 156.0,
+   "2025": 161.0,
+   "2026": 414.0,
+   "variacion": 157.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Ancud"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10202,
-   "2025": 102.0,
-   "2026": 91.0,
-   "variacion": -11.0,
+   "2025": 108.0,
+   "2026": 93.0,
+   "variacion": -14.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ancud"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10202,
-   "2025": 113.0,
-   "2026": 92.0,
-   "variacion": -19.0,
+   "2025": 119.0,
+   "2026": 93.0,
+   "variacion": -22.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ancud"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10202,
-   "2025": 52.0,
-   "2026": 34.0,
-   "variacion": -35.0,
+   "2025": 53.0,
+   "2026": 39.0,
+   "variacion": -26.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ancud"
   },
@@ -85,17 +85,17 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 10202,
    "2025": 57.0,
-   "2026": 35.0,
-   "variacion": -39.0,
+   "2026": 36.0,
+   "variacion": -37.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ancud"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10202,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 13.0,
-   "variacion": 117.0,
+   "variacion": 86.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Ancud"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10202,
    "2025": 11.0,
-   "2026": 25.0,
-   "variacion": 127.0,
+   "2026": 26.0,
+   "variacion": 136.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Ancud"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 10202,
    "2025": 11.0,
-   "2026": 12.0,
-   "variacion": 9.0,
+   "2026": 13.0,
+   "variacion": 18.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Ancud"
   },
@@ -130,9 +130,9 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 10202,
    "2025": 5.0,
-   "2026": 5.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 6.0,
+   "variacion": 20.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Ancud"
   },
   {
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 10202,
-   "2025": 3.0,
-   "2026": 5.0,
-   "variacion": 67.0,
+   "2025": 4.0,
+   "2026": 6.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Ancud"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10202,
-   "2025": 41.0,
-   "2026": 27.0,
-   "variacion": -34.0,
+   "2025": 43.0,
+   "2026": 29.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Ancud"
   },
@@ -320,6 +320,14 @@
    "COMUNA": "Ancud"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 10202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Ancud"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10202,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 23.0,
+   "COMUNA": "Ancud"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 10202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
    "COMUNA": "Ancud"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Ancud"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 10202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 15.0,
+   "COMUNA": "Ancud"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 10202,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 15.0,
+   "COMUNA": "Ancud"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 10202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
    "COMUNA": "Ancud"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "Ancud"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 10202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Ancud"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 10202,
    "anio": 2025,
@@ -956,6 +996,14 @@
    "CODCOM": 10202,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Ancud"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 10202,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Ancud"
   },
@@ -1088,6 +1136,14 @@
    "COMUNA": "Ancud"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 10202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 5.0,
+   "COMUNA": "Ancud"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 10202,
    "anio": 2025,
@@ -1216,6 +1272,14 @@
    "COMUNA": "Ancud"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 10202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Ancud"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10202,
    "anio": 2025,
@@ -1341,6 +1405,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Ancud"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 10202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Ancud"
   },
   {
@@ -1472,6 +1544,14 @@
    "COMUNA": "Ancud"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 10202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Ancud"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10202,
    "anio": 2025,
@@ -1597,6 +1677,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 4.0,
+   "COMUNA": "Ancud"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Ancud"
   },
   {
@@ -1728,6 +1816,14 @@
    "COMUNA": "Ancud"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 10202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Ancud"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 10202,
    "anio": 2025,
@@ -1856,6 +1952,14 @@
    "COMUNA": "Ancud"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 10202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Ancud"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 10202,
    "anio": 2025,
@@ -1980,6 +2084,14 @@
    "CODCOM": 10202,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Ancud"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 10202,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Ancud"
   },
@@ -2112,6 +2224,14 @@
    "COMUNA": "Ancud"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 10202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Ancud"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 10202,
    "anio": 2025,
@@ -2236,6 +2356,14 @@
    "CODCOM": 10202,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Ancud"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 10202,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Ancud"
   },
@@ -2368,6 +2496,14 @@
    "COMUNA": "Ancud"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 10202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Ancud"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 10202,
    "anio": 2025,
@@ -2493,6 +2629,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 3.0,
+   "COMUNA": "Ancud"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 10202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Ancud"
   },
   {
@@ -2624,6 +2768,14 @@
    "COMUNA": "Ancud"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 10202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Ancud"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 10202,
    "anio": 2025,
@@ -2748,6 +2900,14 @@
    "CODCOM": 10202,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Ancud"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 10202,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Ancud"
   },
@@ -2878,6 +3038,14 @@
    "mes": 4,
    "casos": 0.0,
    "COMUNA": "Ancud"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 10202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Ancud"
   }
  ],
  "info": [
@@ -2896,7 +3064,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 259.0,
    "2025": 256.0,
-   "2026": 104.0,
+   "2026": 106.0,
    "COMUNA": "Ancud"
   },
   {
@@ -2905,7 +3073,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 511.0,
    "2025": 708.0,
-   "2026": 399.0,
+   "2026": 414.0,
    "COMUNA": "Ancud"
   },
   {
@@ -2914,7 +3082,7 @@
    "delito": "DAÑOS",
    "2024": 283.0,
    "2025": 282.0,
-   "2026": 91.0,
+   "2026": 93.0,
    "COMUNA": "Ancud"
   },
   {
@@ -2923,7 +3091,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 293.0,
    "2025": 278.0,
-   "2026": 92.0,
+   "2026": 93.0,
    "COMUNA": "Ancud"
   },
   {
@@ -2941,7 +3109,7 @@
    "delito": "HURTOS",
    "2024": 166.0,
    "2025": 160.0,
-   "2026": 34.0,
+   "2026": 39.0,
    "COMUNA": "Ancud"
   },
   {
@@ -2968,7 +3136,7 @@
    "delito": "LESIONES LEVES",
    "2024": 129.0,
    "2025": 132.0,
-   "2026": 35.0,
+   "2026": 36.0,
    "COMUNA": "Ancud"
   },
   {
@@ -2986,7 +3154,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 83.0,
    "2025": 52.0,
-   "2026": 25.0,
+   "2026": 26.0,
    "COMUNA": "Ancud"
   },
   {
@@ -2995,7 +3163,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 27.0,
    "2025": 29.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "Ancud"
   },
   {
@@ -3013,7 +3181,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 9.0,
    "2025": 8.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Ancud"
   },
   {
@@ -3040,7 +3208,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 27.0,
    "2025": 11.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Ancud"
   },
   {
@@ -3049,7 +3217,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 98.0,
    "2025": 113.0,
-   "2026": 27.0,
+   "2026": 29.0,
    "COMUNA": "Ancud"
   },
   {
@@ -3072,7 +3240,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Los Lagos"
  }
 }

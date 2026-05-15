@@ -12,35 +12,35 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5103,
-   "2025": 87.0,
-   "2026": 80.0,
-   "variacion": -8.0,
+   "2025": 89.0,
+   "2026": 83.0,
+   "variacion": -7.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Concón"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5103,
-   "2025": 271.0,
-   "2026": 150.0,
-   "variacion": -45.0,
+   "2025": 274.0,
+   "2026": 160.0,
+   "variacion": -42.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Concón"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5103,
-   "2025": 81.0,
-   "2026": 87.0,
-   "variacion": 7.0,
+   "2025": 86.0,
+   "2026": 90.0,
+   "variacion": 5.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Concón"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5103,
-   "2025": 118.0,
-   "2026": 82.0,
+   "2025": 122.0,
+   "2026": 84.0,
    "variacion": -31.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Concón"
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5103,
-   "2025": 126.0,
-   "2026": 105.0,
-   "variacion": -17.0,
+   "2025": 132.0,
+   "2026": 107.0,
+   "variacion": -19.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Concón"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5103,
-   "2025": 92.0,
-   "2026": 77.0,
-   "variacion": -16.0,
+   "2025": 98.0,
+   "2026": 83.0,
+   "variacion": -15.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Concón"
   },
@@ -76,17 +76,17 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 5103,
    "2025": 5.0,
-   "2026": 1.0,
-   "variacion": -80.0,
+   "2026": 2.0,
+   "variacion": -60.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Concón"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5103,
-   "2025": 42.0,
-   "2026": 52.0,
-   "variacion": 24.0,
+   "2025": 45.0,
+   "2026": 55.0,
+   "variacion": 22.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Concón"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5103,
    "2025": 19.0,
-   "2026": 9.0,
-   "variacion": -53.0,
+   "2026": 10.0,
+   "variacion": -47.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Concón"
   },
@@ -130,8 +130,8 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 5103,
    "2025": 6.0,
-   "2026": 1.0,
-   "variacion": -83.0,
+   "2026": 2.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Concón"
   },
@@ -139,34 +139,34 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 5103,
    "2025": 11.0,
-   "2026": 17.0,
-   "variacion": 55.0,
+   "2026": 19.0,
+   "variacion": 73.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Concón"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5103,
-   "2025": 36.0,
+   "2025": 41.0,
    "2026": 30.0,
-   "variacion": -17.0,
+   "variacion": -27.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Concón"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5103,
-   "2025": 205.0,
-   "2026": 179.0,
-   "variacion": -13.0,
+   "2025": 226.0,
+   "2026": 183.0,
+   "variacion": -19.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Concón"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5103,
-   "2025": 80.0,
-   "2026": 55.0,
+   "2025": 81.0,
+   "2026": 56.0,
    "variacion": -31.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Concón"
@@ -320,6 +320,14 @@
    "COMUNA": "Concón"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 5103,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Concón"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5103,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 13.0,
+   "COMUNA": "Concón"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 5103,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
    "COMUNA": "Concón"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Concón"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 5103,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 10.0,
+   "COMUNA": "Concón"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 5103,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 12.0,
+   "COMUNA": "Concón"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 5103,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
    "COMUNA": "Concón"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "Concón"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 5103,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Concón"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 5103,
    "anio": 2025,
@@ -956,6 +996,14 @@
    "CODCOM": 5103,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Concón"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 5103,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Concón"
   },
@@ -1088,6 +1136,14 @@
    "COMUNA": "Concón"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5103,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Concón"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 5103,
    "anio": 2025,
@@ -1216,6 +1272,14 @@
    "COMUNA": "Concón"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 5103,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 6.0,
+   "COMUNA": "Concón"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5103,
    "anio": 2025,
@@ -1341,6 +1405,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 0.0,
+   "COMUNA": "Concón"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 5103,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Concón"
   },
   {
@@ -1472,6 +1544,14 @@
    "COMUNA": "Concón"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 5103,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
+   "COMUNA": "Concón"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5103,
    "anio": 2025,
@@ -1596,6 +1676,14 @@
    "CODCOM": 5103,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Concón"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 5103,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Concón"
   },
@@ -1728,6 +1816,14 @@
    "COMUNA": "Concón"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 5103,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Concón"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 5103,
    "anio": 2025,
@@ -1856,6 +1952,14 @@
    "COMUNA": "Concón"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 5103,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Concón"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 5103,
    "anio": 2025,
@@ -1984,6 +2088,14 @@
    "COMUNA": "Concón"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 5103,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Concón"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 5103,
    "anio": 2025,
@@ -2109,6 +2221,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 0.0,
+   "COMUNA": "Concón"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 5103,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Concón"
   },
   {
@@ -2237,6 +2357,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 3.0,
+   "COMUNA": "Concón"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 5103,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
    "COMUNA": "Concón"
   },
   {
@@ -2365,6 +2493,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 3.0,
+   "COMUNA": "Concón"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 5103,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Concón"
   },
   {
@@ -2496,6 +2632,14 @@
    "COMUNA": "Concón"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 5103,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 4.0,
+   "COMUNA": "Concón"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5103,
    "anio": 2025,
@@ -2624,6 +2768,14 @@
    "COMUNA": "Concón"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 5103,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Concón"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5103,
    "anio": 2025,
@@ -2749,6 +2901,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Concón"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 5103,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Concón"
   },
   {
@@ -2878,6 +3038,14 @@
    "mes": 4,
    "casos": 3.0,
    "COMUNA": "Concón"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 5103,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Concón"
   }
  ],
  "info": [
@@ -2896,7 +3064,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 261.0,
    "2025": 220.0,
-   "2026": 80.0,
+   "2026": 83.0,
    "COMUNA": "Concón"
   },
   {
@@ -2905,7 +3073,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 518.0,
    "2025": 611.0,
-   "2026": 150.0,
+   "2026": 160.0,
    "COMUNA": "Concón"
   },
   {
@@ -2914,7 +3082,7 @@
    "delito": "DAÑOS",
    "2024": 264.0,
    "2025": 226.0,
-   "2026": 87.0,
+   "2026": 90.0,
    "COMUNA": "Concón"
   },
   {
@@ -2923,7 +3091,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 251.0,
    "2025": 265.0,
-   "2026": 82.0,
+   "2026": 84.0,
    "COMUNA": "Concón"
   },
   {
@@ -2941,7 +3109,7 @@
    "delito": "HURTOS",
    "2024": 294.0,
    "2025": 290.0,
-   "2026": 105.0,
+   "2026": 107.0,
    "COMUNA": "Concón"
   },
   {
@@ -2950,7 +3118,7 @@
    "delito": "INCIVILIDADES",
    "2024": 193.0,
    "2025": 281.0,
-   "2026": 77.0,
+   "2026": 83.0,
    "COMUNA": "Concón"
   },
   {
@@ -2959,7 +3127,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 11.0,
    "2025": 13.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Concón"
   },
   {
@@ -2968,7 +3136,7 @@
    "delito": "LESIONES LEVES",
    "2024": 107.0,
    "2025": 121.0,
-   "2026": 52.0,
+   "2026": 55.0,
    "COMUNA": "Concón"
   },
   {
@@ -2986,7 +3154,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 57.0,
    "2025": 42.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Concón"
   },
   {
@@ -3013,7 +3181,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 6.0,
    "2025": 8.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Concón"
   },
   {
@@ -3022,7 +3190,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 26.0,
    "2025": 27.0,
-   "2026": 17.0,
+   "2026": 19.0,
    "COMUNA": "Concón"
   },
   {
@@ -3040,7 +3208,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 521.0,
    "2025": 522.0,
-   "2026": 179.0,
+   "2026": 183.0,
    "COMUNA": "Concón"
   },
   {
@@ -3049,7 +3217,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 241.0,
    "2025": 180.0,
-   "2026": 55.0,
+   "2026": 56.0,
    "COMUNA": "Concón"
   },
   {
@@ -3072,7 +3240,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Valparaíso"
  }
 }

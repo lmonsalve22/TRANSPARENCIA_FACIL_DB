@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10401,
    "2025": 5.0,
-   "2026": 15.0,
-   "variacion": 200.0,
+   "2026": 17.0,
+   "variacion": 240.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chaitén"
   },
@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10401,
    "2025": 11.0,
-   "2026": 37.0,
-   "variacion": 236.0,
+   "2026": 40.0,
+   "variacion": 264.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chaitén"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10401,
    "2025": 19.0,
-   "2026": 14.0,
-   "variacion": -26.0,
+   "2026": 15.0,
+   "variacion": -21.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
@@ -165,7 +165,7 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10401,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -311,6 +311,14 @@
    "COMUNA": "Chaitén"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 10401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Chaitén"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10401,
    "anio": 2025,
@@ -435,6 +443,14 @@
    "CODCOM": 10401,
    "anio": 2026,
    "mes": 4,
+   "casos": 2.0,
+   "COMUNA": "Chaitén"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 10401,
+   "anio": 2026,
+   "mes": 5,
    "casos": 2.0,
    "COMUNA": "Chaitén"
   },
@@ -567,6 +583,14 @@
    "COMUNA": "Chaitén"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 10401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
+   "COMUNA": "Chaitén"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 10401,
    "anio": 2025,
@@ -692,6 +716,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 4.0,
+   "COMUNA": "Chaitén"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 10401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Chaitén"
   },
   {
@@ -823,6 +855,14 @@
    "COMUNA": "Chaitén"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 10401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Chaitén"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 10401,
    "anio": 2026,
@@ -835,6 +875,14 @@
    "CODCOM": 10401,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Chaitén"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 10401,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Chaitén"
   },
@@ -964,6 +1012,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Chaitén"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Chaitén"
   },
   {
@@ -1095,6 +1151,14 @@
    "COMUNA": "Chaitén"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 10401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Chaitén"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10401,
    "anio": 2025,
@@ -1219,6 +1283,14 @@
    "CODCOM": 10401,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Chaitén"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 10401,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Chaitén"
   },
@@ -1351,6 +1423,14 @@
    "COMUNA": "Chaitén"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 10401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Chaitén"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10401,
    "anio": 2025,
@@ -1479,6 +1559,14 @@
    "COMUNA": "Chaitén"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Chaitén"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10401,
    "anio": 2025,
@@ -1603,6 +1691,14 @@
    "CODCOM": 10401,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Chaitén"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 10401,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Chaitén"
   },
@@ -1735,6 +1831,14 @@
    "COMUNA": "Chaitén"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 10401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Chaitén"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 10401,
    "anio": 2025,
@@ -1851,6 +1955,14 @@
    "CODCOM": 10401,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Chaitén"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 10401,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Chaitén"
   },
@@ -1983,6 +2095,14 @@
    "COMUNA": "Chaitén"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 10401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Chaitén"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 10401,
    "anio": 2025,
@@ -2103,6 +2223,14 @@
    "COMUNA": "Chaitén"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 10401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Chaitén"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 10401,
    "anio": 2025,
@@ -2219,6 +2347,14 @@
    "CODCOM": 10401,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Chaitén"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 10401,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Chaitén"
   },
@@ -2347,6 +2483,14 @@
    "CODCOM": 10401,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Chaitén"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 10401,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Chaitén"
   },
@@ -2479,6 +2623,14 @@
    "COMUNA": "Chaitén"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 10401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Chaitén"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10401,
    "anio": 2025,
@@ -2603,6 +2755,14 @@
    "CODCOM": 10401,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Chaitén"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 10401,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Chaitén"
   }
@@ -2623,7 +2783,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 36.0,
    "2025": 18.0,
-   "2026": 15.0,
+   "2026": 17.0,
    "COMUNA": "Chaitén"
   },
   {
@@ -2632,7 +2792,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 42.0,
    "2025": 38.0,
-   "2026": 37.0,
+   "2026": 40.0,
    "COMUNA": "Chaitén"
   },
   {
@@ -2650,7 +2810,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 33.0,
    "2025": 37.0,
-   "2026": 14.0,
+   "2026": 15.0,
    "COMUNA": "Chaitén"
   },
   {
@@ -2799,7 +2959,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Los Lagos"
  }
 }

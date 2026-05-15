@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 12401,
-   "2025": 59.0,
-   "2026": 57.0,
-   "variacion": -3.0,
-   "situación": "Disminución de Casos",
+   "2025": 60.0,
+   "2026": 64.0,
+   "variacion": 7.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Natales"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 12401,
-   "2025": 176.0,
-   "2026": 106.0,
-   "variacion": -40.0,
+   "2025": 179.0,
+   "2026": 121.0,
+   "variacion": -32.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Natales"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 12401,
-   "2025": 55.0,
-   "2026": 56.0,
-   "variacion": 2.0,
+   "2025": 57.0,
+   "2026": 60.0,
+   "variacion": 5.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Natales"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 12401,
-   "2025": 53.0,
-   "2026": 69.0,
-   "variacion": 30.0,
+   "2025": 55.0,
+   "2026": 72.0,
+   "variacion": 31.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Natales"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 12401,
-   "2025": 37.0,
-   "2026": 30.0,
-   "variacion": -19.0,
+   "2025": 38.0,
+   "2026": 32.0,
+   "variacion": -16.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Natales"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 12401,
-   "2025": 28.0,
-   "2026": 33.0,
-   "variacion": 18.0,
+   "2025": 30.0,
+   "2026": 36.0,
+   "variacion": 20.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Natales"
   },
@@ -94,8 +94,8 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 12401,
    "2025": 3.0,
-   "2026": 5.0,
-   "variacion": 67.0,
+   "2026": 6.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Natales"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 12401,
    "2025": 2.0,
-   "2026": 6.0,
-   "variacion": 200.0,
+   "2026": 7.0,
+   "variacion": 250.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Natales"
   },
@@ -148,9 +148,9 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 12401,
    "2025": 4.0,
-   "2026": 3.0,
-   "variacion": -25.0,
-   "situación": "Disminución de Casos",
+   "2026": 4.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Natales"
   },
   {
@@ -166,9 +166,9 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 12401,
    "2025": 6.0,
-   "2026": 6.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 7.0,
+   "variacion": 17.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Natales"
   },
   {
@@ -320,6 +320,14 @@
    "COMUNA": "Natales"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 12401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Natales"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 12401,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 14.0,
+   "COMUNA": "Natales"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 12401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 7.0,
    "COMUNA": "Natales"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Natales"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 12401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 15.0,
+   "COMUNA": "Natales"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 12401,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 8.0,
+   "COMUNA": "Natales"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 12401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 4.0,
    "COMUNA": "Natales"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "Natales"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 12401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
+   "COMUNA": "Natales"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 12401,
    "anio": 2025,
@@ -956,6 +996,14 @@
    "CODCOM": 12401,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Natales"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 12401,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Natales"
   },
@@ -1085,6 +1133,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 4.0,
+   "COMUNA": "Natales"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Natales"
   },
   {
@@ -1216,6 +1272,14 @@
    "COMUNA": "Natales"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 12401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Natales"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 12401,
    "anio": 2025,
@@ -1340,6 +1404,14 @@
    "CODCOM": 12401,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Natales"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 12401,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Natales"
   },
@@ -1472,6 +1544,14 @@
    "COMUNA": "Natales"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 12401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
+   "COMUNA": "Natales"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 12401,
    "anio": 2025,
@@ -1600,6 +1680,14 @@
    "COMUNA": "Natales"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 12401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Natales"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 12401,
    "anio": 2025,
@@ -1728,6 +1816,14 @@
    "COMUNA": "Natales"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 12401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Natales"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 12401,
    "anio": 2025,
@@ -1856,6 +1952,14 @@
    "COMUNA": "Natales"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 12401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Natales"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 12401,
    "anio": 2025,
@@ -1984,6 +2088,14 @@
    "COMUNA": "Natales"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 12401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Natales"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 12401,
    "anio": 2025,
@@ -2112,6 +2224,14 @@
    "COMUNA": "Natales"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 12401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Natales"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 12401,
    "anio": 2025,
@@ -2236,6 +2356,14 @@
    "CODCOM": 12401,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Natales"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 12401,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Natales"
   },
@@ -2368,6 +2496,14 @@
    "COMUNA": "Natales"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 12401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Natales"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 12401,
    "anio": 2025,
@@ -2496,6 +2632,14 @@
    "COMUNA": "Natales"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 12401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Natales"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 12401,
    "anio": 2025,
@@ -2624,6 +2768,14 @@
    "COMUNA": "Natales"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 12401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Natales"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 12401,
    "anio": 2025,
@@ -2748,6 +2900,14 @@
    "CODCOM": 12401,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Natales"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 12401,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Natales"
   },
@@ -2878,6 +3038,14 @@
    "mes": 4,
    "casos": 1.0,
    "COMUNA": "Natales"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 12401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Natales"
   }
  ],
  "info": [
@@ -2896,7 +3064,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 167.0,
    "2025": 147.0,
-   "2026": 57.0,
+   "2026": 64.0,
    "COMUNA": "Natales"
   },
   {
@@ -2905,7 +3073,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 283.0,
    "2025": 457.0,
-   "2026": 106.0,
+   "2026": 121.0,
    "COMUNA": "Natales"
   },
   {
@@ -2914,7 +3082,7 @@
    "delito": "DAÑOS",
    "2024": 198.0,
    "2025": 151.0,
-   "2026": 56.0,
+   "2026": 60.0,
    "COMUNA": "Natales"
   },
   {
@@ -2923,7 +3091,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 227.0,
    "2025": 147.0,
-   "2026": 69.0,
+   "2026": 72.0,
    "COMUNA": "Natales"
   },
   {
@@ -2950,7 +3118,7 @@
    "delito": "INCIVILIDADES",
    "2024": 88.0,
    "2025": 91.0,
-   "2026": 30.0,
+   "2026": 32.0,
    "COMUNA": "Natales"
   },
   {
@@ -2968,7 +3136,7 @@
    "delito": "LESIONES LEVES",
    "2024": 106.0,
    "2025": 82.0,
-   "2026": 33.0,
+   "2026": 36.0,
    "COMUNA": "Natales"
   },
   {
@@ -2977,7 +3145,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 13.0,
    "2025": 12.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Natales"
   },
   {
@@ -2986,7 +3154,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 32.0,
    "2025": 4.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Natales"
   },
   {
@@ -3031,7 +3199,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 10.0,
    "2025": 9.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Natales"
   },
   {
@@ -3049,7 +3217,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 20.0,
    "2025": 11.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Natales"
   },
   {
@@ -3072,7 +3240,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Magallanes"
  }
 }

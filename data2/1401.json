@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 1401,
-   "2025": 50.0,
-   "2026": 56.0,
-   "variacion": 12.0,
+   "2025": 51.0,
+   "2026": 59.0,
+   "variacion": 16.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pozo Almonte"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 1401,
-   "2025": 157.0,
-   "2026": 128.0,
-   "variacion": -18.0,
+   "2025": 163.0,
+   "2026": 137.0,
+   "variacion": -16.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pozo Almonte"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 1401,
-   "2025": 56.0,
-   "2026": 41.0,
-   "variacion": -27.0,
+   "2025": 58.0,
+   "2026": 43.0,
+   "variacion": -26.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pozo Almonte"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 1401,
-   "2025": 93.0,
-   "2026": 75.0,
-   "variacion": -19.0,
+   "2025": 99.0,
+   "2026": 78.0,
+   "variacion": -21.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pozo Almonte"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 1401,
-   "2025": 37.0,
-   "2026": 26.0,
-   "variacion": -30.0,
+   "2025": 38.0,
+   "2026": 28.0,
+   "variacion": -26.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pozo Almonte"
   },
@@ -75,18 +75,18 @@
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 1401,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 4.0,
-   "variacion": -20.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pozo Almonte"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 1401,
-   "2025": 37.0,
-   "2026": 35.0,
-   "variacion": -5.0,
+   "2025": 38.0,
+   "2026": 37.0,
+   "variacion": -3.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pozo Almonte"
   },
@@ -103,17 +103,17 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 1401,
    "2025": 9.0,
-   "2026": 11.0,
-   "variacion": 22.0,
+   "2026": 12.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pozo Almonte"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 1401,
-   "2025": 15.0,
-   "2026": 23.0,
-   "variacion": 53.0,
+   "2025": 16.0,
+   "2026": 26.0,
+   "variacion": 62.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pozo Almonte"
   },
@@ -121,9 +121,9 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 1401,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 2.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Pozo Almonte"
   },
   {
@@ -138,9 +138,9 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 1401,
-   "2025": 11.0,
+   "2025": 12.0,
    "2026": 8.0,
-   "variacion": -27.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pozo Almonte"
   },
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 1401,
    "2025": 13.0,
-   "2026": 8.0,
-   "variacion": -38.0,
+   "2026": 9.0,
+   "variacion": -31.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pozo Almonte"
   },
@@ -165,8 +165,8 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 1401,
-   "2025": 67.0,
-   "2026": 41.0,
+   "2025": 69.0,
+   "2026": 42.0,
    "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pozo Almonte"
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 1401,
-   "2025": 13.0,
-   "2026": 6.0,
-   "variacion": -54.0,
+   "2025": 14.0,
+   "2026": 7.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pozo Almonte"
   }
@@ -320,6 +320,14 @@
    "COMUNA": "Pozo Almonte"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 1401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Pozo Almonte"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 1401,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 18.0,
+   "COMUNA": "Pozo Almonte"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 1401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
    "COMUNA": "Pozo Almonte"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Pozo Almonte"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 1401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 9.0,
+   "COMUNA": "Pozo Almonte"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 1401,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 12.0,
+   "COMUNA": "Pozo Almonte"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 1401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
    "COMUNA": "Pozo Almonte"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "Pozo Almonte"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 1401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
+   "COMUNA": "Pozo Almonte"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 1401,
    "anio": 2025,
@@ -956,6 +996,14 @@
    "CODCOM": 1401,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Pozo Almonte"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 1401,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Pozo Almonte"
   },
@@ -1088,6 +1136,14 @@
    "COMUNA": "Pozo Almonte"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 1401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Pozo Almonte"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 1401,
    "anio": 2025,
@@ -1216,6 +1272,14 @@
    "COMUNA": "Pozo Almonte"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 1401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Pozo Almonte"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 1401,
    "anio": 2025,
@@ -1341,6 +1405,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 2.0,
+   "COMUNA": "Pozo Almonte"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 1401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Pozo Almonte"
   },
   {
@@ -1472,6 +1544,14 @@
    "COMUNA": "Pozo Almonte"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 1401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Pozo Almonte"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 1401,
    "anio": 2025,
@@ -1600,6 +1680,14 @@
    "COMUNA": "Pozo Almonte"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 1401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Pozo Almonte"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 1401,
    "anio": 2025,
@@ -1725,6 +1813,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 2.0,
+   "COMUNA": "Pozo Almonte"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 1401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Pozo Almonte"
   },
   {
@@ -1856,6 +1952,14 @@
    "COMUNA": "Pozo Almonte"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 1401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
+   "COMUNA": "Pozo Almonte"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 1401,
    "anio": 2025,
@@ -1984,6 +2088,14 @@
    "COMUNA": "Pozo Almonte"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 1401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Pozo Almonte"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 1401,
    "anio": 2025,
@@ -2108,6 +2220,14 @@
    "CODCOM": 1401,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Pozo Almonte"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 1401,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Pozo Almonte"
   },
@@ -2237,6 +2357,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 4.0,
+   "COMUNA": "Pozo Almonte"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 1401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Pozo Almonte"
   },
   {
@@ -2365,6 +2493,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 2.0,
+   "COMUNA": "Pozo Almonte"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 1401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Pozo Almonte"
   },
   {
@@ -2496,6 +2632,14 @@
    "COMUNA": "Pozo Almonte"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 1401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Pozo Almonte"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 1401,
    "anio": 2025,
@@ -2621,6 +2765,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 11.0,
+   "COMUNA": "Pozo Almonte"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 1401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Pozo Almonte"
   },
   {
@@ -2752,6 +2904,14 @@
    "COMUNA": "Pozo Almonte"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 1401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Pozo Almonte"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 1401,
    "anio": 2025,
@@ -2878,6 +3038,14 @@
    "mes": 4,
    "casos": 0.0,
    "COMUNA": "Pozo Almonte"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 1401,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Pozo Almonte"
   }
  ],
  "info": [
@@ -2896,7 +3064,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 166.0,
    "2025": 140.0,
-   "2026": 56.0,
+   "2026": 59.0,
    "COMUNA": "Pozo Almonte"
   },
   {
@@ -2905,7 +3073,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 538.0,
    "2025": 408.0,
-   "2026": 128.0,
+   "2026": 137.0,
    "COMUNA": "Pozo Almonte"
   },
   {
@@ -2914,7 +3082,7 @@
    "delito": "DAÑOS",
    "2024": 174.0,
    "2025": 156.0,
-   "2026": 41.0,
+   "2026": 43.0,
    "COMUNA": "Pozo Almonte"
   },
   {
@@ -2923,7 +3091,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 221.0,
    "2025": 219.0,
-   "2026": 75.0,
+   "2026": 78.0,
    "COMUNA": "Pozo Almonte"
   },
   {
@@ -2941,7 +3109,7 @@
    "delito": "HURTOS",
    "2024": 193.0,
    "2025": 139.0,
-   "2026": 26.0,
+   "2026": 28.0,
    "COMUNA": "Pozo Almonte"
   },
   {
@@ -2968,7 +3136,7 @@
    "delito": "LESIONES LEVES",
    "2024": 122.0,
    "2025": 107.0,
-   "2026": 35.0,
+   "2026": 37.0,
    "COMUNA": "Pozo Almonte"
   },
   {
@@ -2986,7 +3154,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 33.0,
    "2025": 20.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "Pozo Almonte"
   },
   {
@@ -2995,7 +3163,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 66.0,
    "2025": 63.0,
-   "2026": 23.0,
+   "2026": 26.0,
    "COMUNA": "Pozo Almonte"
   },
   {
@@ -3004,7 +3172,7 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2024": 3.0,
    "2025": 2.0,
-   "2026": 0.0,
+   "2026": 2.0,
    "COMUNA": "Pozo Almonte"
   },
   {
@@ -3031,7 +3199,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 63.0,
    "2025": 54.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Pozo Almonte"
   },
   {
@@ -3049,7 +3217,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 233.0,
    "2025": 142.0,
-   "2026": 41.0,
+   "2026": 42.0,
    "COMUNA": "Pozo Almonte"
   },
   {
@@ -3067,12 +3235,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 22.0,
    "2025": 27.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Pozo Almonte"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Tarapacá"
  }
 }

@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4202,
-   "2025": 13.0,
+   "2025": 14.0,
    "2026": 19.0,
-   "variacion": 46.0,
+   "variacion": 36.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Canela"
   },
@@ -22,18 +22,18 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 4202,
    "2025": 6.0,
-   "2026": 28.0,
-   "variacion": 367.0,
+   "2026": 29.0,
+   "variacion": 383.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Canela"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 4202,
-   "2025": 37.0,
-   "2026": 37.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 41.0,
+   "2026": 39.0,
+   "variacion": -5.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Canela"
   },
   {
@@ -103,17 +103,17 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 4202,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 1.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Canela"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 4202,
    "2025": 3.0,
-   "2026": 7.0,
-   "variacion": 133.0,
+   "2026": 8.0,
+   "variacion": 167.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Canela"
   },
@@ -130,17 +130,17 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 4202,
    "2025": 24.0,
-   "2026": 24.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 27.0,
+   "variacion": 12.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Canela"
   },
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 4202,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 2.0,
-   "variacion": -33.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Canela"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 4202,
-   "2025": 13.0,
+   "2025": 14.0,
    "2026": 4.0,
-   "variacion": -69.0,
+   "variacion": -71.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Canela"
   },
@@ -320,6 +320,14 @@
    "COMUNA": "Canela"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Canela"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4202,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 4.0,
+   "COMUNA": "Canela"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Canela"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Canela"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Canela"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 4202,
    "anio": 2025,
@@ -704,6 +728,14 @@
    "COMUNA": "Canela"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 4202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Canela"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 4202,
    "anio": 2025,
@@ -832,6 +864,14 @@
    "COMUNA": "Canela"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Canela"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 4202,
    "anio": 2025,
@@ -948,6 +988,14 @@
    "CODCOM": 4202,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Canela"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 4202,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Canela"
   },
@@ -1080,6 +1128,14 @@
    "COMUNA": "Canela"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 4202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Canela"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 4202,
    "anio": 2025,
@@ -1208,6 +1264,14 @@
    "COMUNA": "Canela"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Canela"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 4202,
    "anio": 2025,
@@ -1332,6 +1396,14 @@
    "CODCOM": 4202,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Canela"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4202,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Canela"
   },
@@ -1464,6 +1536,14 @@
    "COMUNA": "Canela"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Canela"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 4202,
    "anio": 2025,
@@ -1592,6 +1672,14 @@
    "COMUNA": "Canela"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Canela"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 4202,
    "anio": 2025,
@@ -1717,6 +1805,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 0.0,
+   "COMUNA": "Canela"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Canela"
   },
   {
@@ -1848,6 +1944,14 @@
    "COMUNA": "Canela"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Canela"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 4202,
    "anio": 2025,
@@ -1972,6 +2076,14 @@
    "CODCOM": 4202,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Canela"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4202,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Canela"
   },
@@ -2104,6 +2216,14 @@
    "COMUNA": "Canela"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
+   "COMUNA": "Canela"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 4202,
    "anio": 2025,
@@ -2232,6 +2352,14 @@
    "COMUNA": "Canela"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Canela"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 4202,
    "anio": 2025,
@@ -2356,6 +2484,14 @@
    "CODCOM": 4202,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Canela"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4202,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Canela"
   },
@@ -2484,6 +2620,14 @@
    "CODCOM": 4202,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Canela"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4202,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Canela"
   },
@@ -2616,6 +2760,14 @@
    "COMUNA": "Canela"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Canela"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 4202,
    "anio": 2025,
@@ -2732,6 +2884,14 @@
    "CODCOM": 4202,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Canela"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4202,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Canela"
   },
@@ -2860,6 +3020,14 @@
    "CODCOM": 4202,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Canela"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4202,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Canela"
   }
@@ -2889,7 +3057,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 20.0,
    "2025": 23.0,
-   "2026": 28.0,
+   "2026": 29.0,
    "COMUNA": "Canela"
   },
   {
@@ -2898,7 +3066,7 @@
    "delito": "DAÑOS",
    "2024": 86.0,
    "2025": 103.0,
-   "2026": 37.0,
+   "2026": 39.0,
    "COMUNA": "Canela"
   },
   {
@@ -2970,7 +3138,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 2.0,
    "2025": 5.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Canela"
   },
   {
@@ -2979,7 +3147,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 17.0,
    "2025": 10.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Canela"
   },
   {
@@ -2997,7 +3165,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 36.0,
    "2025": 47.0,
-   "2026": 24.0,
+   "2026": 27.0,
    "COMUNA": "Canela"
   },
   {
@@ -3056,7 +3224,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Coquimbo"
  }
 }

@@ -12,10 +12,10 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8105,
-   "2025": 59.0,
-   "2026": 59.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 67.0,
+   "2026": 65.0,
+   "variacion": -3.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Hualqui"
   },
   {
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 8105,
-   "2025": 44.0,
-   "2026": 44.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 48.0,
+   "2026": 46.0,
+   "variacion": -4.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Hualqui"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8105,
-   "2025": 68.0,
-   "2026": 65.0,
-   "variacion": -4.0,
+   "2025": 70.0,
+   "2026": 66.0,
+   "variacion": -6.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Hualqui"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 8105,
    "2025": 23.0,
-   "2026": 19.0,
-   "variacion": -17.0,
+   "2026": 20.0,
+   "variacion": -13.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Hualqui"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 8105,
    "2025": 26.0,
-   "2026": 27.0,
-   "variacion": 4.0,
+   "2026": 28.0,
+   "variacion": 8.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Hualqui"
   },
@@ -84,27 +84,27 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8105,
-   "2025": 30.0,
-   "2026": 13.0,
-   "variacion": -57.0,
+   "2025": 31.0,
+   "2026": 14.0,
+   "variacion": -55.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Hualqui"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8105,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 1.0,
-   "variacion": -75.0,
+   "variacion": -80.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Hualqui"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 8105,
-   "2025": 6.0,
-   "2026": 13.0,
-   "variacion": 117.0,
+   "2025": 8.0,
+   "2026": 14.0,
+   "variacion": 75.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Hualqui"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 8105,
    "2025": 3.0,
-   "2026": 1.0,
-   "variacion": -67.0,
+   "2026": 2.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Hualqui"
   },
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8105,
-   "2025": 8.0,
+   "2025": 9.0,
    "2026": 5.0,
-   "variacion": -38.0,
+   "variacion": -44.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Hualqui"
   },
@@ -148,27 +148,27 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8105,
    "2025": 15.0,
-   "2026": 8.0,
-   "variacion": -47.0,
+   "2026": 9.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Hualqui"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8105,
-   "2025": 10.0,
+   "2025": 11.0,
    "2026": 8.0,
-   "variacion": -20.0,
+   "variacion": -27.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Hualqui"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8105,
-   "2025": 21.0,
+   "2025": 24.0,
    "2026": 23.0,
-   "variacion": 10.0,
-   "situación": "Aumento de Casos",
+   "variacion": -4.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Hualqui"
   },
   {
@@ -320,6 +320,14 @@
    "COMUNA": "Hualqui"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Hualqui"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8105,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 16.0,
+   "COMUNA": "Hualqui"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 8105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 6.0,
    "COMUNA": "Hualqui"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Hualqui"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 8105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Hualqui"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 8105,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 5.0,
+   "COMUNA": "Hualqui"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
    "COMUNA": "Hualqui"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "Hualqui"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 8105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Hualqui"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 8105,
    "anio": 2025,
@@ -956,6 +996,14 @@
    "CODCOM": 8105,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Hualqui"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 8105,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Hualqui"
   },
@@ -1088,6 +1136,14 @@
    "COMUNA": "Hualqui"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 8105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Hualqui"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 8105,
    "anio": 2025,
@@ -1216,6 +1272,14 @@
    "COMUNA": "Hualqui"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 8105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Hualqui"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8105,
    "anio": 2025,
@@ -1340,6 +1404,14 @@
    "CODCOM": 8105,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Hualqui"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 8105,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Hualqui"
   },
@@ -1472,6 +1544,14 @@
    "COMUNA": "Hualqui"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 8105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Hualqui"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8105,
    "anio": 2025,
@@ -1596,6 +1676,14 @@
    "CODCOM": 8105,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Hualqui"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 8105,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Hualqui"
   },
@@ -1728,6 +1816,14 @@
    "COMUNA": "Hualqui"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 8105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Hualqui"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8105,
    "anio": 2025,
@@ -1856,6 +1952,14 @@
    "COMUNA": "Hualqui"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Hualqui"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 8105,
    "anio": 2025,
@@ -1980,6 +2084,14 @@
    "CODCOM": 8105,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Hualqui"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8105,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Hualqui"
   },
@@ -2109,6 +2221,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Hualqui"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Hualqui"
   },
   {
@@ -2240,6 +2360,14 @@
    "COMUNA": "Hualqui"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 8105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Hualqui"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8105,
    "anio": 2025,
@@ -2365,6 +2493,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 2.0,
+   "COMUNA": "Hualqui"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 8105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Hualqui"
   },
   {
@@ -2493,6 +2629,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Hualqui"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 8105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Hualqui"
   },
   {
@@ -2624,6 +2768,14 @@
    "COMUNA": "Hualqui"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Hualqui"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8105,
    "anio": 2025,
@@ -2752,6 +2904,14 @@
    "COMUNA": "Hualqui"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 8105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Hualqui"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8105,
    "anio": 2025,
@@ -2876,6 +3036,14 @@
    "CODCOM": 8105,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Hualqui"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 8105,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Hualqui"
   }
@@ -2896,7 +3064,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 217.0,
    "2025": 162.0,
-   "2026": 59.0,
+   "2026": 65.0,
    "COMUNA": "Hualqui"
   },
   {
@@ -2914,7 +3082,7 @@
    "delito": "DAÑOS",
    "2024": 183.0,
    "2025": 112.0,
-   "2026": 44.0,
+   "2026": 46.0,
    "COMUNA": "Hualqui"
   },
   {
@@ -2923,7 +3091,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 201.0,
    "2025": 162.0,
-   "2026": 65.0,
+   "2026": 66.0,
    "COMUNA": "Hualqui"
   },
   {
@@ -2941,7 +3109,7 @@
    "delito": "HURTOS",
    "2024": 75.0,
    "2025": 55.0,
-   "2026": 19.0,
+   "2026": 20.0,
    "COMUNA": "Hualqui"
   },
   {
@@ -2950,7 +3118,7 @@
    "delito": "INCIVILIDADES",
    "2024": 75.0,
    "2025": 61.0,
-   "2026": 27.0,
+   "2026": 28.0,
    "COMUNA": "Hualqui"
   },
   {
@@ -2968,7 +3136,7 @@
    "delito": "LESIONES LEVES",
    "2024": 65.0,
    "2025": 54.0,
-   "2026": 13.0,
+   "2026": 14.0,
    "COMUNA": "Hualqui"
   },
   {
@@ -2986,7 +3154,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 35.0,
    "2025": 19.0,
-   "2026": 13.0,
+   "2026": 14.0,
    "COMUNA": "Hualqui"
   },
   {
@@ -2995,7 +3163,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 3.0,
    "2025": 14.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Hualqui"
   },
   {
@@ -3031,7 +3199,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 38.0,
    "2025": 34.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Hualqui"
   },
   {
@@ -3072,7 +3240,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Biobío"
  }
 }

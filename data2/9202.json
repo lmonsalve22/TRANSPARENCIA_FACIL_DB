@@ -12,35 +12,35 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9202,
-   "2025": 95.0,
-   "2026": 82.0,
-   "variacion": -14.0,
+   "2025": 100.0,
+   "2026": 88.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Collipulli"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9202,
-   "2025": 170.0,
-   "2026": 226.0,
-   "variacion": 33.0,
+   "2025": 179.0,
+   "2026": 242.0,
+   "variacion": 35.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Collipulli"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9202,
-   "2025": 82.0,
-   "2026": 74.0,
-   "variacion": -10.0,
+   "2025": 86.0,
+   "2026": 75.0,
+   "variacion": -13.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Collipulli"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9202,
-   "2025": 69.0,
-   "2026": 62.0,
+   "2025": 71.0,
+   "2026": 64.0,
    "variacion": -10.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Collipulli"
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9202,
-   "2025": 52.0,
-   "2026": 51.0,
+   "2025": 55.0,
+   "2026": 54.0,
    "variacion": -2.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Collipulli"
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9202,
-   "2025": 14.0,
+   "2025": 16.0,
    "2026": 33.0,
-   "variacion": 136.0,
+   "variacion": 106.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Collipulli"
   },
@@ -84,36 +84,36 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9202,
-   "2025": 43.0,
-   "2026": 36.0,
-   "variacion": -16.0,
+   "2025": 45.0,
+   "2026": 41.0,
+   "variacion": -9.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Collipulli"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9202,
-   "2025": 9.0,
-   "2026": 10.0,
-   "variacion": 11.0,
+   "2025": 10.0,
+   "2026": 11.0,
+   "variacion": 10.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Collipulli"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9202,
-   "2025": 15.0,
+   "2025": 16.0,
    "2026": 50.0,
-   "variacion": 233.0,
+   "variacion": 212.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Collipulli"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9202,
-   "2025": 13.0,
-   "2026": 21.0,
-   "variacion": 62.0,
+   "2025": 15.0,
+   "2026": 25.0,
+   "variacion": 67.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Collipulli"
   },
@@ -121,26 +121,26 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9202,
    "2025": 4.0,
-   "2026": 0.0,
-   "variacion": -100.0,
+   "2026": 1.0,
+   "variacion": -75.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Collipulli"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 9202,
-   "2025": 8.0,
+   "2025": 10.0,
    "2026": 20.0,
-   "variacion": 150.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Collipulli"
   },
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9202,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 3.0,
-   "variacion": -40.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Collipulli"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9202,
-   "2025": 26.0,
-   "2026": 36.0,
-   "variacion": 38.0,
+   "2025": 27.0,
+   "2026": 38.0,
+   "variacion": 41.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Collipulli"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9202,
    "2025": 9.0,
-   "2026": 10.0,
-   "variacion": 11.0,
+   "2026": 11.0,
+   "variacion": 22.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Collipulli"
   }
@@ -320,6 +320,14 @@
    "COMUNA": "Collipulli"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Collipulli"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9202,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 22.0,
+   "COMUNA": "Collipulli"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 6.0,
    "COMUNA": "Collipulli"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Collipulli"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 16.0,
+   "COMUNA": "Collipulli"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 9202,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 7.0,
+   "COMUNA": "Collipulli"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 9202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Collipulli"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "Collipulli"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Collipulli"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9202,
    "anio": 2025,
@@ -956,6 +996,14 @@
    "CODCOM": 9202,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Collipulli"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9202,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Collipulli"
   },
@@ -1088,6 +1136,14 @@
    "COMUNA": "Collipulli"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
+   "COMUNA": "Collipulli"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9202,
    "anio": 2025,
@@ -1216,6 +1272,14 @@
    "COMUNA": "Collipulli"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Collipulli"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9202,
    "anio": 2025,
@@ -1341,6 +1405,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Collipulli"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Collipulli"
   },
   {
@@ -1472,6 +1544,14 @@
    "COMUNA": "Collipulli"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 5.0,
+   "COMUNA": "Collipulli"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9202,
    "anio": 2025,
@@ -1597,6 +1677,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 4.0,
+   "COMUNA": "Collipulli"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Collipulli"
   },
   {
@@ -1728,6 +1816,14 @@
    "COMUNA": "Collipulli"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Collipulli"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9202,
    "anio": 2025,
@@ -1856,6 +1952,14 @@
    "COMUNA": "Collipulli"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 4.0,
+   "COMUNA": "Collipulli"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9202,
    "anio": 2025,
@@ -1981,6 +2085,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 0.0,
+   "COMUNA": "Collipulli"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Collipulli"
   },
   {
@@ -2112,6 +2224,14 @@
    "COMUNA": "Collipulli"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Collipulli"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9202,
    "anio": 2025,
@@ -2236,6 +2356,14 @@
    "CODCOM": 9202,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Collipulli"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9202,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Collipulli"
   },
@@ -2365,6 +2493,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Collipulli"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Collipulli"
   },
   {
@@ -2496,6 +2632,14 @@
    "COMUNA": "Collipulli"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Collipulli"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9202,
    "anio": 2025,
@@ -2624,6 +2768,14 @@
    "COMUNA": "Collipulli"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Collipulli"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9202,
    "anio": 2025,
@@ -2748,6 +2900,14 @@
    "CODCOM": 9202,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Collipulli"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9202,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Collipulli"
   },
@@ -2878,6 +3038,14 @@
    "mes": 4,
    "casos": 0.0,
    "COMUNA": "Collipulli"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Collipulli"
   }
  ],
  "info": [
@@ -2896,7 +3064,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 267.0,
    "2025": 237.0,
-   "2026": 82.0,
+   "2026": 88.0,
    "COMUNA": "Collipulli"
   },
   {
@@ -2905,7 +3073,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 390.0,
    "2025": 539.0,
-   "2026": 226.0,
+   "2026": 242.0,
    "COMUNA": "Collipulli"
   },
   {
@@ -2914,7 +3082,7 @@
    "delito": "DAÑOS",
    "2024": 216.0,
    "2025": 224.0,
-   "2026": 74.0,
+   "2026": 75.0,
    "COMUNA": "Collipulli"
   },
   {
@@ -2923,7 +3091,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 149.0,
    "2025": 181.0,
-   "2026": 62.0,
+   "2026": 64.0,
    "COMUNA": "Collipulli"
   },
   {
@@ -2941,7 +3109,7 @@
    "delito": "HURTOS",
    "2024": 136.0,
    "2025": 135.0,
-   "2026": 51.0,
+   "2026": 54.0,
    "COMUNA": "Collipulli"
   },
   {
@@ -2968,7 +3136,7 @@
    "delito": "LESIONES LEVES",
    "2024": 102.0,
    "2025": 104.0,
-   "2026": 36.0,
+   "2026": 41.0,
    "COMUNA": "Collipulli"
   },
   {
@@ -2977,7 +3145,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 20.0,
    "2025": 16.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "Collipulli"
   },
   {
@@ -2995,7 +3163,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 30.0,
    "2025": 33.0,
-   "2026": 21.0,
+   "2026": 25.0,
    "COMUNA": "Collipulli"
   },
   {
@@ -3004,7 +3172,7 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2024": 2.0,
    "2025": 12.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Collipulli"
   },
   {
@@ -3049,7 +3217,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 62.0,
    "2025": 100.0,
-   "2026": 36.0,
+   "2026": 38.0,
    "COMUNA": "Collipulli"
   },
   {
@@ -3067,12 +3235,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 47.0,
    "2025": 20.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "Collipulli"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "La Araucanía"
  }
 }

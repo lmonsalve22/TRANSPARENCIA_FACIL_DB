@@ -12,26 +12,26 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16302,
-   "2025": 96.0,
-   "2026": 75.0,
-   "variacion": -22.0,
+   "2025": 106.0,
+   "2026": 76.0,
+   "variacion": -28.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Coihueco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16302,
-   "2025": 62.0,
-   "2026": 92.0,
-   "variacion": 48.0,
+   "2025": 69.0,
+   "2026": 94.0,
+   "variacion": 36.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Coihueco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 16302,
-   "2025": 80.0,
-   "2026": 48.0,
+   "2025": 82.0,
+   "2026": 49.0,
    "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Coihueco"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16302,
-   "2025": 79.0,
+   "2025": 82.0,
    "2026": 60.0,
-   "variacion": -24.0,
+   "variacion": -27.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Coihueco"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16302,
-   "2025": 36.0,
-   "2026": 33.0,
+   "2025": 39.0,
+   "2026": 36.0,
    "variacion": -8.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Coihueco"
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16302,
-   "2025": 18.0,
-   "2026": 40.0,
-   "variacion": 122.0,
+   "2025": 20.0,
+   "2026": 41.0,
+   "variacion": 105.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Coihueco"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 16302,
    "2025": 17.0,
-   "2026": 11.0,
-   "variacion": -35.0,
+   "2026": 12.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Coihueco"
   },
@@ -138,9 +138,9 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 16302,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 6.0,
-   "variacion": 200.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Coihueco"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16302,
-   "2025": 52.0,
-   "2026": 47.0,
-   "variacion": -10.0,
+   "2025": 59.0,
+   "2026": 48.0,
+   "variacion": -19.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Coihueco"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 16302,
    "2025": 13.0,
-   "2026": 9.0,
-   "variacion": -31.0,
+   "2026": 10.0,
+   "variacion": -23.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Coihueco"
   }
@@ -320,6 +320,14 @@
    "COMUNA": "Coihueco"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 16302,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Coihueco"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16302,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 17.0,
+   "COMUNA": "Coihueco"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 16302,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Coihueco"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Coihueco"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 16302,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Coihueco"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 16302,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 6.0,
+   "COMUNA": "Coihueco"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 16302,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Coihueco"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "Coihueco"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 16302,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Coihueco"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 16302,
    "anio": 2025,
@@ -948,6 +988,14 @@
    "CODCOM": 16302,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Coihueco"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 16302,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Coihueco"
   },
@@ -1080,6 +1128,14 @@
    "COMUNA": "Coihueco"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 16302,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
+   "COMUNA": "Coihueco"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 16302,
    "anio": 2025,
@@ -1208,6 +1264,14 @@
    "COMUNA": "Coihueco"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 16302,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Coihueco"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16302,
    "anio": 2025,
@@ -1332,6 +1396,14 @@
    "CODCOM": 16302,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Coihueco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 16302,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Coihueco"
   },
@@ -1464,6 +1536,14 @@
    "COMUNA": "Coihueco"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16302,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Coihueco"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16302,
    "anio": 2025,
@@ -1588,6 +1668,14 @@
    "CODCOM": 16302,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Coihueco"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16302,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Coihueco"
   },
@@ -1720,6 +1808,14 @@
    "COMUNA": "Coihueco"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16302,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Coihueco"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 16302,
    "anio": 2025,
@@ -1848,6 +1944,14 @@
    "COMUNA": "Coihueco"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 16302,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Coihueco"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 16302,
    "anio": 2025,
@@ -1976,6 +2080,14 @@
    "COMUNA": "Coihueco"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 16302,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Coihueco"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16302,
    "anio": 2025,
@@ -2100,6 +2212,14 @@
    "CODCOM": 16302,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Coihueco"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16302,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Coihueco"
   },
@@ -2228,6 +2348,14 @@
    "CODCOM": 16302,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Coihueco"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16302,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Coihueco"
   },
@@ -2360,6 +2488,14 @@
    "COMUNA": "Coihueco"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16302,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Coihueco"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16302,
    "anio": 2025,
@@ -2485,6 +2621,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 3.0,
+   "COMUNA": "Coihueco"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16302,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Coihueco"
   },
   {
@@ -2616,6 +2760,14 @@
    "COMUNA": "Coihueco"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 16302,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Coihueco"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 16302,
    "anio": 2025,
@@ -2740,6 +2892,14 @@
    "CODCOM": 16302,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Coihueco"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 16302,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Coihueco"
   },
@@ -2870,6 +3030,14 @@
    "mes": 4,
    "casos": 1.0,
    "COMUNA": "Coihueco"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 16302,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Coihueco"
   }
  ],
  "info": [
@@ -2888,7 +3056,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 301.0,
    "2025": 266.0,
-   "2026": 75.0,
+   "2026": 76.0,
    "COMUNA": "Coihueco"
   },
   {
@@ -2897,7 +3065,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 323.0,
    "2025": 183.0,
-   "2026": 92.0,
+   "2026": 94.0,
    "COMUNA": "Coihueco"
   },
   {
@@ -2906,7 +3074,7 @@
    "delito": "DAÑOS",
    "2024": 225.0,
    "2025": 182.0,
-   "2026": 48.0,
+   "2026": 49.0,
    "COMUNA": "Coihueco"
   },
   {
@@ -2933,7 +3101,7 @@
    "delito": "HURTOS",
    "2024": 100.0,
    "2025": 72.0,
-   "2026": 33.0,
+   "2026": 36.0,
    "COMUNA": "Coihueco"
   },
   {
@@ -2960,7 +3128,7 @@
    "delito": "LESIONES LEVES",
    "2024": 91.0,
    "2025": 63.0,
-   "2026": 40.0,
+   "2026": 41.0,
    "COMUNA": "Coihueco"
   },
   {
@@ -2978,7 +3146,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 84.0,
    "2025": 41.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "Coihueco"
   },
   {
@@ -3041,7 +3209,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 133.0,
    "2025": 134.0,
-   "2026": 47.0,
+   "2026": 48.0,
    "COMUNA": "Coihueco"
   },
   {
@@ -3059,12 +3227,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 14.0,
    "2025": 22.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Coihueco"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Ñuble"
  }
 }

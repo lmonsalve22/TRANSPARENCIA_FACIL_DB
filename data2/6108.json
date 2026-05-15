@@ -12,17 +12,17 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6108,
-   "2025": 116.0,
-   "2026": 107.0,
-   "variacion": -8.0,
+   "2025": 117.0,
+   "2026": 113.0,
+   "variacion": -3.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Machalí"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6108,
-   "2025": 144.0,
-   "2026": 95.0,
+   "2025": 152.0,
+   "2026": 100.0,
    "variacion": -34.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Machalí"
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6108,
-   "2025": 108.0,
-   "2026": 72.0,
-   "variacion": -33.0,
+   "2025": 115.0,
+   "2026": 78.0,
+   "variacion": -32.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Machalí"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6108,
-   "2025": 139.0,
-   "2026": 125.0,
-   "variacion": -10.0,
+   "2025": 144.0,
+   "2026": 128.0,
+   "variacion": -11.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Machalí"
   },
@@ -49,44 +49,44 @@
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6108,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Machalí"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 6108,
-   "2025": 40.0,
-   "2026": 49.0,
-   "variacion": 22.0,
+   "2025": 41.0,
+   "2026": 55.0,
+   "variacion": 34.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Machalí"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6108,
-   "2025": 31.0,
-   "2026": 32.0,
-   "variacion": 3.0,
-   "situación": "Aumento de Casos",
+   "2025": 34.0,
+   "2026": 34.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Machalí"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6108,
-   "2025": 11.0,
+   "2025": 12.0,
    "2026": 2.0,
-   "variacion": -82.0,
+   "variacion": -83.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Machalí"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6108,
-   "2025": 70.0,
-   "2026": 43.0,
-   "variacion": -39.0,
+   "2025": 73.0,
+   "2026": 52.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Machalí"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6108,
    "2025": 14.0,
-   "2026": 18.0,
-   "variacion": 29.0,
+   "2026": 20.0,
+   "variacion": 43.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Machalí"
   },
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 6108,
-   "2025": 19.0,
-   "2026": 23.0,
-   "variacion": 21.0,
+   "2025": 21.0,
+   "2026": 24.0,
+   "variacion": 14.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Machalí"
   },
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6108,
-   "2025": 28.0,
-   "2026": 24.0,
-   "variacion": -14.0,
+   "2025": 29.0,
+   "2026": 26.0,
+   "variacion": -10.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Machalí"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6108,
-   "2025": 77.0,
-   "2026": 62.0,
-   "variacion": -19.0,
+   "2025": 84.0,
+   "2026": 63.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Machalí"
   },
@@ -175,8 +175,8 @@
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6108,
    "2025": 6.0,
-   "2026": 3.0,
-   "variacion": -50.0,
+   "2026": 5.0,
+   "variacion": -17.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Machalí"
   },
@@ -320,6 +320,14 @@
    "COMUNA": "Machalí"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 6108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Machalí"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6108,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 20.0,
+   "COMUNA": "Machalí"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 6108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 6.0,
    "COMUNA": "Machalí"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Machalí"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 6108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 5.0,
+   "COMUNA": "Machalí"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 6108,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 10.0,
+   "COMUNA": "Machalí"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 6108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 6.0,
    "COMUNA": "Machalí"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "Machalí"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
+   "COMUNA": "Machalí"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6108,
    "anio": 2025,
@@ -949,6 +989,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 0.0,
+   "COMUNA": "Machalí"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 6108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Machalí"
   },
   {
@@ -1080,6 +1128,14 @@
    "COMUNA": "Machalí"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 6.0,
+   "COMUNA": "Machalí"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 6108,
    "anio": 2025,
@@ -1208,6 +1264,14 @@
    "COMUNA": "Machalí"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 6108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Machalí"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6108,
    "anio": 2025,
@@ -1332,6 +1396,14 @@
    "CODCOM": 6108,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Machalí"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 6108,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Machalí"
   },
@@ -1464,6 +1536,14 @@
    "COMUNA": "Machalí"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 6108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 9.0,
+   "COMUNA": "Machalí"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6108,
    "anio": 2025,
@@ -1588,6 +1668,14 @@
    "CODCOM": 6108,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Machalí"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 6108,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Machalí"
   },
@@ -1720,6 +1808,14 @@
    "COMUNA": "Machalí"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 6108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Machalí"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6108,
    "anio": 2025,
@@ -1848,6 +1944,14 @@
    "COMUNA": "Machalí"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 6108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Machalí"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6108,
    "anio": 2025,
@@ -1972,6 +2076,14 @@
    "CODCOM": 6108,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Machalí"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 6108,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Machalí"
   },
@@ -2104,6 +2216,14 @@
    "COMUNA": "Machalí"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Machalí"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6108,
    "anio": 2025,
@@ -2229,6 +2349,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Machalí"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 6108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Machalí"
   },
   {
@@ -2357,6 +2485,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Machalí"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Machalí"
   },
   {
@@ -2488,6 +2624,14 @@
    "COMUNA": "Machalí"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 6108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Machalí"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6108,
    "anio": 2025,
@@ -2616,6 +2760,14 @@
    "COMUNA": "Machalí"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 6108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Machalí"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6108,
    "anio": 2025,
@@ -2744,6 +2896,14 @@
    "COMUNA": "Machalí"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Machalí"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6108,
    "anio": 2025,
@@ -2869,6 +3029,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Machalí"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 6108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Machalí"
   }
  ],
@@ -2888,7 +3056,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 426.0,
    "2025": 329.0,
-   "2026": 107.0,
+   "2026": 113.0,
    "COMUNA": "Machalí"
   },
   {
@@ -2897,7 +3065,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 354.0,
    "2025": 320.0,
-   "2026": 95.0,
+   "2026": 100.0,
    "COMUNA": "Machalí"
   },
   {
@@ -2906,7 +3074,7 @@
    "delito": "DAÑOS",
    "2024": 340.0,
    "2025": 290.0,
-   "2026": 72.0,
+   "2026": 78.0,
    "COMUNA": "Machalí"
   },
   {
@@ -2915,7 +3083,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 392.0,
    "2025": 362.0,
-   "2026": 125.0,
+   "2026": 128.0,
    "COMUNA": "Machalí"
   },
   {
@@ -2924,7 +3092,7 @@
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "2024": 2.0,
    "2025": 0.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Machalí"
   },
   {
@@ -2933,7 +3101,7 @@
    "delito": "HURTOS",
    "2024": 199.0,
    "2025": 156.0,
-   "2026": 49.0,
+   "2026": 55.0,
    "COMUNA": "Machalí"
   },
   {
@@ -2942,7 +3110,7 @@
    "delito": "INCIVILIDADES",
    "2024": 143.0,
    "2025": 114.0,
-   "2026": 32.0,
+   "2026": 34.0,
    "COMUNA": "Machalí"
   },
   {
@@ -2960,7 +3128,7 @@
    "delito": "LESIONES LEVES",
    "2024": 157.0,
    "2025": 181.0,
-   "2026": 43.0,
+   "2026": 52.0,
    "COMUNA": "Machalí"
   },
   {
@@ -2978,7 +3146,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 50.0,
    "2025": 47.0,
-   "2026": 18.0,
+   "2026": 20.0,
    "COMUNA": "Machalí"
   },
   {
@@ -3005,7 +3173,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 25.0,
    "2025": 60.0,
-   "2026": 23.0,
+   "2026": 24.0,
    "COMUNA": "Machalí"
   },
   {
@@ -3032,7 +3200,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 111.0,
    "2025": 83.0,
-   "2026": 24.0,
+   "2026": 26.0,
    "COMUNA": "Machalí"
   },
   {
@@ -3041,7 +3209,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 352.0,
    "2025": 265.0,
-   "2026": 62.0,
+   "2026": 63.0,
    "COMUNA": "Machalí"
   },
   {
@@ -3050,7 +3218,7 @@
    "delito": "ROBOS POR SORPRESA",
    "2024": 13.0,
    "2025": 15.0,
-   "2026": 3.0,
+   "2026": 5.0,
    "COMUNA": "Machalí"
   },
   {
@@ -3064,7 +3232,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "O'Higgins"
  }
 }

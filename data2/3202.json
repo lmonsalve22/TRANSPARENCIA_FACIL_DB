@@ -12,19 +12,19 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 3202,
-   "2025": 40.0,
-   "2026": 38.0,
-   "variacion": -5.0,
+   "2025": 44.0,
+   "2026": 39.0,
+   "variacion": -11.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Diego de Almagro"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 3202,
-   "2025": 92.0,
-   "2026": 84.0,
-   "variacion": -9.0,
-   "situación": "Disminución de Casos",
+   "2025": 93.0,
+   "2026": 102.0,
+   "variacion": 10.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Diego de Almagro"
   },
   {
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 3202,
-   "2025": 28.0,
-   "2026": 27.0,
-   "variacion": -4.0,
+   "2025": 31.0,
+   "2026": 30.0,
+   "variacion": -3.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Diego de Almagro"
   },
@@ -57,17 +57,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 3202,
-   "2025": 20.0,
+   "2025": 23.0,
    "2026": 16.0,
-   "variacion": -20.0,
+   "variacion": -30.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Diego de Almagro"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 3202,
-   "2025": 30.0,
-   "2026": 29.0,
+   "2025": 31.0,
+   "2026": 30.0,
    "variacion": -3.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Diego de Almagro"
@@ -84,18 +84,18 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 3202,
-   "2025": 26.0,
-   "2026": 14.0,
-   "variacion": -46.0,
+   "2025": 28.0,
+   "2026": 16.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Diego de Almagro"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 3202,
-   "2025": 4.0,
-   "2026": 5.0,
-   "variacion": 25.0,
+   "2025": 5.0,
+   "2026": 6.0,
+   "variacion": 20.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Diego de Almagro"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 3202,
    "2025": 7.0,
-   "2026": 8.0,
-   "variacion": 14.0,
+   "2026": 10.0,
+   "variacion": 43.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Diego de Almagro"
   },
@@ -148,9 +148,9 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 3202,
    "2025": 8.0,
-   "2026": 6.0,
-   "variacion": -25.0,
-   "situación": "Disminución de Casos",
+   "2026": 8.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Diego de Almagro"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 3202,
-   "2025": 34.0,
+   "2025": 38.0,
    "2026": 17.0,
-   "variacion": -50.0,
+   "variacion": -55.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Diego de Almagro"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 3202,
-   "2025": 4.0,
-   "2026": 6.0,
-   "variacion": 50.0,
+   "2025": 5.0,
+   "2026": 7.0,
+   "variacion": 40.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Diego de Almagro"
   }
@@ -320,6 +320,14 @@
    "COMUNA": "Diego de Almagro"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 3202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Diego de Almagro"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 3202,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 13.0,
+   "COMUNA": "Diego de Almagro"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 3202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Diego de Almagro"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Diego de Almagro"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 3202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 18.0,
+   "COMUNA": "Diego de Almagro"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 3202,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 7.0,
+   "COMUNA": "Diego de Almagro"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 3202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Diego de Almagro"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "Diego de Almagro"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 3202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
+   "COMUNA": "Diego de Almagro"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 3202,
    "anio": 2025,
@@ -1064,6 +1104,14 @@
    "COMUNA": "Diego de Almagro"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 3202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Diego de Almagro"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 3202,
    "anio": 2025,
@@ -1192,6 +1240,14 @@
    "COMUNA": "Diego de Almagro"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 3202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Diego de Almagro"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 3202,
    "anio": 2025,
@@ -1317,6 +1373,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Diego de Almagro"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 3202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Diego de Almagro"
   },
   {
@@ -1448,6 +1512,14 @@
    "COMUNA": "Diego de Almagro"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 3202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Diego de Almagro"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 3202,
    "anio": 2025,
@@ -1576,6 +1648,14 @@
    "COMUNA": "Diego de Almagro"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 3202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Diego de Almagro"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 3202,
    "anio": 2025,
@@ -1701,6 +1781,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Diego de Almagro"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 3202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
    "COMUNA": "Diego de Almagro"
   },
   {
@@ -1828,6 +1916,14 @@
    "CODCOM": 3202,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Diego de Almagro"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 3202,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Diego de Almagro"
   },
@@ -1960,6 +2056,14 @@
    "COMUNA": "Diego de Almagro"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 3202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Diego de Almagro"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 3202,
    "anio": 2025,
@@ -2084,6 +2188,14 @@
    "CODCOM": 3202,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Diego de Almagro"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 3202,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Diego de Almagro"
   },
@@ -2216,6 +2328,14 @@
    "COMUNA": "Diego de Almagro"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 3202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Diego de Almagro"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 3202,
    "anio": 2025,
@@ -2344,6 +2464,14 @@
    "COMUNA": "Diego de Almagro"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 3202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Diego de Almagro"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 3202,
    "anio": 2025,
@@ -2469,6 +2597,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Diego de Almagro"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 3202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Diego de Almagro"
   },
   {
@@ -2600,6 +2736,14 @@
    "COMUNA": "Diego de Almagro"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 3202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Diego de Almagro"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 3202,
    "anio": 2025,
@@ -2728,6 +2872,14 @@
    "COMUNA": "Diego de Almagro"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 3202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Diego de Almagro"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 3202,
    "anio": 2025,
@@ -2853,6 +3005,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 0.0,
+   "COMUNA": "Diego de Almagro"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 3202,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Diego de Almagro"
   }
  ],
@@ -2872,7 +3032,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 140.0,
    "2025": 127.0,
-   "2026": 38.0,
+   "2026": 39.0,
    "COMUNA": "Diego de Almagro"
   },
   {
@@ -2881,7 +3041,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 208.0,
    "2025": 226.0,
-   "2026": 84.0,
+   "2026": 102.0,
    "COMUNA": "Diego de Almagro"
   },
   {
@@ -2899,7 +3059,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 82.0,
    "2025": 94.0,
-   "2026": 27.0,
+   "2026": 30.0,
    "COMUNA": "Diego de Almagro"
   },
   {
@@ -2926,7 +3086,7 @@
    "delito": "INCIVILIDADES",
    "2024": 117.0,
    "2025": 93.0,
-   "2026": 29.0,
+   "2026": 30.0,
    "COMUNA": "Diego de Almagro"
   },
   {
@@ -2944,7 +3104,7 @@
    "delito": "LESIONES LEVES",
    "2024": 50.0,
    "2025": 58.0,
-   "2026": 14.0,
+   "2026": 16.0,
    "COMUNA": "Diego de Almagro"
   },
   {
@@ -2953,7 +3113,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 7.0,
    "2025": 12.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Diego de Almagro"
   },
   {
@@ -2962,7 +3122,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 11.0,
    "2025": 23.0,
-   "2026": 8.0,
+   "2026": 10.0,
    "COMUNA": "Diego de Almagro"
   },
   {
@@ -3007,7 +3167,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 13.0,
    "2025": 15.0,
-   "2026": 6.0,
+   "2026": 8.0,
    "COMUNA": "Diego de Almagro"
   },
   {
@@ -3043,12 +3203,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 10.0,
    "2025": 13.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Diego de Almagro"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Atacama"
  }
 }

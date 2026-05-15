@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 3102,
-   "2025": 84.0,
-   "2026": 85.0,
-   "variacion": 1.0,
-   "situación": "Aumento de Casos",
+   "2025": 91.0,
+   "2026": 87.0,
+   "variacion": -4.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Caldera"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 3102,
-   "2025": 180.0,
+   "2025": 187.0,
    "2026": 53.0,
-   "variacion": -71.0,
+   "variacion": -72.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Caldera"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 3102,
    "2025": 78.0,
-   "2026": 74.0,
-   "variacion": -5.0,
+   "2026": 76.0,
+   "variacion": -3.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Caldera"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 3102,
-   "2025": 91.0,
-   "2026": 75.0,
-   "variacion": -18.0,
+   "2025": 97.0,
+   "2026": 85.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Caldera"
   },
@@ -58,17 +58,17 @@
    "delito": "HURTOS",
    "CODCOM": 3102,
    "2025": 50.0,
-   "2026": 58.0,
-   "variacion": 16.0,
+   "2026": 60.0,
+   "variacion": 20.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Caldera"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 3102,
-   "2025": 17.0,
-   "2026": 22.0,
-   "variacion": 29.0,
+   "2025": 18.0,
+   "2026": 23.0,
+   "variacion": 28.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Caldera"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 3102,
-   "2025": 36.0,
+   "2025": 40.0,
    "2026": 43.0,
-   "variacion": 19.0,
+   "variacion": 8.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Caldera"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 3102,
    "2025": 13.0,
-   "2026": 2.0,
-   "variacion": -85.0,
+   "2026": 3.0,
+   "variacion": -77.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Caldera"
   },
@@ -156,17 +156,17 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 3102,
-   "2025": 52.0,
+   "2025": 53.0,
    "2026": 37.0,
-   "variacion": -29.0,
+   "variacion": -30.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Caldera"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 3102,
-   "2025": 64.0,
-   "2026": 40.0,
+   "2025": 66.0,
+   "2026": 41.0,
    "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Caldera"
@@ -320,6 +320,14 @@
    "COMUNA": "Caldera"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 3102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Caldera"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 3102,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 29.0,
+   "COMUNA": "Caldera"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 3102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
    "COMUNA": "Caldera"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Caldera"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 3102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Caldera"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 3102,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 8.0,
+   "COMUNA": "Caldera"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 3102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
    "COMUNA": "Caldera"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "Caldera"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 3102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 10.0,
+   "COMUNA": "Caldera"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 3102,
    "anio": 2025,
@@ -956,6 +996,14 @@
    "CODCOM": 3102,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Caldera"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 3102,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Caldera"
   },
@@ -1088,6 +1136,14 @@
    "COMUNA": "Caldera"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 3102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Caldera"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 3102,
    "anio": 2025,
@@ -1216,6 +1272,14 @@
    "COMUNA": "Caldera"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 3102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Caldera"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 3102,
    "anio": 2025,
@@ -1341,6 +1405,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Caldera"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 3102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Caldera"
   },
   {
@@ -1472,6 +1544,14 @@
    "COMUNA": "Caldera"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 3102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Caldera"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 3102,
    "anio": 2025,
@@ -1600,6 +1680,14 @@
    "COMUNA": "Caldera"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 3102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Caldera"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 3102,
    "anio": 2025,
@@ -1725,6 +1813,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 2.0,
+   "COMUNA": "Caldera"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 3102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Caldera"
   },
   {
@@ -1856,6 +1952,14 @@
    "COMUNA": "Caldera"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 3102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Caldera"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 3102,
    "anio": 2025,
@@ -1980,6 +2084,14 @@
    "CODCOM": 3102,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Caldera"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 3102,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Caldera"
   },
@@ -2112,6 +2224,14 @@
    "COMUNA": "Caldera"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 3102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Caldera"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 3102,
    "anio": 2025,
@@ -2237,6 +2357,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Caldera"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 3102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Caldera"
   },
   {
@@ -2365,6 +2493,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 2.0,
+   "COMUNA": "Caldera"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 3102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Caldera"
   },
   {
@@ -2492,6 +2628,14 @@
    "CODCOM": 3102,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Caldera"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 3102,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Caldera"
   },
@@ -2624,6 +2768,14 @@
    "COMUNA": "Caldera"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 3102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Caldera"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 3102,
    "anio": 2025,
@@ -2749,6 +2901,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Caldera"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 3102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Caldera"
   },
   {
@@ -2878,6 +3038,14 @@
    "mes": 4,
    "casos": 3.0,
    "COMUNA": "Caldera"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 3102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Caldera"
   }
  ],
  "info": [
@@ -2896,7 +3064,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 235.0,
    "2025": 257.0,
-   "2026": 85.0,
+   "2026": 87.0,
    "COMUNA": "Caldera"
   },
   {
@@ -2914,7 +3082,7 @@
    "delito": "DAÑOS",
    "2024": 204.0,
    "2025": 183.0,
-   "2026": 74.0,
+   "2026": 76.0,
    "COMUNA": "Caldera"
   },
   {
@@ -2923,7 +3091,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 188.0,
    "2025": 212.0,
-   "2026": 75.0,
+   "2026": 85.0,
    "COMUNA": "Caldera"
   },
   {
@@ -2941,7 +3109,7 @@
    "delito": "HURTOS",
    "2024": 115.0,
    "2025": 110.0,
-   "2026": 58.0,
+   "2026": 60.0,
    "COMUNA": "Caldera"
   },
   {
@@ -2950,7 +3118,7 @@
    "delito": "INCIVILIDADES",
    "2024": 62.0,
    "2025": 57.0,
-   "2026": 22.0,
+   "2026": 23.0,
    "COMUNA": "Caldera"
   },
   {
@@ -2995,7 +3163,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 18.0,
    "2025": 28.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Caldera"
   },
   {
@@ -3049,7 +3217,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 194.0,
    "2025": 159.0,
-   "2026": 40.0,
+   "2026": 41.0,
    "COMUNA": "Caldera"
   },
   {
@@ -3072,7 +3240,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Atacama"
  }
 }

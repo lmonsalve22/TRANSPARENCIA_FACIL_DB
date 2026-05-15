@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9211,
-   "2025": 102.0,
-   "2026": 121.0,
-   "variacion": 19.0,
+   "2025": 109.0,
+   "2026": 126.0,
+   "variacion": 16.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Victoria"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9211,
-   "2025": 128.0,
-   "2026": 159.0,
-   "variacion": 24.0,
+   "2025": 140.0,
+   "2026": 167.0,
+   "variacion": 19.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Victoria"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9211,
-   "2025": 119.0,
-   "2026": 97.0,
-   "variacion": -18.0,
+   "2025": 131.0,
+   "2026": 103.0,
+   "variacion": -21.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Victoria"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9211,
-   "2025": 77.0,
-   "2026": 71.0,
-   "variacion": -8.0,
+   "2025": 84.0,
+   "2026": 73.0,
+   "variacion": -13.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Victoria"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9211,
-   "2025": 67.0,
+   "2025": 69.0,
    "2026": 48.0,
-   "variacion": -28.0,
+   "variacion": -30.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Victoria"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9211,
-   "2025": 24.0,
-   "2026": 20.0,
-   "variacion": -17.0,
+   "2025": 25.0,
+   "2026": 24.0,
+   "variacion": -4.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Victoria"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9211,
-   "2025": 68.0,
-   "2026": 44.0,
-   "variacion": -35.0,
+   "2025": 72.0,
+   "2026": 48.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Victoria"
   },
@@ -94,44 +94,44 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9211,
    "2025": 6.0,
-   "2026": 8.0,
-   "variacion": 33.0,
+   "2026": 10.0,
+   "variacion": 67.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Victoria"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9211,
-   "2025": 34.0,
-   "2026": 32.0,
-   "variacion": -6.0,
-   "situación": "Disminución de Casos",
+   "2025": 38.0,
+   "2026": 39.0,
+   "variacion": 3.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Victoria"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9211,
-   "2025": 17.0,
+   "2025": 18.0,
    "2026": 6.0,
-   "variacion": -65.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Victoria"
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9211,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Victoria"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 9211,
-   "2025": 14.0,
+   "2025": 16.0,
    "2026": 6.0,
-   "variacion": -57.0,
+   "variacion": -62.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Victoria"
   },
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9211,
-   "2025": 18.0,
-   "2026": 19.0,
-   "variacion": 6.0,
+   "2025": 19.0,
+   "2026": 20.0,
+   "variacion": 5.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Victoria"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9211,
-   "2025": 66.0,
-   "2026": 31.0,
-   "variacion": -53.0,
+   "2025": 69.0,
+   "2026": 36.0,
+   "variacion": -48.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Victoria"
   },
@@ -320,6 +320,14 @@
    "COMUNA": "Victoria"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9211,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Victoria"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9211,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 38.0,
+   "COMUNA": "Victoria"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9211,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 5.0,
    "COMUNA": "Victoria"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Victoria"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9211,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 8.0,
+   "COMUNA": "Victoria"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 9211,
    "anio": 2025,
@@ -704,6 +728,14 @@
    "COMUNA": "Victoria"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 9211,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 6.0,
+   "COMUNA": "Victoria"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9211,
    "anio": 2025,
@@ -832,6 +864,14 @@
    "COMUNA": "Victoria"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9211,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Victoria"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9211,
    "anio": 2025,
@@ -956,6 +996,14 @@
    "CODCOM": 9211,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Victoria"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9211,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Victoria"
   },
@@ -1088,6 +1136,14 @@
    "COMUNA": "Victoria"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9211,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Victoria"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9211,
    "anio": 2025,
@@ -1216,6 +1272,14 @@
    "COMUNA": "Victoria"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9211,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 4.0,
+   "COMUNA": "Victoria"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9211,
    "anio": 2025,
@@ -1340,6 +1404,14 @@
    "CODCOM": 9211,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Victoria"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9211,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Victoria"
   },
@@ -1472,6 +1544,14 @@
    "COMUNA": "Victoria"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9211,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 4.0,
+   "COMUNA": "Victoria"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9211,
    "anio": 2025,
@@ -1597,6 +1677,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Victoria"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9211,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
    "COMUNA": "Victoria"
   },
   {
@@ -1728,6 +1816,14 @@
    "COMUNA": "Victoria"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9211,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 7.0,
+   "COMUNA": "Victoria"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9211,
    "anio": 2025,
@@ -1856,6 +1952,14 @@
    "COMUNA": "Victoria"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9211,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Victoria"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9211,
    "anio": 2025,
@@ -1984,6 +2088,14 @@
    "COMUNA": "Victoria"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9211,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Victoria"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 9211,
    "anio": 2025,
@@ -2108,6 +2220,14 @@
    "CODCOM": 9211,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Victoria"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9211,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Victoria"
   },
@@ -2240,6 +2360,14 @@
    "COMUNA": "Victoria"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9211,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Victoria"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9211,
    "anio": 2025,
@@ -2364,6 +2492,14 @@
    "CODCOM": 9211,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Victoria"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9211,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Victoria"
   },
@@ -2493,6 +2629,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 3.0,
+   "COMUNA": "Victoria"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9211,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Victoria"
   },
   {
@@ -2624,6 +2768,14 @@
    "COMUNA": "Victoria"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9211,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 5.0,
+   "COMUNA": "Victoria"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9211,
    "anio": 2025,
@@ -2748,6 +2900,14 @@
    "CODCOM": 9211,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Victoria"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9211,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Victoria"
   },
@@ -2878,6 +3038,14 @@
    "mes": 4,
    "casos": 0.0,
    "COMUNA": "Victoria"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9211,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Victoria"
   }
  ],
  "info": [
@@ -2896,7 +3064,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 363.0,
    "2025": 354.0,
-   "2026": 121.0,
+   "2026": 126.0,
    "COMUNA": "Victoria"
   },
   {
@@ -2905,7 +3073,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 326.0,
    "2025": 432.0,
-   "2026": 159.0,
+   "2026": 167.0,
    "COMUNA": "Victoria"
   },
   {
@@ -2914,7 +3082,7 @@
    "delito": "DAÑOS",
    "2024": 327.0,
    "2025": 339.0,
-   "2026": 97.0,
+   "2026": 103.0,
    "COMUNA": "Victoria"
   },
   {
@@ -2923,7 +3091,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 239.0,
    "2025": 205.0,
-   "2026": 71.0,
+   "2026": 73.0,
    "COMUNA": "Victoria"
   },
   {
@@ -2950,7 +3118,7 @@
    "delito": "INCIVILIDADES",
    "2024": 52.0,
    "2025": 63.0,
-   "2026": 20.0,
+   "2026": 24.0,
    "COMUNA": "Victoria"
   },
   {
@@ -2968,7 +3136,7 @@
    "delito": "LESIONES LEVES",
    "2024": 172.0,
    "2025": 166.0,
-   "2026": 44.0,
+   "2026": 48.0,
    "COMUNA": "Victoria"
   },
   {
@@ -2977,7 +3145,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 26.0,
    "2025": 17.0,
-   "2026": 8.0,
+   "2026": 10.0,
    "COMUNA": "Victoria"
   },
   {
@@ -2986,7 +3154,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 53.0,
    "2025": 123.0,
-   "2026": 32.0,
+   "2026": 39.0,
    "COMUNA": "Victoria"
   },
   {
@@ -3040,7 +3208,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 59.0,
    "2025": 36.0,
-   "2026": 19.0,
+   "2026": 20.0,
    "COMUNA": "Victoria"
   },
   {
@@ -3049,7 +3217,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 236.0,
    "2025": 166.0,
-   "2026": 31.0,
+   "2026": 36.0,
    "COMUNA": "Victoria"
   },
   {
@@ -3072,7 +3240,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "La Araucanía"
  }
 }

@@ -3,7 +3,7 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 4105,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4105,
-   "2025": 24.0,
+   "2025": 28.0,
    "2026": 17.0,
-   "variacion": -29.0,
+   "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Paiguano"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 4105,
-   "2025": 128.0,
-   "2026": 91.0,
-   "variacion": -29.0,
+   "2025": 134.0,
+   "2026": 94.0,
+   "variacion": -30.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Paiguano"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 4105,
-   "2025": 18.0,
+   "2025": 19.0,
    "2026": 20.0,
-   "variacion": 11.0,
+   "variacion": 5.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Paiguano"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 4105,
-   "2025": 19.0,
-   "2026": 24.0,
-   "variacion": 26.0,
+   "2025": 20.0,
+   "2026": 25.0,
+   "variacion": 25.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Paiguano"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 4105,
-   "2025": 21.0,
+   "2025": 23.0,
    "2026": 27.0,
-   "variacion": 29.0,
+   "variacion": 17.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Paiguano"
   },
@@ -76,8 +76,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 4105,
    "2025": 11.0,
-   "2026": 6.0,
-   "variacion": -45.0,
+   "2026": 8.0,
+   "variacion": -27.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Paiguano"
   },
@@ -157,8 +157,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 4105,
    "2025": 6.0,
-   "2026": 4.0,
-   "variacion": -33.0,
+   "2026": 5.0,
+   "variacion": -17.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Paiguano"
   },
@@ -174,9 +174,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 4105,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 2.0,
-   "variacion": 200.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Paiguano"
   }
@@ -311,6 +311,14 @@
    "COMUNA": "Paiguano"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 4105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Paiguano"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4105,
    "anio": 2025,
@@ -436,6 +444,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Paiguano"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 4105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Paiguano"
   },
   {
@@ -567,6 +583,14 @@
    "COMUNA": "Paiguano"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 4105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
+   "COMUNA": "Paiguano"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 4105,
    "anio": 2025,
@@ -692,6 +716,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Paiguano"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 4105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Paiguano"
   },
   {
@@ -823,6 +855,14 @@
    "COMUNA": "Paiguano"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 4105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Paiguano"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 4105,
    "anio": 2025,
@@ -947,6 +987,14 @@
    "CODCOM": 4105,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Paiguano"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4105,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Paiguano"
   },
@@ -1079,6 +1127,14 @@
    "COMUNA": "Paiguano"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 4105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Paiguano"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 4105,
    "anio": 2025,
@@ -1203,6 +1259,14 @@
    "CODCOM": 4105,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Paiguano"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 4105,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Paiguano"
   },
@@ -1335,6 +1399,14 @@
    "COMUNA": "Paiguano"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 4105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Paiguano"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 4105,
    "anio": 2025,
@@ -1463,6 +1535,14 @@
    "COMUNA": "Paiguano"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Paiguano"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 4105,
    "anio": 2025,
@@ -1588,6 +1668,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Paiguano"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Paiguano"
   },
   {
@@ -1719,6 +1807,14 @@
    "COMUNA": "Paiguano"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Paiguano"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 4105,
    "anio": 2025,
@@ -1839,6 +1935,14 @@
    "COMUNA": "Paiguano"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 4105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Paiguano"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 4105,
    "anio": 2025,
@@ -1967,6 +2071,14 @@
    "COMUNA": "Paiguano"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 4105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Paiguano"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 4105,
    "anio": 2025,
@@ -2087,6 +2199,14 @@
    "COMUNA": "Paiguano"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 4105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Paiguano"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 4105,
    "anio": 2025,
@@ -2215,6 +2335,14 @@
    "COMUNA": "Paiguano"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 4105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Paiguano"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 4105,
    "anio": 2025,
@@ -2339,6 +2467,14 @@
    "CODCOM": 4105,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Paiguano"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 4105,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Paiguano"
   },
@@ -2471,6 +2607,14 @@
    "COMUNA": "Paiguano"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 4105,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Paiguano"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 4105,
    "anio": 2025,
@@ -2587,6 +2731,14 @@
    "CODCOM": 4105,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Paiguano"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 4105,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Paiguano"
   },
@@ -2715,6 +2867,14 @@
    "CODCOM": 4105,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Paiguano"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 4105,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Paiguano"
   }
@@ -2744,7 +2904,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 198.0,
    "2025": 304.0,
-   "2026": 91.0,
+   "2026": 94.0,
    "COMUNA": "Paiguano"
   },
   {
@@ -2762,7 +2922,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 64.0,
    "2025": 45.0,
-   "2026": 24.0,
+   "2026": 25.0,
    "COMUNA": "Paiguano"
   },
   {
@@ -2807,7 +2967,7 @@
    "delito": "LESIONES LEVES",
    "2024": 28.0,
    "2025": 27.0,
-   "2026": 6.0,
+   "2026": 8.0,
    "COMUNA": "Paiguano"
   },
   {
@@ -2888,7 +3048,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 17.0,
    "2025": 14.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Paiguano"
   },
   {
@@ -2911,7 +3071,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Coquimbo"
  }
 }

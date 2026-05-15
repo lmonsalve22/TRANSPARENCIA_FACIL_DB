@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16201,
-   "2025": 24.0,
+   "2025": 25.0,
    "2026": 25.0,
-   "variacion": 4.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Quirihue"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16201,
-   "2025": 14.0,
-   "2026": 18.0,
-   "variacion": 29.0,
+   "2025": 15.0,
+   "2026": 22.0,
+   "variacion": 47.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Quirihue"
   },
@@ -31,16 +31,16 @@
    "delito": "DAÑOS",
    "CODCOM": 16201,
    "2025": 33.0,
-   "2026": 19.0,
-   "variacion": -42.0,
+   "2026": 20.0,
+   "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quirihue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16201,
-   "2025": 20.0,
-   "2026": 19.0,
+   "2025": 21.0,
+   "2026": 20.0,
    "variacion": -5.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quirihue"
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 16201,
-   "2025": 11.0,
-   "2026": 3.0,
-   "variacion": -73.0,
+   "2025": 12.0,
+   "2026": 4.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quirihue"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16201,
-   "2025": 13.0,
+   "2025": 16.0,
    "2026": 10.0,
-   "variacion": -23.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quirihue"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 16201,
-   "2025": 4.0,
-   "2026": 7.0,
-   "variacion": 75.0,
+   "2025": 5.0,
+   "2026": 8.0,
+   "variacion": 60.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Quirihue"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16201,
-   "2025": 12.0,
-   "2026": 8.0,
-   "variacion": -33.0,
+   "2025": 13.0,
+   "2026": 9.0,
+   "variacion": -31.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quirihue"
   },
@@ -320,6 +320,14 @@
    "COMUNA": "Quirihue"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16201,
    "anio": 2025,
@@ -448,6 +456,14 @@
    "COMUNA": "Quirihue"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16201,
    "anio": 2025,
@@ -572,6 +588,14 @@
    "CODCOM": 16201,
    "anio": 2026,
    "mes": 4,
+   "casos": 4.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 5,
    "casos": 4.0,
    "COMUNA": "Quirihue"
   },
@@ -704,6 +728,14 @@
    "COMUNA": "Quirihue"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Quirihue"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16201,
    "anio": 2025,
@@ -832,6 +864,14 @@
    "COMUNA": "Quirihue"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Quirihue"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 16201,
    "anio": 2025,
@@ -948,6 +988,14 @@
    "CODCOM": 16201,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Quirihue"
   },
@@ -1076,6 +1124,14 @@
    "CODCOM": 16201,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Quirihue"
   },
@@ -1208,6 +1264,14 @@
    "COMUNA": "Quirihue"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Quirihue"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16201,
    "anio": 2025,
@@ -1332,6 +1396,14 @@
    "CODCOM": 16201,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Quirihue"
   },
@@ -1464,6 +1536,14 @@
    "COMUNA": "Quirihue"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16201,
    "anio": 2025,
@@ -1588,6 +1668,14 @@
    "CODCOM": 16201,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Quirihue"
   },
@@ -1720,6 +1808,14 @@
    "COMUNA": "Quirihue"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Quirihue"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 16201,
    "anio": 2025,
@@ -1848,6 +1944,14 @@
    "COMUNA": "Quirihue"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 16201,
    "anio": 2025,
@@ -1993,390 +2097,6 @@
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 6,
-   "casos": 2.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 7,
-   "casos": 1.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 8,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 9,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 10,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 11,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 12,
-   "casos": 1.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "CODCOM": 16201,
-   "anio": 2026,
-   "mes": 1,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "CODCOM": 16201,
-   "anio": 2026,
-   "mes": 2,
-   "casos": 1.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "CODCOM": 16201,
-   "anio": 2026,
-   "mes": 3,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "CODCOM": 16201,
-   "anio": 2026,
-   "mes": 4,
-   "casos": 1.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 1,
-   "casos": 1.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 1.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 4,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 7,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 8,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 9,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 10,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 11,
-   "casos": 1.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 12,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 16201,
-   "anio": 2026,
-   "mes": 1,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 16201,
-   "anio": 2026,
-   "mes": 2,
-   "casos": 2.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 16201,
-   "anio": 2026,
-   "mes": 3,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 16201,
-   "anio": 2026,
-   "mes": 4,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 1,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 1.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 4,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 7,
-   "casos": 1.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 8,
-   "casos": 1.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 9,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 10,
-   "casos": 1.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 11,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 12,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 16201,
-   "anio": 2026,
-   "mes": 1,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 16201,
-   "anio": 2026,
-   "mes": 2,
-   "casos": 1.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 16201,
-   "anio": 2026,
-   "mes": 3,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 16201,
-   "anio": 2026,
-   "mes": 4,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 1,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 1.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 4,
-   "casos": 0.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 16201,
-   "anio": 2025,
-   "mes": 5,
-   "casos": 1.0,
-   "COMUNA": "Quirihue"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16201,
    "anio": 2025,
    "mes": 6,
@@ -2384,6 +2104,414 @@
    "COMUNA": "Quirihue"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 1.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 2,
+   "casos": 1.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 1.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 2,
+   "casos": 2.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 11,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 12,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 2,
+   "casos": 1.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2.0,
+   "COMUNA": "Quirihue"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16201,
    "anio": 2025,
@@ -2460,6 +2588,14 @@
    "CODCOM": 16201,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Quirihue"
   },
@@ -2592,6 +2728,14 @@
    "COMUNA": "Quirihue"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Quirihue"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 16201,
    "anio": 2025,
@@ -2716,6 +2860,14 @@
    "CODCOM": 16201,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Quirihue"
   },
@@ -2844,6 +2996,14 @@
    "CODCOM": 16201,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Quirihue"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 16201,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Quirihue"
   }
@@ -2873,7 +3033,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 111.0,
    "2025": 77.0,
-   "2026": 18.0,
+   "2026": 22.0,
    "COMUNA": "Quirihue"
   },
   {
@@ -2882,7 +3042,7 @@
    "delito": "DAÑOS",
    "2024": 95.0,
    "2025": 71.0,
-   "2026": 19.0,
+   "2026": 20.0,
    "COMUNA": "Quirihue"
   },
   {
@@ -2891,7 +3051,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 67.0,
    "2025": 56.0,
-   "2026": 19.0,
+   "2026": 20.0,
    "COMUNA": "Quirihue"
   },
   {
@@ -2918,7 +3078,7 @@
    "delito": "INCIVILIDADES",
    "2024": 30.0,
    "2025": 24.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Quirihue"
   },
   {
@@ -2954,7 +3114,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 28.0,
    "2025": 5.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Quirihue"
   },
   {
@@ -3017,7 +3177,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 41.0,
    "2025": 22.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Quirihue"
   },
   {
@@ -3040,7 +3200,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Ñuble"
  }
 }

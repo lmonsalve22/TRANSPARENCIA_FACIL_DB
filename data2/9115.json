@@ -4,25 +4,25 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 9115,
    "2025": 6.0,
-   "2026": 6.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 7.0,
+   "variacion": 17.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Pucón"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9115,
-   "2025": 132.0,
-   "2026": 103.0,
-   "variacion": -22.0,
+   "2025": 140.0,
+   "2026": 106.0,
+   "variacion": -24.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pucón"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9115,
-   "2025": 330.0,
-   "2026": 289.0,
+   "2025": 334.0,
+   "2026": 294.0,
    "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pucón"
@@ -30,19 +30,19 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 9115,
-   "2025": 131.0,
-   "2026": 82.0,
-   "variacion": -37.0,
+   "2025": 134.0,
+   "2026": 83.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pucón"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9115,
-   "2025": 109.0,
-   "2026": 109.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 118.0,
+   "2026": 113.0,
+   "variacion": -4.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Pucón"
   },
   {
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9115,
-   "2025": 165.0,
-   "2026": 155.0,
-   "variacion": -6.0,
+   "2025": 172.0,
+   "2026": 157.0,
+   "variacion": -9.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pucón"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9115,
-   "2025": 44.0,
-   "2026": 64.0,
-   "variacion": 45.0,
+   "2025": 46.0,
+   "2026": 65.0,
+   "variacion": 41.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pucón"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9115,
-   "2025": 59.0,
+   "2025": 63.0,
    "2026": 48.0,
-   "variacion": -19.0,
+   "variacion": -24.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pucón"
   },
@@ -102,18 +102,18 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9115,
-   "2025": 28.0,
-   "2026": 40.0,
-   "variacion": 43.0,
+   "2025": 31.0,
+   "2026": 43.0,
+   "variacion": 39.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pucón"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9115,
-   "2025": 24.0,
+   "2025": 25.0,
    "2026": 23.0,
-   "variacion": -4.0,
+   "variacion": -8.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pucón"
   },
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9115,
-   "2025": 6.0,
-   "2026": 8.0,
-   "variacion": 33.0,
+   "2025": 7.0,
+   "2026": 9.0,
+   "variacion": 29.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pucón"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9115,
-   "2025": 58.0,
-   "2026": 36.0,
-   "variacion": -38.0,
+   "2025": 59.0,
+   "2026": 40.0,
+   "variacion": -32.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pucón"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9115,
-   "2025": 23.0,
+   "2025": 25.0,
    "2026": 11.0,
-   "variacion": -52.0,
+   "variacion": -56.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pucón"
   }
@@ -320,6 +320,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9115,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9115,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 25.0,
+   "COMUNA": "Pucón"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9115,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
    "COMUNA": "Pucón"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9115,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 5.0,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 9115,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 7.0,
+   "COMUNA": "Pucón"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 9115,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Pucón"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9115,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 4.0,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9115,
    "anio": 2025,
@@ -948,6 +988,14 @@
    "CODCOM": 9115,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Pucón"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9115,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Pucón"
   },
@@ -1080,6 +1128,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9115,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9115,
    "anio": 2025,
@@ -1208,6 +1264,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9115,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9115,
    "anio": 2025,
@@ -1333,6 +1397,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Pucón"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9115,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Pucón"
   },
   {
@@ -1464,6 +1536,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9115,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9115,
    "anio": 2025,
@@ -1589,6 +1669,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Pucón"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9115,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Pucón"
   },
   {
@@ -1720,6 +1808,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9115,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9115,
    "anio": 2025,
@@ -1848,6 +1944,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9115,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9115,
    "anio": 2025,
@@ -1976,6 +2080,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9115,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 9115,
    "anio": 2025,
@@ -2100,6 +2212,14 @@
    "CODCOM": 9115,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Pucón"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9115,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Pucón"
   },
@@ -2232,6 +2352,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9115,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9115,
    "anio": 2025,
@@ -2356,6 +2484,14 @@
    "CODCOM": 9115,
    "anio": 2026,
    "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "Pucón"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9115,
+   "anio": 2026,
+   "mes": 5,
    "casos": 1.0,
    "COMUNA": "Pucón"
   },
@@ -2484,6 +2620,14 @@
    "CODCOM": 9115,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Pucón"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9115,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Pucón"
   },
@@ -2616,6 +2760,14 @@
    "COMUNA": "Pucón"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9115,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 4.0,
+   "COMUNA": "Pucón"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9115,
    "anio": 2025,
@@ -2740,6 +2892,14 @@
    "CODCOM": 9115,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Pucón"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9115,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Pucón"
   },
@@ -2870,6 +3030,14 @@
    "mes": 4,
    "casos": 0.0,
    "COMUNA": "Pucón"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9115,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Pucón"
   }
  ],
  "info": [
@@ -2879,7 +3047,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 8.0,
    "2025": 12.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Pucón"
   },
   {
@@ -2888,7 +3056,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 324.0,
    "2025": 302.0,
-   "2026": 103.0,
+   "2026": 106.0,
    "COMUNA": "Pucón"
   },
   {
@@ -2897,7 +3065,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 690.0,
    "2025": 702.0,
-   "2026": 289.0,
+   "2026": 294.0,
    "COMUNA": "Pucón"
   },
   {
@@ -2906,7 +3074,7 @@
    "delito": "DAÑOS",
    "2024": 288.0,
    "2025": 281.0,
-   "2026": 82.0,
+   "2026": 83.0,
    "COMUNA": "Pucón"
   },
   {
@@ -2915,7 +3083,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 357.0,
    "2025": 264.0,
-   "2026": 109.0,
+   "2026": 113.0,
    "COMUNA": "Pucón"
   },
   {
@@ -2933,7 +3101,7 @@
    "delito": "HURTOS",
    "2024": 430.0,
    "2025": 356.0,
-   "2026": 155.0,
+   "2026": 157.0,
    "COMUNA": "Pucón"
   },
   {
@@ -2942,7 +3110,7 @@
    "delito": "INCIVILIDADES",
    "2024": 75.0,
    "2025": 88.0,
-   "2026": 64.0,
+   "2026": 65.0,
    "COMUNA": "Pucón"
   },
   {
@@ -2978,7 +3146,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 49.0,
    "2025": 133.0,
-   "2026": 40.0,
+   "2026": 43.0,
    "COMUNA": "Pucón"
   },
   {
@@ -3023,7 +3191,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 31.0,
    "2025": 19.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Pucón"
   },
   {
@@ -3041,7 +3209,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 211.0,
    "2025": 153.0,
-   "2026": 36.0,
+   "2026": 40.0,
    "COMUNA": "Pucón"
   },
   {
@@ -3064,7 +3232,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "La Araucanía"
  }
 }

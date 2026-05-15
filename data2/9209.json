@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9209,
-   "2025": 43.0,
-   "2026": 41.0,
-   "variacion": -5.0,
+   "2025": 45.0,
+   "2026": 42.0,
+   "variacion": -7.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Renaico"
   },
@@ -22,16 +22,16 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9209,
    "2025": 19.0,
-   "2026": 48.0,
-   "variacion": 153.0,
+   "2026": 50.0,
+   "variacion": 163.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Renaico"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9209,
-   "2025": 28.0,
-   "2026": 26.0,
+   "2025": 29.0,
+   "2026": 27.0,
    "variacion": -7.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Renaico"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9209,
-   "2025": 37.0,
+   "2025": 39.0,
    "2026": 61.0,
-   "variacion": 65.0,
+   "variacion": 56.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Renaico"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9209,
-   "2025": 29.0,
+   "2025": 30.0,
    "2026": 18.0,
-   "variacion": -38.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Renaico"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9209,
-   "2025": 22.0,
+   "2025": 23.0,
    "2026": 14.0,
-   "variacion": -36.0,
+   "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Renaico"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9209,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 7.0,
-   "variacion": 75.0,
+   "variacion": 40.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Renaico"
   },
@@ -166,24 +166,24 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9209,
    "2025": 39.0,
-   "2026": 23.0,
-   "variacion": -41.0,
+   "2026": 24.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Renaico"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9209,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 2.0,
-   "variacion": 200.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Renaico"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9209,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -320,6 +320,14 @@
    "COMUNA": "Renaico"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9209,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Renaico"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9209,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 10.0,
+   "COMUNA": "Renaico"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9209,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Renaico"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Renaico"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9209,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Renaico"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 9209,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 6.0,
+   "COMUNA": "Renaico"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 9209,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Renaico"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "Renaico"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9209,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Renaico"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9209,
    "anio": 2025,
@@ -956,6 +996,14 @@
    "CODCOM": 9209,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Renaico"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9209,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Renaico"
   },
@@ -1088,6 +1136,14 @@
    "COMUNA": "Renaico"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9209,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Renaico"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9209,
    "anio": 2025,
@@ -1216,6 +1272,14 @@
    "COMUNA": "Renaico"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9209,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Renaico"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9209,
    "anio": 2025,
@@ -1340,6 +1404,14 @@
    "CODCOM": 9209,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Renaico"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9209,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Renaico"
   },
@@ -1472,6 +1544,14 @@
    "COMUNA": "Renaico"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9209,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Renaico"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9209,
    "anio": 2025,
@@ -1596,6 +1676,14 @@
    "CODCOM": 9209,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Renaico"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9209,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Renaico"
   },
@@ -1728,6 +1816,14 @@
    "COMUNA": "Renaico"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9209,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Renaico"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9209,
    "anio": 2025,
@@ -1856,6 +1952,14 @@
    "COMUNA": "Renaico"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9209,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Renaico"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9209,
    "anio": 2025,
@@ -1980,6 +2084,14 @@
    "CODCOM": 9209,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Renaico"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9209,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Renaico"
   },
@@ -2112,6 +2224,14 @@
    "COMUNA": "Renaico"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9209,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Renaico"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9209,
    "anio": 2025,
@@ -2240,6 +2360,14 @@
    "COMUNA": "Renaico"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9209,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Renaico"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9209,
    "anio": 2025,
@@ -2365,6 +2493,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Renaico"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9209,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Renaico"
   },
   {
@@ -2493,6 +2629,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Renaico"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9209,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Renaico"
   },
   {
@@ -2624,6 +2768,14 @@
    "COMUNA": "Renaico"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9209,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Renaico"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9209,
    "anio": 2025,
@@ -2752,6 +2904,14 @@
    "COMUNA": "Renaico"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9209,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Renaico"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9209,
    "anio": 2025,
@@ -2878,6 +3038,14 @@
    "mes": 4,
    "casos": 0.0,
    "COMUNA": "Renaico"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9209,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Renaico"
   }
  ],
  "info": [
@@ -2896,7 +3064,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 126.0,
    "2025": 108.0,
-   "2026": 41.0,
+   "2026": 42.0,
    "COMUNA": "Renaico"
   },
   {
@@ -2905,7 +3073,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 25.0,
    "2025": 28.0,
-   "2026": 48.0,
+   "2026": 50.0,
    "COMUNA": "Renaico"
   },
   {
@@ -2914,7 +3082,7 @@
    "delito": "DAÑOS",
    "2024": 96.0,
    "2025": 73.0,
-   "2026": 26.0,
+   "2026": 27.0,
    "COMUNA": "Renaico"
   },
   {
@@ -3049,7 +3217,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 74.0,
    "2025": 88.0,
-   "2026": 23.0,
+   "2026": 24.0,
    "COMUNA": "Renaico"
   },
   {
@@ -3072,7 +3240,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "La Araucanía"
  }
 }

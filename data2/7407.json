@@ -12,26 +12,26 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7407,
-   "2025": 49.0,
-   "2026": 40.0,
-   "variacion": -18.0,
+   "2025": 51.0,
+   "2026": 44.0,
+   "variacion": -14.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Villa Alegre"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7407,
-   "2025": 16.0,
+   "2025": 18.0,
    "2026": 25.0,
-   "variacion": 56.0,
+   "variacion": 39.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Villa Alegre"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7407,
-   "2025": 45.0,
-   "2026": 41.0,
+   "2025": 47.0,
+   "2026": 43.0,
    "variacion": -9.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Villa Alegre"
@@ -39,10 +39,10 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7407,
-   "2025": 55.0,
-   "2026": 57.0,
-   "variacion": 4.0,
-   "situación": "Aumento de Casos",
+   "2025": 60.0,
+   "2026": 60.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Villa Alegre"
   },
   {
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7407,
-   "2025": 19.0,
-   "2026": 24.0,
-   "variacion": 26.0,
+   "2025": 21.0,
+   "2026": 27.0,
+   "variacion": 29.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Villa Alegre"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 7407,
-   "2025": 7.0,
+   "2025": 9.0,
    "2026": 14.0,
-   "variacion": 100.0,
+   "variacion": 56.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Villa Alegre"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 7407,
-   "2025": 18.0,
+   "2025": 19.0,
    "2026": 10.0,
-   "variacion": -44.0,
+   "variacion": -47.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Villa Alegre"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7407,
    "2025": 7.0,
-   "2026": 9.0,
-   "variacion": 29.0,
+   "2026": 10.0,
+   "variacion": 43.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Villa Alegre"
   },
@@ -139,9 +139,9 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 7407,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 3.0,
+   "variacion": 200.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Villa Alegre"
   },
   {
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 7407,
-   "2025": 7.0,
+   "2025": 8.0,
    "2026": 7.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -12.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Villa Alegre"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7407,
-   "2025": 34.0,
+   "2025": 42.0,
    "2026": 19.0,
-   "variacion": -44.0,
+   "variacion": -55.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Villa Alegre"
   },
@@ -320,6 +320,14 @@
    "COMUNA": "Villa Alegre"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 7407,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Villa Alegre"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7407,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 13.0,
+   "COMUNA": "Villa Alegre"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 7407,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 4.0,
    "COMUNA": "Villa Alegre"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Villa Alegre"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 7407,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Villa Alegre"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 7407,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 9.0,
+   "COMUNA": "Villa Alegre"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 7407,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
    "COMUNA": "Villa Alegre"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "Villa Alegre"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 7407,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
+   "COMUNA": "Villa Alegre"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 7407,
    "anio": 2025,
@@ -948,6 +988,14 @@
    "CODCOM": 7407,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Villa Alegre"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 7407,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Villa Alegre"
   },
@@ -1080,6 +1128,14 @@
    "COMUNA": "Villa Alegre"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 7407,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
+   "COMUNA": "Villa Alegre"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 7407,
    "anio": 2025,
@@ -1208,6 +1264,14 @@
    "COMUNA": "Villa Alegre"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 7407,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Villa Alegre"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 7407,
    "anio": 2025,
@@ -1333,6 +1397,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Villa Alegre"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 7407,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Villa Alegre"
   },
   {
@@ -1464,6 +1536,14 @@
    "COMUNA": "Villa Alegre"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 7407,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Villa Alegre"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7407,
    "anio": 2025,
@@ -1588,6 +1668,14 @@
    "CODCOM": 7407,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Villa Alegre"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7407,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Villa Alegre"
   },
@@ -1720,6 +1808,14 @@
    "COMUNA": "Villa Alegre"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7407,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Villa Alegre"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7407,
    "anio": 2025,
@@ -1848,6 +1944,14 @@
    "COMUNA": "Villa Alegre"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 7407,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Villa Alegre"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 7407,
    "anio": 2025,
@@ -1972,6 +2076,14 @@
    "CODCOM": 7407,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Villa Alegre"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 7407,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Villa Alegre"
   },
@@ -2104,6 +2216,14 @@
    "COMUNA": "Villa Alegre"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 7407,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Villa Alegre"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 7407,
    "anio": 2025,
@@ -2229,6 +2349,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 0.0,
+   "COMUNA": "Villa Alegre"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 7407,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
    "COMUNA": "Villa Alegre"
   },
   {
@@ -2360,6 +2488,14 @@
    "COMUNA": "Villa Alegre"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 7407,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Villa Alegre"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 7407,
    "anio": 2025,
@@ -2484,6 +2620,14 @@
    "CODCOM": 7407,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Villa Alegre"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 7407,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Villa Alegre"
   },
@@ -2616,6 +2760,14 @@
    "COMUNA": "Villa Alegre"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7407,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Villa Alegre"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 7407,
    "anio": 2025,
@@ -2740,6 +2892,14 @@
    "CODCOM": 7407,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Villa Alegre"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 7407,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Villa Alegre"
   },
@@ -2870,6 +3030,14 @@
    "mes": 4,
    "casos": 2.0,
    "COMUNA": "Villa Alegre"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7407,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Villa Alegre"
   }
  ],
  "info": [
@@ -2888,7 +3056,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 135.0,
    "2025": 155.0,
-   "2026": 40.0,
+   "2026": 44.0,
    "COMUNA": "Villa Alegre"
   },
   {
@@ -2906,7 +3074,7 @@
    "delito": "DAÑOS",
    "2024": 127.0,
    "2025": 123.0,
-   "2026": 41.0,
+   "2026": 43.0,
    "COMUNA": "Villa Alegre"
   },
   {
@@ -2915,7 +3083,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 182.0,
    "2025": 171.0,
-   "2026": 57.0,
+   "2026": 60.0,
    "COMUNA": "Villa Alegre"
   },
   {
@@ -2933,7 +3101,7 @@
    "delito": "HURTOS",
    "2024": 38.0,
    "2025": 42.0,
-   "2026": 24.0,
+   "2026": 27.0,
    "COMUNA": "Villa Alegre"
   },
   {
@@ -2978,7 +3146,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 55.0,
    "2025": 66.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Villa Alegre"
   },
   {
@@ -3014,7 +3182,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 15.0,
    "2025": 3.0,
-   "2026": 1.0,
+   "2026": 3.0,
    "COMUNA": "Villa Alegre"
   },
   {
@@ -3064,7 +3232,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Maule"
  }
 }

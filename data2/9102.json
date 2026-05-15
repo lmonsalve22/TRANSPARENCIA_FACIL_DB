@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9102,
-   "2025": 63.0,
-   "2026": 36.0,
+   "2025": 67.0,
+   "2026": 38.0,
    "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Carahue"
@@ -21,27 +21,27 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9102,
-   "2025": 99.0,
-   "2026": 57.0,
-   "variacion": -42.0,
+   "2025": 105.0,
+   "2026": 66.0,
+   "variacion": -37.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Carahue"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9102,
-   "2025": 44.0,
+   "2025": 47.0,
    "2026": 36.0,
-   "variacion": -18.0,
+   "variacion": -23.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Carahue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9102,
-   "2025": 60.0,
-   "2026": 45.0,
-   "variacion": -25.0,
+   "2025": 63.0,
+   "2026": 46.0,
+   "variacion": -27.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Carahue"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 9102,
    "2025": 52.0,
-   "2026": 34.0,
-   "variacion": -35.0,
+   "2026": 36.0,
+   "variacion": -31.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Carahue"
   },
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 9102,
    "2025": 17.0,
-   "2026": 17.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 20.0,
+   "variacion": 18.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Carahue"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9102,
-   "2025": 20.0,
+   "2025": 22.0,
    "2026": 23.0,
-   "variacion": 15.0,
+   "variacion": 5.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Carahue"
   },
@@ -102,18 +102,18 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9102,
-   "2025": 14.0,
-   "2026": 16.0,
-   "variacion": 14.0,
+   "2025": 19.0,
+   "2026": 20.0,
+   "variacion": 5.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Carahue"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9102,
-   "2025": 7.0,
+   "2025": 8.0,
    "2026": 11.0,
-   "variacion": 57.0,
+   "variacion": 38.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Carahue"
   },
@@ -130,8 +130,8 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 9102,
    "2025": 5.0,
-   "2026": 3.0,
-   "variacion": -40.0,
+   "2026": 4.0,
+   "variacion": -20.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Carahue"
   },
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9102,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 2.0,
-   "variacion": -67.0,
+   "variacion": -71.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Carahue"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9102,
-   "2025": 13.0,
-   "2026": 11.0,
-   "variacion": -15.0,
+   "2025": 14.0,
+   "2026": 13.0,
+   "variacion": -7.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Carahue"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9102,
-   "2025": 7.0,
-   "2026": 8.0,
-   "variacion": 14.0,
+   "2025": 9.0,
+   "2026": 10.0,
+   "variacion": 11.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Carahue"
   }
@@ -320,6 +320,14 @@
    "COMUNA": "Carahue"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Carahue"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9102,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 5.0,
+   "COMUNA": "Carahue"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
    "COMUNA": "Carahue"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Carahue"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 9.0,
+   "COMUNA": "Carahue"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 9102,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 7.0,
+   "COMUNA": "Carahue"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 9102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Carahue"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "Carahue"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Carahue"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9102,
    "anio": 2025,
@@ -948,6 +988,14 @@
    "CODCOM": 9102,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Carahue"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9102,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Carahue"
   },
@@ -1080,6 +1128,14 @@
    "COMUNA": "Carahue"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Carahue"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9102,
    "anio": 2025,
@@ -1208,6 +1264,14 @@
    "COMUNA": "Carahue"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
+   "COMUNA": "Carahue"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9102,
    "anio": 2025,
@@ -1332,6 +1396,14 @@
    "CODCOM": 9102,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Carahue"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9102,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Carahue"
   },
@@ -1464,6 +1536,14 @@
    "COMUNA": "Carahue"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Carahue"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9102,
    "anio": 2025,
@@ -1588,6 +1668,14 @@
    "CODCOM": 9102,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Carahue"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9102,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Carahue"
   },
@@ -1720,6 +1808,14 @@
    "COMUNA": "Carahue"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 4.0,
+   "COMUNA": "Carahue"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9102,
    "anio": 2025,
@@ -1848,6 +1944,14 @@
    "COMUNA": "Carahue"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Carahue"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9102,
    "anio": 2025,
@@ -1976,6 +2080,14 @@
    "COMUNA": "Carahue"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Carahue"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 9102,
    "anio": 2025,
@@ -2104,6 +2216,14 @@
    "COMUNA": "Carahue"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Carahue"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9102,
    "anio": 2025,
@@ -2232,6 +2352,14 @@
    "COMUNA": "Carahue"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Carahue"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9102,
    "anio": 2025,
@@ -2357,6 +2485,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 2.0,
+   "COMUNA": "Carahue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Carahue"
   },
   {
@@ -2484,6 +2620,14 @@
    "CODCOM": 9102,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Carahue"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9102,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Carahue"
   },
@@ -2616,6 +2760,14 @@
    "COMUNA": "Carahue"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Carahue"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9102,
    "anio": 2025,
@@ -2740,6 +2892,14 @@
    "CODCOM": 9102,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Carahue"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9102,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Carahue"
   },
@@ -2870,6 +3030,14 @@
    "mes": 4,
    "casos": 1.0,
    "COMUNA": "Carahue"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Carahue"
   }
  ],
  "info": [
@@ -2888,7 +3056,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 181.0,
    "2025": 153.0,
-   "2026": 36.0,
+   "2026": 38.0,
    "COMUNA": "Carahue"
   },
   {
@@ -2897,7 +3065,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 207.0,
    "2025": 231.0,
-   "2026": 57.0,
+   "2026": 66.0,
    "COMUNA": "Carahue"
   },
   {
@@ -2915,7 +3083,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 135.0,
    "2025": 146.0,
-   "2026": 45.0,
+   "2026": 46.0,
    "COMUNA": "Carahue"
   },
   {
@@ -2933,7 +3101,7 @@
    "delito": "HURTOS",
    "2024": 86.0,
    "2025": 94.0,
-   "2026": 34.0,
+   "2026": 36.0,
    "COMUNA": "Carahue"
   },
   {
@@ -2942,7 +3110,7 @@
    "delito": "INCIVILIDADES",
    "2024": 36.0,
    "2025": 43.0,
-   "2026": 17.0,
+   "2026": 20.0,
    "COMUNA": "Carahue"
   },
   {
@@ -2978,7 +3146,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 16.0,
    "2025": 39.0,
-   "2026": 16.0,
+   "2026": 20.0,
    "COMUNA": "Carahue"
   },
   {
@@ -3005,7 +3173,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 8.0,
    "2025": 11.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Carahue"
   },
   {
@@ -3041,7 +3209,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 59.0,
    "2025": 39.0,
-   "2026": 11.0,
+   "2026": 13.0,
    "COMUNA": "Carahue"
   },
   {
@@ -3059,12 +3227,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 18.0,
    "2025": 25.0,
-   "2026": 8.0,
+   "2026": 10.0,
    "COMUNA": "Carahue"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "La Araucanía"
  }
 }

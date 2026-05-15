@@ -12,17 +12,17 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8305,
-   "2025": 54.0,
-   "2026": 72.0,
-   "variacion": 33.0,
+   "2025": 62.0,
+   "2026": 76.0,
+   "variacion": 23.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Mulchén"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8305,
-   "2025": 171.0,
-   "2026": 230.0,
+   "2025": 182.0,
+   "2026": 246.0,
    "variacion": 35.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Mulchén"
@@ -30,8 +30,8 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 8305,
-   "2025": 64.0,
-   "2026": 72.0,
+   "2025": 68.0,
+   "2026": 76.0,
    "variacion": 12.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Mulchén"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8305,
-   "2025": 94.0,
-   "2026": 74.0,
-   "variacion": -21.0,
+   "2025": 98.0,
+   "2026": 80.0,
+   "variacion": -18.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Mulchén"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8305,
-   "2025": 23.0,
+   "2025": 27.0,
    "2026": 33.0,
-   "variacion": 43.0,
+   "variacion": 22.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Mulchén"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8305,
-   "2025": 24.0,
-   "2026": 29.0,
-   "variacion": 21.0,
+   "2025": 25.0,
+   "2026": 31.0,
+   "variacion": 24.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Mulchén"
   },
@@ -76,17 +76,17 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 8305,
    "2025": 4.0,
-   "2026": 1.0,
-   "variacion": -75.0,
+   "2026": 2.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Mulchén"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8305,
-   "2025": 32.0,
-   "2026": 24.0,
-   "variacion": -25.0,
+   "2025": 33.0,
+   "2026": 26.0,
+   "variacion": -21.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Mulchén"
   },
@@ -102,18 +102,18 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 8305,
-   "2025": 51.0,
-   "2026": 22.0,
-   "variacion": -57.0,
+   "2025": 54.0,
+   "2026": 28.0,
+   "variacion": -48.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Mulchén"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8305,
-   "2025": 7.0,
+   "2025": 8.0,
    "2026": 9.0,
-   "variacion": 29.0,
+   "variacion": 12.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Mulchén"
   },
@@ -139,35 +139,35 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 8305,
    "2025": 2.0,
-   "2026": 7.0,
-   "variacion": 250.0,
+   "2026": 8.0,
+   "variacion": 300.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Mulchén"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8305,
-   "2025": 9.0,
+   "2025": 12.0,
    "2026": 16.0,
-   "variacion": 78.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Mulchén"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8305,
-   "2025": 21.0,
-   "2026": 34.0,
-   "variacion": 62.0,
+   "2025": 23.0,
+   "2026": 37.0,
+   "variacion": 61.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Mulchén"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8305,
-   "2025": 100.0,
-   "2026": 48.0,
-   "variacion": -52.0,
+   "2025": 104.0,
+   "2026": 49.0,
+   "variacion": -53.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Mulchén"
   },
@@ -320,6 +320,14 @@
    "COMUNA": "Mulchén"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Mulchén"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8305,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 27.0,
+   "COMUNA": "Mulchén"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 8305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 4.0,
    "COMUNA": "Mulchén"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Mulchén"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 8305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 16.0,
+   "COMUNA": "Mulchén"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 8305,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 15.0,
+   "COMUNA": "Mulchén"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 4.0,
    "COMUNA": "Mulchén"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "Mulchén"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 8305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 6.0,
+   "COMUNA": "Mulchén"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 8305,
    "anio": 2025,
@@ -956,6 +996,14 @@
    "CODCOM": 8305,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Mulchén"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 8305,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Mulchén"
   },
@@ -1088,6 +1136,14 @@
    "COMUNA": "Mulchén"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 8305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Mulchén"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 8305,
    "anio": 2025,
@@ -1216,6 +1272,14 @@
    "COMUNA": "Mulchén"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 8305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Mulchén"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8305,
    "anio": 2025,
@@ -1341,6 +1405,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 0.0,
+   "COMUNA": "Mulchén"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 8305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Mulchén"
   },
   {
@@ -1472,6 +1544,14 @@
    "COMUNA": "Mulchén"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 8305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Mulchén"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8305,
    "anio": 2025,
@@ -1596,6 +1676,14 @@
    "CODCOM": 8305,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Mulchén"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 8305,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Mulchén"
   },
@@ -1728,6 +1816,14 @@
    "COMUNA": "Mulchén"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 8305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 6.0,
+   "COMUNA": "Mulchén"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8305,
    "anio": 2025,
@@ -1856,6 +1952,14 @@
    "COMUNA": "Mulchén"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Mulchén"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 8305,
    "anio": 2025,
@@ -1980,6 +2084,14 @@
    "CODCOM": 8305,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Mulchén"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8305,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Mulchén"
   },
@@ -2112,6 +2224,14 @@
    "COMUNA": "Mulchén"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Mulchén"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8305,
    "anio": 2025,
@@ -2237,6 +2357,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 0.0,
+   "COMUNA": "Mulchén"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 8305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Mulchén"
   },
   {
@@ -2365,6 +2493,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 2.0,
+   "COMUNA": "Mulchén"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 8305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Mulchén"
   },
   {
@@ -2493,6 +2629,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 2.0,
+   "COMUNA": "Mulchén"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 8305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
    "COMUNA": "Mulchén"
   },
   {
@@ -2624,6 +2768,14 @@
    "COMUNA": "Mulchén"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Mulchén"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8305,
    "anio": 2025,
@@ -2752,6 +2904,14 @@
    "COMUNA": "Mulchén"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 8305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Mulchén"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8305,
    "anio": 2025,
@@ -2877,6 +3037,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Mulchén"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 8305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Mulchén"
   }
  ],
@@ -2896,7 +3064,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 210.0,
    "2025": 157.0,
-   "2026": 72.0,
+   "2026": 76.0,
    "COMUNA": "Mulchén"
   },
   {
@@ -2905,7 +3073,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 454.0,
    "2025": 720.0,
-   "2026": 230.0,
+   "2026": 246.0,
    "COMUNA": "Mulchén"
   },
   {
@@ -2914,7 +3082,7 @@
    "delito": "DAÑOS",
    "2024": 218.0,
    "2025": 176.0,
-   "2026": 72.0,
+   "2026": 76.0,
    "COMUNA": "Mulchén"
   },
   {
@@ -2923,7 +3091,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 223.0,
    "2025": 232.0,
-   "2026": 74.0,
+   "2026": 80.0,
    "COMUNA": "Mulchén"
   },
   {
@@ -2950,7 +3118,7 @@
    "delito": "INCIVILIDADES",
    "2024": 79.0,
    "2025": 73.0,
-   "2026": 29.0,
+   "2026": 31.0,
    "COMUNA": "Mulchén"
   },
   {
@@ -2959,7 +3127,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 12.0,
    "2025": 11.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Mulchén"
   },
   {
@@ -2968,7 +3136,7 @@
    "delito": "LESIONES LEVES",
    "2024": 112.0,
    "2025": 95.0,
-   "2026": 24.0,
+   "2026": 26.0,
    "COMUNA": "Mulchén"
   },
   {
@@ -2986,7 +3154,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 157.0,
    "2025": 239.0,
-   "2026": 22.0,
+   "2026": 28.0,
    "COMUNA": "Mulchén"
   },
   {
@@ -3022,7 +3190,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 20.0,
    "2025": 21.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Mulchén"
   },
   {
@@ -3040,7 +3208,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 87.0,
    "2025": 52.0,
-   "2026": 34.0,
+   "2026": 37.0,
    "COMUNA": "Mulchén"
   },
   {
@@ -3049,7 +3217,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 274.0,
    "2025": 241.0,
-   "2026": 48.0,
+   "2026": 49.0,
    "COMUNA": "Mulchén"
   },
   {
@@ -3072,7 +3240,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Biobío"
  }
 }

@@ -3,17 +3,17 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 2301,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 3.0,
-   "variacion": 300.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Tocopilla"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 2301,
-   "2025": 134.0,
-   "2026": 106.0,
+   "2025": 142.0,
+   "2026": 112.0,
    "variacion": -21.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Tocopilla"
@@ -21,27 +21,27 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 2301,
-   "2025": 327.0,
-   "2026": 377.0,
-   "variacion": 15.0,
+   "2025": 335.0,
+   "2026": 424.0,
+   "variacion": 27.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Tocopilla"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 2301,
-   "2025": 48.0,
-   "2026": 62.0,
-   "variacion": 29.0,
+   "2025": 52.0,
+   "2026": 64.0,
+   "variacion": 23.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Tocopilla"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 2301,
-   "2025": 84.0,
-   "2026": 109.0,
-   "variacion": 30.0,
+   "2025": 87.0,
+   "2026": 110.0,
+   "variacion": 26.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Tocopilla"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 2301,
-   "2025": 50.0,
+   "2025": 52.0,
    "2026": 49.0,
-   "variacion": -2.0,
+   "variacion": -6.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Tocopilla"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 2301,
-   "2025": 33.0,
-   "2026": 90.0,
-   "variacion": 173.0,
+   "2025": 35.0,
+   "2026": 100.0,
+   "variacion": 186.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Tocopilla"
   },
@@ -76,17 +76,17 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 2301,
    "2025": 7.0,
-   "2026": 5.0,
-   "variacion": -29.0,
+   "2026": 6.0,
+   "variacion": -14.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Tocopilla"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 2301,
-   "2025": 50.0,
-   "2026": 44.0,
-   "variacion": -12.0,
+   "2025": 54.0,
+   "2026": 45.0,
+   "variacion": -17.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Tocopilla"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 2301,
    "2025": 17.0,
-   "2026": 15.0,
-   "variacion": -12.0,
+   "2026": 16.0,
+   "variacion": -6.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Tocopilla"
   },
@@ -112,18 +112,18 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 2301,
    "2025": 16.0,
-   "2026": 9.0,
-   "variacion": -44.0,
+   "2026": 10.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Tocopilla"
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 2301,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Tocopilla"
   },
   {
@@ -147,18 +147,18 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 2301,
-   "2025": 13.0,
-   "2026": 13.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 15.0,
+   "2026": 17.0,
+   "variacion": 13.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Tocopilla"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 2301,
-   "2025": 11.0,
-   "2026": 17.0,
-   "variacion": 55.0,
+   "2025": 14.0,
+   "2026": 18.0,
+   "variacion": 29.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Tocopilla"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 2301,
    "2025": 26.0,
-   "2026": 35.0,
-   "variacion": 35.0,
+   "2026": 38.0,
+   "variacion": 46.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Tocopilla"
   },
@@ -320,6 +320,14 @@
    "COMUNA": "Tocopilla"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 2301,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Tocopilla"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 2301,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 29.0,
+   "COMUNA": "Tocopilla"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 2301,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 6.0,
    "COMUNA": "Tocopilla"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Tocopilla"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 2301,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 47.0,
+   "COMUNA": "Tocopilla"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 2301,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 16.0,
+   "COMUNA": "Tocopilla"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 2301,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
    "COMUNA": "Tocopilla"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "Tocopilla"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 2301,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Tocopilla"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 2301,
    "anio": 2025,
@@ -956,6 +996,14 @@
    "CODCOM": 2301,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Tocopilla"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 2301,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Tocopilla"
   },
@@ -1088,6 +1136,14 @@
    "COMUNA": "Tocopilla"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 2301,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Tocopilla"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 2301,
    "anio": 2025,
@@ -1216,6 +1272,14 @@
    "COMUNA": "Tocopilla"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 2301,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 10.0,
+   "COMUNA": "Tocopilla"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 2301,
    "anio": 2025,
@@ -1341,6 +1405,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 0.0,
+   "COMUNA": "Tocopilla"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 2301,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Tocopilla"
   },
   {
@@ -1472,6 +1544,14 @@
    "COMUNA": "Tocopilla"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 2301,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Tocopilla"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 2301,
    "anio": 2025,
@@ -1600,6 +1680,14 @@
    "COMUNA": "Tocopilla"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 2301,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Tocopilla"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 2301,
    "anio": 2025,
@@ -1725,6 +1813,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 3.0,
+   "COMUNA": "Tocopilla"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 2301,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Tocopilla"
   },
   {
@@ -1856,6 +1952,14 @@
    "COMUNA": "Tocopilla"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 2301,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Tocopilla"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 2301,
    "anio": 2025,
@@ -1984,6 +2088,14 @@
    "COMUNA": "Tocopilla"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 2301,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Tocopilla"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 2301,
    "anio": 2025,
@@ -2108,6 +2220,14 @@
    "CODCOM": 2301,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Tocopilla"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 2301,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Tocopilla"
   },
@@ -2236,6 +2356,14 @@
    "CODCOM": 2301,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Tocopilla"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 2301,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Tocopilla"
   },
@@ -2368,6 +2496,14 @@
    "COMUNA": "Tocopilla"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 2301,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 4.0,
+   "COMUNA": "Tocopilla"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 2301,
    "anio": 2025,
@@ -2493,6 +2629,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 4.0,
+   "COMUNA": "Tocopilla"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 2301,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Tocopilla"
   },
   {
@@ -2624,6 +2768,14 @@
    "COMUNA": "Tocopilla"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 2301,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
+   "COMUNA": "Tocopilla"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 2301,
    "anio": 2025,
@@ -2749,6 +2901,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Tocopilla"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 2301,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Tocopilla"
   },
   {
@@ -2878,6 +3038,14 @@
    "mes": 4,
    "casos": 1.0,
    "COMUNA": "Tocopilla"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 2301,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Tocopilla"
   }
  ],
  "info": [
@@ -2896,7 +3064,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 416.0,
    "2025": 345.0,
-   "2026": 106.0,
+   "2026": 112.0,
    "COMUNA": "Tocopilla"
   },
   {
@@ -2905,7 +3073,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 724.0,
    "2025": 777.0,
-   "2026": 377.0,
+   "2026": 424.0,
    "COMUNA": "Tocopilla"
   },
   {
@@ -2914,7 +3082,7 @@
    "delito": "DAÑOS",
    "2024": 176.0,
    "2025": 161.0,
-   "2026": 62.0,
+   "2026": 64.0,
    "COMUNA": "Tocopilla"
   },
   {
@@ -2923,7 +3091,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 300.0,
    "2025": 249.0,
-   "2026": 109.0,
+   "2026": 110.0,
    "COMUNA": "Tocopilla"
   },
   {
@@ -2950,7 +3118,7 @@
    "delito": "INCIVILIDADES",
    "2024": 151.0,
    "2025": 118.0,
-   "2026": 90.0,
+   "2026": 100.0,
    "COMUNA": "Tocopilla"
   },
   {
@@ -2959,7 +3127,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 24.0,
    "2025": 19.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Tocopilla"
   },
   {
@@ -2968,7 +3136,7 @@
    "delito": "LESIONES LEVES",
    "2024": 162.0,
    "2025": 143.0,
-   "2026": 44.0,
+   "2026": 45.0,
    "COMUNA": "Tocopilla"
   },
   {
@@ -2986,7 +3154,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 33.0,
    "2025": 45.0,
-   "2026": 15.0,
+   "2026": 16.0,
    "COMUNA": "Tocopilla"
   },
   {
@@ -2995,7 +3163,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 44.0,
    "2025": 43.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Tocopilla"
   },
   {
@@ -3031,7 +3199,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 56.0,
    "2025": 42.0,
-   "2026": 13.0,
+   "2026": 17.0,
    "COMUNA": "Tocopilla"
   },
   {
@@ -3040,7 +3208,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 53.0,
    "2025": 71.0,
-   "2026": 17.0,
+   "2026": 18.0,
    "COMUNA": "Tocopilla"
   },
   {
@@ -3049,7 +3217,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 107.0,
    "2025": 79.0,
-   "2026": 35.0,
+   "2026": 38.0,
    "COMUNA": "Tocopilla"
   },
   {
@@ -3072,7 +3240,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Antofagasta"
  }
 }

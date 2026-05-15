@@ -12,10 +12,10 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7305,
-   "2025": 31.0,
+   "2025": 34.0,
    "2026": 31.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -9.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Rauco"
   },
   {
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 7305,
-   "2025": 39.0,
+   "2025": 40.0,
    "2026": 46.0,
-   "variacion": 18.0,
+   "variacion": 15.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Rauco"
   },
@@ -48,9 +48,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7305,
-   "2025": 12.0,
+   "2025": 13.0,
    "2026": 9.0,
-   "variacion": -25.0,
+   "variacion": -31.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Rauco"
   },
@@ -76,18 +76,18 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 7305,
    "2025": 6.0,
-   "2026": 6.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 7.0,
+   "variacion": 17.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Rauco"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7305,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Rauco"
   },
   {
@@ -139,26 +139,26 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 7305,
    "2025": 0.0,
-   "2026": 1.0,
-   "variacion": 100.0,
+   "2026": 2.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Rauco"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 7305,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Rauco"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7305,
-   "2025": 24.0,
+   "2025": 27.0,
    "2026": 11.0,
-   "variacion": -54.0,
+   "variacion": -59.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Rauco"
   },
@@ -311,6 +311,14 @@
    "COMUNA": "Rauco"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 7305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Rauco"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7305,
    "anio": 2025,
@@ -439,6 +447,14 @@
    "COMUNA": "Rauco"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 7305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Rauco"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7305,
    "anio": 2025,
@@ -563,6 +579,14 @@
    "CODCOM": 7305,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Rauco"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 7305,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Rauco"
   },
@@ -695,6 +719,14 @@
    "COMUNA": "Rauco"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 7305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Rauco"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7305,
    "anio": 2025,
@@ -823,6 +855,14 @@
    "COMUNA": "Rauco"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 7305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Rauco"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 7305,
    "anio": 2025,
@@ -951,6 +991,14 @@
    "COMUNA": "Rauco"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 7305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Rauco"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 7305,
    "anio": 2025,
@@ -1079,6 +1127,14 @@
    "COMUNA": "Rauco"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 7305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Rauco"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 7305,
    "anio": 2025,
@@ -1195,6 +1251,14 @@
    "CODCOM": 7305,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Rauco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 7305,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Rauco"
   },
@@ -1327,6 +1391,14 @@
    "COMUNA": "Rauco"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 7305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Rauco"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7305,
    "anio": 2025,
@@ -1451,6 +1523,14 @@
    "CODCOM": 7305,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Rauco"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7305,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Rauco"
   },
@@ -1583,6 +1663,14 @@
    "COMUNA": "Rauco"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Rauco"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7305,
    "anio": 2025,
@@ -1711,6 +1799,14 @@
    "COMUNA": "Rauco"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 7305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Rauco"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 7305,
    "anio": 2025,
@@ -1931,6 +2027,14 @@
    "CODCOM": 7305,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Rauco"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 7305,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Rauco"
   },
@@ -2063,6 +2167,14 @@
    "COMUNA": "Rauco"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 7305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Rauco"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 7305,
    "anio": 2025,
@@ -2191,6 +2303,14 @@
    "COMUNA": "Rauco"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 7305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Rauco"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 7305,
    "anio": 2025,
@@ -2315,6 +2435,14 @@
    "CODCOM": 7305,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Rauco"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 7305,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Rauco"
   },
@@ -2447,6 +2575,14 @@
    "COMUNA": "Rauco"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Rauco"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 7305,
    "anio": 2025,
@@ -2571,6 +2707,14 @@
    "CODCOM": 7305,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Rauco"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 7305,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Rauco"
   },
@@ -2701,6 +2845,14 @@
    "mes": 4,
    "casos": 0.0,
    "COMUNA": "Rauco"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7305,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Rauco"
   }
  ],
  "info": [
@@ -2791,7 +2943,7 @@
    "delito": "LESIONES LEVES",
    "2024": 26.0,
    "2025": 18.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Rauco"
   },
   {
@@ -2854,7 +3006,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 12.0,
    "2025": 5.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Rauco"
   },
   {
@@ -2895,7 +3047,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Maule"
  }
 }

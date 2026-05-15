@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5404,
    "2025": 24.0,
-   "2026": 21.0,
-   "variacion": -12.0,
+   "2026": 23.0,
+   "variacion": -4.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Petorca"
   },
@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5404,
    "2025": 8.0,
-   "2026": 6.0,
-   "variacion": -25.0,
+   "2026": 7.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Petorca"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 5404,
    "2025": 14.0,
-   "2026": 8.0,
-   "variacion": -43.0,
+   "2026": 10.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Petorca"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5404,
-   "2025": 27.0,
-   "2026": 20.0,
-   "variacion": -26.0,
+   "2025": 28.0,
+   "2026": 22.0,
+   "variacion": -21.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Petorca"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5404,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 2.0,
-   "variacion": -60.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Petorca"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5404,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 9.0,
-   "variacion": 80.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Petorca"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 5404,
    "2025": 9.0,
-   "2026": 7.0,
-   "variacion": -22.0,
+   "2026": 8.0,
+   "variacion": -11.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Petorca"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 5404,
    "2025": 3.0,
-   "2026": 6.0,
-   "variacion": 100.0,
+   "2026": 7.0,
+   "variacion": 133.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Petorca"
   },
@@ -320,6 +320,14 @@
    "COMUNA": "Petorca"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 5404,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Petorca"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5404,
    "anio": 2025,
@@ -448,6 +456,14 @@
    "COMUNA": "Petorca"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 5404,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Petorca"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5404,
    "anio": 2025,
@@ -576,6 +592,14 @@
    "COMUNA": "Petorca"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 5404,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Petorca"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 5404,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Petorca"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 5404,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
    "COMUNA": "Petorca"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "Petorca"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 5404,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Petorca"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 5404,
    "anio": 2025,
@@ -952,6 +992,14 @@
    "COMUNA": "Petorca"
   },
   {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 5404,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Petorca"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 5404,
    "anio": 2025,
@@ -1077,6 +1125,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Petorca"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5404,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Petorca"
   },
   {
@@ -1208,6 +1264,14 @@
    "COMUNA": "Petorca"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 5404,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Petorca"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5404,
    "anio": 2025,
@@ -1333,6 +1397,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Petorca"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 5404,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Petorca"
   },
   {
@@ -1464,6 +1536,14 @@
    "COMUNA": "Petorca"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 5404,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Petorca"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5404,
    "anio": 2025,
@@ -1592,6 +1672,14 @@
    "COMUNA": "Petorca"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 5404,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Petorca"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5404,
    "anio": 2025,
@@ -1720,6 +1808,14 @@
    "COMUNA": "Petorca"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 5404,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Petorca"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 5404,
    "anio": 2025,
@@ -1848,6 +1944,14 @@
    "COMUNA": "Petorca"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 5404,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Petorca"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 5404,
    "anio": 2025,
@@ -1964,6 +2068,14 @@
    "CODCOM": 5404,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Petorca"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 5404,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Petorca"
   },
@@ -2096,6 +2208,14 @@
    "COMUNA": "Petorca"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 5404,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Petorca"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 5404,
    "anio": 2025,
@@ -2220,6 +2340,14 @@
    "CODCOM": 5404,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Petorca"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 5404,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Petorca"
   },
@@ -2352,6 +2480,14 @@
    "COMUNA": "Petorca"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 5404,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Petorca"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5404,
    "anio": 2025,
@@ -2476,6 +2612,14 @@
    "CODCOM": 5404,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Petorca"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 5404,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Petorca"
   },
@@ -2608,6 +2752,14 @@
    "COMUNA": "Petorca"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 5404,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Petorca"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5404,
    "anio": 2025,
@@ -2736,6 +2888,14 @@
    "COMUNA": "Petorca"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 5404,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Petorca"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5404,
    "anio": 2025,
@@ -2861,6 +3021,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 2.0,
+   "COMUNA": "Petorca"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 5404,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Petorca"
   }
  ],
@@ -2880,7 +3048,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 97.0,
    "2025": 60.0,
-   "2026": 21.0,
+   "2026": 23.0,
    "COMUNA": "Petorca"
   },
   {
@@ -2889,7 +3057,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 39.0,
    "2025": 44.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Petorca"
   },
   {
@@ -2898,7 +3066,7 @@
    "delito": "DAÑOS",
    "2024": 54.0,
    "2025": 39.0,
-   "2026": 8.0,
+   "2026": 10.0,
    "COMUNA": "Petorca"
   },
   {
@@ -2907,7 +3075,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 81.0,
    "2025": 74.0,
-   "2026": 20.0,
+   "2026": 22.0,
    "COMUNA": "Petorca"
   },
   {
@@ -2952,7 +3120,7 @@
    "delito": "LESIONES LEVES",
    "2024": 31.0,
    "2025": 31.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Petorca"
   },
   {
@@ -2979,7 +3147,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 10.0,
    "2025": 9.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Petorca"
   },
   {
@@ -3056,7 +3224,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Valparaíso"
  }
 }

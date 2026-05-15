@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6102,
-   "2025": 54.0,
+   "2025": 58.0,
    "2026": 40.0,
-   "variacion": -26.0,
+   "variacion": -31.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Codegua"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6102,
-   "2025": 36.0,
+   "2025": 37.0,
    "2026": 32.0,
-   "variacion": -11.0,
+   "variacion": -14.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Codegua"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6102,
-   "2025": 56.0,
-   "2026": 32.0,
-   "variacion": -43.0,
+   "2025": 59.0,
+   "2026": 36.0,
+   "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Codegua"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6102,
-   "2025": 15.0,
-   "2026": 26.0,
-   "variacion": 73.0,
+   "2025": 17.0,
+   "2026": 27.0,
+   "variacion": 59.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Codegua"
   },
@@ -111,9 +111,9 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6102,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 5.0,
-   "variacion": 400.0,
+   "variacion": 150.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Codegua"
   },
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6102,
    "2025": 11.0,
-   "2026": 6.0,
-   "variacion": -45.0,
+   "2026": 7.0,
+   "variacion": -36.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Codegua"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6102,
-   "2025": 59.0,
-   "2026": 47.0,
-   "variacion": -20.0,
+   "2025": 69.0,
+   "2026": 51.0,
+   "variacion": -26.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Codegua"
   },
@@ -320,6 +320,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 6102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6102,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 7.0,
+   "COMUNA": "Codegua"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 6102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Codegua"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 6102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 6102,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 10.0,
+   "COMUNA": "Codegua"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 6102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Codegua"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 4.0,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6102,
    "anio": 2025,
@@ -948,6 +988,14 @@
    "CODCOM": 6102,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Codegua"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 6102,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Codegua"
   },
@@ -1080,6 +1128,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 6102,
    "anio": 2025,
@@ -1208,6 +1264,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 6102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6102,
    "anio": 2025,
@@ -1332,6 +1396,14 @@
    "CODCOM": 6102,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Codegua"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 6102,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Codegua"
   },
@@ -1464,6 +1536,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 6102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6102,
    "anio": 2025,
@@ -1589,6 +1669,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Codegua"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 6102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Codegua"
   },
   {
@@ -1720,6 +1808,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 6102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6102,
    "anio": 2025,
@@ -1848,6 +1944,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 6102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6102,
    "anio": 2025,
@@ -1964,6 +2068,14 @@
    "CODCOM": 6102,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Codegua"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 6102,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Codegua"
   },
@@ -2096,6 +2208,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6102,
    "anio": 2025,
@@ -2221,6 +2341,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Codegua"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 6102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Codegua"
   },
   {
@@ -2352,6 +2480,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6102,
    "anio": 2025,
@@ -2476,6 +2612,14 @@
    "CODCOM": 6102,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Codegua"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 6102,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Codegua"
   },
@@ -2608,6 +2752,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 6102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 4.0,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6102,
    "anio": 2025,
@@ -2736,6 +2888,14 @@
    "COMUNA": "Codegua"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6102,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Codegua"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6102,
    "anio": 2025,
@@ -2860,6 +3020,14 @@
    "CODCOM": 6102,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Codegua"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 6102,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Codegua"
   }
@@ -2907,7 +3075,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 126.0,
    "2025": 130.0,
-   "2026": 32.0,
+   "2026": 36.0,
    "COMUNA": "Codegua"
   },
   {
@@ -2952,7 +3120,7 @@
    "delito": "LESIONES LEVES",
    "2024": 49.0,
    "2025": 51.0,
-   "2026": 26.0,
+   "2026": 27.0,
    "COMUNA": "Codegua"
   },
   {
@@ -3015,7 +3183,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 35.0,
    "2025": 20.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Codegua"
   },
   {
@@ -3033,7 +3201,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 144.0,
    "2025": 192.0,
-   "2026": 47.0,
+   "2026": 51.0,
    "COMUNA": "Codegua"
   },
   {
@@ -3056,7 +3224,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "O'Higgins"
  }
 }

@@ -21,9 +21,9 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 15201,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 6.0,
-   "variacion": 200.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Putre"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 15201,
    "2025": 10.0,
-   "2026": 19.0,
-   "variacion": 90.0,
+   "2026": 20.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Putre"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 15201,
-   "2025": 4.0,
+   "2025": 6.0,
    "2026": 2.0,
-   "variacion": -50.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Putre"
   },
@@ -102,10 +102,10 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 15201,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Putre"
   },
   {
@@ -303,6 +303,14 @@
    "COMUNA": "Putre"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 15201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Putre"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 15201,
    "anio": 2025,
@@ -427,6 +435,14 @@
    "CODCOM": 15201,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Putre"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 15201,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Putre"
   },
@@ -555,6 +571,14 @@
    "CODCOM": 15201,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Putre"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 15201,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Putre"
   },
@@ -687,6 +711,14 @@
    "COMUNA": "Putre"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 15201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Putre"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 15201,
    "anio": 2025,
@@ -815,6 +847,14 @@
    "COMUNA": "Putre"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 15201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Putre"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 15201,
    "anio": 2025,
@@ -939,6 +979,14 @@
    "CODCOM": 15201,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Putre"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 15201,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Putre"
   },
@@ -1071,6 +1119,14 @@
    "COMUNA": "Putre"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 15201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Putre"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 15201,
    "anio": 2025,
@@ -1187,6 +1243,14 @@
    "CODCOM": 15201,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Putre"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 15201,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Putre"
   },
@@ -1319,6 +1383,14 @@
    "COMUNA": "Putre"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 15201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Putre"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 15201,
    "anio": 2025,
@@ -1435,6 +1507,14 @@
    "CODCOM": 15201,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Putre"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 15201,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Putre"
   },
@@ -1567,6 +1647,14 @@
    "COMUNA": "Putre"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 15201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Putre"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 15201,
    "anio": 2025,
@@ -1695,6 +1783,14 @@
    "COMUNA": "Putre"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 15201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Putre"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 15201,
    "anio": 2025,
@@ -1811,6 +1907,14 @@
    "CODCOM": 15201,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Putre"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 15201,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Putre"
   },
@@ -1939,6 +2043,14 @@
    "CODCOM": 15201,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Putre"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 15201,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Putre"
   },
@@ -2071,6 +2183,14 @@
    "COMUNA": "Putre"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 15201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Putre"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 15201,
    "anio": 2025,
@@ -2199,6 +2319,14 @@
    "COMUNA": "Putre"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 15201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Putre"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 15201,
    "anio": 2025,
@@ -2315,6 +2443,14 @@
    "CODCOM": 15201,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Putre"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 15201,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Putre"
   },
@@ -2447,6 +2583,14 @@
    "COMUNA": "Putre"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 15201,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Putre"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 15201,
    "anio": 2025,
@@ -2675,6 +2819,14 @@
    "CODCOM": 15201,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Putre"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 15201,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Putre"
   }
@@ -2713,7 +2865,7 @@
    "delito": "DAÑOS",
    "2024": 55.0,
    "2025": 40.0,
-   "2026": 19.0,
+   "2026": 20.0,
    "COMUNA": "Putre"
   },
   {
@@ -2871,7 +3023,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Arica y Parinacota"
  }
 }

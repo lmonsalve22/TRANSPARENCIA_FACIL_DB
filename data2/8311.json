@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8311,
-   "2025": 35.0,
-   "2026": 37.0,
+   "2025": 36.0,
+   "2026": 38.0,
    "variacion": 6.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa Bárbara"
@@ -21,9 +21,9 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8311,
-   "2025": 82.0,
-   "2026": 131.0,
-   "variacion": 60.0,
+   "2025": 87.0,
+   "2026": 133.0,
+   "variacion": 53.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa Bárbara"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8311,
    "2025": 42.0,
-   "2026": 38.0,
-   "variacion": -10.0,
+   "2026": 40.0,
+   "variacion": -5.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Bárbara"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8311,
-   "2025": 23.0,
-   "2026": 17.0,
-   "variacion": -26.0,
+   "2025": 24.0,
+   "2026": 18.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Bárbara"
   },
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 8311,
    "2025": 19.0,
-   "2026": 16.0,
-   "variacion": -16.0,
-   "situación": "Disminución de Casos",
+   "2026": 20.0,
+   "variacion": 5.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Santa Bárbara"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8311,
-   "2025": 22.0,
+   "2025": 24.0,
    "2026": 20.0,
-   "variacion": -9.0,
+   "variacion": -17.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Bárbara"
   },
@@ -129,18 +129,18 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8311,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 1.0,
-   "variacion": -50.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Bárbara"
   },
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8311,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 7.0,
-   "variacion": 40.0,
+   "variacion": 17.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Santa Bárbara"
   },
@@ -148,9 +148,9 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8311,
    "2025": 6.0,
-   "2026": 6.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 9.0,
+   "variacion": 50.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Santa Bárbara"
   },
   {
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8311,
    "2025": 26.0,
-   "2026": 17.0,
-   "variacion": -35.0,
+   "2026": 21.0,
+   "variacion": -19.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Santa Bárbara"
   },
@@ -320,6 +320,14 @@
    "COMUNA": "Santa Bárbara"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8311,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Santa Bárbara"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8311,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 8.0,
+   "COMUNA": "Santa Bárbara"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 8311,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Santa Bárbara"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Santa Bárbara"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 8311,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Santa Bárbara"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 8311,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 2.0,
+   "COMUNA": "Santa Bárbara"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8311,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Santa Bárbara"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "Santa Bárbara"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 8311,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Santa Bárbara"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 8311,
    "anio": 2025,
@@ -956,6 +996,14 @@
    "CODCOM": 8311,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Santa Bárbara"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 8311,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Santa Bárbara"
   },
@@ -1088,6 +1136,14 @@
    "COMUNA": "Santa Bárbara"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 8311,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Santa Bárbara"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 8311,
    "anio": 2025,
@@ -1216,6 +1272,14 @@
    "COMUNA": "Santa Bárbara"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 8311,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 4.0,
+   "COMUNA": "Santa Bárbara"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8311,
    "anio": 2025,
@@ -1340,6 +1404,14 @@
    "CODCOM": 8311,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Santa Bárbara"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 8311,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Santa Bárbara"
   },
@@ -1472,6 +1544,14 @@
    "COMUNA": "Santa Bárbara"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 8311,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Santa Bárbara"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8311,
    "anio": 2025,
@@ -1596,6 +1676,14 @@
    "CODCOM": 8311,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Santa Bárbara"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 8311,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Santa Bárbara"
   },
@@ -1728,6 +1816,14 @@
    "COMUNA": "Santa Bárbara"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 8311,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Santa Bárbara"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8311,
    "anio": 2025,
@@ -1856,6 +1952,14 @@
    "COMUNA": "Santa Bárbara"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8311,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Santa Bárbara"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 8311,
    "anio": 2025,
@@ -1984,6 +2088,14 @@
    "COMUNA": "Santa Bárbara"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8311,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Santa Bárbara"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8311,
    "anio": 2025,
@@ -2108,6 +2220,14 @@
    "CODCOM": 8311,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Santa Bárbara"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8311,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Santa Bárbara"
   },
@@ -2237,6 +2357,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 3.0,
+   "COMUNA": "Santa Bárbara"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 8311,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Santa Bárbara"
   },
   {
@@ -2368,6 +2496,14 @@
    "COMUNA": "Santa Bárbara"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 8311,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 3.0,
+   "COMUNA": "Santa Bárbara"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8311,
    "anio": 2025,
@@ -2492,6 +2628,14 @@
    "CODCOM": 8311,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Santa Bárbara"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 8311,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Santa Bárbara"
   },
@@ -2624,6 +2768,14 @@
    "COMUNA": "Santa Bárbara"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8311,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 4.0,
+   "COMUNA": "Santa Bárbara"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8311,
    "anio": 2025,
@@ -2749,6 +2901,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Santa Bárbara"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 8311,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Santa Bárbara"
   },
   {
@@ -2878,6 +3038,14 @@
    "mes": 4,
    "casos": 0.0,
    "COMUNA": "Santa Bárbara"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 8311,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Santa Bárbara"
   }
  ],
  "info": [
@@ -2896,7 +3064,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 116.0,
    "2025": 81.0,
-   "2026": 37.0,
+   "2026": 38.0,
    "COMUNA": "Santa Bárbara"
   },
   {
@@ -2905,7 +3073,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 238.0,
    "2025": 355.0,
-   "2026": 131.0,
+   "2026": 133.0,
    "COMUNA": "Santa Bárbara"
   },
   {
@@ -2923,7 +3091,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 112.0,
    "2025": 117.0,
-   "2026": 38.0,
+   "2026": 40.0,
    "COMUNA": "Santa Bárbara"
   },
   {
@@ -2941,7 +3109,7 @@
    "delito": "HURTOS",
    "2024": 65.0,
    "2025": 57.0,
-   "2026": 17.0,
+   "2026": 18.0,
    "COMUNA": "Santa Bárbara"
   },
   {
@@ -2950,7 +3118,7 @@
    "delito": "INCIVILIDADES",
    "2024": 58.0,
    "2025": 50.0,
-   "2026": 16.0,
+   "2026": 20.0,
    "COMUNA": "Santa Bárbara"
   },
   {
@@ -3031,7 +3199,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 7.0,
    "2025": 14.0,
-   "2026": 6.0,
+   "2026": 9.0,
    "COMUNA": "Santa Bárbara"
   },
   {
@@ -3049,7 +3217,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 86.0,
    "2025": 74.0,
-   "2026": 17.0,
+   "2026": 21.0,
    "COMUNA": "Santa Bárbara"
   },
   {
@@ -3072,7 +3240,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Biobío"
  }
 }

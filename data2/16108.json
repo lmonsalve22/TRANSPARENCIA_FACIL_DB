@@ -3,36 +3,36 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 16108,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "San Ignacio"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16108,
-   "2025": 37.0,
-   "2026": 42.0,
-   "variacion": 14.0,
+   "2025": 41.0,
+   "2026": 43.0,
+   "variacion": 5.0,
    "situación": "Aumento de Casos",
    "COMUNA": "San Ignacio"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16108,
-   "2025": 18.0,
-   "2026": 43.0,
-   "variacion": 139.0,
+   "2025": 19.0,
+   "2026": 44.0,
+   "variacion": 132.0,
    "situación": "Aumento de Casos",
    "COMUNA": "San Ignacio"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 16108,
-   "2025": 27.0,
-   "2026": 20.0,
-   "variacion": -26.0,
+   "2025": 29.0,
+   "2026": 22.0,
+   "variacion": -24.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Ignacio"
   },
@@ -75,8 +75,8 @@
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16108,
-   "2025": 1.0,
-   "2026": 2.0,
+   "2025": 2.0,
+   "2026": 4.0,
    "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "San Ignacio"
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16108,
-   "2025": 14.0,
-   "2026": 9.0,
-   "variacion": -36.0,
+   "2025": 15.0,
+   "2026": 10.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Ignacio"
   },
@@ -130,8 +130,8 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16108,
    "2025": 3.0,
-   "2026": 1.0,
-   "variacion": -67.0,
+   "2026": 2.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Ignacio"
   },
@@ -139,8 +139,8 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 16108,
    "2025": 3.0,
-   "2026": 0.0,
-   "variacion": -100.0,
+   "2026": 1.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Ignacio"
   },
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16108,
-   "2025": 30.0,
-   "2026": 29.0,
-   "variacion": -3.0,
-   "situación": "Disminución de Casos",
+   "2025": 32.0,
+   "2026": 33.0,
+   "variacion": 3.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "San Ignacio"
   },
   {
@@ -320,6 +320,14 @@
    "COMUNA": "San Ignacio"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 16108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "San Ignacio"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16108,
    "anio": 2025,
@@ -448,6 +456,14 @@
    "COMUNA": "San Ignacio"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 16108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "San Ignacio"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16108,
    "anio": 2025,
@@ -573,6 +589,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 3.0,
+   "COMUNA": "San Ignacio"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 16108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "San Ignacio"
   },
   {
@@ -704,6 +728,14 @@
    "COMUNA": "San Ignacio"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 16108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "San Ignacio"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16108,
    "anio": 2025,
@@ -832,6 +864,14 @@
    "COMUNA": "San Ignacio"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 16108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "San Ignacio"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 16108,
    "anio": 2025,
@@ -948,6 +988,14 @@
    "CODCOM": 16108,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "San Ignacio"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 16108,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "San Ignacio"
   },
@@ -1080,6 +1128,14 @@
    "COMUNA": "San Ignacio"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 16108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "San Ignacio"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 16108,
    "anio": 2025,
@@ -1208,6 +1264,14 @@
    "COMUNA": "San Ignacio"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 16108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "San Ignacio"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16108,
    "anio": 2025,
@@ -1332,6 +1396,14 @@
    "CODCOM": 16108,
    "anio": 2026,
    "mes": 4,
+   "casos": 2.0,
+   "COMUNA": "San Ignacio"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 16108,
+   "anio": 2026,
+   "mes": 5,
    "casos": 2.0,
    "COMUNA": "San Ignacio"
   },
@@ -1464,6 +1536,14 @@
    "COMUNA": "San Ignacio"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "San Ignacio"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16108,
    "anio": 2025,
@@ -1588,6 +1668,14 @@
    "CODCOM": 16108,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "San Ignacio"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16108,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "San Ignacio"
   },
@@ -1720,6 +1808,14 @@
    "COMUNA": "San Ignacio"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "San Ignacio"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 16108,
    "anio": 2025,
@@ -1848,6 +1944,14 @@
    "COMUNA": "San Ignacio"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 16108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "San Ignacio"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 16108,
    "anio": 2025,
@@ -1968,6 +2072,14 @@
    "COMUNA": "San Ignacio"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 16108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "San Ignacio"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16108,
    "anio": 2025,
@@ -2092,6 +2204,14 @@
    "CODCOM": 16108,
    "anio": 2026,
    "mes": 4,
+   "casos": 1.0,
+   "COMUNA": "San Ignacio"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16108,
+   "anio": 2026,
+   "mes": 5,
    "casos": 1.0,
    "COMUNA": "San Ignacio"
   },
@@ -2224,6 +2344,14 @@
    "COMUNA": "San Ignacio"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "San Ignacio"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 16108,
    "anio": 2025,
@@ -2348,6 +2476,14 @@
    "CODCOM": 16108,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "San Ignacio"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16108,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "San Ignacio"
   },
@@ -2477,6 +2613,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 2.0,
+   "COMUNA": "San Ignacio"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "San Ignacio"
   },
   {
@@ -2608,6 +2752,14 @@
    "COMUNA": "San Ignacio"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 16108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 4.0,
+   "COMUNA": "San Ignacio"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 16108,
    "anio": 2025,
@@ -2732,6 +2884,14 @@
    "CODCOM": 16108,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "San Ignacio"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 16108,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "San Ignacio"
   },
@@ -2861,6 +3021,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "San Ignacio"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 16108,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "San Ignacio"
   }
  ],
@@ -2880,7 +3048,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 112.0,
    "2025": 126.0,
-   "2026": 42.0,
+   "2026": 43.0,
    "COMUNA": "San Ignacio"
   },
   {
@@ -2889,7 +3057,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 65.0,
    "2025": 75.0,
-   "2026": 43.0,
+   "2026": 44.0,
    "COMUNA": "San Ignacio"
   },
   {
@@ -2898,7 +3066,7 @@
    "delito": "DAÑOS",
    "2024": 118.0,
    "2025": 81.0,
-   "2026": 20.0,
+   "2026": 22.0,
    "COMUNA": "San Ignacio"
   },
   {
@@ -2943,7 +3111,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 3.0,
    "2025": 4.0,
-   "2026": 2.0,
+   "2026": 4.0,
    "COMUNA": "San Ignacio"
   },
   {
@@ -2952,7 +3120,7 @@
    "delito": "LESIONES LEVES",
    "2024": 50.0,
    "2025": 38.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "San Ignacio"
   },
   {
@@ -2997,7 +3165,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 1.0,
    "2025": 3.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "San Ignacio"
   },
   {
@@ -3006,7 +3174,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 2.0,
    "2025": 6.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "San Ignacio"
   },
   {
@@ -3033,7 +3201,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 87.0,
    "2025": 77.0,
-   "2026": 29.0,
+   "2026": 33.0,
    "COMUNA": "San Ignacio"
   },
   {
@@ -3056,7 +3224,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "Ñuble"
  }
 }

@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9117,
-   "2025": 52.0,
-   "2026": 36.0,
-   "variacion": -31.0,
+   "2025": 53.0,
+   "2026": 38.0,
+   "variacion": -28.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Teodoro Schmidt"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9117,
-   "2025": 154.0,
-   "2026": 210.0,
-   "variacion": 36.0,
+   "2025": 162.0,
+   "2026": 215.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Teodoro Schmidt"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 9117,
    "2025": 18.0,
-   "2026": 18.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 19.0,
+   "variacion": 6.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Teodoro Schmidt"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9117,
-   "2025": 46.0,
-   "2026": 30.0,
-   "variacion": -35.0,
+   "2025": 47.0,
+   "2026": 32.0,
+   "variacion": -32.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Teodoro Schmidt"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 9117,
    "2025": 10.0,
-   "2026": 11.0,
-   "variacion": 10.0,
+   "2026": 12.0,
+   "variacion": 20.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Teodoro Schmidt"
   },
@@ -85,17 +85,17 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 9117,
    "2025": 8.0,
-   "2026": 8.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 9.0,
+   "variacion": 12.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Teodoro Schmidt"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9117,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 7.0,
-   "variacion": 250.0,
+   "variacion": 133.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Teodoro Schmidt"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9117,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 3.0,
-   "variacion": -25.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Teodoro Schmidt"
   }
@@ -320,6 +320,14 @@
    "COMUNA": "Teodoro Schmidt"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9117,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Teodoro Schmidt"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9117,
    "anio": 2025,
@@ -445,6 +453,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 14.0,
+   "COMUNA": "Teodoro Schmidt"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9117,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
    "COMUNA": "Teodoro Schmidt"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "Teodoro Schmidt"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9117,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 5.0,
+   "COMUNA": "Teodoro Schmidt"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 9117,
    "anio": 2025,
@@ -701,6 +725,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 4.0,
+   "COMUNA": "Teodoro Schmidt"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 9117,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Teodoro Schmidt"
   },
   {
@@ -832,6 +864,14 @@
    "COMUNA": "Teodoro Schmidt"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9117,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Teodoro Schmidt"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9117,
    "anio": 2025,
@@ -956,6 +996,14 @@
    "CODCOM": 9117,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Teodoro Schmidt"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9117,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Teodoro Schmidt"
   },
@@ -1088,6 +1136,14 @@
    "COMUNA": "Teodoro Schmidt"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9117,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Teodoro Schmidt"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9117,
    "anio": 2025,
@@ -1216,6 +1272,14 @@
    "COMUNA": "Teodoro Schmidt"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9117,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Teodoro Schmidt"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9117,
    "anio": 2025,
@@ -1340,6 +1404,14 @@
    "CODCOM": 9117,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Teodoro Schmidt"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9117,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Teodoro Schmidt"
   },
@@ -1469,6 +1541,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 3.0,
+   "COMUNA": "Teodoro Schmidt"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9117,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 1.0,
    "COMUNA": "Teodoro Schmidt"
   },
   {
@@ -1600,6 +1680,14 @@
    "COMUNA": "Teodoro Schmidt"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9117,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Teodoro Schmidt"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9117,
    "anio": 2025,
@@ -1725,6 +1813,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 2.0,
+   "COMUNA": "Teodoro Schmidt"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9117,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Teodoro Schmidt"
   },
   {
@@ -1856,6 +1952,14 @@
    "COMUNA": "Teodoro Schmidt"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9117,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Teodoro Schmidt"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9117,
    "anio": 2025,
@@ -1984,6 +2088,14 @@
    "COMUNA": "Teodoro Schmidt"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9117,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Teodoro Schmidt"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 9117,
    "anio": 2025,
@@ -2109,6 +2221,14 @@
    "anio": 2026,
    "mes": 4,
    "casos": 1.0,
+   "COMUNA": "Teodoro Schmidt"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9117,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
    "COMUNA": "Teodoro Schmidt"
   },
   {
@@ -2240,6 +2360,14 @@
    "COMUNA": "Teodoro Schmidt"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9117,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Teodoro Schmidt"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9117,
    "anio": 2025,
@@ -2368,6 +2496,14 @@
    "COMUNA": "Teodoro Schmidt"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9117,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Teodoro Schmidt"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9117,
    "anio": 2025,
@@ -2492,6 +2628,14 @@
    "CODCOM": 9117,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Teodoro Schmidt"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9117,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Teodoro Schmidt"
   },
@@ -2624,6 +2768,14 @@
    "COMUNA": "Teodoro Schmidt"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9117,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Teodoro Schmidt"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9117,
    "anio": 2025,
@@ -2744,6 +2896,14 @@
    "COMUNA": "Teodoro Schmidt"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9117,
+   "anio": 2026,
+   "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Teodoro Schmidt"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9117,
    "anio": 2025,
@@ -2868,6 +3028,14 @@
    "CODCOM": 9117,
    "anio": 2026,
    "mes": 4,
+   "casos": 0.0,
+   "COMUNA": "Teodoro Schmidt"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9117,
+   "anio": 2026,
+   "mes": 5,
    "casos": 0.0,
    "COMUNA": "Teodoro Schmidt"
   }
@@ -2888,7 +3056,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 105.0,
    "2025": 119.0,
-   "2026": 36.0,
+   "2026": 38.0,
    "COMUNA": "Teodoro Schmidt"
   },
   {
@@ -2897,7 +3065,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 336.0,
    "2025": 439.0,
-   "2026": 210.0,
+   "2026": 215.0,
    "COMUNA": "Teodoro Schmidt"
   },
   {
@@ -2906,7 +3074,7 @@
    "delito": "DAÑOS",
    "2024": 72.0,
    "2025": 51.0,
-   "2026": 18.0,
+   "2026": 19.0,
    "COMUNA": "Teodoro Schmidt"
   },
   {
@@ -2915,7 +3083,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 140.0,
    "2025": 116.0,
-   "2026": 30.0,
+   "2026": 32.0,
    "COMUNA": "Teodoro Schmidt"
   },
   {
@@ -2942,7 +3110,7 @@
    "delito": "INCIVILIDADES",
    "2024": 29.0,
    "2025": 25.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "Teodoro Schmidt"
   },
   {
@@ -2960,7 +3128,7 @@
    "delito": "LESIONES LEVES",
    "2024": 41.0,
    "2025": 25.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Teodoro Schmidt"
   },
   {
@@ -3064,7 +3232,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 18/2026 (del 27/04/2026 al 03/05/2026)",
+  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
   "region": "La Araucanía"
  }
 }
