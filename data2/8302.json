@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8302,
-   "2025": 8.0,
-   "2026": 11.0,
-   "variacion": 38.0,
+   "2025": 10.0,
+   "2026": 13.0,
+   "variacion": 30.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Antuco"
   },
@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8302,
    "2025": 11.0,
-   "2026": 22.0,
-   "variacion": 100.0,
+   "2026": 25.0,
+   "variacion": 127.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Antuco"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 8302,
    "2025": 16.0,
-   "2026": 12.0,
-   "variacion": -25.0,
+   "2026": 14.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Antuco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8302,
-   "2025": 8.0,
-   "2026": 12.0,
-   "variacion": 50.0,
+   "2025": 9.0,
+   "2026": 13.0,
+   "variacion": 44.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Antuco"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8302,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 9.0,
-   "variacion": 200.0,
+   "variacion": 125.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Antuco"
   },
@@ -85,9 +85,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 8302,
    "2025": 4.0,
-   "2026": 4.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 5.0,
+   "variacion": 25.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Antuco"
   },
   {
@@ -452,7 +452,7 @@
    "CODCOM": 8302,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Antuco"
   },
   {
@@ -588,7 +588,7 @@
    "CODCOM": 8302,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 3.0,
    "COMUNA": "Antuco"
   },
   {
@@ -724,7 +724,7 @@
    "CODCOM": 8302,
    "anio": 2026,
    "mes": 5,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Antuco"
   },
   {
@@ -860,7 +860,7 @@
    "CODCOM": 8302,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Antuco"
   },
   {
@@ -1540,7 +1540,7 @@
    "CODCOM": 8302,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Antuco"
   },
   {
@@ -3008,7 +3008,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 41.0,
    "2025": 18.0,
-   "2026": 11.0,
+   "2026": 13.0,
    "COMUNA": "Antuco"
   },
   {
@@ -3017,7 +3017,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 58.0,
    "2025": 38.0,
-   "2026": 22.0,
+   "2026": 25.0,
    "COMUNA": "Antuco"
   },
   {
@@ -3026,7 +3026,7 @@
    "delito": "DAÑOS",
    "2024": 24.0,
    "2025": 31.0,
-   "2026": 12.0,
+   "2026": 14.0,
    "COMUNA": "Antuco"
   },
   {
@@ -3035,7 +3035,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 46.0,
    "2025": 26.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "Antuco"
   },
   {
@@ -3080,7 +3080,7 @@
    "delito": "LESIONES LEVES",
    "2024": 10.0,
    "2025": 14.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Antuco"
   },
   {
@@ -3184,7 +3184,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
+  "semana_id": "SEMANA 20/2026 (del 11/05/2026 al 17/05/2026)",
   "region": "Biobío"
  }
 }

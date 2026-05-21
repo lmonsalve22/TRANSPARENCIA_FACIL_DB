@@ -12,27 +12,27 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4302,
-   "2025": 40.0,
+   "2025": 44.0,
    "2026": 32.0,
-   "variacion": -20.0,
+   "variacion": -27.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Combarbalá"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 4302,
-   "2025": 22.0,
-   "2026": 22.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 28.0,
+   "2026": 25.0,
+   "variacion": -11.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Combarbalá"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 4302,
-   "2025": 26.0,
-   "2026": 47.0,
-   "variacion": 81.0,
+   "2025": 27.0,
+   "2026": 48.0,
+   "variacion": 78.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Combarbalá"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 4302,
-   "2025": 14.0,
+   "2025": 15.0,
    "2026": 18.0,
-   "variacion": 29.0,
+   "variacion": 20.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Combarbalá"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 4302,
-   "2025": 5.0,
+   "2025": 8.0,
    "2026": 10.0,
-   "variacion": 100.0,
+   "variacion": 25.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Combarbalá"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 4302,
    "2025": 2.0,
-   "2026": 3.0,
-   "variacion": 50.0,
+   "2026": 4.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Combarbalá"
   }
@@ -596,7 +596,7 @@
    "CODCOM": 4302,
    "anio": 2026,
    "mes": 5,
-   "casos": 2.0,
+   "casos": 5.0,
    "COMUNA": "Combarbalá"
   },
   {
@@ -732,7 +732,7 @@
    "CODCOM": 4302,
    "anio": 2026,
    "mes": 5,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Combarbalá"
   },
   {
@@ -3020,7 +3020,7 @@
    "CODCOM": 4302,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Combarbalá"
   }
  ],
@@ -3049,7 +3049,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 85.0,
    "2025": 76.0,
-   "2026": 22.0,
+   "2026": 25.0,
    "COMUNA": "Combarbalá"
   },
   {
@@ -3058,7 +3058,7 @@
    "delito": "DAÑOS",
    "2024": 46.0,
    "2025": 73.0,
-   "2026": 47.0,
+   "2026": 48.0,
    "COMUNA": "Combarbalá"
   },
   {
@@ -3211,12 +3211,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 5.0,
    "2025": 5.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Combarbalá"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
+  "semana_id": "SEMANA 20/2026 (del 11/05/2026 al 17/05/2026)",
   "region": "Coquimbo"
  }
 }

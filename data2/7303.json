@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 7303,
-   "2025": 36.0,
-   "2026": 38.0,
-   "variacion": 6.0,
+   "2025": 39.0,
+   "2026": 40.0,
+   "variacion": 3.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Licantén"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7303,
-   "2025": 16.0,
+   "2025": 17.0,
    "2026": 22.0,
-   "variacion": 38.0,
+   "variacion": 29.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Licantén"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7303,
-   "2025": 17.0,
+   "2025": 18.0,
    "2026": 6.0,
-   "variacion": -65.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Licantén"
   },
@@ -166,9 +166,9 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7303,
    "2025": 15.0,
-   "2026": 14.0,
-   "variacion": -7.0,
-   "situación": "Disminución de Casos",
+   "2026": 16.0,
+   "variacion": 7.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Licantén"
   },
   {
@@ -732,7 +732,7 @@
    "CODCOM": 7303,
    "anio": 2026,
    "mes": 5,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Licantén"
   },
   {
@@ -2772,7 +2772,7 @@
    "CODCOM": 7303,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Licantén"
   },
   {
@@ -3074,7 +3074,7 @@
    "delito": "DAÑOS",
    "2024": 91.0,
    "2025": 110.0,
-   "2026": 38.0,
+   "2026": 40.0,
    "COMUNA": "Licantén"
   },
   {
@@ -3209,7 +3209,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 47.0,
    "2025": 43.0,
-   "2026": 14.0,
+   "2026": 16.0,
    "COMUNA": "Licantén"
   },
   {
@@ -3232,7 +3232,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
+  "semana_id": "SEMANA 20/2026 (del 11/05/2026 al 17/05/2026)",
   "region": "Maule"
  }
 }

@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16105,
-   "2025": 28.0,
-   "2026": 25.0,
-   "variacion": -11.0,
+   "2025": 29.0,
+   "2026": 28.0,
+   "variacion": -3.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pemuco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16105,
-   "2025": 19.0,
+   "2025": 21.0,
    "2026": 15.0,
-   "variacion": -21.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pemuco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 16105,
-   "2025": 28.0,
-   "2026": 31.0,
-   "variacion": 11.0,
+   "2025": 30.0,
+   "2026": 32.0,
+   "variacion": 7.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pemuco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16105,
-   "2025": 27.0,
-   "2026": 16.0,
-   "variacion": -41.0,
+   "2025": 28.0,
+   "2026": 17.0,
+   "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pemuco"
   },
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 16105,
    "2025": 3.0,
-   "2026": 2.0,
-   "variacion": -33.0,
-   "situación": "Disminución de Casos",
+   "2026": 3.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Pemuco"
   },
   {
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 16105,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 2.0,
-   "variacion": -67.0,
+   "variacion": -71.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pemuco"
   },
@@ -139,9 +139,9 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 16105,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Pemuco"
   },
   {
@@ -156,9 +156,9 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16105,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 11.0,
-   "variacion": 267.0,
+   "variacion": 175.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pemuco"
   },
@@ -452,7 +452,7 @@
    "CODCOM": 16105,
    "anio": 2026,
    "mes": 5,
-   "casos": 1.0,
+   "casos": 4.0,
    "COMUNA": "Pemuco"
   },
   {
@@ -724,7 +724,7 @@
    "CODCOM": 16105,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Pemuco"
   },
   {
@@ -860,7 +860,7 @@
    "CODCOM": 16105,
    "anio": 2026,
    "mes": 5,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Pemuco"
   },
   {
@@ -1260,7 +1260,7 @@
    "CODCOM": 16105,
    "anio": 2026,
    "mes": 5,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Pemuco"
   },
   {
@@ -2332,7 +2332,7 @@
    "CODCOM": 16105,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Pemuco"
   },
   {
@@ -3024,7 +3024,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 77.0,
    "2025": 62.0,
-   "2026": 25.0,
+   "2026": 28.0,
    "COMUNA": "Pemuco"
   },
   {
@@ -3042,7 +3042,7 @@
    "delito": "DAÑOS",
    "2024": 59.0,
    "2025": 64.0,
-   "2026": 31.0,
+   "2026": 32.0,
    "COMUNA": "Pemuco"
   },
   {
@@ -3051,7 +3051,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 54.0,
    "2025": 61.0,
-   "2026": 16.0,
+   "2026": 17.0,
    "COMUNA": "Pemuco"
   },
   {
@@ -3078,7 +3078,7 @@
    "delito": "INCIVILIDADES",
    "2024": 5.0,
    "2025": 8.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Pemuco"
   },
   {
@@ -3150,7 +3150,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 4.0,
    "2025": 0.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Pemuco"
   },
   {
@@ -3200,7 +3200,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
+  "semana_id": "SEMANA 20/2026 (del 11/05/2026 al 17/05/2026)",
   "region": "Ñuble"
  }
 }

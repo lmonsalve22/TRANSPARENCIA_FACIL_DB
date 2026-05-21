@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 7104,
    "2025": 9.0,
-   "2026": 10.0,
-   "variacion": 11.0,
+   "2026": 12.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Empedrado"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 7104,
    "2025": 2.0,
-   "2026": 3.0,
-   "variacion": 50.0,
+   "2026": 4.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Empedrado"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 7104,
    "2025": 2.0,
-   "2026": 8.0,
-   "variacion": 300.0,
+   "2026": 10.0,
+   "variacion": 400.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Empedrado"
   },
@@ -175,9 +175,9 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 7104,
    "2025": 4.0,
-   "2026": 3.0,
-   "variacion": -25.0,
-   "situación": "Disminución de Casos",
+   "2026": 4.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Empedrado"
   }
  ],
@@ -723,7 +723,7 @@
    "CODCOM": 7104,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -1123,7 +1123,7 @@
    "CODCOM": 7104,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -1523,7 +1523,7 @@
    "CODCOM": 7104,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -2835,7 +2835,7 @@
    "CODCOM": 7104,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Empedrado"
   }
  ],
@@ -2873,7 +2873,7 @@
    "delito": "DAÑOS",
    "2024": 35.0,
    "2025": 27.0,
-   "2026": 10.0,
+   "2026": 12.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -2900,7 +2900,7 @@
    "delito": "HURTOS",
    "2024": 7.0,
    "2025": 6.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -2927,7 +2927,7 @@
    "delito": "LESIONES LEVES",
    "2024": 16.0,
    "2025": 12.0,
-   "2026": 8.0,
+   "2026": 10.0,
    "COMUNA": "Empedrado"
   },
   {
@@ -3026,12 +3026,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 5.0,
    "2025": 9.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Empedrado"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
+  "semana_id": "SEMANA 20/2026 (del 11/05/2026 al 17/05/2026)",
   "region": "Maule"
  }
 }

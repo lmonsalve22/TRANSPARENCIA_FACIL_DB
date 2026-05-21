@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6206,
-   "2025": 22.0,
+   "2025": 23.0,
    "2026": 14.0,
-   "variacion": -36.0,
+   "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Paredones"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6206,
    "2025": 21.0,
-   "2026": 12.0,
-   "variacion": -43.0,
+   "2026": 13.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Paredones"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6206,
-   "2025": 5.0,
+   "2025": 7.0,
    "2026": 9.0,
-   "variacion": 80.0,
+   "variacion": 29.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Paredones"
   },
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 6206,
    "2025": 7.0,
-   "2026": 6.0,
-   "variacion": -14.0,
-   "situación": "Disminución de Casos",
+   "2026": 7.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Paredones"
   },
   {
@@ -868,7 +868,7 @@
    "CODCOM": 6206,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Paredones"
   },
   {
@@ -1276,7 +1276,7 @@
    "CODCOM": 6206,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Paredones"
   },
   {
@@ -3075,7 +3075,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 50.0,
    "2025": 46.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "Paredones"
   },
   {
@@ -3102,7 +3102,7 @@
    "delito": "INCIVILIDADES",
    "2024": 26.0,
    "2025": 10.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Paredones"
   },
   {
@@ -3224,7 +3224,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
+  "semana_id": "SEMANA 20/2026 (del 11/05/2026 al 17/05/2026)",
   "region": "O'Higgins"
  }
 }

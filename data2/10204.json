@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10204,
-   "2025": 13.0,
+   "2025": 14.0,
    "2026": 6.0,
-   "variacion": -54.0,
+   "variacion": -57.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curaco de Vélez"
   },
@@ -75,19 +75,19 @@
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10204,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Curaco de Vélez"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10204,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 2.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -2887,7 +2887,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
+  "semana_id": "SEMANA 20/2026 (del 11/05/2026 al 17/05/2026)",
   "region": "Los Lagos"
  }
 }

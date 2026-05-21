@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 15201,
-   "2025": 10.0,
+   "2025": 11.0,
    "2026": 20.0,
-   "variacion": 100.0,
+   "variacion": 82.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Putre"
   },
@@ -40,18 +40,18 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 15201,
    "2025": 6.0,
-   "2026": 2.0,
-   "variacion": -67.0,
+   "2026": 3.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Putre"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 15201,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Putre"
   },
   {
@@ -851,7 +851,7 @@
    "CODCOM": 15201,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Putre"
   },
   {
@@ -2874,7 +2874,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 9.0,
    "2025": 13.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Putre"
   },
   {
@@ -3023,7 +3023,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
+  "semana_id": "SEMANA 20/2026 (del 11/05/2026 al 17/05/2026)",
   "region": "Arica y Parinacota"
  }
 }

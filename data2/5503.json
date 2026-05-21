@@ -3,17 +3,17 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 5503,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 2.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Hijuelas"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5503,
-   "2025": 52.0,
-   "2026": 53.0,
+   "2025": 53.0,
+   "2026": 54.0,
    "variacion": 2.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Hijuelas"
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 5503,
-   "2025": 47.0,
+   "2025": 50.0,
    "2026": 43.0,
-   "variacion": -9.0,
+   "variacion": -14.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Hijuelas"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5503,
-   "2025": 51.0,
+   "2025": 54.0,
    "2026": 27.0,
-   "variacion": -47.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Hijuelas"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5503,
-   "2025": 41.0,
-   "2026": 30.0,
-   "variacion": -27.0,
+   "2025": 44.0,
+   "2026": 33.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Hijuelas"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5503,
-   "2025": 11.0,
+   "2025": 12.0,
    "2026": 16.0,
-   "variacion": 45.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Hijuelas"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5503,
-   "2025": 19.0,
-   "2026": 14.0,
-   "variacion": -26.0,
+   "2025": 21.0,
+   "2026": 15.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Hijuelas"
   },
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5503,
    "2025": 6.0,
-   "2026": 3.0,
-   "variacion": -50.0,
+   "2026": 4.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Hijuelas"
   },
@@ -157,17 +157,17 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5503,
    "2025": 25.0,
-   "2026": 22.0,
-   "variacion": -12.0,
-   "situación": "Disminución de Casos",
+   "2026": 26.0,
+   "variacion": 4.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Hijuelas"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5503,
    "2025": 39.0,
-   "2026": 44.0,
-   "variacion": 13.0,
+   "2026": 46.0,
+   "variacion": 18.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Hijuelas"
   },
@@ -460,7 +460,7 @@
    "CODCOM": 5503,
    "anio": 2026,
    "mes": 5,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Hijuelas"
   },
   {
@@ -1132,7 +1132,7 @@
    "CODCOM": 5503,
    "anio": 2026,
    "mes": 5,
-   "casos": 1.0,
+   "casos": 4.0,
    "COMUNA": "Hijuelas"
   },
   {
@@ -1540,7 +1540,7 @@
    "CODCOM": 5503,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Hijuelas"
   },
   {
@@ -2492,7 +2492,7 @@
    "CODCOM": 5503,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Hijuelas"
   },
   {
@@ -2628,7 +2628,7 @@
    "CODCOM": 5503,
    "anio": 2026,
    "mes": 5,
-   "casos": 2.0,
+   "casos": 6.0,
    "COMUNA": "Hijuelas"
   },
   {
@@ -2764,7 +2764,7 @@
    "CODCOM": 5503,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Hijuelas"
   },
   {
@@ -3056,7 +3056,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 129.0,
    "2025": 113.0,
-   "2026": 53.0,
+   "2026": 54.0,
    "COMUNA": "Hijuelas"
   },
   {
@@ -3101,7 +3101,7 @@
    "delito": "HURTOS",
    "2024": 119.0,
    "2025": 86.0,
-   "2026": 30.0,
+   "2026": 33.0,
    "COMUNA": "Hijuelas"
   },
   {
@@ -3128,7 +3128,7 @@
    "delito": "LESIONES LEVES",
    "2024": 42.0,
    "2025": 44.0,
-   "2026": 14.0,
+   "2026": 15.0,
    "COMUNA": "Hijuelas"
   },
   {
@@ -3191,7 +3191,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 29.0,
    "2025": 28.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Hijuelas"
   },
   {
@@ -3200,7 +3200,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 101.0,
    "2025": 58.0,
-   "2026": 22.0,
+   "2026": 26.0,
    "COMUNA": "Hijuelas"
   },
   {
@@ -3209,7 +3209,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 75.0,
    "2025": 99.0,
-   "2026": 44.0,
+   "2026": 46.0,
    "COMUNA": "Hijuelas"
   },
   {
@@ -3232,7 +3232,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 19/2026 (del 04/05/2026 al 10/05/2026)",
+  "semana_id": "SEMANA 20/2026 (del 11/05/2026 al 17/05/2026)",
   "region": "Valparaíso"
  }
 }
