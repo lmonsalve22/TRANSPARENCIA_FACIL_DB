@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10209,
-   "2025": 15.0,
+   "2025": 17.0,
    "2026": 7.0,
-   "variacion": -53.0,
+   "variacion": -59.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quemchi"
   },
@@ -30,10 +30,10 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 10209,
-   "2025": 11.0,
+   "2025": 14.0,
    "2026": 11.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -21.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Quemchi"
   },
   {
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 10209,
    "2025": 4.0,
-   "2026": 2.0,
-   "variacion": -50.0,
+   "2026": 3.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Quemchi"
   },
@@ -1507,7 +1507,7 @@
    "CODCOM": 10209,
    "anio": 2026,
    "mes": 5,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -2943,7 +2943,7 @@
    "delito": "LESIONES LEVES",
    "2024": 24.0,
    "2025": 11.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Quemchi"
   },
   {
@@ -3047,7 +3047,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 20/2026 (del 11/05/2026 al 17/05/2026)",
+  "semana_id": "SEMANA 21/2026 (del 18/05/2026 al 24/05/2026)",
   "region": "Los Lagos"
  }
 }

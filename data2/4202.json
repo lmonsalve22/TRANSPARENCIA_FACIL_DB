@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4202,
-   "2025": 15.0,
+   "2025": 17.0,
    "2026": 19.0,
-   "variacion": 27.0,
+   "variacion": 12.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Canela"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 4202,
-   "2025": 41.0,
+   "2025": 43.0,
    "2026": 40.0,
-   "variacion": -2.0,
+   "variacion": -7.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Canela"
   },
@@ -58,9 +58,9 @@
    "delito": "HURTOS",
    "CODCOM": 4202,
    "2025": 9.0,
-   "2026": 8.0,
-   "variacion": -11.0,
-   "situación": "Disminución de Casos",
+   "2026": 9.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Canela"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 4202,
-   "2025": 10.0,
+   "2025": 11.0,
    "2026": 9.0,
-   "variacion": -10.0,
+   "variacion": -18.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Canela"
   },
@@ -130,17 +130,17 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 4202,
    "2025": 26.0,
-   "2026": 28.0,
-   "variacion": 8.0,
+   "2026": 31.0,
+   "variacion": 19.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Canela"
   },
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 4202,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 2.0,
-   "variacion": -60.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Canela"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 4202,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 2.0,
-   "variacion": -67.0,
+   "variacion": -71.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Canela"
   }
@@ -1132,7 +1132,7 @@
    "CODCOM": 4202,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Canela"
   },
   {
@@ -2220,7 +2220,7 @@
    "CODCOM": 4202,
    "anio": 2026,
    "mes": 5,
-   "casos": 4.0,
+   "casos": 7.0,
    "COMUNA": "Canela"
   },
   {
@@ -3093,7 +3093,7 @@
    "delito": "HURTOS",
    "2024": 17.0,
    "2025": 21.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Canela"
   },
   {
@@ -3165,7 +3165,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 36.0,
    "2025": 47.0,
-   "2026": 28.0,
+   "2026": 31.0,
    "COMUNA": "Canela"
   },
   {
@@ -3224,7 +3224,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 20/2026 (del 11/05/2026 al 17/05/2026)",
+  "semana_id": "SEMANA 21/2026 (del 18/05/2026 al 24/05/2026)",
   "region": "Coquimbo"
  }
 }

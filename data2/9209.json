@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9209,
-   "2025": 48.0,
-   "2026": 42.0,
-   "variacion": -12.0,
+   "2025": 53.0,
+   "2026": 43.0,
+   "variacion": -19.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Renaico"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 9209,
-   "2025": 31.0,
+   "2025": 38.0,
    "2026": 28.0,
-   "variacion": -10.0,
+   "variacion": -26.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Renaico"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9209,
-   "2025": 41.0,
+   "2025": 43.0,
    "2026": 62.0,
-   "variacion": 51.0,
+   "variacion": 44.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Renaico"
   },
@@ -58,45 +58,45 @@
    "delito": "HURTOS",
    "CODCOM": 9209,
    "2025": 31.0,
-   "2026": 18.0,
-   "variacion": -42.0,
+   "2026": 19.0,
+   "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Renaico"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9209,
-   "2025": 22.0,
+   "2025": 24.0,
    "2026": 25.0,
-   "variacion": 14.0,
+   "variacion": 4.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Renaico"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9209,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Renaico"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9209,
    "2025": 24.0,
-   "2026": 15.0,
-   "variacion": -38.0,
+   "2026": 17.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Renaico"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9209,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 3.0,
-   "variacion": 50.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Renaico"
   },
   {
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9209,
    "2025": 39.0,
-   "2026": 25.0,
-   "variacion": -36.0,
+   "2026": 26.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Renaico"
   },
@@ -460,7 +460,7 @@
    "CODCOM": 9209,
    "anio": 2026,
    "mes": 5,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Renaico"
   },
   {
@@ -1140,7 +1140,7 @@
    "CODCOM": 9209,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Renaico"
   },
   {
@@ -1548,7 +1548,7 @@
    "CODCOM": 9209,
    "anio": 2026,
    "mes": 5,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Renaico"
   },
   {
@@ -2772,7 +2772,7 @@
    "CODCOM": 9209,
    "anio": 2026,
    "mes": 5,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Renaico"
   },
   {
@@ -3064,7 +3064,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 126.0,
    "2025": 108.0,
-   "2026": 42.0,
+   "2026": 43.0,
    "COMUNA": "Renaico"
   },
   {
@@ -3109,7 +3109,7 @@
    "delito": "HURTOS",
    "2024": 60.0,
    "2025": 60.0,
-   "2026": 18.0,
+   "2026": 19.0,
    "COMUNA": "Renaico"
   },
   {
@@ -3136,7 +3136,7 @@
    "delito": "LESIONES LEVES",
    "2024": 43.0,
    "2025": 46.0,
-   "2026": 15.0,
+   "2026": 17.0,
    "COMUNA": "Renaico"
   },
   {
@@ -3217,7 +3217,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 74.0,
    "2025": 88.0,
-   "2026": 25.0,
+   "2026": 26.0,
    "COMUNA": "Renaico"
   },
   {
@@ -3240,7 +3240,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 20/2026 (del 11/05/2026 al 17/05/2026)",
+  "semana_id": "SEMANA 21/2026 (del 18/05/2026 al 24/05/2026)",
   "region": "La Araucanía"
  }
 }

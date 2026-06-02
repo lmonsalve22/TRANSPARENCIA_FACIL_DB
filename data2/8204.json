@@ -12,10 +12,10 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8204,
-   "2025": 18.0,
+   "2025": 19.0,
    "2026": 18.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -5.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Contulmo"
   },
   {
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 8204,
-   "2025": 13.0,
+   "2025": 14.0,
    "2026": 16.0,
-   "variacion": 23.0,
+   "variacion": 14.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Contulmo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8204,
-   "2025": 16.0,
+   "2025": 17.0,
    "2026": 12.0,
-   "variacion": -25.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Contulmo"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8204,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 9.0,
-   "variacion": 50.0,
+   "variacion": 29.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Contulmo"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8204,
-   "2025": 3.0,
-   "2026": 13.0,
-   "variacion": 333.0,
+   "2025": 4.0,
+   "2026": 14.0,
+   "variacion": 250.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Contulmo"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8204,
-   "2025": 3.0,
-   "2026": 1.0,
-   "variacion": -67.0,
+   "2025": 4.0,
+   "2026": 2.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Contulmo"
   }
@@ -2740,7 +2740,7 @@
    "CODCOM": 8204,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -3004,7 +3004,7 @@
    "CODCOM": 8204,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Contulmo"
   }
  ],
@@ -3177,7 +3177,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 22.0,
    "2025": 15.0,
-   "2026": 13.0,
+   "2026": 14.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -3195,12 +3195,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 4.0,
    "2025": 6.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Contulmo"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 20/2026 (del 11/05/2026 al 17/05/2026)",
+  "semana_id": "SEMANA 21/2026 (del 18/05/2026 al 24/05/2026)",
   "region": "Biobío"
  }
 }

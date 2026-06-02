@@ -12,26 +12,26 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10307,
-   "2025": 31.0,
+   "2025": 35.0,
    "2026": 30.0,
-   "variacion": -3.0,
+   "variacion": -14.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pablo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10307,
-   "2025": 35.0,
+   "2025": 36.0,
    "2026": 23.0,
-   "variacion": -34.0,
+   "variacion": -36.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pablo"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10307,
-   "2025": 43.0,
-   "2026": 33.0,
+   "2025": 44.0,
+   "2026": 34.0,
    "variacion": -23.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pablo"
@@ -39,10 +39,10 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10307,
-   "2025": 44.0,
-   "2026": 42.0,
-   "variacion": -5.0,
-   "situación": "Disminución de Casos",
+   "2025": 45.0,
+   "2026": 45.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "San Pablo"
   },
   {
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10307,
-   "2025": 45.0,
-   "2026": 36.0,
-   "variacion": -20.0,
+   "2025": 47.0,
+   "2026": 37.0,
+   "variacion": -21.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pablo"
   },
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 10307,
    "2025": 10.0,
-   "2026": 10.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 11.0,
+   "variacion": 10.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "San Pablo"
   },
   {
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 10307,
    "2025": 20.0,
-   "2026": 9.0,
-   "variacion": -55.0,
+   "2026": 10.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pablo"
   },
@@ -102,7 +102,7 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10307,
-   "2025": 7.0,
+   "2025": 8.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10307,
    "2025": 25.0,
-   "2026": 11.0,
-   "variacion": -56.0,
+   "2026": 13.0,
+   "variacion": -48.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pablo"
   },
@@ -732,7 +732,7 @@
    "CODCOM": 10307,
    "anio": 2026,
    "mes": 5,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "San Pablo"
   },
   {
@@ -868,7 +868,7 @@
    "CODCOM": 10307,
    "anio": 2026,
    "mes": 5,
-   "casos": 4.0,
+   "casos": 7.0,
    "COMUNA": "San Pablo"
   },
   {
@@ -1140,7 +1140,7 @@
    "CODCOM": 10307,
    "anio": 2026,
    "mes": 5,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "San Pablo"
   },
   {
@@ -1276,7 +1276,7 @@
    "CODCOM": 10307,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "San Pablo"
   },
   {
@@ -1540,7 +1540,7 @@
    "CODCOM": 10307,
    "anio": 2026,
    "mes": 5,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "San Pablo"
   },
   {
@@ -2756,7 +2756,7 @@
    "CODCOM": 10307,
    "anio": 2026,
    "mes": 5,
-   "casos": 4.0,
+   "casos": 6.0,
    "COMUNA": "San Pablo"
   },
   {
@@ -3066,7 +3066,7 @@
    "delito": "DAÑOS",
    "2024": 119.0,
    "2025": 117.0,
-   "2026": 33.0,
+   "2026": 34.0,
    "COMUNA": "San Pablo"
   },
   {
@@ -3075,7 +3075,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 119.0,
    "2025": 144.0,
-   "2026": 42.0,
+   "2026": 45.0,
    "COMUNA": "San Pablo"
   },
   {
@@ -3093,7 +3093,7 @@
    "delito": "HURTOS",
    "2024": 69.0,
    "2025": 93.0,
-   "2026": 36.0,
+   "2026": 37.0,
    "COMUNA": "San Pablo"
   },
   {
@@ -3102,7 +3102,7 @@
    "delito": "INCIVILIDADES",
    "2024": 36.0,
    "2025": 23.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "San Pablo"
   },
   {
@@ -3120,7 +3120,7 @@
    "delito": "LESIONES LEVES",
    "2024": 45.0,
    "2025": 41.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "San Pablo"
   },
   {
@@ -3201,7 +3201,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 52.0,
    "2025": 43.0,
-   "2026": 11.0,
+   "2026": 13.0,
    "COMUNA": "San Pablo"
   },
   {
@@ -3224,7 +3224,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 20/2026 (del 11/05/2026 al 17/05/2026)",
+  "semana_id": "SEMANA 21/2026 (del 18/05/2026 al 24/05/2026)",
   "region": "Los Lagos"
  }
 }

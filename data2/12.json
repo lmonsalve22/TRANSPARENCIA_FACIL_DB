@@ -3,45 +3,45 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 12,
-   "2025": 12.0,
+   "2025": 13.0,
    "2026": 14.0,
-   "variacion": 17,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "NO COMUNA"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 12,
-   "2025": 352.0,
-   "2026": 381.0,
-   "variacion": 8,
+   "2025": 371.0,
+   "2026": 392.0,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "NO COMUNA"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 12,
-   "2025": 497.0,
-   "2026": 411.0,
-   "variacion": -17,
+   "2025": 537.0,
+   "2026": 424.0,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "NO COMUNA"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 12,
-   "2025": 369.0,
-   "2026": 344.0,
-   "variacion": -7,
+   "2025": 385.0,
+   "2026": 362.0,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "NO COMUNA"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 12,
-   "2025": 437.0,
-   "2026": 380.0,
-   "variacion": -13,
+   "2025": 466.0,
+   "2026": 401.0,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "NO COMUNA"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 12,
-   "2025": 193.0,
-   "2026": 189.0,
-   "variacion": -2,
+   "2025": 208.0,
+   "2026": 202.0,
+   "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "NO COMUNA"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 12,
-   "2025": 135.0,
-   "2026": 121.0,
-   "variacion": -10,
+   "2025": 141.0,
+   "2026": 126.0,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "NO COMUNA"
   },
@@ -84,17 +84,17 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 12,
-   "2025": 169.0,
-   "2026": 174.0,
-   "variacion": 3,
+   "2025": 172.0,
+   "2026": 181.0,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "NO COMUNA"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 12,
-   "2025": 31.0,
-   "2026": 32.0,
+   "2025": 32.0,
+   "2026": 33.0,
    "variacion": 3,
    "situación": "Aumento de Casos",
    "COMUNA": "NO COMUNA"
@@ -103,17 +103,17 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 12,
    "2025": 31.0,
-   "2026": 46.0,
-   "variacion": 48,
+   "2026": 49.0,
+   "variacion": 58,
    "situación": "Aumento de Casos",
    "COMUNA": "NO COMUNA"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 12,
-   "2025": 32.0,
-   "2026": 59.0,
-   "variacion": 84,
+   "2025": 33.0,
+   "2026": 60.0,
+   "variacion": 82,
    "situación": "Aumento de Casos",
    "COMUNA": "NO COMUNA"
   },
@@ -138,14 +138,23 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 12,
-   "2025": 5.0,
-   "2026": 11.0,
-   "variacion": 120,
+   "2025": 6.0,
+   "2026": 12.0,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "NO COMUNA"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 12,
+   "2025": 24.0,
+   "2026": 29.0,
+   "variacion": 21,
+   "situación": "Aumento de Casos",
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 12,
    "2025": 24.0,
    "2026": 26.0,
@@ -154,21 +163,12 @@
    "COMUNA": "NO COMUNA"
   },
   {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 12,
-   "2025": 23.0,
-   "2026": 26.0,
-   "variacion": 13,
-   "situación": "Aumento de Casos",
-   "COMUNA": "NO COMUNA"
-  },
-  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 12,
-   "2025": 49.0,
+   "2025": 54.0,
    "2026": 49.0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -9,
+   "situación": "Disminución de Casos",
    "COMUNA": "NO COMUNA"
   },
   {
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 12,
-   "2025": 37.0,
-   "2026": 25.0,
-   "variacion": -32,
+   "2025": 39.0,
+   "2026": 26.0,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "NO COMUNA"
   }
@@ -460,7 +460,7 @@
    "CODCOM": 12,
    "anio": 2026,
    "mes": 5,
-   "casos": 40.0,
+   "casos": 51.0,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 12,
    "anio": 2026,
    "mes": 5,
-   "casos": 52.0,
+   "casos": 65.0,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -732,7 +732,7 @@
    "CODCOM": 12,
    "anio": 2026,
    "mes": 5,
-   "casos": 31.0,
+   "casos": 49.0,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -868,7 +868,7 @@
    "CODCOM": 12,
    "anio": 2026,
    "mes": 5,
-   "casos": 39.0,
+   "casos": 60.0,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -1140,7 +1140,7 @@
    "CODCOM": 12,
    "anio": 2026,
    "mes": 5,
-   "casos": 16.0,
+   "casos": 29.0,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -1276,7 +1276,7 @@
    "CODCOM": 12,
    "anio": 2026,
    "mes": 5,
-   "casos": 13.0,
+   "casos": 18.0,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -1548,7 +1548,7 @@
    "CODCOM": 12,
    "anio": 2026,
    "mes": 5,
-   "casos": 18.0,
+   "casos": 25.0,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -1684,7 +1684,7 @@
    "CODCOM": 12,
    "anio": 2026,
    "mes": 5,
-   "casos": 4.0,
+   "casos": 5.0,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -1820,7 +1820,7 @@
    "CODCOM": 12,
    "anio": 2026,
    "mes": 5,
-   "casos": 4.0,
+   "casos": 7.0,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -1956,7 +1956,7 @@
    "CODCOM": 12,
    "anio": 2026,
    "mes": 5,
-   "casos": 7.0,
+   "casos": 8.0,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -2364,7 +2364,7 @@
    "CODCOM": 12,
    "anio": 2026,
    "mes": 5,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -2500,7 +2500,7 @@
    "CODCOM": 12,
    "anio": 2026,
    "mes": 5,
-   "casos": 2.0,
+   "casos": 5.0,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -3044,7 +3044,7 @@
    "CODCOM": 12,
    "anio": 2026,
    "mes": 5,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "NO COMUNA"
   }
  ],
@@ -3054,7 +3054,7 @@
    "CODCOM": 12,
    "delito": "AMENAZAS CON ARMAS",
    "2024": 15.0,
-   "2025": 12.0,
+   "2025": 13.0,
    "2026": 14.0,
    "COMUNA": "NO COMUNA"
   },
@@ -3062,36 +3062,36 @@
    "informacion": "Casos",
    "CODCOM": 12,
    "delito": "AMENAZAS Y RIÑAS",
-   "2024": 350.0,
-   "2025": 352.0,
-   "2026": 381.0,
+   "2024": 372.0,
+   "2025": 371.0,
+   "2026": 392.0,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2024": 468.0,
-   "2025": 497.0,
-   "2026": 411.0,
+   "2024": 513.0,
+   "2025": 537.0,
+   "2026": 424.0,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12,
    "delito": "DAÑOS",
-   "2024": 427.0,
-   "2025": 369.0,
-   "2026": 344.0,
+   "2024": 444.0,
+   "2025": 385.0,
+   "2026": 362.0,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2024": 406.0,
-   "2025": 437.0,
-   "2026": 380.0,
+   "2024": 424.0,
+   "2025": 466.0,
+   "2026": 401.0,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -3107,18 +3107,18 @@
    "informacion": "Casos",
    "CODCOM": 12,
    "delito": "HURTOS",
-   "2024": 205.0,
-   "2025": 193.0,
-   "2026": 189.0,
+   "2024": 212.0,
+   "2025": 208.0,
+   "2026": 202.0,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12,
    "delito": "INCIVILIDADES",
-   "2024": 114.0,
-   "2025": 135.0,
-   "2026": 121.0,
+   "2024": 120.0,
+   "2025": 141.0,
+   "2026": 126.0,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -3134,27 +3134,27 @@
    "informacion": "Casos",
    "CODCOM": 12,
    "delito": "LESIONES LEVES",
-   "2024": 180.0,
-   "2025": 169.0,
-   "2026": 174.0,
+   "2024": 184.0,
+   "2025": 172.0,
+   "2026": 181.0,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12,
    "delito": "LESIONES MENOS GRAVES",
-   "2024": 30.0,
-   "2025": 31.0,
-   "2026": 32.0,
+   "2024": 32.0,
+   "2025": 32.0,
+   "2026": 33.0,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2024": 44.0,
+   "2024": 48.0,
    "2025": 31.0,
-   "2026": 46.0,
+   "2026": 49.0,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -3162,15 +3162,15 @@
    "CODCOM": 12,
    "delito": "LEY DE DROGAS",
    "2024": 39.0,
-   "2025": 32.0,
-   "2026": 59.0,
+   "2025": 33.0,
+   "2026": 60.0,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12,
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "2024": 2.0,
+   "2024": 3.0,
    "2025": 7.0,
    "2026": 2.0,
    "COMUNA": "NO COMUNA"
@@ -3189,8 +3189,8 @@
    "CODCOM": 12,
    "delito": "RECEPTACIÓN",
    "2024": 7.0,
-   "2025": 5.0,
-   "2026": 11.0,
+   "2025": 6.0,
+   "2026": 12.0,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -3199,15 +3199,15 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 23.0,
    "2025": 24.0,
-   "2026": 26.0,
+   "2026": 29.0,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2024": 30.0,
-   "2025": 23.0,
+   "2024": 32.0,
+   "2025": 24.0,
    "2026": 26.0,
    "COMUNA": "NO COMUNA"
   },
@@ -3215,8 +3215,8 @@
    "informacion": "Casos",
    "CODCOM": 12,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2024": 68.0,
-   "2025": 49.0,
+   "2024": 74.0,
+   "2025": 54.0,
    "2026": 49.0,
    "COMUNA": "NO COMUNA"
   },
@@ -3234,13 +3234,13 @@
    "CODCOM": 12,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 51.0,
-   "2025": 37.0,
-   "2026": 25.0,
+   "2025": 39.0,
+   "2026": 26.0,
    "COMUNA": "NO COMUNA"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 20/2026 (del 11/05/2026 al 17/05/2026)",
+  "semana_id": "SEMANA 21/2026 (del 18/05/2026 al 24/05/2026)",
   "region": "Magallanes"
  }
 }

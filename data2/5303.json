@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5303,
-   "2025": 36.0,
+   "2025": 40.0,
    "2026": 46.0,
-   "variacion": 28.0,
+   "variacion": 15.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Rinconada"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5303,
-   "2025": 5.0,
-   "2026": 4.0,
-   "variacion": -20.0,
+   "2025": 6.0,
+   "2026": 5.0,
+   "variacion": -17.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Rinconada"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 5303,
    "2025": 26.0,
-   "2026": 31.0,
-   "variacion": 19.0,
+   "2026": 34.0,
+   "variacion": 31.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Rinconada"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5303,
-   "2025": 32.0,
+   "2025": 33.0,
    "2026": 26.0,
-   "variacion": -19.0,
+   "variacion": -21.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Rinconada"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5303,
-   "2025": 8.0,
-   "2026": 14.0,
-   "variacion": 75.0,
+   "2025": 10.0,
+   "2026": 15.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Rinconada"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5303,
-   "2025": 10.0,
+   "2025": 11.0,
    "2026": 7.0,
-   "variacion": -30.0,
+   "variacion": -36.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Rinconada"
   },
@@ -138,7 +138,7 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 5303,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5303,
-   "2025": 45.0,
-   "2026": 24.0,
-   "variacion": -47.0,
+   "2025": 50.0,
+   "2026": 27.0,
+   "variacion": -46.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Rinconada"
   },
@@ -184,9 +184,9 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5303,
    "2025": 3.0,
-   "2026": 2.0,
-   "variacion": -33.0,
-   "situación": "Disminución de Casos",
+   "2026": 3.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Rinconada"
   }
  ],
@@ -596,7 +596,7 @@
    "CODCOM": 5303,
    "anio": 2026,
    "mes": 5,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Rinconada"
   },
   {
@@ -732,7 +732,7 @@
    "CODCOM": 5303,
    "anio": 2026,
    "mes": 5,
-   "casos": 2.0,
+   "casos": 5.0,
    "COMUNA": "Rinconada"
   },
   {
@@ -1268,7 +1268,7 @@
    "CODCOM": 5303,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Rinconada"
   },
   {
@@ -2756,7 +2756,7 @@
    "CODCOM": 5303,
    "anio": 2026,
    "mes": 5,
-   "casos": 2.0,
+   "casos": 5.0,
    "COMUNA": "Rinconada"
   },
   {
@@ -3028,7 +3028,7 @@
    "CODCOM": 5303,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Rinconada"
   }
  ],
@@ -3057,7 +3057,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 12.0,
    "2025": 15.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Rinconada"
   },
   {
@@ -3066,7 +3066,7 @@
    "delito": "DAÑOS",
    "2024": 96.0,
    "2025": 103.0,
-   "2026": 31.0,
+   "2026": 34.0,
    "COMUNA": "Rinconada"
   },
   {
@@ -3102,7 +3102,7 @@
    "delito": "INCIVILIDADES",
    "2024": 37.0,
    "2025": 39.0,
-   "2026": 14.0,
+   "2026": 15.0,
    "COMUNA": "Rinconada"
   },
   {
@@ -3201,7 +3201,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 89.0,
    "2025": 114.0,
-   "2026": 24.0,
+   "2026": 27.0,
    "COMUNA": "Rinconada"
   },
   {
@@ -3219,12 +3219,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 6.0,
    "2025": 7.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Rinconada"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 20/2026 (del 11/05/2026 al 17/05/2026)",
+  "semana_id": "SEMANA 21/2026 (del 18/05/2026 al 24/05/2026)",
   "region": "Valparaíso"
  }
 }
