@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13505,
-   "2025": 41.0,
-   "2026": 39.0,
+   "2025": 43.0,
+   "2026": 41.0,
    "variacion": -5.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pedro"
@@ -21,27 +21,27 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13505,
-   "2025": 19.0,
+   "2025": 22.0,
    "2026": 24.0,
-   "variacion": 26.0,
+   "variacion": 9.0,
    "situación": "Aumento de Casos",
    "COMUNA": "San Pedro"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 13505,
-   "2025": 50.0,
-   "2026": 54.0,
-   "variacion": 8.0,
+   "2025": 54.0,
+   "2026": 58.0,
+   "variacion": 7.0,
    "situación": "Aumento de Casos",
    "COMUNA": "San Pedro"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13505,
-   "2025": 34.0,
+   "2025": 35.0,
    "2026": 40.0,
-   "variacion": 18.0,
+   "variacion": 14.0,
    "situación": "Aumento de Casos",
    "COMUNA": "San Pedro"
   },
@@ -66,10 +66,10 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 13505,
-   "2025": 16.0,
+   "2025": 21.0,
    "2026": 16.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -24.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "San Pedro"
   },
   {
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 13505,
    "2025": 18.0,
-   "2026": 14.0,
-   "variacion": -22.0,
+   "2026": 15.0,
+   "variacion": -17.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pedro"
   },
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13505,
-   "2025": 35.0,
-   "2026": 36.0,
-   "variacion": 3.0,
-   "situación": "Aumento de Casos",
+   "2025": 37.0,
+   "2026": 37.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "San Pedro"
   },
   {
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 13505,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 3.0,
-   "variacion": -50.0,
+   "variacion": -57.0,
    "situación": "Disminución de Casos",
    "COMUNA": "San Pedro"
   }
@@ -460,7 +460,7 @@
    "CODCOM": 13505,
    "anio": 2026,
    "mes": 5,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "San Pedro"
   },
   {
@@ -732,7 +732,7 @@
    "CODCOM": 13505,
    "anio": 2026,
    "mes": 5,
-   "casos": 8.0,
+   "casos": 12.0,
    "COMUNA": "San Pedro"
   },
   {
@@ -1468,7 +1468,7 @@
    "CODCOM": 13505,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "San Pedro"
   },
   {
@@ -2692,7 +2692,7 @@
    "CODCOM": 13505,
    "anio": 2026,
    "mes": 5,
-   "casos": 7.0,
+   "casos": 8.0,
    "COMUNA": "San Pedro"
   },
   {
@@ -2976,7 +2976,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 70.0,
    "2025": 89.0,
-   "2026": 39.0,
+   "2026": 41.0,
    "COMUNA": "San Pedro"
   },
   {
@@ -2994,7 +2994,7 @@
    "delito": "DAÑOS",
    "2024": 102.0,
    "2025": 116.0,
-   "2026": 54.0,
+   "2026": 58.0,
    "COMUNA": "San Pedro"
   },
   {
@@ -3048,7 +3048,7 @@
    "delito": "LESIONES LEVES",
    "2024": 42.0,
    "2025": 39.0,
-   "2026": 14.0,
+   "2026": 15.0,
    "COMUNA": "San Pedro"
   },
   {
@@ -3129,7 +3129,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 96.0,
    "2025": 87.0,
-   "2026": 36.0,
+   "2026": 37.0,
    "COMUNA": "San Pedro"
   },
   {
@@ -3152,7 +3152,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 21/2026 (del 18/05/2026 al 24/05/2026)",
+  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
   "region": "Metropolitana"
  }
 }

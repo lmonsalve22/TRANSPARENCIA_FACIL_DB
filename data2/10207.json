@@ -12,27 +12,27 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10207,
-   "2025": 15.0,
-   "2026": 19.0,
-   "variacion": 27.0,
+   "2025": 16.0,
+   "2026": 20.0,
+   "variacion": 25.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Queilén"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10207,
-   "2025": 26.0,
+   "2025": 27.0,
    "2026": 17.0,
-   "variacion": -35.0,
+   "variacion": -37.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Queilén"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10207,
-   "2025": 18.0,
-   "2026": 12.0,
-   "variacion": -33.0,
+   "2025": 19.0,
+   "2026": 13.0,
+   "variacion": -32.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Queilén"
   },
@@ -48,9 +48,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10207,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 2.0,
-   "variacion": -33.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Queilén"
   },
@@ -175,9 +175,9 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10207,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 1.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Queilén"
   }
  ],
@@ -451,7 +451,7 @@
    "CODCOM": 10207,
    "anio": 2026,
    "mes": 5,
-   "casos": 3.0,
+   "casos": 4.0,
    "COMUNA": "Queilén"
   },
   {
@@ -723,7 +723,7 @@
    "CODCOM": 10207,
    "anio": 2026,
    "mes": 5,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Queilén"
   },
   {
@@ -2867,7 +2867,7 @@
    "CODCOM": 10207,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Queilén"
   }
  ],
@@ -2887,7 +2887,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 32.0,
    "2025": 51.0,
-   "2026": 19.0,
+   "2026": 20.0,
    "COMUNA": "Queilén"
   },
   {
@@ -2905,7 +2905,7 @@
    "delito": "DAÑOS",
    "2024": 43.0,
    "2025": 34.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "Queilén"
   },
   {
@@ -3058,12 +3058,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 5.0,
    "2025": 3.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Queilén"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 21/2026 (del 18/05/2026 al 24/05/2026)",
+  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
   "region": "Los Lagos"
  }
 }

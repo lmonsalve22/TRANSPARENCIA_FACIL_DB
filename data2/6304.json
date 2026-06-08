@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6304,
-   "2025": 15.0,
+   "2025": 16.0,
    "2026": 16.0,
-   "variacion": 7.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Lolol"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6304,
    "2025": 8.0,
-   "2026": 19.0,
-   "variacion": 138.0,
+   "2026": 20.0,
+   "variacion": 150.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lolol"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6304,
-   "2025": 9.0,
+   "2025": 12.0,
    "2026": 14.0,
-   "variacion": 56.0,
+   "variacion": 17.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lolol"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 6304,
    "2025": 8.0,
-   "2026": 5.0,
-   "variacion": -38.0,
+   "2026": 6.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lolol"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 6304,
    "2025": 14.0,
-   "2026": 5.0,
-   "variacion": -64.0,
+   "2026": 7.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lolol"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6304,
-   "2025": 20.0,
-   "2026": 10.0,
-   "variacion": -50.0,
+   "2025": 21.0,
+   "2026": 11.0,
+   "variacion": -48.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lolol"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6304,
    "2025": 3.0,
-   "2026": 1.0,
-   "variacion": -67.0,
+   "2026": 2.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lolol"
   }
@@ -596,7 +596,7 @@
    "CODCOM": 6304,
    "anio": 2026,
    "mes": 5,
-   "casos": 5.0,
+   "casos": 6.0,
    "COMUNA": "Lolol"
   },
   {
@@ -1140,7 +1140,7 @@
    "CODCOM": 6304,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Lolol"
   },
   {
@@ -1548,7 +1548,7 @@
    "CODCOM": 6304,
    "anio": 2026,
    "mes": 5,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Lolol"
   },
   {
@@ -2732,7 +2732,7 @@
    "CODCOM": 6304,
    "anio": 2026,
    "mes": 5,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Lolol"
   },
   {
@@ -2996,7 +2996,7 @@
    "CODCOM": 6304,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Lolol"
   }
  ],
@@ -3025,7 +3025,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 13.0,
    "2025": 31.0,
-   "2026": 19.0,
+   "2026": 20.0,
    "COMUNA": "Lolol"
   },
   {
@@ -3061,7 +3061,7 @@
    "delito": "HURTOS",
    "2024": 12.0,
    "2025": 13.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Lolol"
   },
   {
@@ -3088,7 +3088,7 @@
    "delito": "LESIONES LEVES",
    "2024": 13.0,
    "2025": 21.0,
-   "2026": 5.0,
+   "2026": 7.0,
    "COMUNA": "Lolol"
   },
   {
@@ -3169,7 +3169,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 49.0,
    "2025": 36.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "Lolol"
   },
   {
@@ -3187,12 +3187,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 6.0,
    "2025": 6.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Lolol"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 21/2026 (del 18/05/2026 al 24/05/2026)",
+  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
   "region": "O'Higgins"
  }
 }

@@ -30,8 +30,8 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6111,
-   "2025": 49.0,
-   "2026": 32.0,
+   "2025": 51.0,
+   "2026": 33.0,
    "variacion": -35.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Olivar"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6111,
-   "2025": 40.0,
+   "2025": 43.0,
    "2026": 22.0,
-   "variacion": -45.0,
+   "variacion": -49.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Olivar"
   },
@@ -76,17 +76,17 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 6111,
    "2025": 2.0,
-   "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 3.0,
+   "variacion": 50.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Olivar"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6111,
-   "2025": 18.0,
-   "2026": 11.0,
-   "variacion": -39.0,
+   "2025": 19.0,
+   "2026": 13.0,
+   "variacion": -32.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Olivar"
   },
@@ -111,10 +111,10 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6111,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 4.0,
-   "variacion": 33.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Olivar"
   },
   {
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6111,
-   "2025": 3.0,
-   "2026": 1.0,
-   "variacion": -67.0,
+   "2025": 4.0,
+   "2026": 2.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Olivar"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6111,
-   "2025": 37.0,
+   "2025": 41.0,
    "2026": 30.0,
-   "variacion": -19.0,
+   "variacion": -27.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Olivar"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6111,
-   "2025": 7.0,
+   "2025": 8.0,
    "2026": 5.0,
-   "variacion": -29.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Olivar"
   }
@@ -732,7 +732,7 @@
    "CODCOM": 6111,
    "anio": 2026,
    "mes": 5,
-   "casos": 7.0,
+   "casos": 8.0,
    "COMUNA": "Olivar"
   },
   {
@@ -1412,7 +1412,7 @@
    "CODCOM": 6111,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Olivar"
   },
   {
@@ -1548,7 +1548,7 @@
    "CODCOM": 6111,
    "anio": 2026,
    "mes": 5,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Olivar"
   },
   {
@@ -2492,7 +2492,7 @@
    "CODCOM": 6111,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Olivar"
   },
   {
@@ -3074,7 +3074,7 @@
    "delito": "DAÑOS",
    "2024": 118.0,
    "2025": 127.0,
-   "2026": 32.0,
+   "2026": 33.0,
    "COMUNA": "Olivar"
   },
   {
@@ -3119,7 +3119,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 6.0,
    "2025": 5.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Olivar"
   },
   {
@@ -3128,7 +3128,7 @@
    "delito": "LESIONES LEVES",
    "2024": 50.0,
    "2025": 51.0,
-   "2026": 11.0,
+   "2026": 13.0,
    "COMUNA": "Olivar"
   },
   {
@@ -3191,7 +3191,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 18.0,
    "2025": 6.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Olivar"
   },
   {
@@ -3232,7 +3232,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 21/2026 (del 18/05/2026 al 24/05/2026)",
+  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
   "region": "O'Higgins"
  }
 }

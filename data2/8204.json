@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8204,
-   "2025": 19.0,
-   "2026": 18.0,
+   "2025": 20.0,
+   "2026": 19.0,
    "variacion": -5.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Contulmo"
@@ -21,9 +21,9 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8204,
-   "2025": 11.0,
+   "2025": 12.0,
    "2026": 14.0,
-   "variacion": 27.0,
+   "variacion": 17.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Contulmo"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8204,
-   "2025": 17.0,
+   "2025": 18.0,
    "2026": 12.0,
-   "variacion": -29.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Contulmo"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8204,
-   "2025": 4.0,
+   "2025": 5.0,
    "2026": 4.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -20.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Contulmo"
   },
   {
@@ -112,9 +112,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 8204,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Contulmo"
   },
   {
@@ -452,7 +452,7 @@
    "CODCOM": 8204,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -1932,7 +1932,7 @@
    "CODCOM": 8204,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -3024,7 +3024,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 52.0,
    "2025": 37.0,
-   "2026": 18.0,
+   "2026": 19.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -3123,7 +3123,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 1.0,
    "2025": 2.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -3200,7 +3200,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 21/2026 (del 18/05/2026 al 24/05/2026)",
+  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
   "region": "Biobío"
  }
 }

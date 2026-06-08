@@ -30,8 +30,8 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16105,
-   "2025": 32.0,
-   "2026": 32.0,
+   "2025": 33.0,
+   "2026": 33.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Pemuco"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16105,
-   "2025": 28.0,
+   "2025": 31.0,
    "2026": 17.0,
-   "variacion": -39.0,
+   "variacion": -45.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pemuco"
   },
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 16105,
    "2025": 3.0,
-   "2026": 3.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 4.0,
+   "variacion": 33.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Pemuco"
   },
   {
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16105,
-   "2025": 7.0,
+   "2025": 8.0,
    "2026": 6.0,
-   "variacion": -14.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pemuco"
   },
@@ -724,7 +724,7 @@
    "CODCOM": 16105,
    "anio": 2026,
    "mes": 5,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Pemuco"
   },
   {
@@ -1260,7 +1260,7 @@
    "CODCOM": 16105,
    "anio": 2026,
    "mes": 5,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Pemuco"
   },
   {
@@ -3042,7 +3042,7 @@
    "delito": "DAÑOS",
    "2024": 59.0,
    "2025": 64.0,
-   "2026": 32.0,
+   "2026": 33.0,
    "COMUNA": "Pemuco"
   },
   {
@@ -3078,7 +3078,7 @@
    "delito": "INCIVILIDADES",
    "2024": 5.0,
    "2025": 8.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Pemuco"
   },
   {
@@ -3200,7 +3200,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 21/2026 (del 18/05/2026 al 24/05/2026)",
+  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
   "region": "Ñuble"
  }
 }

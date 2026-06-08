@@ -21,17 +21,17 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 2103,
-   "2025": 118.0,
-   "2026": 47.0,
-   "variacion": -60.0,
+   "2025": 120.0,
+   "2026": 49.0,
+   "variacion": -59.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Sierra Gorda"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 2103,
-   "2025": 33.0,
-   "2026": 37.0,
+   "2025": 34.0,
+   "2026": 38.0,
    "variacion": 12.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Sierra Gorda"
@@ -75,10 +75,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 2103,
-   "2025": 3.0,
+   "2025": 5.0,
    "2026": 3.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -40.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -148,17 +148,17 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 2103,
    "2025": 22.0,
-   "2026": 22.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 23.0,
+   "variacion": 5.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Sierra Gorda"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 2103,
-   "2025": 26.0,
+   "2025": 27.0,
    "2026": 8.0,
-   "variacion": -69.0,
+   "variacion": -70.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Sierra Gorda"
   },
@@ -587,7 +587,7 @@
    "CODCOM": 2103,
    "anio": 2026,
    "mes": 5,
-   "casos": 7.0,
+   "casos": 9.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -723,7 +723,7 @@
    "CODCOM": 2103,
    "anio": 2026,
    "mes": 5,
-   "casos": 2.0,
+   "casos": 3.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -2491,7 +2491,7 @@
    "CODCOM": 2103,
    "anio": 2026,
    "mes": 5,
-   "casos": 6.0,
+   "casos": 7.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -2928,7 +2928,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 225.0,
    "2025": 234.0,
-   "2026": 47.0,
+   "2026": 49.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -2937,7 +2937,7 @@
    "delito": "DAÑOS",
    "2024": 84.0,
    "2025": 72.0,
-   "2026": 37.0,
+   "2026": 38.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -3063,7 +3063,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 66.0,
    "2025": 46.0,
-   "2026": 22.0,
+   "2026": 23.0,
    "COMUNA": "Sierra Gorda"
   },
   {
@@ -3095,7 +3095,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 21/2026 (del 18/05/2026 al 24/05/2026)",
+  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
   "region": "Antofagasta"
  }
 }

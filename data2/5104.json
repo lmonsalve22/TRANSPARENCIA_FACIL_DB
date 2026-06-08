@@ -39,18 +39,18 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5104,
-   "2025": 2.0,
-   "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 4.0,
+   "2026": 3.0,
+   "variacion": -25.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Juan Fernández"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 5104,
    "2025": 1.0,
-   "2026": 3.0,
-   "variacion": 200.0,
+   "2026": 4.0,
+   "variacion": 300.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Juan Fernández"
   },
@@ -824,7 +824,7 @@
    "CODCOM": 5104,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Juan Fernández"
   },
   {
@@ -960,7 +960,7 @@
    "CODCOM": 5104,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Juan Fernández"
   },
   {
@@ -2439,7 +2439,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 18.0,
    "2025": 8.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Juan Fernández"
   },
   {
@@ -2457,7 +2457,7 @@
    "delito": "HURTOS",
    "2024": 2.0,
    "2025": 1.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Juan Fernández"
   },
   {
@@ -2588,7 +2588,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 21/2026 (del 18/05/2026 al 24/05/2026)",
+  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
   "region": "Valparaíso"
  }
 }
