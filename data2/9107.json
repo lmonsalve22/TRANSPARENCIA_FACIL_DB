@@ -13,16 +13,16 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9107,
    "2025": 41.0,
-   "2026": 43.0,
-   "variacion": 5.0,
-   "situación": "Aumento de Casos",
+   "2026": 41.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Gorbea"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9107,
-   "2025": 58.0,
-   "2026": 61.0,
+   "2025": 55.0,
+   "2026": 58.0,
    "variacion": 5.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Gorbea"
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 9107,
-   "2025": 48.0,
-   "2026": 42.0,
-   "variacion": -12.0,
+   "2025": 45.0,
+   "2026": 41.0,
+   "variacion": -9.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Gorbea"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9107,
-   "2025": 70.0,
-   "2026": 34.0,
-   "variacion": -51.0,
+   "2025": 69.0,
+   "2026": 32.0,
+   "variacion": -54.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Gorbea"
   },
@@ -57,17 +57,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9107,
-   "2025": 23.0,
-   "2026": 16.0,
-   "variacion": -30.0,
+   "2025": 22.0,
+   "2026": 15.0,
+   "variacion": -32.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Gorbea"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9107,
-   "2025": 17.0,
-   "2026": 12.0,
+   "2025": 14.0,
+   "2026": 10.0,
    "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Gorbea"
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 9107,
    "2025": 20.0,
-   "2026": 12.0,
-   "variacion": -40.0,
+   "2026": 11.0,
+   "variacion": -45.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Gorbea"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9107,
    "2025": 2.0,
-   "2026": 7.0,
-   "variacion": 250.0,
+   "2026": 5.0,
+   "variacion": 150.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Gorbea"
   },
@@ -156,9 +156,9 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9107,
-   "2025": 9.0,
+   "2025": 8.0,
    "2026": 6.0,
-   "variacion": -33.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Gorbea"
   },
@@ -328,14 +328,6 @@
    "COMUNA": "Gorbea"
   },
   {
-   "delito": "AMENAZAS CON ARMAS",
-   "CODCOM": 9107,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Gorbea"
-  },
-  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9107,
    "anio": 2025,
@@ -469,14 +461,6 @@
    "anio": 2026,
    "mes": 5,
    "casos": 0.0,
-   "COMUNA": "Gorbea"
-  },
-  {
-   "delito": "AMENAZAS Y RIÑAS",
-   "CODCOM": 9107,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 2.0,
    "COMUNA": "Gorbea"
   },
   {
@@ -616,14 +600,6 @@
    "COMUNA": "Gorbea"
   },
   {
-   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "CODCOM": 9107,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 3.0,
-   "COMUNA": "Gorbea"
-  },
-  {
    "delito": "DAÑOS",
    "CODCOM": 9107,
    "anio": 2025,
@@ -757,14 +733,6 @@
    "anio": 2026,
    "mes": 5,
    "casos": 2.0,
-   "COMUNA": "Gorbea"
-  },
-  {
-   "delito": "DAÑOS",
-   "CODCOM": 9107,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 1.0,
    "COMUNA": "Gorbea"
   },
   {
@@ -904,14 +872,6 @@
    "COMUNA": "Gorbea"
   },
   {
-   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "CODCOM": 9107,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 2.0,
-   "COMUNA": "Gorbea"
-  },
-  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9107,
    "anio": 2025,
@@ -1036,14 +996,6 @@
    "CODCOM": 9107,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Gorbea"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 9107,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Gorbea"
   },
@@ -1184,14 +1136,6 @@
    "COMUNA": "Gorbea"
   },
   {
-   "delito": "HURTOS",
-   "CODCOM": 9107,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 1.0,
-   "COMUNA": "Gorbea"
-  },
-  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9107,
    "anio": 2025,
@@ -1328,14 +1272,6 @@
    "COMUNA": "Gorbea"
   },
   {
-   "delito": "INCIVILIDADES",
-   "CODCOM": 9107,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 2.0,
-   "COMUNA": "Gorbea"
-  },
-  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9107,
    "anio": 2025,
@@ -1468,14 +1404,6 @@
    "CODCOM": 9107,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Gorbea"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 9107,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Gorbea"
   },
@@ -1616,14 +1544,6 @@
    "COMUNA": "Gorbea"
   },
   {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 9107,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 1.0,
-   "COMUNA": "Gorbea"
-  },
-  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9107,
    "anio": 2025,
@@ -1757,14 +1677,6 @@
    "anio": 2026,
    "mes": 5,
    "casos": 1.0,
-   "COMUNA": "Gorbea"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 9107,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
    "COMUNA": "Gorbea"
   },
   {
@@ -1904,14 +1816,6 @@
    "COMUNA": "Gorbea"
   },
   {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 9107,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 2.0,
-   "COMUNA": "Gorbea"
-  },
-  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9107,
    "anio": 2025,
@@ -2048,14 +1952,6 @@
    "COMUNA": "Gorbea"
   },
   {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 9107,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Gorbea"
-  },
-  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9107,
    "anio": 2025,
@@ -2180,14 +2076,6 @@
    "CODCOM": 9107,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Gorbea"
-  },
-  {
-   "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "CODCOM": 9107,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Gorbea"
   },
@@ -2328,14 +2216,6 @@
    "COMUNA": "Gorbea"
   },
   {
-   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "CODCOM": 9107,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Gorbea"
-  },
-  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9107,
    "anio": 2025,
@@ -2468,14 +2348,6 @@
    "CODCOM": 9107,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Gorbea"
-  },
-  {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 9107,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Gorbea"
   },
@@ -2612,14 +2484,6 @@
    "CODCOM": 9107,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Gorbea"
-  },
-  {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 9107,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Gorbea"
   },
@@ -2757,14 +2621,6 @@
    "anio": 2026,
    "mes": 5,
    "casos": 2.0,
-   "COMUNA": "Gorbea"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 9107,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
    "COMUNA": "Gorbea"
   },
   {
@@ -2904,14 +2760,6 @@
    "COMUNA": "Gorbea"
   },
   {
-   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "CODCOM": 9107,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Gorbea"
-  },
-  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9107,
    "anio": 2025,
@@ -3044,14 +2892,6 @@
    "CODCOM": 9107,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Gorbea"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
-   "CODCOM": 9107,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Gorbea"
   },
@@ -3189,14 +3029,6 @@
    "anio": 2026,
    "mes": 5,
    "casos": 1.0,
-   "COMUNA": "Gorbea"
-  },
-  {
-   "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "CODCOM": 9107,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
    "COMUNA": "Gorbea"
   }
  ],
@@ -3216,7 +3048,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 147.0,
    "2025": 101.0,
-   "2026": 43.0,
+   "2026": 41.0,
    "COMUNA": "Gorbea"
   },
   {
@@ -3225,7 +3057,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 103.0,
    "2025": 96.0,
-   "2026": 61.0,
+   "2026": 58.0,
    "COMUNA": "Gorbea"
   },
   {
@@ -3234,7 +3066,7 @@
    "delito": "DAÑOS",
    "2024": 128.0,
    "2025": 101.0,
-   "2026": 42.0,
+   "2026": 41.0,
    "COMUNA": "Gorbea"
   },
   {
@@ -3243,7 +3075,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 152.0,
    "2025": 146.0,
-   "2026": 34.0,
+   "2026": 32.0,
    "COMUNA": "Gorbea"
   },
   {
@@ -3261,7 +3093,7 @@
    "delito": "HURTOS",
    "2024": 64.0,
    "2025": 52.0,
-   "2026": 16.0,
+   "2026": 15.0,
    "COMUNA": "Gorbea"
   },
   {
@@ -3270,7 +3102,7 @@
    "delito": "INCIVILIDADES",
    "2024": 34.0,
    "2025": 38.0,
-   "2026": 12.0,
+   "2026": 10.0,
    "COMUNA": "Gorbea"
   },
   {
@@ -3288,7 +3120,7 @@
    "delito": "LESIONES LEVES",
    "2024": 49.0,
    "2025": 35.0,
-   "2026": 12.0,
+   "2026": 11.0,
    "COMUNA": "Gorbea"
   },
   {
@@ -3306,7 +3138,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 27.0,
    "2025": 9.0,
-   "2026": 7.0,
+   "2026": 5.0,
    "COMUNA": "Gorbea"
   },
   {
@@ -3392,7 +3224,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
+  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
   "region": "La Araucanía"
  }
 }

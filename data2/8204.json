@@ -13,9 +13,9 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8204,
    "2025": 20.0,
-   "2026": 20.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 19.0,
+   "variacion": -5.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Contulmo"
   },
   {
@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 8204,
    "2025": 14.0,
-   "2026": 18.0,
-   "variacion": 29.0,
+   "2026": 16.0,
+   "variacion": 14.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Contulmo"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8204,
    "2025": 4.0,
-   "2026": 3.0,
-   "variacion": -25.0,
+   "2026": 2.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Contulmo"
   }
@@ -316,14 +316,6 @@
    "CODCOM": 8204,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "AMENAZAS CON ARMAS",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Contulmo"
   },
@@ -464,14 +456,6 @@
    "COMUNA": "Contulmo"
   },
   {
-   "delito": "AMENAZAS Y RIÑAS",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 1.0,
-   "COMUNA": "Contulmo"
-  },
-  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8204,
    "anio": 2025,
@@ -605,14 +589,6 @@
    "anio": 2026,
    "mes": 5,
    "casos": 1.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -752,14 +728,6 @@
    "COMUNA": "Contulmo"
   },
   {
-   "delito": "DAÑOS",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 2.0,
-   "COMUNA": "Contulmo"
-  },
-  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8204,
    "anio": 2025,
@@ -896,14 +864,6 @@
    "COMUNA": "Contulmo"
   },
   {
-   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Contulmo"
-  },
-  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 8204,
    "anio": 2025,
@@ -1028,14 +988,6 @@
    "CODCOM": 8204,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Contulmo"
   },
@@ -1176,14 +1128,6 @@
    "COMUNA": "Contulmo"
   },
   {
-   "delito": "HURTOS",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Contulmo"
-  },
-  {
    "delito": "INCIVILIDADES",
    "CODCOM": 8204,
    "anio": 2025,
@@ -1320,14 +1264,6 @@
    "COMUNA": "Contulmo"
   },
   {
-   "delito": "INCIVILIDADES",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Contulmo"
-  },
-  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8204,
    "anio": 2025,
@@ -1452,14 +1388,6 @@
    "CODCOM": 8204,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Contulmo"
   },
@@ -1600,14 +1528,6 @@
    "COMUNA": "Contulmo"
   },
   {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Contulmo"
-  },
-  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8204,
    "anio": 2025,
@@ -1740,14 +1660,6 @@
    "CODCOM": 8204,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Contulmo"
   },
@@ -1888,14 +1800,6 @@
    "COMUNA": "Contulmo"
   },
   {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Contulmo"
-  },
-  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8204,
    "anio": 2025,
@@ -2032,14 +1936,6 @@
    "COMUNA": "Contulmo"
   },
   {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Contulmo"
-  },
-  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 8204,
    "anio": 2025,
@@ -2164,14 +2060,6 @@
    "CODCOM": 8204,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Contulmo"
   },
@@ -2312,14 +2200,6 @@
    "COMUNA": "Contulmo"
   },
   {
-   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Contulmo"
-  },
-  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8204,
    "anio": 2025,
@@ -2452,14 +2332,6 @@
    "CODCOM": 8204,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Contulmo"
   },
@@ -2600,14 +2472,6 @@
    "COMUNA": "Contulmo"
   },
   {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Contulmo"
-  },
-  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8204,
    "anio": 2025,
@@ -2740,14 +2604,6 @@
    "CODCOM": 8204,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Contulmo"
   },
@@ -2888,14 +2744,6 @@
    "COMUNA": "Contulmo"
   },
   {
-   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Contulmo"
-  },
-  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8204,
    "anio": 2025,
@@ -3020,14 +2868,6 @@
    "CODCOM": 8204,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Contulmo"
   },
@@ -3164,14 +3004,6 @@
    "CODCOM": 8204,
    "anio": 2026,
    "mes": 5,
-   "casos": 1.0,
-   "COMUNA": "Contulmo"
-  },
-  {
-   "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "CODCOM": 8204,
-   "anio": 2026,
-   "mes": 6,
    "casos": 1.0,
    "COMUNA": "Contulmo"
   }
@@ -3192,7 +3024,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 52.0,
    "2025": 37.0,
-   "2026": 20.0,
+   "2026": 19.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -3210,7 +3042,7 @@
    "delito": "DAÑOS",
    "2024": 39.0,
    "2025": 27.0,
-   "2026": 18.0,
+   "2026": 16.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -3363,12 +3195,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 4.0,
    "2025": 6.0,
-   "2026": 3.0,
+   "2026": 2.0,
    "COMUNA": "Contulmo"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
+  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
   "region": "Biobío"
  }
 }

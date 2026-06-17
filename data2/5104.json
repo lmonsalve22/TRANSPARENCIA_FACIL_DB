@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5104,
    "2025": 4.0,
-   "2026": 12.0,
-   "variacion": 200.0,
+   "2026": 11.0,
+   "variacion": 175.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Juan Fernández"
   },
@@ -147,10 +147,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5104,
-   "2025": 1.0,
+   "2025": 0.0,
    "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Juan Fernández"
   }
  ],
@@ -280,14 +280,6 @@
    "CODCOM": 5104,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Juan Fernández"
-  },
-  {
-   "delito": "AMENAZAS CON ARMAS",
-   "CODCOM": 5104,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Juan Fernández"
   },
@@ -428,14 +420,6 @@
    "COMUNA": "Juan Fernández"
   },
   {
-   "delito": "AMENAZAS Y RIÑAS",
-   "CODCOM": 5104,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 1.0,
-   "COMUNA": "Juan Fernández"
-  },
-  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5104,
    "anio": 2025,
@@ -568,14 +552,6 @@
    "CODCOM": 5104,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Juan Fernández"
-  },
-  {
-   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "CODCOM": 5104,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Juan Fernández"
   },
@@ -716,14 +692,6 @@
    "COMUNA": "Juan Fernández"
   },
   {
-   "delito": "DAÑOS",
-   "CODCOM": 5104,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Juan Fernández"
-  },
-  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5104,
    "anio": 2025,
@@ -860,14 +828,6 @@
    "COMUNA": "Juan Fernández"
   },
   {
-   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "CODCOM": 5104,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Juan Fernández"
-  },
-  {
    "delito": "HURTOS",
    "CODCOM": 5104,
    "anio": 2025,
@@ -1001,14 +961,6 @@
    "anio": 2026,
    "mes": 5,
    "casos": 1.0,
-   "COMUNA": "Juan Fernández"
-  },
-  {
-   "delito": "HURTOS",
-   "CODCOM": 5104,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
    "COMUNA": "Juan Fernández"
   },
   {
@@ -1148,14 +1100,6 @@
    "COMUNA": "Juan Fernández"
   },
   {
-   "delito": "INCIVILIDADES",
-   "CODCOM": 5104,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Juan Fernández"
-  },
-  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5104,
    "anio": 2025,
@@ -1280,14 +1224,6 @@
    "CODCOM": 5104,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Juan Fernández"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 5104,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Juan Fernández"
   },
@@ -1428,14 +1364,6 @@
    "COMUNA": "Juan Fernández"
   },
   {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 5104,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Juan Fernández"
-  },
-  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5104,
    "anio": 2025,
@@ -1572,14 +1500,6 @@
    "COMUNA": "Juan Fernández"
   },
   {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 5104,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Juan Fernández"
-  },
-  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5104,
    "anio": 2025,
@@ -1704,14 +1624,6 @@
    "CODCOM": 5104,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Juan Fernández"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 5104,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Juan Fernández"
   },
@@ -1852,14 +1764,6 @@
    "COMUNA": "Juan Fernández"
   },
   {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 5104,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Juan Fernández"
-  },
-  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 5104,
    "anio": 2025,
@@ -1984,14 +1888,6 @@
    "CODCOM": 5104,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Juan Fernández"
-  },
-  {
-   "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "CODCOM": 5104,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Juan Fernández"
   },
@@ -2228,14 +2124,6 @@
    "COMUNA": "Juan Fernández"
   },
   {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 5104,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Juan Fernández"
-  },
-  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5104,
    "anio": 2025,
@@ -2372,14 +2260,6 @@
    "COMUNA": "Juan Fernández"
   },
   {
-   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "CODCOM": 5104,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Juan Fernández"
-  },
-  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5104,
    "anio": 2025,
@@ -2512,14 +2392,6 @@
    "CODCOM": 5104,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Juan Fernández"
-  },
-  {
-   "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "CODCOM": 5104,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Juan Fernández"
   }
@@ -2540,7 +2412,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 17.0,
    "2025": 13.0,
-   "2026": 12.0,
+   "2026": 11.0,
    "COMUNA": "Juan Fernández"
   },
   {
@@ -2716,7 +2588,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
+  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
   "region": "Valparaíso"
  }
 }

@@ -4,16 +4,16 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 10403,
    "2025": 1.0,
-   "2026": 2.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "2026": 1.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Hualaihué"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10403,
-   "2025": 36.0,
-   "2026": 34.0,
+   "2025": 35.0,
+   "2026": 33.0,
    "variacion": -6.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Hualaihué"
@@ -21,17 +21,17 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10403,
-   "2025": 68.0,
-   "2026": 103.0,
-   "variacion": 51.0,
+   "2025": 66.0,
+   "2026": 93.0,
+   "variacion": 41.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Hualaihué"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10403,
-   "2025": 36.0,
-   "2026": 34.0,
+   "2025": 34.0,
+   "2026": 32.0,
    "variacion": -6.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Hualaihué"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10403,
-   "2025": 64.0,
-   "2026": 32.0,
-   "variacion": -50.0,
+   "2025": 63.0,
+   "2026": 29.0,
+   "variacion": -54.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Hualaihué"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10403,
-   "2025": 13.0,
+   "2025": 12.0,
    "2026": 8.0,
-   "variacion": -38.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Hualaihué"
   },
@@ -67,9 +67,9 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 10403,
    "2025": 2.0,
-   "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": -50.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Hualaihué"
   },
   {
@@ -174,9 +174,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10403,
-   "2025": 11.0,
-   "2026": 3.0,
-   "variacion": -73.0,
+   "2025": 9.0,
+   "2026": 2.0,
+   "variacion": -78.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Hualaihué"
   }
@@ -319,14 +319,6 @@
    "COMUNA": "Hualaihué"
   },
   {
-   "delito": "AMENAZAS CON ARMAS",
-   "CODCOM": 10403,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 1.0,
-   "COMUNA": "Hualaihué"
-  },
-  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10403,
    "anio": 2025,
@@ -460,14 +452,6 @@
    "anio": 2026,
    "mes": 5,
    "casos": 7.0,
-   "COMUNA": "Hualaihué"
-  },
-  {
-   "delito": "AMENAZAS Y RIÑAS",
-   "CODCOM": 10403,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 1.0,
    "COMUNA": "Hualaihué"
   },
   {
@@ -607,14 +591,6 @@
    "COMUNA": "Hualaihué"
   },
   {
-   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "CODCOM": 10403,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 10.0,
-   "COMUNA": "Hualaihué"
-  },
-  {
    "delito": "DAÑOS",
    "CODCOM": 10403,
    "anio": 2025,
@@ -748,14 +724,6 @@
    "anio": 2026,
    "mes": 5,
    "casos": 3.0,
-   "COMUNA": "Hualaihué"
-  },
-  {
-   "delito": "DAÑOS",
-   "CODCOM": 10403,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 2.0,
    "COMUNA": "Hualaihué"
   },
   {
@@ -895,14 +863,6 @@
    "COMUNA": "Hualaihué"
   },
   {
-   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "CODCOM": 10403,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 3.0,
-   "COMUNA": "Hualaihué"
-  },
-  {
    "delito": "HURTOS",
    "CODCOM": 10403,
    "anio": 2025,
@@ -1036,14 +996,6 @@
    "anio": 2026,
    "mes": 5,
    "casos": 1.0,
-   "COMUNA": "Hualaihué"
-  },
-  {
-   "delito": "HURTOS",
-   "CODCOM": 10403,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
    "COMUNA": "Hualaihué"
   },
   {
@@ -1183,14 +1135,6 @@
    "COMUNA": "Hualaihué"
   },
   {
-   "delito": "INCIVILIDADES",
-   "CODCOM": 10403,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Hualaihué"
-  },
-  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10403,
    "anio": 2025,
@@ -1324,14 +1268,6 @@
    "anio": 2026,
    "mes": 5,
    "casos": 0.0,
-   "COMUNA": "Hualaihué"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 10403,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 1.0,
    "COMUNA": "Hualaihué"
   },
   {
@@ -1471,14 +1407,6 @@
    "COMUNA": "Hualaihué"
   },
   {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 10403,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Hualaihué"
-  },
-  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10403,
    "anio": 2025,
@@ -1611,14 +1539,6 @@
    "CODCOM": 10403,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Hualaihué"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 10403,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Hualaihué"
   },
@@ -1759,14 +1679,6 @@
    "COMUNA": "Hualaihué"
   },
   {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 10403,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Hualaihué"
-  },
-  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 10403,
    "anio": 2025,
@@ -1899,14 +1811,6 @@
    "CODCOM": 10403,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Hualaihué"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 10403,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Hualaihué"
   },
@@ -2047,14 +1951,6 @@
    "COMUNA": "Hualaihué"
   },
   {
-   "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "CODCOM": 10403,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Hualaihué"
-  },
-  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 10403,
    "anio": 2025,
@@ -2187,14 +2083,6 @@
    "CODCOM": 10403,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Hualaihué"
-  },
-  {
-   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "CODCOM": 10403,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Hualaihué"
   },
@@ -2335,14 +2223,6 @@
    "COMUNA": "Hualaihué"
   },
   {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 10403,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Hualaihué"
-  },
-  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 10403,
    "anio": 2025,
@@ -2479,14 +2359,6 @@
    "COMUNA": "Hualaihué"
   },
   {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 10403,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Hualaihué"
-  },
-  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 10403,
    "anio": 2025,
@@ -2619,14 +2491,6 @@
    "CODCOM": 10403,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Hualaihué"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 10403,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Hualaihué"
   },
@@ -2767,14 +2631,6 @@
    "COMUNA": "Hualaihué"
   },
   {
-   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "CODCOM": 10403,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Hualaihué"
-  },
-  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 10403,
    "anio": 2025,
@@ -2907,14 +2763,6 @@
    "CODCOM": 10403,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Hualaihué"
-  },
-  {
-   "delito": "ROBOS POR SORPRESA",
-   "CODCOM": 10403,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Hualaihué"
   },
@@ -3052,14 +2900,6 @@
    "anio": 2026,
    "mes": 5,
    "casos": 0.0,
-   "COMUNA": "Hualaihué"
-  },
-  {
-   "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "CODCOM": 10403,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 1.0,
    "COMUNA": "Hualaihué"
   }
  ],
@@ -3070,7 +2910,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 5.0,
    "2025": 3.0,
-   "2026": 2.0,
+   "2026": 1.0,
    "COMUNA": "Hualaihué"
   },
   {
@@ -3079,7 +2919,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 118.0,
    "2025": 77.0,
-   "2026": 34.0,
+   "2026": 33.0,
    "COMUNA": "Hualaihué"
   },
   {
@@ -3088,7 +2928,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 134.0,
    "2025": 199.0,
-   "2026": 103.0,
+   "2026": 93.0,
    "COMUNA": "Hualaihué"
   },
   {
@@ -3097,7 +2937,7 @@
    "delito": "DAÑOS",
    "2024": 101.0,
    "2025": 82.0,
-   "2026": 34.0,
+   "2026": 32.0,
    "COMUNA": "Hualaihué"
   },
   {
@@ -3106,7 +2946,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 135.0,
    "2025": 124.0,
-   "2026": 32.0,
+   "2026": 29.0,
    "COMUNA": "Hualaihué"
   },
   {
@@ -3142,7 +2982,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 3.0,
    "2025": 3.0,
-   "2026": 2.0,
+   "2026": 1.0,
    "COMUNA": "Hualaihué"
   },
   {
@@ -3250,12 +3090,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 8.0,
    "2025": 16.0,
-   "2026": 3.0,
+   "2026": 2.0,
    "COMUNA": "Hualaihué"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
+  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
   "region": "Los Lagos"
  }
 }

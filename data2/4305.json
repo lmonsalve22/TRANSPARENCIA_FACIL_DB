@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 4305,
-   "2025": 2.0,
+   "2025": 1.0,
    "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Río Hurtado"
   },
   {
@@ -103,9 +103,9 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 4305,
    "2025": 0.0,
-   "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "2026": 0.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Río Hurtado"
   },
   {
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 4305,
-   "2025": 4.0,
+   "2025": 2.0,
    "2026": 2.0,
-   "variacion": -50.0,
-   "situación": "Disminución de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Río Hurtado"
   },
   {
@@ -311,14 +311,6 @@
    "COMUNA": "Río Hurtado"
   },
   {
-   "delito": "AMENAZAS CON ARMAS",
-   "CODCOM": 4305,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Río Hurtado"
-  },
-  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4305,
    "anio": 2025,
@@ -451,14 +443,6 @@
    "CODCOM": 4305,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Río Hurtado"
-  },
-  {
-   "delito": "AMENAZAS Y RIÑAS",
-   "CODCOM": 4305,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Río Hurtado"
   },
@@ -599,14 +583,6 @@
    "COMUNA": "Río Hurtado"
   },
   {
-   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "CODCOM": 4305,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Río Hurtado"
-  },
-  {
    "delito": "DAÑOS",
    "CODCOM": 4305,
    "anio": 2025,
@@ -743,14 +719,6 @@
    "COMUNA": "Río Hurtado"
   },
   {
-   "delito": "DAÑOS",
-   "CODCOM": 4305,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Río Hurtado"
-  },
-  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 4305,
    "anio": 2025,
@@ -887,14 +855,6 @@
    "COMUNA": "Río Hurtado"
   },
   {
-   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "CODCOM": 4305,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Río Hurtado"
-  },
-  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 4305,
    "anio": 2025,
@@ -1019,14 +979,6 @@
    "CODCOM": 4305,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Río Hurtado"
-  },
-  {
-   "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "CODCOM": 4305,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Río Hurtado"
   },
@@ -1167,14 +1119,6 @@
    "COMUNA": "Río Hurtado"
   },
   {
-   "delito": "HURTOS",
-   "CODCOM": 4305,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Río Hurtado"
-  },
-  {
    "delito": "INCIVILIDADES",
    "CODCOM": 4305,
    "anio": 2025,
@@ -1311,14 +1255,6 @@
    "COMUNA": "Río Hurtado"
   },
   {
-   "delito": "INCIVILIDADES",
-   "CODCOM": 4305,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Río Hurtado"
-  },
-  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 4305,
    "anio": 2025,
@@ -1451,14 +1387,6 @@
    "CODCOM": 4305,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Río Hurtado"
-  },
-  {
-   "delito": "LESIONES GRAVES",
-   "CODCOM": 4305,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Río Hurtado"
   },
@@ -1599,14 +1527,6 @@
    "COMUNA": "Río Hurtado"
   },
   {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 4305,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Río Hurtado"
-  },
-  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 4305,
    "anio": 2025,
@@ -1739,14 +1659,6 @@
    "CODCOM": 4305,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Río Hurtado"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4305,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Río Hurtado"
   },
@@ -1887,14 +1799,6 @@
    "COMUNA": "Río Hurtado"
   },
   {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4305,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 1.0,
-   "COMUNA": "Río Hurtado"
-  },
-  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 4305,
    "anio": 2025,
@@ -2031,14 +1935,6 @@
    "COMUNA": "Río Hurtado"
   },
   {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4305,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Río Hurtado"
-  },
-  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 4305,
    "anio": 2025,
@@ -2279,14 +2175,6 @@
    "COMUNA": "Río Hurtado"
   },
   {
-   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "CODCOM": 4305,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Río Hurtado"
-  },
-  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 4305,
    "anio": 2025,
@@ -2423,14 +2311,6 @@
    "COMUNA": "Río Hurtado"
   },
   {
-   "delito": "RECEPTACIÓN",
-   "CODCOM": 4305,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Río Hurtado"
-  },
-  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 4305,
    "anio": 2025,
@@ -2555,14 +2435,6 @@
    "CODCOM": 4305,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Río Hurtado"
-  },
-  {
-   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 4305,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Río Hurtado"
   },
@@ -2699,14 +2571,6 @@
    "CODCOM": 4305,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Río Hurtado"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "CODCOM": 4305,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Río Hurtado"
   },
@@ -2847,14 +2711,6 @@
    "COMUNA": "Río Hurtado"
   },
   {
-   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "CODCOM": 4305,
-   "anio": 2026,
-   "mes": 6,
-   "casos": 0.0,
-   "COMUNA": "Río Hurtado"
-  },
-  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 4305,
    "anio": 2025,
@@ -2987,14 +2843,6 @@
    "CODCOM": 4305,
    "anio": 2026,
    "mes": 5,
-   "casos": 0.0,
-   "COMUNA": "Río Hurtado"
-  },
-  {
-   "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "CODCOM": 4305,
-   "anio": 2026,
-   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Río Hurtado"
   }
@@ -3105,7 +2953,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 1.0,
    "2025": 2.0,
-   "2026": 1.0,
+   "2026": 0.0,
    "COMUNA": "Río Hurtado"
   },
   {
@@ -3191,7 +3039,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
+  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
   "region": "Coquimbo"
  }
 }
