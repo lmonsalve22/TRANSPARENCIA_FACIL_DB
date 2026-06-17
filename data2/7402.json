@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7402,
-   "2025": 92.0,
-   "2026": 63.0,
+   "2025": 97.0,
+   "2026": 66.0,
    "variacion": -32.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Colbún"
@@ -21,26 +21,26 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7402,
-   "2025": 33.0,
-   "2026": 71.0,
-   "variacion": 115.0,
+   "2025": 34.0,
+   "2026": 78.0,
+   "variacion": 129.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Colbún"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7402,
-   "2025": 60.0,
-   "2026": 39.0,
-   "variacion": -35.0,
+   "2025": 66.0,
+   "2026": 40.0,
+   "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Colbún"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7402,
-   "2025": 77.0,
-   "2026": 72.0,
+   "2025": 78.0,
+   "2026": 73.0,
    "variacion": -6.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Colbún"
@@ -57,19 +57,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7402,
-   "2025": 33.0,
-   "2026": 17.0,
-   "variacion": -48.0,
+   "2025": 35.0,
+   "2026": 18.0,
+   "variacion": -49.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Colbún"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 7402,
-   "2025": 26.0,
-   "2026": 25.0,
-   "variacion": -4.0,
-   "situación": "Disminución de Casos",
+   "2025": 27.0,
+   "2026": 30.0,
+   "variacion": 11.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Colbún"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 7402,
-   "2025": 21.0,
-   "2026": 26.0,
-   "variacion": 24.0,
+   "2025": 22.0,
+   "2026": 27.0,
+   "variacion": 23.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Colbún"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 7402,
    "2025": 5.0,
-   "2026": 3.0,
-   "variacion": -40.0,
+   "2026": 4.0,
+   "variacion": -20.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Colbún"
   },
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 7402,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 5.0,
-   "variacion": -17.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Colbún"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 7402,
-   "2025": 11.0,
+   "2025": 12.0,
    "2026": 3.0,
-   "variacion": -73.0,
+   "variacion": -75.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Colbún"
   }
@@ -328,6 +328,14 @@
    "COMUNA": "Colbún"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 7402,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Colbún"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7402,
    "anio": 2025,
@@ -461,6 +469,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 14.0,
+   "COMUNA": "Colbún"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 7402,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 3.0,
    "COMUNA": "Colbún"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "Colbún"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 7402,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 7.0,
+   "COMUNA": "Colbún"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 7402,
    "anio": 2025,
@@ -733,6 +757,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 4.0,
+   "COMUNA": "Colbún"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 7402,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
    "COMUNA": "Colbún"
   },
   {
@@ -872,6 +904,14 @@
    "COMUNA": "Colbún"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 7402,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Colbún"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 7402,
    "anio": 2025,
@@ -996,6 +1036,14 @@
    "CODCOM": 7402,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Colbún"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 7402,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Colbún"
   },
@@ -1136,6 +1184,14 @@
    "COMUNA": "Colbún"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 7402,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Colbún"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 7402,
    "anio": 2025,
@@ -1272,6 +1328,14 @@
    "COMUNA": "Colbún"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 7402,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 5.0,
+   "COMUNA": "Colbún"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 7402,
    "anio": 2025,
@@ -1404,6 +1468,14 @@
    "CODCOM": 7402,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Colbún"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 7402,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Colbún"
   },
@@ -1544,6 +1616,14 @@
    "COMUNA": "Colbún"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 7402,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Colbún"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7402,
    "anio": 2025,
@@ -1680,6 +1760,14 @@
    "COMUNA": "Colbún"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7402,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Colbún"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7402,
    "anio": 2025,
@@ -1816,6 +1904,14 @@
    "COMUNA": "Colbún"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7402,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Colbún"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7402,
    "anio": 2025,
@@ -1952,6 +2048,14 @@
    "COMUNA": "Colbún"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 7402,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Colbún"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 7402,
    "anio": 2025,
@@ -2088,6 +2192,14 @@
    "COMUNA": "Colbún"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 7402,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Colbún"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 7402,
    "anio": 2025,
@@ -2220,6 +2332,14 @@
    "CODCOM": 7402,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Colbún"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 7402,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Colbún"
   },
@@ -2356,6 +2476,14 @@
    "CODCOM": 7402,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Colbún"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 7402,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Colbún"
   },
@@ -2493,6 +2621,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 1.0,
+   "COMUNA": "Colbún"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 7402,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Colbún"
   },
   {
@@ -2628,6 +2764,14 @@
    "CODCOM": 7402,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Colbún"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 7402,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Colbún"
   },
@@ -2768,6 +2912,14 @@
    "COMUNA": "Colbún"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7402,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Colbún"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 7402,
    "anio": 2025,
@@ -2900,6 +3052,14 @@
    "CODCOM": 7402,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Colbún"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 7402,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Colbún"
   },
@@ -3038,6 +3198,14 @@
    "mes": 5,
    "casos": 0.0,
    "COMUNA": "Colbún"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7402,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Colbún"
   }
  ],
  "info": [
@@ -3056,7 +3224,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 192.0,
    "2025": 189.0,
-   "2026": 63.0,
+   "2026": 66.0,
    "COMUNA": "Colbún"
   },
   {
@@ -3065,7 +3233,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 76.0,
    "2025": 76.0,
-   "2026": 71.0,
+   "2026": 78.0,
    "COMUNA": "Colbún"
   },
   {
@@ -3074,7 +3242,7 @@
    "delito": "DAÑOS",
    "2024": 121.0,
    "2025": 146.0,
-   "2026": 39.0,
+   "2026": 40.0,
    "COMUNA": "Colbún"
   },
   {
@@ -3083,7 +3251,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 178.0,
    "2025": 180.0,
-   "2026": 72.0,
+   "2026": 73.0,
    "COMUNA": "Colbún"
   },
   {
@@ -3101,7 +3269,7 @@
    "delito": "HURTOS",
    "2024": 83.0,
    "2025": 62.0,
-   "2026": 17.0,
+   "2026": 18.0,
    "COMUNA": "Colbún"
   },
   {
@@ -3110,7 +3278,7 @@
    "delito": "INCIVILIDADES",
    "2024": 36.0,
    "2025": 52.0,
-   "2026": 25.0,
+   "2026": 30.0,
    "COMUNA": "Colbún"
   },
   {
@@ -3128,7 +3296,7 @@
    "delito": "LESIONES LEVES",
    "2024": 85.0,
    "2025": 56.0,
-   "2026": 26.0,
+   "2026": 27.0,
    "COMUNA": "Colbún"
   },
   {
@@ -3155,7 +3323,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 11.0,
    "2025": 8.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Colbún"
   },
   {
@@ -3232,7 +3400,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
+  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
   "region": "Maule"
  }
 }

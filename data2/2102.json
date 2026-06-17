@@ -12,17 +12,17 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 2102,
-   "2025": 76.0,
-   "2026": 65.0,
-   "variacion": -14.0,
+   "2025": 79.0,
+   "2026": 66.0,
+   "variacion": -16.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Mejillones"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 2102,
-   "2025": 165.0,
-   "2026": 90.0,
+   "2025": 166.0,
+   "2026": 92.0,
    "variacion": -45.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Mejillones"
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 2102,
-   "2025": 55.0,
+   "2025": 57.0,
    "2026": 33.0,
-   "variacion": -40.0,
+   "variacion": -42.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Mejillones"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 2102,
-   "2025": 84.0,
+   "2025": 86.0,
    "2026": 68.0,
-   "variacion": -19.0,
+   "variacion": -21.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Mejillones"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 2102,
-   "2025": 39.0,
-   "2026": 50.0,
-   "variacion": 28.0,
+   "2025": 41.0,
+   "2026": 51.0,
+   "variacion": 24.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Mejillones"
   },
@@ -76,17 +76,17 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 2102,
    "2025": 6.0,
-   "2026": 3.0,
-   "variacion": -50.0,
+   "2026": 4.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Mejillones"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 2102,
-   "2025": 36.0,
+   "2025": 40.0,
    "2026": 24.0,
-   "variacion": -33.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Mejillones"
   },
@@ -103,9 +103,9 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 2102,
    "2025": 7.0,
-   "2026": 6.0,
-   "variacion": -14.0,
-   "situación": "Disminución de Casos",
+   "2026": 7.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Mejillones"
   },
   {
@@ -130,9 +130,9 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 2102,
    "2025": 7.0,
-   "2026": 7.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 8.0,
+   "variacion": 14.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Mejillones"
   },
   {
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 2102,
    "2025": 19.0,
-   "2026": 10.0,
-   "variacion": -47.0,
+   "2026": 12.0,
+   "variacion": -37.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Mejillones"
   },
@@ -157,17 +157,17 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 2102,
    "2025": 21.0,
-   "2026": 12.0,
-   "variacion": -43.0,
+   "2026": 13.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Mejillones"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 2102,
-   "2025": 40.0,
+   "2025": 46.0,
    "2026": 51.0,
-   "variacion": 28.0,
+   "variacion": 11.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Mejillones"
   },
@@ -328,6 +328,14 @@
    "COMUNA": "Mejillones"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 2102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Mejillones"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 2102,
    "anio": 2025,
@@ -461,6 +469,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 10.0,
+   "COMUNA": "Mejillones"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 2102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
    "COMUNA": "Mejillones"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "Mejillones"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 2102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 2.0,
+   "COMUNA": "Mejillones"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 2102,
    "anio": 2025,
@@ -733,6 +757,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 9.0,
+   "COMUNA": "Mejillones"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 2102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Mejillones"
   },
   {
@@ -872,6 +904,14 @@
    "COMUNA": "Mejillones"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 2102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Mejillones"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 2102,
    "anio": 2025,
@@ -1004,6 +1044,14 @@
    "CODCOM": 2102,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Mejillones"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 2102,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Mejillones"
   },
@@ -1141,6 +1189,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 3.0,
+   "COMUNA": "Mejillones"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Mejillones"
   },
   {
@@ -1280,6 +1336,14 @@
    "COMUNA": "Mejillones"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 2102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Mejillones"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 2102,
    "anio": 2025,
@@ -1412,6 +1476,14 @@
    "CODCOM": 2102,
    "anio": 2026,
    "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Mejillones"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 2102,
+   "anio": 2026,
+   "mes": 6,
    "casos": 1.0,
    "COMUNA": "Mejillones"
   },
@@ -1552,6 +1624,14 @@
    "COMUNA": "Mejillones"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 2102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Mejillones"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 2102,
    "anio": 2025,
@@ -1688,6 +1768,14 @@
    "COMUNA": "Mejillones"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 2102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Mejillones"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 2102,
    "anio": 2025,
@@ -1820,6 +1908,14 @@
    "CODCOM": 2102,
    "anio": 2026,
    "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Mejillones"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 2102,
+   "anio": 2026,
+   "mes": 6,
    "casos": 1.0,
    "COMUNA": "Mejillones"
   },
@@ -1960,6 +2056,14 @@
    "COMUNA": "Mejillones"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 2102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Mejillones"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 2102,
    "anio": 2025,
@@ -2092,6 +2196,14 @@
    "CODCOM": 2102,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Mejillones"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 2102,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Mejillones"
   },
@@ -2232,6 +2344,14 @@
    "COMUNA": "Mejillones"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 2102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Mejillones"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 2102,
    "anio": 2025,
@@ -2364,6 +2484,14 @@
    "CODCOM": 2102,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Mejillones"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 2102,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Mejillones"
   },
@@ -2500,6 +2628,14 @@
    "CODCOM": 2102,
    "anio": 2026,
    "mes": 5,
+   "casos": 2.0,
+   "COMUNA": "Mejillones"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 2102,
+   "anio": 2026,
+   "mes": 6,
    "casos": 2.0,
    "COMUNA": "Mejillones"
   },
@@ -2637,6 +2773,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 2.0,
+   "COMUNA": "Mejillones"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 2102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
    "COMUNA": "Mejillones"
   },
   {
@@ -2776,6 +2920,14 @@
    "COMUNA": "Mejillones"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 2102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Mejillones"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 2102,
    "anio": 2025,
@@ -2912,6 +3064,14 @@
    "COMUNA": "Mejillones"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 2102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Mejillones"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 2102,
    "anio": 2025,
@@ -3044,6 +3204,14 @@
    "CODCOM": 2102,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Mejillones"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 2102,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Mejillones"
   }
@@ -3064,7 +3232,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 193.0,
    "2025": 166.0,
-   "2026": 65.0,
+   "2026": 66.0,
    "COMUNA": "Mejillones"
   },
   {
@@ -3073,7 +3241,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 327.0,
    "2025": 242.0,
-   "2026": 90.0,
+   "2026": 92.0,
    "COMUNA": "Mejillones"
   },
   {
@@ -3118,7 +3286,7 @@
    "delito": "INCIVILIDADES",
    "2024": 131.0,
    "2025": 91.0,
-   "2026": 50.0,
+   "2026": 51.0,
    "COMUNA": "Mejillones"
   },
   {
@@ -3127,7 +3295,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 14.0,
    "2025": 9.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Mejillones"
   },
   {
@@ -3154,7 +3322,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 12.0,
    "2025": 16.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Mejillones"
   },
   {
@@ -3181,7 +3349,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 11.0,
    "2025": 15.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Mejillones"
   },
   {
@@ -3199,7 +3367,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 26.0,
    "2025": 29.0,
-   "2026": 10.0,
+   "2026": 12.0,
    "COMUNA": "Mejillones"
   },
   {
@@ -3208,7 +3376,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 64.0,
    "2025": 53.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "Mejillones"
   },
   {
@@ -3240,7 +3408,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
+  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
   "region": "Antofagasta"
  }
 }

@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6104,
-   "2025": 71.0,
-   "2026": 48.0,
+   "2025": 73.0,
+   "2026": 50.0,
    "variacion": -32.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Coltauco"
@@ -21,27 +21,27 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6104,
-   "2025": 34.0,
+   "2025": 36.0,
    "2026": 23.0,
-   "variacion": -32.0,
+   "variacion": -36.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Coltauco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6104,
-   "2025": 48.0,
+   "2025": 49.0,
    "2026": 33.0,
-   "variacion": -31.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Coltauco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6104,
-   "2025": 47.0,
-   "2026": 59.0,
-   "variacion": 26.0,
+   "2025": 50.0,
+   "2026": 60.0,
+   "variacion": 20.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Coltauco"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6104,
-   "2025": 16.0,
+   "2025": 18.0,
    "2026": 16.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -11.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Coltauco"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6104,
    "2025": 23.0,
-   "2026": 19.0,
-   "variacion": -17.0,
+   "2026": 20.0,
+   "variacion": -13.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Coltauco"
   },
@@ -84,27 +84,27 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6104,
-   "2025": 35.0,
+   "2025": 36.0,
    "2026": 16.0,
-   "variacion": -54.0,
+   "variacion": -56.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Coltauco"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6104,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 2.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Coltauco"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6104,
    "2025": 6.0,
-   "2026": 2.0,
-   "variacion": -67.0,
+   "2026": 3.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Coltauco"
   },
@@ -138,9 +138,9 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6104,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 5.0,
-   "variacion": 150.0,
+   "variacion": 67.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Coltauco"
   },
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6104,
    "2025": 7.0,
-   "2026": 4.0,
-   "variacion": -43.0,
+   "2026": 5.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Coltauco"
   },
@@ -157,17 +157,17 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6104,
    "2025": 2.0,
-   "2026": 1.0,
-   "variacion": -50.0,
-   "situación": "Disminución de Casos",
+   "2026": 2.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Coltauco"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6104,
-   "2025": 37.0,
+   "2025": 41.0,
    "2026": 28.0,
-   "variacion": -24.0,
+   "variacion": -32.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Coltauco"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6104,
-   "2025": 14.0,
+   "2025": 16.0,
    "2026": 5.0,
-   "variacion": -64.0,
+   "variacion": -69.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Coltauco"
   }
@@ -328,6 +328,14 @@
    "COMUNA": "Coltauco"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 6104,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Coltauco"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6104,
    "anio": 2025,
@@ -464,6 +472,14 @@
    "COMUNA": "Coltauco"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 6104,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 2.0,
+   "COMUNA": "Coltauco"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6104,
    "anio": 2025,
@@ -600,6 +616,14 @@
    "COMUNA": "Coltauco"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 6104,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Coltauco"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 6104,
    "anio": 2025,
@@ -733,6 +757,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 9.0,
+   "COMUNA": "Coltauco"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 6104,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Coltauco"
   },
   {
@@ -872,6 +904,14 @@
    "COMUNA": "Coltauco"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6104,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Coltauco"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6104,
    "anio": 2025,
@@ -1004,6 +1044,14 @@
    "CODCOM": 6104,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Coltauco"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 6104,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Coltauco"
   },
@@ -1141,6 +1189,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 3.0,
+   "COMUNA": "Coltauco"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6104,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Coltauco"
   },
   {
@@ -1280,6 +1336,14 @@
    "COMUNA": "Coltauco"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 6104,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Coltauco"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6104,
    "anio": 2025,
@@ -1412,6 +1476,14 @@
    "CODCOM": 6104,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Coltauco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 6104,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Coltauco"
   },
@@ -1552,6 +1624,14 @@
    "COMUNA": "Coltauco"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 6104,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Coltauco"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6104,
    "anio": 2025,
@@ -1684,6 +1764,14 @@
    "CODCOM": 6104,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Coltauco"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 6104,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Coltauco"
   },
@@ -1824,6 +1912,14 @@
    "COMUNA": "Coltauco"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 6104,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Coltauco"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6104,
    "anio": 2025,
@@ -1960,6 +2056,14 @@
    "COMUNA": "Coltauco"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 6104,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Coltauco"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6104,
    "anio": 2025,
@@ -2196,6 +2300,14 @@
    "CODCOM": 6104,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Coltauco"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6104,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Coltauco"
   },
@@ -2336,6 +2448,14 @@
    "COMUNA": "Coltauco"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 6104,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Coltauco"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6104,
    "anio": 2025,
@@ -2469,6 +2589,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 0.0,
+   "COMUNA": "Coltauco"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6104,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
    "COMUNA": "Coltauco"
   },
   {
@@ -2604,6 +2732,14 @@
    "CODCOM": 6104,
    "anio": 2026,
    "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Coltauco"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 6104,
+   "anio": 2026,
+   "mes": 6,
    "casos": 1.0,
    "COMUNA": "Coltauco"
   },
@@ -2744,6 +2880,14 @@
    "COMUNA": "Coltauco"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 6104,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Coltauco"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6104,
    "anio": 2025,
@@ -2876,6 +3020,14 @@
    "CODCOM": 6104,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Coltauco"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6104,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Coltauco"
   },
@@ -3014,6 +3166,14 @@
    "mes": 5,
    "casos": 0.0,
    "COMUNA": "Coltauco"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 6104,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Coltauco"
   }
  ],
  "info": [
@@ -3032,7 +3192,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 182.0,
    "2025": 154.0,
-   "2026": 48.0,
+   "2026": 50.0,
    "COMUNA": "Coltauco"
   },
   {
@@ -3059,7 +3219,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 160.0,
    "2025": 148.0,
-   "2026": 59.0,
+   "2026": 60.0,
    "COMUNA": "Coltauco"
   },
   {
@@ -3086,7 +3246,7 @@
    "delito": "INCIVILIDADES",
    "2024": 49.0,
    "2025": 49.0,
-   "2026": 19.0,
+   "2026": 20.0,
    "COMUNA": "Coltauco"
   },
   {
@@ -3122,7 +3282,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 10.0,
    "2025": 13.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Coltauco"
   },
   {
@@ -3167,7 +3327,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 13.0,
    "2025": 13.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Coltauco"
   },
   {
@@ -3176,7 +3336,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 13.0,
    "2025": 8.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Coltauco"
   },
   {
@@ -3208,7 +3368,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
+  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
   "region": "O'Higgins"
  }
 }

@@ -13,17 +13,17 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 11401,
    "2025": 16.0,
-   "2026": 11.0,
-   "variacion": -31.0,
+   "2026": 12.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11401,
-   "2025": 38.0,
-   "2026": 46.0,
-   "variacion": 21.0,
+   "2025": 41.0,
+   "2026": 48.0,
+   "variacion": 17.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Chile Chico"
   },
@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 11401,
    "2025": 25.0,
-   "2026": 20.0,
-   "variacion": -20.0,
+   "2026": 21.0,
+   "variacion": -16.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 11401,
-   "2025": 9.0,
-   "2026": 7.0,
-   "variacion": -22.0,
+   "2025": 10.0,
+   "2026": 8.0,
+   "variacion": -20.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 11401,
    "2025": 22.0,
-   "2026": 22.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 23.0,
+   "variacion": 5.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Chile Chico"
   },
   {
@@ -139,9 +139,9 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 11401,
    "2025": 2.0,
-   "2026": 2.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 3.0,
+   "variacion": 50.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Chile Chico"
   },
   {
@@ -319,6 +319,14 @@
    "COMUNA": "Chile Chico"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 11401,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Chile Chico"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 11401,
    "anio": 2025,
@@ -452,6 +460,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 0.0,
+   "COMUNA": "Chile Chico"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 11401,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -591,6 +607,14 @@
    "COMUNA": "Chile Chico"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 11401,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 2.0,
+   "COMUNA": "Chile Chico"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 11401,
    "anio": 2025,
@@ -727,6 +751,14 @@
    "COMUNA": "Chile Chico"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 11401,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Chile Chico"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11401,
    "anio": 2025,
@@ -863,6 +895,14 @@
    "COMUNA": "Chile Chico"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 11401,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Chile Chico"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 11401,
    "anio": 2025,
@@ -995,6 +1035,14 @@
    "CODCOM": 11401,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Chile Chico"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 11401,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Chile Chico"
   },
@@ -1131,6 +1179,14 @@
    "CODCOM": 11401,
    "anio": 2026,
    "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Chile Chico"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11401,
+   "anio": 2026,
+   "mes": 6,
    "casos": 1.0,
    "COMUNA": "Chile Chico"
   },
@@ -1271,6 +1327,14 @@
    "COMUNA": "Chile Chico"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 11401,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Chile Chico"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 11401,
    "anio": 2025,
@@ -1403,6 +1467,14 @@
    "CODCOM": 11401,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Chile Chico"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 11401,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Chile Chico"
   },
@@ -1543,6 +1615,14 @@
    "COMUNA": "Chile Chico"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 11401,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Chile Chico"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 11401,
    "anio": 2025,
@@ -1679,6 +1759,14 @@
    "COMUNA": "Chile Chico"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 11401,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Chile Chico"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 11401,
    "anio": 2025,
@@ -1811,6 +1899,14 @@
    "CODCOM": 11401,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Chile Chico"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 11401,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Chile Chico"
   },
@@ -1951,6 +2047,14 @@
    "COMUNA": "Chile Chico"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 11401,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Chile Chico"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 11401,
    "anio": 2025,
@@ -2087,6 +2191,14 @@
    "COMUNA": "Chile Chico"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 11401,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Chile Chico"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 11401,
    "anio": 2025,
@@ -2223,6 +2335,14 @@
    "COMUNA": "Chile Chico"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 11401,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Chile Chico"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 11401,
    "anio": 2025,
@@ -2359,6 +2479,14 @@
    "COMUNA": "Chile Chico"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 11401,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Chile Chico"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 11401,
    "anio": 2025,
@@ -2483,6 +2611,14 @@
    "CODCOM": 11401,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Chile Chico"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 11401,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Chile Chico"
   },
@@ -2611,6 +2747,14 @@
    "CODCOM": 11401,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Chile Chico"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 11401,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Chile Chico"
   },
@@ -2751,6 +2895,14 @@
    "COMUNA": "Chile Chico"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 11401,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Chile Chico"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 11401,
    "anio": 2025,
@@ -2885,6 +3037,14 @@
    "mes": 5,
    "casos": 0.0,
    "COMUNA": "Chile Chico"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 11401,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Chile Chico"
   }
  ],
  "info": [
@@ -2903,7 +3063,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 39.0,
    "2025": 33.0,
-   "2026": 11.0,
+   "2026": 12.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2912,7 +3072,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 136.0,
    "2025": 110.0,
-   "2026": 46.0,
+   "2026": 48.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2921,7 +3081,7 @@
    "delito": "DAÑOS",
    "2024": 62.0,
    "2025": 48.0,
-   "2026": 20.0,
+   "2026": 21.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2948,7 +3108,7 @@
    "delito": "HURTOS",
    "2024": 20.0,
    "2025": 24.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -2957,7 +3117,7 @@
    "delito": "INCIVILIDADES",
    "2024": 97.0,
    "2025": 83.0,
-   "2026": 22.0,
+   "2026": 23.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -3029,7 +3189,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 3.0,
    "2025": 4.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Chile Chico"
   },
   {
@@ -3079,7 +3239,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
+  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
   "region": "Aysén"
  }
 }

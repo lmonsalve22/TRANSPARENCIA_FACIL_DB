@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16205,
-   "2025": 10.0,
-   "2026": 8.0,
-   "variacion": -20.0,
+   "2025": 11.0,
+   "2026": 9.0,
+   "variacion": -18.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Portezuelo"
   },
@@ -30,10 +30,10 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16205,
-   "2025": 12.0,
-   "2026": 10.0,
-   "variacion": -17.0,
-   "situación": "Disminución de Casos",
+   "2025": 13.0,
+   "2026": 13.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Portezuelo"
   },
   {
@@ -103,9 +103,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 16205,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 1.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Portezuelo"
   },
   {
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16205,
-   "2025": 9.0,
-   "2026": 5.0,
-   "variacion": -44.0,
+   "2025": 10.0,
+   "2026": 6.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Portezuelo"
   },
@@ -302,6 +302,14 @@
    "COMUNA": "Portezuelo"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16205,
    "anio": 2025,
@@ -434,6 +442,14 @@
    "CODCOM": 16205,
    "anio": 2026,
    "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 6,
    "casos": 1.0,
    "COMUNA": "Portezuelo"
   },
@@ -570,6 +586,14 @@
    "CODCOM": 16205,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Portezuelo"
   },
@@ -707,6 +731,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 2.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 3.0,
    "COMUNA": "Portezuelo"
   },
   {
@@ -846,6 +878,14 @@
    "COMUNA": "Portezuelo"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 16205,
    "anio": 2025,
@@ -982,6 +1022,14 @@
    "COMUNA": "Portezuelo"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 16205,
    "anio": 2025,
@@ -1110,6 +1158,14 @@
    "COMUNA": "Portezuelo"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16205,
    "anio": 2025,
@@ -1242,6 +1298,14 @@
    "CODCOM": 16205,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Portezuelo"
   },
@@ -1382,6 +1446,14 @@
    "COMUNA": "Portezuelo"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16205,
    "anio": 2025,
@@ -1514,6 +1586,14 @@
    "CODCOM": 16205,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Portezuelo"
   },
@@ -1654,6 +1734,14 @@
    "COMUNA": "Portezuelo"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 16205,
    "anio": 2025,
@@ -1790,6 +1878,14 @@
    "COMUNA": "Portezuelo"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16205,
    "anio": 2025,
@@ -1926,6 +2022,14 @@
    "COMUNA": "Portezuelo"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 16205,
    "anio": 2025,
@@ -2062,6 +2166,14 @@
    "COMUNA": "Portezuelo"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 16205,
    "anio": 2025,
@@ -2190,6 +2302,14 @@
    "COMUNA": "Portezuelo"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16205,
    "anio": 2025,
@@ -2322,6 +2442,14 @@
    "CODCOM": 16205,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Portezuelo"
   },
@@ -2462,6 +2590,14 @@
    "COMUNA": "Portezuelo"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 16205,
    "anio": 2025,
@@ -2598,6 +2734,14 @@
    "COMUNA": "Portezuelo"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 16205,
    "anio": 2025,
@@ -2730,6 +2874,14 @@
    "CODCOM": 16205,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Portezuelo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 16205,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Portezuelo"
   }
@@ -2750,7 +2902,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 14.0,
    "2025": 15.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Portezuelo"
   },
   {
@@ -2768,7 +2920,7 @@
    "delito": "DAÑOS",
    "2024": 32.0,
    "2025": 25.0,
-   "2026": 10.0,
+   "2026": 13.0,
    "COMUNA": "Portezuelo"
   },
   {
@@ -2849,7 +3001,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 0.0,
    "2025": 1.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Portezuelo"
   },
   {
@@ -2903,7 +3055,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 13.0,
    "2025": 17.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Portezuelo"
   },
   {
@@ -2926,7 +3078,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
+  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
   "region": "Ñuble"
  }
 }

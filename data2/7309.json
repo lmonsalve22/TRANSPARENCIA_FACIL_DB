@@ -12,26 +12,26 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7309,
-   "2025": 18.0,
+   "2025": 19.0,
    "2026": 12.0,
-   "variacion": -33.0,
+   "variacion": -37.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Vichuquén"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7309,
-   "2025": 18.0,
+   "2025": 19.0,
    "2026": 22.0,
-   "variacion": 22.0,
+   "variacion": 16.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Vichuquén"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7309,
-   "2025": 35.0,
-   "2026": 22.0,
+   "2025": 38.0,
+   "2026": 24.0,
    "variacion": -37.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Vichuquén"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7309,
-   "2025": 25.0,
-   "2026": 12.0,
-   "variacion": -52.0,
+   "2025": 27.0,
+   "2026": 14.0,
+   "variacion": -48.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Vichuquén"
   },
@@ -49,8 +49,8 @@
    "delito": "HURTOS",
    "CODCOM": 7309,
    "2025": 12.0,
-   "2026": 4.0,
-   "variacion": -67.0,
+   "2026": 5.0,
+   "variacion": -58.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Vichuquén"
   },
@@ -58,18 +58,18 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 7309,
    "2025": 23.0,
-   "2026": 10.0,
-   "variacion": -57.0,
+   "2026": 11.0,
+   "variacion": -52.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Vichuquén"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 7309,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Vichuquén"
   },
   {
@@ -94,8 +94,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7309,
    "2025": 10.0,
-   "2026": 6.0,
-   "variacion": -40.0,
+   "2026": 8.0,
+   "variacion": -20.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Vichuquén"
   },
@@ -112,9 +112,9 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 7309,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Vichuquén"
   },
   {
@@ -156,9 +156,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7309,
-   "2025": 12.0,
-   "2026": 3.0,
-   "variacion": -75.0,
+   "2025": 13.0,
+   "2026": 4.0,
+   "variacion": -69.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Vichuquén"
   },
@@ -319,6 +319,14 @@
    "COMUNA": "Vichuquén"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 7309,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Vichuquén"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7309,
    "anio": 2025,
@@ -452,6 +460,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 2.0,
+   "COMUNA": "Vichuquén"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 7309,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Vichuquén"
   },
   {
@@ -591,6 +607,14 @@
    "COMUNA": "Vichuquén"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 7309,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Vichuquén"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 7309,
    "anio": 2025,
@@ -727,6 +751,14 @@
    "COMUNA": "Vichuquén"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 7309,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 2.0,
+   "COMUNA": "Vichuquén"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7309,
    "anio": 2025,
@@ -863,6 +895,14 @@
    "COMUNA": "Vichuquén"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 7309,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 2.0,
+   "COMUNA": "Vichuquén"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 7309,
    "anio": 2025,
@@ -996,6 +1036,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 0.0,
+   "COMUNA": "Vichuquén"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7309,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
    "COMUNA": "Vichuquén"
   },
   {
@@ -1135,6 +1183,14 @@
    "COMUNA": "Vichuquén"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 7309,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Vichuquén"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 7309,
    "anio": 2025,
@@ -1267,6 +1323,14 @@
    "CODCOM": 7309,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Vichuquén"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 7309,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Vichuquén"
   },
@@ -1407,6 +1471,14 @@
    "COMUNA": "Vichuquén"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 7309,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Vichuquén"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7309,
    "anio": 2025,
@@ -1539,6 +1611,14 @@
    "CODCOM": 7309,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Vichuquén"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7309,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Vichuquén"
   },
@@ -1679,6 +1759,14 @@
    "COMUNA": "Vichuquén"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7309,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 2.0,
+   "COMUNA": "Vichuquén"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7309,
    "anio": 2025,
@@ -1815,6 +1903,14 @@
    "COMUNA": "Vichuquén"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 7309,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Vichuquén"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 7309,
    "anio": 2025,
@@ -1940,6 +2036,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 0.0,
+   "COMUNA": "Vichuquén"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 7309,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
    "COMUNA": "Vichuquén"
   },
   {
@@ -2067,6 +2171,14 @@
    "CODCOM": 7309,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Vichuquén"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 7309,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Vichuquén"
   },
@@ -2207,6 +2319,14 @@
    "COMUNA": "Vichuquén"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 7309,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Vichuquén"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 7309,
    "anio": 2025,
@@ -2343,6 +2463,14 @@
    "COMUNA": "Vichuquén"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 7309,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Vichuquén"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 7309,
    "anio": 2025,
@@ -2475,6 +2603,14 @@
    "CODCOM": 7309,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Vichuquén"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 7309,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Vichuquén"
   },
@@ -2611,6 +2747,14 @@
    "CODCOM": 7309,
    "anio": 2026,
    "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Vichuquén"
+  },
+  {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7309,
+   "anio": 2026,
+   "mes": 6,
    "casos": 1.0,
    "COMUNA": "Vichuquén"
   },
@@ -2852,6 +2996,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 1.0,
+   "COMUNA": "Vichuquén"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7309,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Vichuquén"
   }
  ],
@@ -2889,7 +3041,7 @@
    "delito": "DAÑOS",
    "2024": 75.0,
    "2025": 81.0,
-   "2026": 22.0,
+   "2026": 24.0,
    "COMUNA": "Vichuquén"
   },
   {
@@ -2898,7 +3050,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 31.0,
    "2025": 40.0,
-   "2026": 12.0,
+   "2026": 14.0,
    "COMUNA": "Vichuquén"
   },
   {
@@ -2916,7 +3068,7 @@
    "delito": "HURTOS",
    "2024": 25.0,
    "2025": 14.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Vichuquén"
   },
   {
@@ -2925,7 +3077,7 @@
    "delito": "INCIVILIDADES",
    "2024": 34.0,
    "2025": 32.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "Vichuquén"
   },
   {
@@ -2961,7 +3113,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 52.0,
    "2025": 25.0,
-   "2026": 6.0,
+   "2026": 8.0,
    "COMUNA": "Vichuquén"
   },
   {
@@ -2979,7 +3131,7 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2024": 0.0,
    "2025": 0.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Vichuquén"
   },
   {
@@ -3024,7 +3176,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 24.0,
    "2025": 23.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Vichuquén"
   },
   {
@@ -3047,7 +3199,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
+  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
   "region": "Maule"
  }
 }

@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9207,
    "2025": 23.0,
-   "2026": 24.0,
-   "variacion": 4.0,
+   "2026": 26.0,
+   "variacion": 13.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lumaco"
   },
@@ -22,27 +22,27 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9207,
    "2025": 30.0,
-   "2026": 22.0,
-   "variacion": -27.0,
-   "situación": "Disminución de Casos",
+   "2026": 32.0,
+   "variacion": 7.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Lumaco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9207,
-   "2025": 23.0,
-   "2026": 24.0,
-   "variacion": 4.0,
-   "situación": "Aumento de Casos",
+   "2025": 26.0,
+   "2026": 25.0,
+   "variacion": -4.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Lumaco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9207,
-   "2025": 21.0,
-   "2026": 21.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 24.0,
+   "2026": 22.0,
+   "variacion": -8.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Lumaco"
   },
   {
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 9207,
    "2025": 9.0,
-   "2026": 7.0,
-   "variacion": -22.0,
+   "2026": 8.0,
+   "variacion": -11.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lumaco"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 9207,
    "2025": 3.0,
-   "2026": 4.0,
-   "variacion": 33.0,
+   "2026": 6.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lumaco"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9207,
-   "2025": 23.0,
+   "2025": 24.0,
    "2026": 14.0,
-   "variacion": -39.0,
+   "variacion": -42.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Lumaco"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9207,
-   "2025": 4.0,
-   "2026": 15.0,
-   "variacion": 275.0,
+   "2025": 5.0,
+   "2026": 17.0,
+   "variacion": 240.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Lumaco"
   },
@@ -120,7 +120,7 @@
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9207,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -157,18 +157,18 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9207,
    "2025": 2.0,
-   "2026": 1.0,
-   "variacion": -50.0,
-   "situación": "Disminución de Casos",
+   "2026": 2.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Lumaco"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9207,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 3.0,
-   "variacion": 50.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Lumaco"
   },
   {
@@ -320,6 +320,14 @@
    "COMUNA": "Lumaco"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9207,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Lumaco"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9207,
    "anio": 2025,
@@ -453,6 +461,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 3.0,
+   "COMUNA": "Lumaco"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9207,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 2.0,
    "COMUNA": "Lumaco"
   },
   {
@@ -592,6 +608,14 @@
    "COMUNA": "Lumaco"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9207,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 10.0,
+   "COMUNA": "Lumaco"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 9207,
    "anio": 2025,
@@ -725,6 +749,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 6.0,
+   "COMUNA": "Lumaco"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 9207,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
    "COMUNA": "Lumaco"
   },
   {
@@ -864,6 +896,14 @@
    "COMUNA": "Lumaco"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9207,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Lumaco"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9207,
    "anio": 2025,
@@ -988,6 +1028,14 @@
    "CODCOM": 9207,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Lumaco"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9207,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Lumaco"
   },
@@ -1128,6 +1176,14 @@
    "COMUNA": "Lumaco"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9207,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Lumaco"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9207,
    "anio": 2025,
@@ -1264,6 +1320,14 @@
    "COMUNA": "Lumaco"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9207,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 2.0,
+   "COMUNA": "Lumaco"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9207,
    "anio": 2025,
@@ -1396,6 +1460,14 @@
    "CODCOM": 9207,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Lumaco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9207,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Lumaco"
   },
@@ -1536,6 +1608,14 @@
    "COMUNA": "Lumaco"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9207,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Lumaco"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9207,
    "anio": 2025,
@@ -1668,6 +1748,14 @@
    "CODCOM": 9207,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Lumaco"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9207,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Lumaco"
   },
@@ -1808,6 +1896,14 @@
    "COMUNA": "Lumaco"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9207,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 2.0,
+   "COMUNA": "Lumaco"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9207,
    "anio": 2025,
@@ -1940,6 +2036,14 @@
    "CODCOM": 9207,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Lumaco"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9207,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Lumaco"
   },
@@ -2076,6 +2180,14 @@
    "CODCOM": 9207,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Lumaco"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9207,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Lumaco"
   },
@@ -2216,6 +2328,14 @@
    "COMUNA": "Lumaco"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9207,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Lumaco"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9207,
    "anio": 2025,
@@ -2352,6 +2472,14 @@
    "COMUNA": "Lumaco"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9207,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Lumaco"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9207,
    "anio": 2025,
@@ -2488,6 +2616,14 @@
    "COMUNA": "Lumaco"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9207,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Lumaco"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9207,
    "anio": 2025,
@@ -2621,6 +2757,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 0.0,
+   "COMUNA": "Lumaco"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9207,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
    "COMUNA": "Lumaco"
   },
   {
@@ -2760,6 +2904,14 @@
    "COMUNA": "Lumaco"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9207,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Lumaco"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9207,
    "anio": 2025,
@@ -2884,6 +3036,14 @@
    "CODCOM": 9207,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Lumaco"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9207,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Lumaco"
   },
@@ -3020,6 +3180,14 @@
    "CODCOM": 9207,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Lumaco"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9207,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Lumaco"
   }
@@ -3040,7 +3208,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 74.0,
    "2025": 51.0,
-   "2026": 24.0,
+   "2026": 26.0,
    "COMUNA": "Lumaco"
   },
   {
@@ -3049,7 +3217,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 86.0,
    "2025": 91.0,
-   "2026": 22.0,
+   "2026": 32.0,
    "COMUNA": "Lumaco"
   },
   {
@@ -3058,7 +3226,7 @@
    "delito": "DAÑOS",
    "2024": 72.0,
    "2025": 57.0,
-   "2026": 24.0,
+   "2026": 25.0,
    "COMUNA": "Lumaco"
   },
   {
@@ -3067,7 +3235,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 62.0,
    "2025": 45.0,
-   "2026": 21.0,
+   "2026": 22.0,
    "COMUNA": "Lumaco"
   },
   {
@@ -3085,7 +3253,7 @@
    "delito": "HURTOS",
    "2024": 9.0,
    "2025": 20.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Lumaco"
   },
   {
@@ -3094,7 +3262,7 @@
    "delito": "INCIVILIDADES",
    "2024": 9.0,
    "2025": 6.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Lumaco"
   },
   {
@@ -3130,7 +3298,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 8.0,
    "2025": 18.0,
-   "2026": 15.0,
+   "2026": 17.0,
    "COMUNA": "Lumaco"
   },
   {
@@ -3184,7 +3352,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 3.0,
    "2025": 2.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Lumaco"
   },
   {
@@ -3216,7 +3384,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
+  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
   "region": "La Araucanía"
  }
 }

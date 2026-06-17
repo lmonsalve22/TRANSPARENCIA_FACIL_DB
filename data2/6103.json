@@ -21,27 +21,27 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6103,
-   "2025": 25.0,
+   "2025": 26.0,
    "2026": 26.0,
-   "variacion": 4.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Coinco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6103,
-   "2025": 20.0,
+   "2025": 22.0,
    "2026": 22.0,
-   "variacion": 10.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Coinco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6103,
-   "2025": 21.0,
-   "2026": 23.0,
-   "variacion": 10.0,
+   "2025": 22.0,
+   "2026": 24.0,
+   "variacion": 9.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Coinco"
   },
@@ -49,8 +49,8 @@
    "delito": "HURTOS",
    "CODCOM": 6103,
    "2025": 8.0,
-   "2026": 4.0,
-   "variacion": -50.0,
+   "2026": 5.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Coinco"
   },
@@ -67,9 +67,9 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 6103,
    "2025": 1.0,
-   "2026": 1.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 2.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Coinco"
   },
   {
@@ -139,9 +139,9 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6103,
    "2025": 1.0,
-   "2026": 0.0,
-   "variacion": -100.0,
-   "situación": "Disminución de Casos",
+   "2026": 1.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Coinco"
   },
   {
@@ -157,8 +157,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6103,
    "2025": 13.0,
-   "2026": 24.0,
-   "variacion": 85.0,
+   "2026": 26.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Coinco"
   },
@@ -319,6 +319,14 @@
    "COMUNA": "Coinco"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 6103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Coinco"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6103,
    "anio": 2025,
@@ -452,6 +460,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 4.0,
+   "COMUNA": "Coinco"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 6103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Coinco"
   },
   {
@@ -591,6 +607,14 @@
    "COMUNA": "Coinco"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 6103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Coinco"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 6103,
    "anio": 2025,
@@ -727,6 +751,14 @@
    "COMUNA": "Coinco"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 6103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Coinco"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6103,
    "anio": 2025,
@@ -863,6 +895,14 @@
    "COMUNA": "Coinco"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Coinco"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 6103,
    "anio": 2025,
@@ -999,6 +1039,14 @@
    "COMUNA": "Coinco"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Coinco"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 6103,
    "anio": 2025,
@@ -1135,6 +1183,14 @@
    "COMUNA": "Coinco"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 6103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Coinco"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6103,
    "anio": 2025,
@@ -1268,6 +1324,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 0.0,
+   "COMUNA": "Coinco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 6103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
    "COMUNA": "Coinco"
   },
   {
@@ -1407,6 +1471,14 @@
    "COMUNA": "Coinco"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 6103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Coinco"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6103,
    "anio": 2025,
@@ -1539,6 +1611,14 @@
    "CODCOM": 6103,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Coinco"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 6103,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Coinco"
   },
@@ -1679,6 +1759,14 @@
    "COMUNA": "Coinco"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 6103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Coinco"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6103,
    "anio": 2025,
@@ -1815,6 +1903,14 @@
    "COMUNA": "Coinco"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 6103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Coinco"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6103,
    "anio": 2025,
@@ -2051,6 +2147,14 @@
    "CODCOM": 6103,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Coinco"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6103,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Coinco"
   },
@@ -2191,6 +2295,14 @@
    "COMUNA": "Coinco"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 6103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Coinco"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6103,
    "anio": 2025,
@@ -2327,6 +2439,14 @@
    "COMUNA": "Coinco"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Coinco"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6103,
    "anio": 2025,
@@ -2459,6 +2579,14 @@
    "CODCOM": 6103,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Coinco"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 6103,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Coinco"
   },
@@ -2599,6 +2727,14 @@
    "COMUNA": "Coinco"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 6103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 2.0,
+   "COMUNA": "Coinco"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6103,
    "anio": 2025,
@@ -2723,6 +2859,14 @@
    "CODCOM": 6103,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Coinco"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6103,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Coinco"
   },
@@ -2861,6 +3005,14 @@
    "mes": 5,
    "casos": 0.0,
    "COMUNA": "Coinco"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 6103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Coinco"
   }
  ],
  "info": [
@@ -2906,7 +3058,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 48.0,
    "2025": 43.0,
-   "2026": 23.0,
+   "2026": 24.0,
    "COMUNA": "Coinco"
   },
   {
@@ -2924,7 +3076,7 @@
    "delito": "HURTOS",
    "2024": 26.0,
    "2025": 24.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Coinco"
   },
   {
@@ -2942,7 +3094,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 2.0,
    "2025": 1.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Coinco"
   },
   {
@@ -3014,7 +3166,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 7.0,
    "2025": 4.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Coinco"
   },
   {
@@ -3032,7 +3184,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 49.0,
    "2025": 34.0,
-   "2026": 24.0,
+   "2026": 26.0,
    "COMUNA": "Coinco"
   },
   {
@@ -3055,7 +3207,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
+  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
   "region": "O'Higgins"
  }
 }

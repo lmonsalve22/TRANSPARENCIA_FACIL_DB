@@ -3,36 +3,36 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 9210,
-   "2025": 0.0,
+   "2025": 2.0,
    "2026": 2.0,
-   "variacion": 200.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Traiguén"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9210,
-   "2025": 62.0,
-   "2026": 55.0,
-   "variacion": -11.0,
+   "2025": 66.0,
+   "2026": 58.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Traiguén"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9210,
-   "2025": 88.0,
-   "2026": 105.0,
-   "variacion": 19.0,
+   "2025": 91.0,
+   "2026": 106.0,
+   "variacion": 16.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Traiguén"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9210,
-   "2025": 53.0,
+   "2025": 57.0,
    "2026": 32.0,
-   "variacion": -40.0,
+   "variacion": -44.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Traiguén"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9210,
    "2025": 40.0,
-   "2026": 46.0,
-   "variacion": 15.0,
+   "2026": 48.0,
+   "variacion": 20.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Traiguén"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9210,
-   "2025": 20.0,
-   "2026": 23.0,
-   "variacion": 15.0,
+   "2025": 21.0,
+   "2026": 24.0,
+   "variacion": 14.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Traiguén"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 9210,
    "2025": 6.0,
-   "2026": 12.0,
-   "variacion": 100.0,
+   "2026": 13.0,
+   "variacion": 117.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Traiguén"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9210,
-   "2025": 48.0,
-   "2026": 37.0,
-   "variacion": -23.0,
+   "2025": 51.0,
+   "2026": 39.0,
+   "variacion": -24.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Traiguén"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9210,
-   "2025": 44.0,
-   "2026": 25.0,
-   "variacion": -43.0,
+   "2025": 45.0,
+   "2026": 30.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Traiguén"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 9210,
    "2025": 2.0,
-   "2026": 5.0,
-   "variacion": 150.0,
+   "2026": 6.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Traiguén"
   },
@@ -138,10 +138,10 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9210,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 3.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -25.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Traiguén"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9210,
-   "2025": 24.0,
-   "2026": 9.0,
-   "variacion": -62.0,
+   "2025": 25.0,
+   "2026": 10.0,
+   "variacion": -60.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Traiguén"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9210,
-   "2025": 10.0,
+   "2025": 11.0,
    "2026": 6.0,
-   "variacion": -40.0,
+   "variacion": -45.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Traiguén"
   }
@@ -328,6 +328,14 @@
    "COMUNA": "Traiguén"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9210,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Traiguén"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9210,
    "anio": 2025,
@@ -461,6 +469,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 4.0,
+   "COMUNA": "Traiguén"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9210,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 3.0,
    "COMUNA": "Traiguén"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "Traiguén"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9210,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Traiguén"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 9210,
    "anio": 2025,
@@ -733,6 +757,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 6.0,
+   "COMUNA": "Traiguén"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 9210,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Traiguén"
   },
   {
@@ -872,6 +904,14 @@
    "COMUNA": "Traiguén"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9210,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 2.0,
+   "COMUNA": "Traiguén"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9210,
    "anio": 2025,
@@ -996,6 +1036,14 @@
    "CODCOM": 9210,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Traiguén"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9210,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Traiguén"
   },
@@ -1136,6 +1184,14 @@
    "COMUNA": "Traiguén"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9210,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Traiguén"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9210,
    "anio": 2025,
@@ -1272,6 +1328,14 @@
    "COMUNA": "Traiguén"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9210,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Traiguén"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9210,
    "anio": 2025,
@@ -1405,6 +1469,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 1.0,
+   "COMUNA": "Traiguén"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9210,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Traiguén"
   },
   {
@@ -1544,6 +1616,14 @@
    "COMUNA": "Traiguén"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9210,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 2.0,
+   "COMUNA": "Traiguén"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9210,
    "anio": 2025,
@@ -1676,6 +1756,14 @@
    "CODCOM": 9210,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Traiguén"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9210,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Traiguén"
   },
@@ -1816,6 +1904,14 @@
    "COMUNA": "Traiguén"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9210,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 5.0,
+   "COMUNA": "Traiguén"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9210,
    "anio": 2025,
@@ -1952,6 +2048,14 @@
    "COMUNA": "Traiguén"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9210,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Traiguén"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9210,
    "anio": 2025,
@@ -2076,6 +2180,14 @@
    "CODCOM": 9210,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Traiguén"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9210,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Traiguén"
   },
@@ -2213,6 +2325,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 1.0,
+   "COMUNA": "Traiguén"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9210,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Traiguén"
   },
   {
@@ -2352,6 +2472,14 @@
    "COMUNA": "Traiguén"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9210,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Traiguén"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9210,
    "anio": 2025,
@@ -2484,6 +2612,14 @@
    "CODCOM": 9210,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Traiguén"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9210,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Traiguén"
   },
@@ -2620,6 +2756,14 @@
    "CODCOM": 9210,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Traiguén"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9210,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Traiguén"
   },
@@ -2760,6 +2904,14 @@
    "COMUNA": "Traiguén"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9210,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Traiguén"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9210,
    "anio": 2025,
@@ -2892,6 +3044,14 @@
    "CODCOM": 9210,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Traiguén"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9210,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Traiguén"
   },
@@ -3030,6 +3190,14 @@
    "mes": 5,
    "casos": 2.0,
    "COMUNA": "Traiguén"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9210,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Traiguén"
   }
  ],
  "info": [
@@ -3048,7 +3216,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 152.0,
    "2025": 152.0,
-   "2026": 55.0,
+   "2026": 58.0,
    "COMUNA": "Traiguén"
   },
   {
@@ -3057,7 +3225,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 309.0,
    "2025": 194.0,
-   "2026": 105.0,
+   "2026": 106.0,
    "COMUNA": "Traiguén"
   },
   {
@@ -3075,7 +3243,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 133.0,
    "2025": 111.0,
-   "2026": 46.0,
+   "2026": 48.0,
    "COMUNA": "Traiguén"
   },
   {
@@ -3093,7 +3261,7 @@
    "delito": "HURTOS",
    "2024": 77.0,
    "2025": 52.0,
-   "2026": 23.0,
+   "2026": 24.0,
    "COMUNA": "Traiguén"
   },
   {
@@ -3102,7 +3270,7 @@
    "delito": "INCIVILIDADES",
    "2024": 24.0,
    "2025": 20.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "Traiguén"
   },
   {
@@ -3120,7 +3288,7 @@
    "delito": "LESIONES LEVES",
    "2024": 88.0,
    "2025": 97.0,
-   "2026": 37.0,
+   "2026": 39.0,
    "COMUNA": "Traiguén"
   },
   {
@@ -3138,7 +3306,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 63.0,
    "2025": 132.0,
-   "2026": 25.0,
+   "2026": 30.0,
    "COMUNA": "Traiguén"
   },
   {
@@ -3147,7 +3315,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 18.0,
    "2025": 4.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Traiguén"
   },
   {
@@ -3201,7 +3369,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 54.0,
    "2025": 49.0,
-   "2026": 9.0,
+   "2026": 10.0,
    "COMUNA": "Traiguén"
   },
   {
@@ -3224,7 +3392,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
+  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
   "region": "La Araucanía"
  }
 }
