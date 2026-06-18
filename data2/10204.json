@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10204,
-   "2025": 15.0,
+   "2025": 16.0,
    "2026": 7.0,
-   "variacion": -53.0,
+   "variacion": -56.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curaco de Vélez"
   },
@@ -30,10 +30,10 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 10204,
-   "2025": 12.0,
+   "2025": 14.0,
    "2026": 12.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -14.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -84,8 +84,8 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10204,
-   "2025": 2.0,
-   "2026": 2.0,
+   "2025": 3.0,
+   "2026": 3.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Curaco de Vélez"
@@ -319,6 +319,14 @@
    "COMUNA": "Curaco de Vélez"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 10204,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curaco de Vélez"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10204,
    "anio": 2025,
@@ -452,6 +460,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 1.0,
+   "COMUNA": "Curaco de Vélez"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 10204,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -591,6 +607,14 @@
    "COMUNA": "Curaco de Vélez"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 10204,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curaco de Vélez"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 10204,
    "anio": 2025,
@@ -727,6 +751,14 @@
    "COMUNA": "Curaco de Vélez"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 10204,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curaco de Vélez"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10204,
    "anio": 2025,
@@ -860,6 +892,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 2.0,
+   "COMUNA": "Curaco de Vélez"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 10204,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -871,6 +911,14 @@
    "COMUNA": "Curaco de Vélez"
   },
   {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 10204,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curaco de Vélez"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 10204,
    "anio": 2025,
@@ -1007,6 +1055,14 @@
    "COMUNA": "Curaco de Vélez"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 10204,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curaco de Vélez"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 10204,
    "anio": 2025,
@@ -1143,6 +1199,14 @@
    "COMUNA": "Curaco de Vélez"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 10204,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curaco de Vélez"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10204,
    "anio": 2025,
@@ -1275,6 +1339,14 @@
    "CODCOM": 10204,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Curaco de Vélez"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 10204,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Curaco de Vélez"
   },
@@ -1415,6 +1487,14 @@
    "COMUNA": "Curaco de Vélez"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 10204,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Curaco de Vélez"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10204,
    "anio": 2025,
@@ -1551,6 +1631,14 @@
    "COMUNA": "Curaco de Vélez"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10204,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curaco de Vélez"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10204,
    "anio": 2025,
@@ -1687,6 +1775,14 @@
    "COMUNA": "Curaco de Vélez"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 10204,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curaco de Vélez"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 10204,
    "anio": 2025,
@@ -1823,6 +1919,14 @@
    "COMUNA": "Curaco de Vélez"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 10204,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curaco de Vélez"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 10204,
    "anio": 2025,
@@ -1959,6 +2063,14 @@
    "COMUNA": "Curaco de Vélez"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 10204,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curaco de Vélez"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 10204,
    "anio": 2025,
@@ -2191,6 +2303,14 @@
    "COMUNA": "Curaco de Vélez"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 10204,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curaco de Vélez"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 10204,
    "anio": 2025,
@@ -2315,6 +2435,14 @@
    "CODCOM": 10204,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Curaco de Vélez"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 10204,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Curaco de Vélez"
   },
@@ -2559,6 +2687,14 @@
    "COMUNA": "Curaco de Vélez"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 10204,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curaco de Vélez"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10204,
    "anio": 2025,
@@ -2691,6 +2827,14 @@
    "CODCOM": 10204,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Curaco de Vélez"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 10204,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Curaco de Vélez"
   }
@@ -2783,7 +2927,7 @@
    "delito": "LESIONES LEVES",
    "2024": 17.0,
    "2025": 5.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -2887,7 +3031,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
+  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
   "region": "Los Lagos"
  }
 }

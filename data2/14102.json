@@ -13,35 +13,35 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14102,
    "2025": 24.0,
-   "2026": 18.0,
-   "variacion": -25.0,
+   "2026": 19.0,
+   "variacion": -21.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Corral"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 14102,
-   "2025": 69.0,
-   "2026": 48.0,
-   "variacion": -30.0,
+   "2025": 70.0,
+   "2026": 50.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Corral"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 14102,
-   "2025": 12.0,
+   "2025": 14.0,
    "2026": 13.0,
-   "variacion": 8.0,
-   "situación": "Aumento de Casos",
+   "variacion": -7.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Corral"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 14102,
    "2025": 20.0,
-   "2026": 21.0,
-   "variacion": 5.0,
+   "2026": 22.0,
+   "variacion": 10.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Corral"
   },
@@ -58,8 +58,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 14102,
    "2025": 6.0,
-   "2026": 7.0,
-   "variacion": 17.0,
+   "2026": 8.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Corral"
   },
@@ -319,6 +319,14 @@
    "COMUNA": "Corral"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 14102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Corral"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14102,
    "anio": 2025,
@@ -452,6 +460,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 4.0,
+   "COMUNA": "Corral"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 14102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
    "COMUNA": "Corral"
   },
   {
@@ -591,6 +607,14 @@
    "COMUNA": "Corral"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 14102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 2.0,
+   "COMUNA": "Corral"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 14102,
    "anio": 2025,
@@ -724,6 +748,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 1.0,
+   "COMUNA": "Corral"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 14102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Corral"
   },
   {
@@ -863,6 +895,14 @@
    "COMUNA": "Corral"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 14102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Corral"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 14102,
    "anio": 2025,
@@ -995,6 +1035,14 @@
    "CODCOM": 14102,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Corral"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14102,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Corral"
   },
@@ -1135,6 +1183,14 @@
    "COMUNA": "Corral"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 14102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Corral"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 14102,
    "anio": 2025,
@@ -1259,6 +1315,14 @@
    "CODCOM": 14102,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Corral"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 14102,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Corral"
   },
@@ -1399,6 +1463,14 @@
    "COMUNA": "Corral"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 14102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Corral"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 14102,
    "anio": 2025,
@@ -1531,6 +1603,14 @@
    "CODCOM": 14102,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Corral"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 14102,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Corral"
   },
@@ -1671,6 +1751,14 @@
    "COMUNA": "Corral"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 14102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Corral"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 14102,
    "anio": 2025,
@@ -1807,6 +1895,14 @@
    "COMUNA": "Corral"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 14102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Corral"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 14102,
    "anio": 2025,
@@ -1939,6 +2035,14 @@
    "CODCOM": 14102,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Corral"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 14102,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Corral"
   },
@@ -2079,6 +2183,14 @@
    "COMUNA": "Corral"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 14102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Corral"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 14102,
    "anio": 2025,
@@ -2211,6 +2323,14 @@
    "CODCOM": 14102,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Corral"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 14102,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Corral"
   },
@@ -2351,6 +2471,14 @@
    "COMUNA": "Corral"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 14102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Corral"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 14102,
    "anio": 2025,
@@ -2483,6 +2611,14 @@
    "CODCOM": 14102,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Corral"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 14102,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Corral"
   },
@@ -2623,6 +2759,14 @@
    "COMUNA": "Corral"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 14102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Corral"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 14102,
    "anio": 2025,
@@ -2759,6 +2903,14 @@
    "COMUNA": "Corral"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 14102,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Corral"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 14102,
    "anio": 2025,
@@ -2891,6 +3043,14 @@
    "CODCOM": 14102,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Corral"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 14102,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Corral"
   }
@@ -2911,7 +3071,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 54.0,
    "2025": 45.0,
-   "2026": 18.0,
+   "2026": 19.0,
    "COMUNA": "Corral"
   },
   {
@@ -2920,7 +3080,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 69.0,
    "2025": 107.0,
-   "2026": 48.0,
+   "2026": 50.0,
    "COMUNA": "Corral"
   },
   {
@@ -2938,7 +3098,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 34.0,
    "2025": 37.0,
-   "2026": 21.0,
+   "2026": 22.0,
    "COMUNA": "Corral"
   },
   {
@@ -2965,7 +3125,7 @@
    "delito": "INCIVILIDADES",
    "2024": 8.0,
    "2025": 15.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Corral"
   },
   {
@@ -3087,7 +3247,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
+  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
   "region": "Los Ríos"
  }
 }

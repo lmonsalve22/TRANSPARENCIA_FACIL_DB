@@ -4,9 +4,9 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 5405,
    "2025": 3.0,
-   "2026": 2.0,
-   "variacion": -33.0,
-   "situación": "Disminución de Casos",
+   "2026": 3.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Zapallar"
   },
   {
@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5405,
    "2025": 54.0,
-   "2026": 39.0,
-   "variacion": -28.0,
+   "2026": 42.0,
+   "variacion": -22.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Zapallar"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 5405,
    "2025": 55.0,
-   "2026": 51.0,
-   "variacion": -7.0,
+   "2026": 52.0,
+   "variacion": -5.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Zapallar"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5405,
-   "2025": 27.0,
+   "2025": 28.0,
    "2026": 16.0,
-   "variacion": -41.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Zapallar"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5405,
-   "2025": 37.0,
+   "2025": 38.0,
    "2026": 33.0,
-   "variacion": -11.0,
+   "variacion": -13.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Zapallar"
   },
@@ -130,8 +130,8 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 5405,
    "2025": 3.0,
-   "2026": 6.0,
-   "variacion": 100.0,
+   "2026": 7.0,
+   "variacion": 133.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Zapallar"
   },
@@ -156,9 +156,9 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5405,
-   "2025": 42.0,
-   "2026": 17.0,
-   "variacion": -60.0,
+   "2025": 43.0,
+   "2026": 18.0,
+   "variacion": -58.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Zapallar"
   },
@@ -166,9 +166,9 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5405,
    "2025": 33.0,
-   "2026": 33.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 34.0,
+   "variacion": 3.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Zapallar"
   },
   {
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5405,
    "2025": 7.0,
-   "2026": 3.0,
-   "variacion": -57.0,
+   "2026": 4.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Zapallar"
   }
@@ -328,6 +328,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 5405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5405,
    "anio": 2025,
@@ -461,6 +469,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 2.0,
+   "COMUNA": "Zapallar"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 5405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Zapallar"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 5405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 3.0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 5405,
    "anio": 2025,
@@ -736,6 +760,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 5405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5405,
    "anio": 2025,
@@ -872,6 +904,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 5405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 5405,
    "anio": 2025,
@@ -996,6 +1036,14 @@
    "CODCOM": 5405,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Zapallar"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 5405,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Zapallar"
   },
@@ -1136,6 +1184,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 5405,
    "anio": 2025,
@@ -1272,6 +1328,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 5405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5405,
    "anio": 2025,
@@ -1405,6 +1469,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 1.0,
+   "COMUNA": "Zapallar"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 5405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Zapallar"
   },
   {
@@ -1544,6 +1616,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 5405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5405,
    "anio": 2025,
@@ -1680,6 +1760,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 5405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5405,
    "anio": 2025,
@@ -1816,6 +1904,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 5405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 5405,
    "anio": 2025,
@@ -1952,6 +2048,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 5405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 5405,
    "anio": 2025,
@@ -2084,6 +2188,14 @@
    "CODCOM": 5405,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Zapallar"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 5405,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Zapallar"
   },
@@ -2224,6 +2336,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 5405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 5405,
    "anio": 2025,
@@ -2356,6 +2476,14 @@
    "CODCOM": 5405,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Zapallar"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 5405,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Zapallar"
   },
@@ -2493,6 +2621,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 1.0,
+   "COMUNA": "Zapallar"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 5405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Zapallar"
   },
   {
@@ -2628,6 +2764,14 @@
    "CODCOM": 5405,
    "anio": 2026,
    "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Zapallar"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 5405,
+   "anio": 2026,
+   "mes": 6,
    "casos": 1.0,
    "COMUNA": "Zapallar"
   },
@@ -2768,6 +2912,14 @@
    "COMUNA": "Zapallar"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 5405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Zapallar"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5405,
    "anio": 2025,
@@ -2900,6 +3052,14 @@
    "CODCOM": 5405,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Zapallar"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 5405,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Zapallar"
   },
@@ -3038,6 +3198,14 @@
    "mes": 5,
    "casos": 2.0,
    "COMUNA": "Zapallar"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 5405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Zapallar"
   }
  ],
  "info": [
@@ -3047,7 +3215,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 2.0,
    "2025": 3.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Zapallar"
   },
   {
@@ -3065,7 +3233,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 56.0,
    "2025": 80.0,
-   "2026": 39.0,
+   "2026": 42.0,
    "COMUNA": "Zapallar"
   },
   {
@@ -3074,7 +3242,7 @@
    "delito": "DAÑOS",
    "2024": 109.0,
    "2025": 107.0,
-   "2026": 51.0,
+   "2026": 52.0,
    "COMUNA": "Zapallar"
   },
   {
@@ -3173,7 +3341,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 0.0,
    "2025": 5.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "Zapallar"
   },
   {
@@ -3200,7 +3368,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 44.0,
    "2025": 85.0,
-   "2026": 17.0,
+   "2026": 18.0,
    "COMUNA": "Zapallar"
   },
   {
@@ -3209,7 +3377,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 66.0,
    "2025": 57.0,
-   "2026": 33.0,
+   "2026": 34.0,
    "COMUNA": "Zapallar"
   },
   {
@@ -3227,12 +3395,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 8.0,
    "2025": 12.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Zapallar"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
+  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
   "region": "Valparaíso"
  }
 }

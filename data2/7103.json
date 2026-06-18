@@ -13,36 +13,36 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7103,
    "2025": 23.0,
-   "2026": 22.0,
-   "variacion": -4.0,
-   "situación": "Disminución de Casos",
+   "2026": 24.0,
+   "variacion": 4.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Curepto"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7103,
-   "2025": 29.0,
+   "2025": 30.0,
    "2026": 31.0,
-   "variacion": 7.0,
+   "variacion": 3.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Curepto"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7103,
-   "2025": 32.0,
+   "2025": 35.0,
    "2026": 16.0,
-   "variacion": -50.0,
+   "variacion": -54.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curepto"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7103,
-   "2025": 18.0,
+   "2025": 19.0,
    "2026": 19.0,
-   "variacion": 6.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Curepto"
   },
   {
@@ -103,18 +103,18 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7103,
    "2025": 22.0,
-   "2026": 4.0,
-   "variacion": -82.0,
+   "2026": 7.0,
+   "variacion": -68.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curepto"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7103,
-   "2025": 3.0,
+   "2025": 4.0,
    "2026": 4.0,
-   "variacion": 33.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Curepto"
   },
   {
@@ -130,8 +130,8 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 7103,
    "2025": 2.0,
-   "2026": 0.0,
-   "variacion": -100.0,
+   "2026": 1.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curepto"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7103,
-   "2025": 12.0,
+   "2025": 13.0,
    "2026": 5.0,
-   "variacion": -58.0,
+   "variacion": -62.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curepto"
   },
@@ -319,6 +319,14 @@
    "COMUNA": "Curepto"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 7103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curepto"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7103,
    "anio": 2025,
@@ -452,6 +460,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 3.0,
+   "COMUNA": "Curepto"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 7103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 2.0,
    "COMUNA": "Curepto"
   },
   {
@@ -591,6 +607,14 @@
    "COMUNA": "Curepto"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 7103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curepto"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 7103,
    "anio": 2025,
@@ -727,6 +751,14 @@
    "COMUNA": "Curepto"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 7103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curepto"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7103,
    "anio": 2025,
@@ -863,6 +895,14 @@
    "COMUNA": "Curepto"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 7103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curepto"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 7103,
    "anio": 2025,
@@ -987,6 +1027,14 @@
    "CODCOM": 7103,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Curepto"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 7103,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Curepto"
   },
@@ -1124,6 +1172,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 2.0,
+   "COMUNA": "Curepto"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Curepto"
   },
   {
@@ -1263,6 +1319,14 @@
    "COMUNA": "Curepto"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 7103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curepto"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 7103,
    "anio": 2025,
@@ -1395,6 +1459,14 @@
    "CODCOM": 7103,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Curepto"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 7103,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Curepto"
   },
@@ -1535,6 +1607,14 @@
    "COMUNA": "Curepto"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 7103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curepto"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7103,
    "anio": 2025,
@@ -1667,6 +1747,14 @@
    "CODCOM": 7103,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Curepto"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7103,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Curepto"
   },
@@ -1807,6 +1895,14 @@
    "COMUNA": "Curepto"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 3.0,
+   "COMUNA": "Curepto"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7103,
    "anio": 2025,
@@ -1943,6 +2039,14 @@
    "COMUNA": "Curepto"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 7103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curepto"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 7103,
    "anio": 2025,
@@ -2067,6 +2171,14 @@
    "CODCOM": 7103,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Curepto"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 7103,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Curepto"
   },
@@ -2207,6 +2319,14 @@
    "COMUNA": "Curepto"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 7103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Curepto"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 7103,
    "anio": 2025,
@@ -2335,6 +2455,14 @@
    "COMUNA": "Curepto"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 7103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curepto"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 7103,
    "anio": 2025,
@@ -2459,6 +2587,14 @@
    "CODCOM": 7103,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Curepto"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 7103,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Curepto"
   },
@@ -2595,6 +2731,14 @@
    "CODCOM": 7103,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Curepto"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 7103,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Curepto"
   },
@@ -2735,6 +2879,14 @@
    "COMUNA": "Curepto"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curepto"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 7103,
    "anio": 2025,
@@ -2869,6 +3021,14 @@
    "mes": 5,
    "casos": 0.0,
    "COMUNA": "Curepto"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7103,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Curepto"
   }
  ],
  "info": [
@@ -2887,7 +3047,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 47.0,
    "2025": 51.0,
-   "2026": 22.0,
+   "2026": 24.0,
    "COMUNA": "Curepto"
   },
   {
@@ -2977,7 +3137,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 15.0,
    "2025": 22.0,
-   "2026": 4.0,
+   "2026": 7.0,
    "COMUNA": "Curepto"
   },
   {
@@ -3004,7 +3164,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 1.0,
    "2025": 4.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Curepto"
   },
   {
@@ -3063,7 +3223,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
+  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
   "region": "Maule"
  }
 }

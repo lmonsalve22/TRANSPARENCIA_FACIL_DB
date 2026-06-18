@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9120,
-   "2025": 269.0,
-   "2026": 249.0,
-   "variacion": -7.0,
+   "2025": 278.0,
+   "2026": 257.0,
+   "variacion": -8.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Villarrica"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9120,
-   "2025": 257.0,
-   "2026": 284.0,
-   "variacion": 11.0,
+   "2025": 264.0,
+   "2026": 289.0,
+   "variacion": 9.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Villarrica"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9120,
-   "2025": 197.0,
-   "2026": 168.0,
-   "variacion": -15.0,
+   "2025": 200.0,
+   "2026": 174.0,
+   "variacion": -13.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Villarrica"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9120,
-   "2025": 300.0,
-   "2026": 230.0,
-   "variacion": -23.0,
+   "2025": 314.0,
+   "2026": 236.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Villarrica"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9120,
-   "2025": 228.0,
-   "2026": 246.0,
+   "2025": 232.0,
+   "2026": 251.0,
    "variacion": 8.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Villarrica"
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9120,
-   "2025": 74.0,
+   "2025": 76.0,
    "2026": 46.0,
-   "variacion": -38.0,
+   "variacion": -39.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Villarrica"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9120,
-   "2025": 91.0,
-   "2026": 76.0,
-   "variacion": -16.0,
+   "2025": 95.0,
+   "2026": 83.0,
+   "variacion": -13.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Villarrica"
   },
@@ -103,17 +103,17 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9120,
    "2025": 60.0,
-   "2026": 78.0,
-   "variacion": 30.0,
+   "2026": 83.0,
+   "variacion": 38.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Villarrica"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9120,
-   "2025": 54.0,
-   "2026": 52.0,
-   "variacion": -4.0,
+   "2025": 55.0,
+   "2026": 54.0,
+   "variacion": -2.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Villarrica"
   },
@@ -138,18 +138,18 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9120,
-   "2025": 22.0,
-   "2026": 22.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2025": 23.0,
+   "2026": 24.0,
+   "variacion": 4.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Villarrica"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9120,
-   "2025": 25.0,
-   "2026": 12.0,
-   "variacion": -52.0,
+   "2025": 28.0,
+   "2026": 13.0,
+   "variacion": -54.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Villarrica"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9120,
-   "2025": 143.0,
-   "2026": 107.0,
-   "variacion": -25.0,
+   "2025": 152.0,
+   "2026": 118.0,
+   "variacion": -22.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Villarrica"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9120,
-   "2025": 32.0,
+   "2025": 33.0,
    "2026": 22.0,
-   "variacion": -31.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Villarrica"
   }
@@ -328,6 +328,14 @@
    "COMUNA": "Villarrica"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9120,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Villarrica"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9120,
    "anio": 2025,
@@ -461,6 +469,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 26.0,
+   "COMUNA": "Villarrica"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9120,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 8.0,
    "COMUNA": "Villarrica"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "Villarrica"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9120,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 5.0,
+   "COMUNA": "Villarrica"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 9120,
    "anio": 2025,
@@ -733,6 +757,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 20.0,
+   "COMUNA": "Villarrica"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 9120,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 6.0,
    "COMUNA": "Villarrica"
   },
   {
@@ -872,6 +904,14 @@
    "COMUNA": "Villarrica"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9120,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 6.0,
+   "COMUNA": "Villarrica"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9120,
    "anio": 2025,
@@ -1004,6 +1044,14 @@
    "CODCOM": 9120,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Villarrica"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9120,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Villarrica"
   },
@@ -1144,6 +1192,14 @@
    "COMUNA": "Villarrica"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9120,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 5.0,
+   "COMUNA": "Villarrica"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9120,
    "anio": 2025,
@@ -1280,6 +1336,14 @@
    "COMUNA": "Villarrica"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9120,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Villarrica"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9120,
    "anio": 2025,
@@ -1413,6 +1477,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 2.0,
+   "COMUNA": "Villarrica"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9120,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Villarrica"
   },
   {
@@ -1552,6 +1624,14 @@
    "COMUNA": "Villarrica"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9120,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 7.0,
+   "COMUNA": "Villarrica"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9120,
    "anio": 2025,
@@ -1684,6 +1764,14 @@
    "CODCOM": 9120,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Villarrica"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9120,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Villarrica"
   },
@@ -1824,6 +1912,14 @@
    "COMUNA": "Villarrica"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9120,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 5.0,
+   "COMUNA": "Villarrica"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9120,
    "anio": 2025,
@@ -1960,6 +2056,14 @@
    "COMUNA": "Villarrica"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9120,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 2.0,
+   "COMUNA": "Villarrica"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9120,
    "anio": 2025,
@@ -2096,6 +2200,14 @@
    "COMUNA": "Villarrica"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9120,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Villarrica"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 9120,
    "anio": 2025,
@@ -2229,6 +2341,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 1.0,
+   "COMUNA": "Villarrica"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9120,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Villarrica"
   },
   {
@@ -2368,6 +2488,14 @@
    "COMUNA": "Villarrica"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9120,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 2.0,
+   "COMUNA": "Villarrica"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9120,
    "anio": 2025,
@@ -2501,6 +2629,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 2.0,
+   "COMUNA": "Villarrica"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9120,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
    "COMUNA": "Villarrica"
   },
   {
@@ -2640,6 +2776,14 @@
    "COMUNA": "Villarrica"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9120,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Villarrica"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9120,
    "anio": 2025,
@@ -2776,6 +2920,14 @@
    "COMUNA": "Villarrica"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9120,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 11.0,
+   "COMUNA": "Villarrica"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9120,
    "anio": 2025,
@@ -2909,6 +3061,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 1.0,
+   "COMUNA": "Villarrica"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9120,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Villarrica"
   },
   {
@@ -3046,6 +3206,14 @@
    "mes": 5,
    "casos": 2.0,
    "COMUNA": "Villarrica"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9120,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Villarrica"
   }
  ],
  "info": [
@@ -3064,7 +3232,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 605.0,
    "2025": 569.0,
-   "2026": 249.0,
+   "2026": 257.0,
    "COMUNA": "Villarrica"
   },
   {
@@ -3073,7 +3241,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 423.0,
    "2025": 472.0,
-   "2026": 284.0,
+   "2026": 289.0,
    "COMUNA": "Villarrica"
   },
   {
@@ -3082,7 +3250,7 @@
    "delito": "DAÑOS",
    "2024": 586.0,
    "2025": 429.0,
-   "2026": 168.0,
+   "2026": 174.0,
    "COMUNA": "Villarrica"
   },
   {
@@ -3091,7 +3259,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 721.0,
    "2025": 632.0,
-   "2026": 230.0,
+   "2026": 236.0,
    "COMUNA": "Villarrica"
   },
   {
@@ -3109,7 +3277,7 @@
    "delito": "HURTOS",
    "2024": 563.0,
    "2025": 493.0,
-   "2026": 246.0,
+   "2026": 251.0,
    "COMUNA": "Villarrica"
   },
   {
@@ -3136,7 +3304,7 @@
    "delito": "LESIONES LEVES",
    "2024": 207.0,
    "2025": 181.0,
-   "2026": 76.0,
+   "2026": 83.0,
    "COMUNA": "Villarrica"
   },
   {
@@ -3154,7 +3322,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 94.0,
    "2025": 166.0,
-   "2026": 78.0,
+   "2026": 83.0,
    "COMUNA": "Villarrica"
   },
   {
@@ -3163,7 +3331,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 96.0,
    "2025": 100.0,
-   "2026": 52.0,
+   "2026": 54.0,
    "COMUNA": "Villarrica"
   },
   {
@@ -3190,7 +3358,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 51.0,
    "2025": 44.0,
-   "2026": 22.0,
+   "2026": 24.0,
    "COMUNA": "Villarrica"
   },
   {
@@ -3199,7 +3367,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 55.0,
    "2025": 49.0,
-   "2026": 12.0,
+   "2026": 13.0,
    "COMUNA": "Villarrica"
   },
   {
@@ -3217,7 +3385,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 373.0,
    "2025": 297.0,
-   "2026": 107.0,
+   "2026": 118.0,
    "COMUNA": "Villarrica"
   },
   {
@@ -3240,7 +3408,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
+  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
   "region": "La Araucanía"
  }
 }

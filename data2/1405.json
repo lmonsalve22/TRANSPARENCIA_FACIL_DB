@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 1405,
-   "2025": 17.0,
-   "2026": 31.0,
-   "variacion": 82.0,
+   "2025": 18.0,
+   "2026": 33.0,
+   "variacion": 83.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pica"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 1405,
-   "2025": 29.0,
-   "2026": 80.0,
-   "variacion": 176.0,
+   "2025": 30.0,
+   "2026": 86.0,
+   "variacion": 187.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pica"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 1405,
    "2025": 35.0,
-   "2026": 31.0,
-   "variacion": -11.0,
+   "2026": 32.0,
+   "variacion": -9.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pica"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 1405,
-   "2025": 32.0,
-   "2026": 38.0,
-   "variacion": 19.0,
+   "2025": 34.0,
+   "2026": 41.0,
+   "variacion": 21.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pica"
   },
@@ -49,8 +49,8 @@
    "delito": "HURTOS",
    "CODCOM": 1405,
    "2025": 13.0,
-   "2026": 18.0,
-   "variacion": 38.0,
+   "2026": 21.0,
+   "variacion": 62.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pica"
   },
@@ -58,8 +58,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 1405,
    "2025": 21.0,
-   "2026": 29.0,
-   "variacion": 38.0,
+   "2026": 30.0,
+   "variacion": 43.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pica"
   },
@@ -138,9 +138,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 1405,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 3.0,
-   "variacion": 200.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pica"
   },
@@ -157,8 +157,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 1405,
    "2025": 17.0,
-   "2026": 24.0,
-   "variacion": 41.0,
+   "2026": 25.0,
+   "variacion": 47.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pica"
   },
@@ -311,6 +311,14 @@
    "COMUNA": "Pica"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 1405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Pica"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 1405,
    "anio": 2025,
@@ -444,6 +452,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 3.0,
+   "COMUNA": "Pica"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 1405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 2.0,
    "COMUNA": "Pica"
   },
   {
@@ -583,6 +599,14 @@
    "COMUNA": "Pica"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 1405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 6.0,
+   "COMUNA": "Pica"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 1405,
    "anio": 2025,
@@ -716,6 +740,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 6.0,
+   "COMUNA": "Pica"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 1405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
    "COMUNA": "Pica"
   },
   {
@@ -855,6 +887,14 @@
    "COMUNA": "Pica"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 1405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 3.0,
+   "COMUNA": "Pica"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 1405,
    "anio": 2025,
@@ -988,6 +1028,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 2.0,
+   "COMUNA": "Pica"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 3.0,
    "COMUNA": "Pica"
   },
   {
@@ -1127,6 +1175,14 @@
    "COMUNA": "Pica"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 1405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Pica"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 1405,
    "anio": 2025,
@@ -1251,6 +1307,14 @@
    "CODCOM": 1405,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Pica"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 1405,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Pica"
   },
@@ -1391,6 +1455,14 @@
    "COMUNA": "Pica"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 1405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Pica"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 1405,
    "anio": 2025,
@@ -1527,6 +1599,14 @@
    "COMUNA": "Pica"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 1405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Pica"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 1405,
    "anio": 2025,
@@ -1663,6 +1743,14 @@
    "COMUNA": "Pica"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 1405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Pica"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 1405,
    "anio": 2025,
@@ -1799,6 +1887,14 @@
    "COMUNA": "Pica"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 1405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Pica"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 1405,
    "anio": 2025,
@@ -2035,6 +2131,14 @@
    "CODCOM": 1405,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Pica"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 1405,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Pica"
   },
@@ -2175,6 +2279,14 @@
    "COMUNA": "Pica"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 1405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Pica"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 1405,
    "anio": 2025,
@@ -2308,6 +2420,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 2.0,
+   "COMUNA": "Pica"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 1405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Pica"
   },
   {
@@ -2444,6 +2564,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 1.0,
+   "COMUNA": "Pica"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 1405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Pica"
   },
   {
@@ -2583,6 +2711,14 @@
    "COMUNA": "Pica"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 1405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Pica"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 1405,
    "anio": 2025,
@@ -2719,6 +2855,14 @@
    "COMUNA": "Pica"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 1405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Pica"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 1405,
    "anio": 2025,
@@ -2852,6 +2996,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 1.0,
+   "COMUNA": "Pica"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 1405,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Pica"
   }
  ],
@@ -2871,7 +3023,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 40.0,
    "2025": 56.0,
-   "2026": 31.0,
+   "2026": 33.0,
    "COMUNA": "Pica"
   },
   {
@@ -2880,7 +3032,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 55.0,
    "2025": 51.0,
-   "2026": 80.0,
+   "2026": 86.0,
    "COMUNA": "Pica"
   },
   {
@@ -2889,7 +3041,7 @@
    "delito": "DAÑOS",
    "2024": 66.0,
    "2025": 68.0,
-   "2026": 31.0,
+   "2026": 32.0,
    "COMUNA": "Pica"
   },
   {
@@ -2898,7 +3050,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 117.0,
    "2025": 90.0,
-   "2026": 38.0,
+   "2026": 41.0,
    "COMUNA": "Pica"
   },
   {
@@ -2916,7 +3068,7 @@
    "delito": "HURTOS",
    "2024": 47.0,
    "2025": 33.0,
-   "2026": 18.0,
+   "2026": 21.0,
    "COMUNA": "Pica"
   },
   {
@@ -2925,7 +3077,7 @@
    "delito": "INCIVILIDADES",
    "2024": 42.0,
    "2025": 45.0,
-   "2026": 29.0,
+   "2026": 30.0,
    "COMUNA": "Pica"
   },
   {
@@ -3024,7 +3176,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 35.0,
    "2025": 40.0,
-   "2026": 24.0,
+   "2026": 25.0,
    "COMUNA": "Pica"
   },
   {
@@ -3047,7 +3199,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
+  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
   "region": "Tarapacá"
  }
 }

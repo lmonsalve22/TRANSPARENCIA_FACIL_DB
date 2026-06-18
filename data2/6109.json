@@ -4,17 +4,17 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 6109,
    "2025": 5.0,
-   "2026": 1.0,
-   "variacion": -80.0,
+   "2026": 2.0,
+   "variacion": -60.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Malloa"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6109,
-   "2025": 54.0,
+   "2025": 55.0,
    "2026": 47.0,
-   "variacion": -13.0,
+   "variacion": -15.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Malloa"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6109,
-   "2025": 52.0,
+   "2025": 57.0,
    "2026": 49.0,
-   "variacion": -6.0,
+   "variacion": -14.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Malloa"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6109,
-   "2025": 55.0,
-   "2026": 44.0,
-   "variacion": -20.0,
+   "2025": 58.0,
+   "2026": 45.0,
+   "variacion": -22.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Malloa"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6109,
-   "2025": 14.0,
+   "2025": 16.0,
    "2026": 16.0,
-   "variacion": 14.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Malloa"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6109,
-   "2025": 7.0,
+   "2025": 9.0,
    "2026": 11.0,
-   "variacion": 57.0,
+   "variacion": 22.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Malloa"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 6109,
    "2025": 15.0,
-   "2026": 16.0,
-   "variacion": 7.0,
+   "2026": 17.0,
+   "variacion": 13.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Malloa"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6109,
    "2025": 27.0,
-   "2026": 38.0,
-   "variacion": 41.0,
+   "2026": 41.0,
+   "variacion": 52.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Malloa"
   },
@@ -328,6 +328,14 @@
    "COMUNA": "Malloa"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 6109,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Malloa"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6109,
    "anio": 2025,
@@ -461,6 +469,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 10.0,
+   "COMUNA": "Malloa"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 6109,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Malloa"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "Malloa"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 6109,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Malloa"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 6109,
    "anio": 2025,
@@ -733,6 +757,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 5.0,
+   "COMUNA": "Malloa"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 6109,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Malloa"
   },
   {
@@ -872,6 +904,14 @@
    "COMUNA": "Malloa"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6109,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Malloa"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6109,
    "anio": 2025,
@@ -1004,6 +1044,14 @@
    "CODCOM": 6109,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Malloa"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 6109,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Malloa"
   },
@@ -1141,6 +1189,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 3.0,
+   "COMUNA": "Malloa"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6109,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Malloa"
   },
   {
@@ -1280,6 +1336,14 @@
    "COMUNA": "Malloa"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 6109,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Malloa"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6109,
    "anio": 2025,
@@ -1413,6 +1477,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 1.0,
+   "COMUNA": "Malloa"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 6109,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Malloa"
   },
   {
@@ -1552,6 +1624,14 @@
    "COMUNA": "Malloa"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 6109,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Malloa"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6109,
    "anio": 2025,
@@ -1688,6 +1768,14 @@
    "COMUNA": "Malloa"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 6109,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Malloa"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6109,
    "anio": 2025,
@@ -1820,6 +1908,14 @@
    "CODCOM": 6109,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Malloa"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 6109,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Malloa"
   },
@@ -1960,6 +2056,14 @@
    "COMUNA": "Malloa"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 6109,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Malloa"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6109,
    "anio": 2025,
@@ -2096,6 +2200,14 @@
    "COMUNA": "Malloa"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 6109,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Malloa"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 6109,
    "anio": 2025,
@@ -2232,6 +2344,14 @@
    "COMUNA": "Malloa"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6109,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Malloa"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6109,
    "anio": 2025,
@@ -2364,6 +2484,14 @@
    "CODCOM": 6109,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Malloa"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 6109,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Malloa"
   },
@@ -2504,6 +2632,14 @@
    "COMUNA": "Malloa"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6109,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Malloa"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6109,
    "anio": 2025,
@@ -2637,6 +2773,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 1.0,
+   "COMUNA": "Malloa"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 6109,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Malloa"
   },
   {
@@ -2776,6 +2920,14 @@
    "COMUNA": "Malloa"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 6109,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 3.0,
+   "COMUNA": "Malloa"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6109,
    "anio": 2025,
@@ -2908,6 +3060,14 @@
    "CODCOM": 6109,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Malloa"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6109,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Malloa"
   },
@@ -3046,6 +3206,14 @@
    "mes": 5,
    "casos": 0.0,
    "COMUNA": "Malloa"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 6109,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Malloa"
   }
  ],
  "info": [
@@ -3055,7 +3223,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2024": 5.0,
    "2025": 7.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Malloa"
   },
   {
@@ -3091,7 +3259,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 86.0,
    "2025": 109.0,
-   "2026": 44.0,
+   "2026": 45.0,
    "COMUNA": "Malloa"
   },
   {
@@ -3136,7 +3304,7 @@
    "delito": "LESIONES LEVES",
    "2024": 52.0,
    "2025": 44.0,
-   "2026": 16.0,
+   "2026": 17.0,
    "COMUNA": "Malloa"
   },
   {
@@ -3217,7 +3385,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 81.0,
    "2025": 61.0,
-   "2026": 38.0,
+   "2026": 41.0,
    "COMUNA": "Malloa"
   },
   {
@@ -3240,7 +3408,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
+  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
   "region": "O'Higgins"
  }
 }

@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6116,
-   "2025": 72.0,
-   "2026": 70.0,
-   "variacion": -3.0,
-   "situación": "Disminución de Casos",
+   "2025": 76.0,
+   "2026": 76.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Requínoa"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6116,
-   "2025": 174.0,
-   "2026": 90.0,
-   "variacion": -48.0,
+   "2025": 184.0,
+   "2026": 98.0,
+   "variacion": -47.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Requínoa"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6116,
-   "2025": 110.0,
-   "2026": 89.0,
-   "variacion": -19.0,
+   "2025": 117.0,
+   "2026": 90.0,
+   "variacion": -23.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Requínoa"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6116,
-   "2025": 76.0,
-   "2026": 84.0,
-   "variacion": 11.0,
+   "2025": 79.0,
+   "2026": 86.0,
+   "variacion": 9.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Requínoa"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6116,
-   "2025": 49.0,
-   "2026": 48.0,
-   "variacion": -2.0,
+   "2025": 55.0,
+   "2026": 51.0,
+   "variacion": -7.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Requínoa"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6116,
-   "2025": 36.0,
-   "2026": 22.0,
-   "variacion": -39.0,
+   "2025": 37.0,
+   "2026": 23.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Requínoa"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6116,
-   "2025": 39.0,
-   "2026": 32.0,
-   "variacion": -18.0,
+   "2025": 41.0,
+   "2026": 33.0,
+   "variacion": -20.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Requínoa"
   },
@@ -102,18 +102,18 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6116,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 7.0,
-   "variacion": 17.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Requínoa"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6116,
-   "2025": 12.0,
+   "2025": 13.0,
    "2026": 8.0,
-   "variacion": -33.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Requínoa"
   },
@@ -139,8 +139,8 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 6116,
    "2025": 6.0,
-   "2026": 4.0,
-   "variacion": -33.0,
+   "2026": 5.0,
+   "variacion": -17.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Requínoa"
   },
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6116,
    "2025": 12.0,
-   "2026": 15.0,
-   "variacion": 25.0,
+   "2026": 16.0,
+   "variacion": 33.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Requínoa"
   },
@@ -157,16 +157,16 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6116,
    "2025": 34.0,
-   "2026": 21.0,
-   "variacion": -38.0,
+   "2026": 23.0,
+   "variacion": -32.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Requínoa"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6116,
-   "2025": 75.0,
-   "2026": 61.0,
+   "2025": 79.0,
+   "2026": 64.0,
    "variacion": -19.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Requínoa"
@@ -328,6 +328,14 @@
    "COMUNA": "Requínoa"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 6116,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Requínoa"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6116,
    "anio": 2025,
@@ -461,6 +469,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 10.0,
+   "COMUNA": "Requínoa"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 6116,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 6.0,
    "COMUNA": "Requínoa"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "Requínoa"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 6116,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 8.0,
+   "COMUNA": "Requínoa"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 6116,
    "anio": 2025,
@@ -733,6 +757,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 10.0,
+   "COMUNA": "Requínoa"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 6116,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
    "COMUNA": "Requínoa"
   },
   {
@@ -872,6 +904,14 @@
    "COMUNA": "Requínoa"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6116,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 2.0,
+   "COMUNA": "Requínoa"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6116,
    "anio": 2025,
@@ -996,6 +1036,14 @@
    "CODCOM": 6116,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Requínoa"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 6116,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Requínoa"
   },
@@ -1136,6 +1184,14 @@
    "COMUNA": "Requínoa"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6116,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 3.0,
+   "COMUNA": "Requínoa"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 6116,
    "anio": 2025,
@@ -1272,6 +1328,14 @@
    "COMUNA": "Requínoa"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 6116,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Requínoa"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6116,
    "anio": 2025,
@@ -1404,6 +1468,14 @@
    "CODCOM": 6116,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Requínoa"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 6116,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Requínoa"
   },
@@ -1544,6 +1616,14 @@
    "COMUNA": "Requínoa"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 6116,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "Requínoa"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6116,
    "anio": 2025,
@@ -1677,6 +1757,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 1.0,
+   "COMUNA": "Requínoa"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 6116,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
    "COMUNA": "Requínoa"
   },
   {
@@ -1816,6 +1904,14 @@
    "COMUNA": "Requínoa"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 6116,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Requínoa"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6116,
    "anio": 2025,
@@ -1952,6 +2048,14 @@
    "COMUNA": "Requínoa"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 6116,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Requínoa"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6116,
    "anio": 2025,
@@ -2084,6 +2188,14 @@
    "CODCOM": 6116,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Requínoa"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 6116,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Requínoa"
   },
@@ -2224,6 +2336,14 @@
    "COMUNA": "Requínoa"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6116,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Requínoa"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6116,
    "anio": 2025,
@@ -2357,6 +2477,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 0.0,
+   "COMUNA": "Requínoa"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 6116,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
    "COMUNA": "Requínoa"
   },
   {
@@ -2492,6 +2620,14 @@
    "CODCOM": 6116,
    "anio": 2026,
    "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "Requínoa"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6116,
+   "anio": 2026,
+   "mes": 6,
    "casos": 1.0,
    "COMUNA": "Requínoa"
   },
@@ -2629,6 +2765,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 3.0,
+   "COMUNA": "Requínoa"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 6116,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 2.0,
    "COMUNA": "Requínoa"
   },
   {
@@ -2768,6 +2912,14 @@
    "COMUNA": "Requínoa"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 6116,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 3.0,
+   "COMUNA": "Requínoa"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6116,
    "anio": 2025,
@@ -2900,6 +3052,14 @@
    "CODCOM": 6116,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "Requínoa"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6116,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "Requínoa"
   },
@@ -3038,6 +3198,14 @@
    "mes": 5,
    "casos": 2.0,
    "COMUNA": "Requínoa"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 6116,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "Requínoa"
   }
  ],
  "info": [
@@ -3056,7 +3224,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 240.0,
    "2025": 188.0,
-   "2026": 70.0,
+   "2026": 76.0,
    "COMUNA": "Requínoa"
   },
   {
@@ -3065,7 +3233,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 465.0,
    "2025": 387.0,
-   "2026": 90.0,
+   "2026": 98.0,
    "COMUNA": "Requínoa"
   },
   {
@@ -3074,7 +3242,7 @@
    "delito": "DAÑOS",
    "2024": 245.0,
    "2025": 240.0,
-   "2026": 89.0,
+   "2026": 90.0,
    "COMUNA": "Requínoa"
   },
   {
@@ -3083,7 +3251,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 196.0,
    "2025": 186.0,
-   "2026": 84.0,
+   "2026": 86.0,
    "COMUNA": "Requínoa"
   },
   {
@@ -3101,7 +3269,7 @@
    "delito": "HURTOS",
    "2024": 92.0,
    "2025": 93.0,
-   "2026": 48.0,
+   "2026": 51.0,
    "COMUNA": "Requínoa"
   },
   {
@@ -3110,7 +3278,7 @@
    "delito": "INCIVILIDADES",
    "2024": 88.0,
    "2025": 82.0,
-   "2026": 22.0,
+   "2026": 23.0,
    "COMUNA": "Requínoa"
   },
   {
@@ -3128,7 +3296,7 @@
    "delito": "LESIONES LEVES",
    "2024": 91.0,
    "2025": 85.0,
-   "2026": 32.0,
+   "2026": 33.0,
    "COMUNA": "Requínoa"
   },
   {
@@ -3182,7 +3350,7 @@
    "delito": "RECEPTACIÓN",
    "2024": 18.0,
    "2025": 14.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Requínoa"
   },
   {
@@ -3191,7 +3359,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 37.0,
    "2025": 28.0,
-   "2026": 15.0,
+   "2026": 16.0,
    "COMUNA": "Requínoa"
   },
   {
@@ -3200,7 +3368,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 102.0,
    "2025": 75.0,
-   "2026": 21.0,
+   "2026": 23.0,
    "COMUNA": "Requínoa"
   },
   {
@@ -3209,7 +3377,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 206.0,
    "2025": 199.0,
-   "2026": 61.0,
+   "2026": 64.0,
    "COMUNA": "Requínoa"
   },
   {
@@ -3232,7 +3400,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
+  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
   "region": "O'Higgins"
  }
 }

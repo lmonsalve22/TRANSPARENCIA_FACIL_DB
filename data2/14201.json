@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14201,
-   "2025": 155.0,
-   "2026": 113.0,
+   "2025": 161.0,
+   "2026": 117.0,
    "variacion": -27.0,
    "situación": "Disminución de Casos",
    "COMUNA": "La Unión"
@@ -21,17 +21,17 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 14201,
-   "2025": 161.0,
-   "2026": 139.0,
-   "variacion": -14.0,
+   "2025": 176.0,
+   "2026": 141.0,
+   "variacion": -20.0,
    "situación": "Disminución de Casos",
    "COMUNA": "La Unión"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 14201,
-   "2025": 151.0,
-   "2026": 94.0,
+   "2025": 157.0,
+   "2026": 97.0,
    "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "La Unión"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 14201,
-   "2025": 132.0,
-   "2026": 140.0,
-   "variacion": 6.0,
+   "2025": 139.0,
+   "2026": 146.0,
+   "variacion": 5.0,
    "situación": "Aumento de Casos",
    "COMUNA": "La Unión"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 14201,
-   "2025": 73.0,
-   "2026": 82.0,
-   "variacion": 12.0,
+   "2025": 75.0,
+   "2026": 88.0,
+   "variacion": 17.0,
    "situación": "Aumento de Casos",
    "COMUNA": "La Unión"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 14201,
-   "2025": 46.0,
-   "2026": 51.0,
-   "variacion": 11.0,
+   "2025": 47.0,
+   "2026": 54.0,
+   "variacion": 15.0,
    "situación": "Aumento de Casos",
    "COMUNA": "La Unión"
   },
@@ -76,17 +76,17 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 14201,
    "2025": 4.0,
-   "2026": 6.0,
-   "variacion": 50.0,
+   "2026": 7.0,
+   "variacion": 75.0,
    "situación": "Aumento de Casos",
    "COMUNA": "La Unión"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 14201,
-   "2025": 55.0,
-   "2026": 52.0,
-   "variacion": -5.0,
+   "2025": 59.0,
+   "2026": 55.0,
+   "variacion": -7.0,
    "situación": "Disminución de Casos",
    "COMUNA": "La Unión"
   },
@@ -94,17 +94,17 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 14201,
    "2025": 12.0,
-   "2026": 7.0,
-   "variacion": -42.0,
+   "2026": 8.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "La Unión"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 14201,
-   "2025": 15.0,
+   "2025": 16.0,
    "2026": 14.0,
-   "variacion": -7.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "La Unión"
   },
@@ -130,8 +130,8 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 14201,
    "2025": 12.0,
-   "2026": 10.0,
-   "variacion": -17.0,
+   "2026": 11.0,
+   "variacion": -8.0,
    "situación": "Disminución de Casos",
    "COMUNA": "La Unión"
   },
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 14201,
-   "2025": 14.0,
-   "2026": 7.0,
-   "variacion": -50.0,
+   "2025": 15.0,
+   "2026": 9.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "La Unión"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 14201,
-   "2025": 110.0,
-   "2026": 44.0,
-   "variacion": -60.0,
+   "2025": 111.0,
+   "2026": 49.0,
+   "variacion": -56.0,
    "situación": "Disminución de Casos",
    "COMUNA": "La Unión"
   },
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 14201,
-   "2025": 24.0,
+   "2025": 27.0,
    "2026": 25.0,
-   "variacion": 4.0,
-   "situación": "Aumento de Casos",
+   "variacion": -7.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "La Unión"
   }
  ],
@@ -328,6 +328,14 @@
    "COMUNA": "La Unión"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 14201,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "La Unión"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14201,
    "anio": 2025,
@@ -461,6 +469,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 25.0,
+   "COMUNA": "La Unión"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 14201,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 4.0,
    "COMUNA": "La Unión"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "La Unión"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 14201,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 2.0,
+   "COMUNA": "La Unión"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 14201,
    "anio": 2025,
@@ -733,6 +757,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 23.0,
+   "COMUNA": "La Unión"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 14201,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 3.0,
    "COMUNA": "La Unión"
   },
   {
@@ -872,6 +904,14 @@
    "COMUNA": "La Unión"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 14201,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 6.0,
+   "COMUNA": "La Unión"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 14201,
    "anio": 2025,
@@ -1004,6 +1044,14 @@
    "CODCOM": 14201,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "La Unión"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 14201,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "La Unión"
   },
@@ -1144,6 +1192,14 @@
    "COMUNA": "La Unión"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 14201,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 6.0,
+   "COMUNA": "La Unión"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 14201,
    "anio": 2025,
@@ -1280,6 +1336,14 @@
    "COMUNA": "La Unión"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 14201,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 3.0,
+   "COMUNA": "La Unión"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 14201,
    "anio": 2025,
@@ -1412,6 +1476,14 @@
    "CODCOM": 14201,
    "anio": 2026,
    "mes": 5,
+   "casos": 1.0,
+   "COMUNA": "La Unión"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 14201,
+   "anio": 2026,
+   "mes": 6,
    "casos": 1.0,
    "COMUNA": "La Unión"
   },
@@ -1552,6 +1624,14 @@
    "COMUNA": "La Unión"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 14201,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 3.0,
+   "COMUNA": "La Unión"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 14201,
    "anio": 2025,
@@ -1685,6 +1765,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 2.0,
+   "COMUNA": "La Unión"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 14201,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
    "COMUNA": "La Unión"
   },
   {
@@ -1824,6 +1912,14 @@
    "COMUNA": "La Unión"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 14201,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "La Unión"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 14201,
    "anio": 2025,
@@ -1960,6 +2056,14 @@
    "COMUNA": "La Unión"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 14201,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "La Unión"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 14201,
    "anio": 2025,
@@ -2092,6 +2196,14 @@
    "CODCOM": 14201,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "La Unión"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 14201,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "La Unión"
   },
@@ -2232,6 +2344,14 @@
    "COMUNA": "La Unión"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 14201,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
+   "COMUNA": "La Unión"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 14201,
    "anio": 2025,
@@ -2368,6 +2488,14 @@
    "COMUNA": "La Unión"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 14201,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "La Unión"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 14201,
    "anio": 2025,
@@ -2501,6 +2629,14 @@
    "anio": 2026,
    "mes": 5,
    "casos": 1.0,
+   "COMUNA": "La Unión"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 14201,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 2.0,
    "COMUNA": "La Unión"
   },
   {
@@ -2636,6 +2772,14 @@
    "CODCOM": 14201,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "La Unión"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 14201,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "La Unión"
   },
@@ -2776,6 +2920,14 @@
    "COMUNA": "La Unión"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 14201,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 5.0,
+   "COMUNA": "La Unión"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 14201,
    "anio": 2025,
@@ -2908,6 +3060,14 @@
    "CODCOM": 14201,
    "anio": 2026,
    "mes": 5,
+   "casos": 0.0,
+   "COMUNA": "La Unión"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 14201,
+   "anio": 2026,
+   "mes": 6,
    "casos": 0.0,
    "COMUNA": "La Unión"
   },
@@ -3046,6 +3206,14 @@
    "mes": 5,
    "casos": 4.0,
    "COMUNA": "La Unión"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 14201,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 0.0,
+   "COMUNA": "La Unión"
   }
  ],
  "info": [
@@ -3064,7 +3232,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 296.0,
    "2025": 278.0,
-   "2026": 113.0,
+   "2026": 117.0,
    "COMUNA": "La Unión"
   },
   {
@@ -3073,7 +3241,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 387.0,
    "2025": 418.0,
-   "2026": 139.0,
+   "2026": 141.0,
    "COMUNA": "La Unión"
   },
   {
@@ -3082,7 +3250,7 @@
    "delito": "DAÑOS",
    "2024": 296.0,
    "2025": 304.0,
-   "2026": 94.0,
+   "2026": 97.0,
    "COMUNA": "La Unión"
   },
   {
@@ -3091,7 +3259,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 320.0,
    "2025": 294.0,
-   "2026": 140.0,
+   "2026": 146.0,
    "COMUNA": "La Unión"
   },
   {
@@ -3109,7 +3277,7 @@
    "delito": "HURTOS",
    "2024": 198.0,
    "2025": 183.0,
-   "2026": 82.0,
+   "2026": 88.0,
    "COMUNA": "La Unión"
   },
   {
@@ -3118,7 +3286,7 @@
    "delito": "INCIVILIDADES",
    "2024": 126.0,
    "2025": 119.0,
-   "2026": 51.0,
+   "2026": 54.0,
    "COMUNA": "La Unión"
   },
   {
@@ -3127,7 +3295,7 @@
    "delito": "LESIONES GRAVES",
    "2024": 19.0,
    "2025": 14.0,
-   "2026": 6.0,
+   "2026": 7.0,
    "COMUNA": "La Unión"
   },
   {
@@ -3136,7 +3304,7 @@
    "delito": "LESIONES LEVES",
    "2024": 127.0,
    "2025": 129.0,
-   "2026": 52.0,
+   "2026": 55.0,
    "COMUNA": "La Unión"
   },
   {
@@ -3145,7 +3313,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2024": 23.0,
    "2025": 22.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "La Unión"
   },
   {
@@ -3181,7 +3349,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 22.0,
    "2025": 31.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "La Unión"
   },
   {
@@ -3199,7 +3367,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 35.0,
    "2025": 31.0,
-   "2026": 7.0,
+   "2026": 9.0,
    "COMUNA": "La Unión"
   },
   {
@@ -3217,7 +3385,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 302.0,
    "2025": 191.0,
-   "2026": 44.0,
+   "2026": 49.0,
    "COMUNA": "La Unión"
   },
   {
@@ -3240,7 +3408,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 22/2026 (del 25/05/2026 al 31/05/2026)",
+  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
   "region": "Los Ríos"
  }
 }
