@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6309,
-   "2025": 20.0,
+   "2025": 21.0,
    "2026": 7.0,
-   "variacion": -65.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pumanque"
   },
@@ -30,10 +30,10 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6309,
-   "2025": 13.0,
+   "2025": 14.0,
    "2026": 13.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -7.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Pumanque"
   },
   {
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 6309,
    "2025": 6.0,
-   "2026": 8.0,
-   "variacion": 33.0,
+   "2026": 9.0,
+   "variacion": 50.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pumanque"
   },
@@ -1323,7 +1323,7 @@
    "CODCOM": 6309,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Pumanque"
   },
   {
@@ -3037,7 +3037,7 @@
    "delito": "INCIVILIDADES",
    "2024": 5.0,
    "2025": 11.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Pumanque"
   },
   {
@@ -3159,7 +3159,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
+  "semana_id": "SEMANA 24/2026 (del 08/06/2026 al 14/06/2026)",
   "region": "O'Higgins"
  }
 }

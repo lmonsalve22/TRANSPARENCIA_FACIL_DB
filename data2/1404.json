@@ -12,27 +12,27 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 1404,
-   "2025": 9.0,
-   "2026": 12.0,
-   "variacion": 33.0,
+   "2025": 11.0,
+   "2026": 14.0,
+   "variacion": 27.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Huara"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 1404,
-   "2025": 42.0,
+   "2025": 43.0,
    "2026": 18.0,
-   "variacion": -57.0,
+   "variacion": -58.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 1404,
-   "2025": 21.0,
+   "2025": 22.0,
    "2026": 15.0,
-   "variacion": -29.0,
+   "variacion": -32.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 1404,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 4.0,
-   "variacion": 300.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Huara"
   },
@@ -129,10 +129,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 1404,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
   {
@@ -156,9 +156,9 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 1404,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 6.0,
-   "variacion": 600.0,
+   "variacion": 500.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Huara"
   },
@@ -476,7 +476,7 @@
    "CODCOM": 1404,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Huara"
   },
   {
@@ -3216,7 +3216,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 31.0,
    "2025": 32.0,
-   "2026": 12.0,
+   "2026": 14.0,
    "COMUNA": "Huara"
   },
   {
@@ -3392,7 +3392,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
+  "semana_id": "SEMANA 24/2026 (del 08/06/2026 al 14/06/2026)",
   "region": "Tarapacá"
  }
 }

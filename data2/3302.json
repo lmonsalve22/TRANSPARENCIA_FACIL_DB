@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 3302,
    "2025": 15.0,
-   "2026": 18.0,
-   "variacion": 20.0,
+   "2026": 19.0,
+   "variacion": 27.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Alto del Carmen"
   },
@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 3302,
    "2025": 11.0,
-   "2026": 14.0,
-   "variacion": 27.0,
+   "2026": 15.0,
+   "variacion": 36.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Alto del Carmen"
   },
@@ -40,26 +40,26 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 3302,
    "2025": 11.0,
-   "2026": 10.0,
-   "variacion": -9.0,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Alto del Carmen"
-  },
-  {
-   "delito": "HURTOS",
-   "CODCOM": 3302,
-   "2025": 7.0,
-   "2026": 7.0,
+   "2026": 11.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Alto del Carmen"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 3302,
+   "2025": 9.0,
+   "2026": 8.0,
+   "variacion": -11.0,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Alto del Carmen"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 3302,
-   "2025": 6.0,
-   "2026": 3.0,
-   "variacion": -50.0,
+   "2025": 7.0,
+   "2026": 4.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Alto del Carmen"
   },
@@ -450,7 +450,7 @@
    "CODCOM": 3302,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -594,7 +594,7 @@
    "CODCOM": 3302,
    "anio": 2026,
    "mes": 6,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -882,7 +882,7 @@
    "CODCOM": 3302,
    "anio": 2026,
    "mes": 6,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -1026,7 +1026,7 @@
    "CODCOM": 3302,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -1170,7 +1170,7 @@
    "CODCOM": 3302,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -2910,7 +2910,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 25.0,
    "2025": 45.0,
-   "2026": 18.0,
+   "2026": 19.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -2919,7 +2919,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 44.0,
    "2025": 35.0,
-   "2026": 14.0,
+   "2026": 15.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -2937,7 +2937,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 25.0,
    "2025": 28.0,
-   "2026": 10.0,
+   "2026": 11.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -2955,7 +2955,7 @@
    "delito": "HURTOS",
    "2024": 12.0,
    "2025": 13.0,
-   "2026": 7.0,
+   "2026": 8.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -2964,7 +2964,7 @@
    "delito": "INCIVILIDADES",
    "2024": 13.0,
    "2025": 13.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Alto del Carmen"
   },
   {
@@ -3086,7 +3086,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
+  "semana_id": "SEMANA 24/2026 (del 08/06/2026 al 14/06/2026)",
   "region": "Atacama"
  }
 }

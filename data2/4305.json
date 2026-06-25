@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 4305,
-   "2025": 11.0,
+   "2025": 14.0,
    "2026": 8.0,
-   "variacion": -27.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Hurtado"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 4305,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 7.0,
-   "variacion": 600.0,
+   "variacion": 250.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Río Hurtado"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 4305,
    "2025": 5.0,
-   "2026": 2.0,
-   "variacion": -60.0,
+   "2026": 3.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Río Hurtado"
   },
@@ -1171,7 +1171,7 @@
    "CODCOM": 4305,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Río Hurtado"
   },
   {
@@ -3060,7 +3060,7 @@
    "delito": "HURTOS",
    "2024": 8.0,
    "2025": 7.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Río Hurtado"
   },
   {
@@ -3191,7 +3191,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
+  "semana_id": "SEMANA 24/2026 (del 08/06/2026 al 14/06/2026)",
   "region": "Coquimbo"
  }
 }

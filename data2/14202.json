@@ -3,26 +3,26 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 14202,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Futrono"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14202,
-   "2025": 57.0,
-   "2026": 62.0,
-   "variacion": 9.0,
+   "2025": 58.0,
+   "2026": 66.0,
+   "variacion": 14.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Futrono"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 14202,
-   "2025": 216.0,
-   "2026": 225.0,
+   "2025": 219.0,
+   "2026": 228.0,
    "variacion": 4.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Futrono"
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 14202,
-   "2025": 50.0,
-   "2026": 41.0,
-   "variacion": -18.0,
+   "2025": 52.0,
+   "2026": 42.0,
+   "variacion": -19.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Futrono"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 14202,
-   "2025": 55.0,
-   "2026": 51.0,
-   "variacion": -7.0,
+   "2025": 56.0,
+   "2026": 54.0,
+   "variacion": -4.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Futrono"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 14202,
-   "2025": 23.0,
+   "2025": 25.0,
    "2026": 20.0,
-   "variacion": -13.0,
+   "variacion": -20.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Futrono"
   },
@@ -129,10 +129,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 14202,
-   "2025": 2.0,
+   "2025": 3.0,
    "2026": 3.0,
-   "variacion": 50.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Futrono"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 14202,
-   "2025": 27.0,
+   "2025": 28.0,
    "2026": 16.0,
-   "variacion": -41.0,
+   "variacion": -43.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Futrono"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 14202,
    "2025": 18.0,
-   "2026": 5.0,
-   "variacion": -72.0,
+   "2026": 6.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Futrono"
   }
@@ -476,7 +476,7 @@
    "CODCOM": 14202,
    "anio": 2026,
    "mes": 6,
-   "casos": 4.0,
+   "casos": 8.0,
    "COMUNA": "Futrono"
   },
   {
@@ -620,7 +620,7 @@
    "CODCOM": 14202,
    "anio": 2026,
    "mes": 6,
-   "casos": 6.0,
+   "casos": 9.0,
    "COMUNA": "Futrono"
   },
   {
@@ -764,7 +764,7 @@
    "CODCOM": 14202,
    "anio": 2026,
    "mes": 6,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Futrono"
   },
   {
@@ -908,7 +908,7 @@
    "CODCOM": 14202,
    "anio": 2026,
    "mes": 6,
-   "casos": 2.0,
+   "casos": 5.0,
    "COMUNA": "Futrono"
   },
   {
@@ -3164,7 +3164,7 @@
    "CODCOM": 14202,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Futrono"
   }
  ],
@@ -3184,7 +3184,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 120.0,
    "2025": 125.0,
-   "2026": 62.0,
+   "2026": 66.0,
    "COMUNA": "Futrono"
   },
   {
@@ -3193,7 +3193,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 372.0,
    "2025": 445.0,
-   "2026": 225.0,
+   "2026": 228.0,
    "COMUNA": "Futrono"
   },
   {
@@ -3202,7 +3202,7 @@
    "delito": "DAÑOS",
    "2024": 113.0,
    "2025": 97.0,
-   "2026": 41.0,
+   "2026": 42.0,
    "COMUNA": "Futrono"
   },
   {
@@ -3211,7 +3211,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 123.0,
    "2025": 142.0,
-   "2026": 51.0,
+   "2026": 54.0,
    "COMUNA": "Futrono"
   },
   {
@@ -3355,12 +3355,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 14.0,
    "2025": 31.0,
-   "2026": 5.0,
+   "2026": 6.0,
    "COMUNA": "Futrono"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
+  "semana_id": "SEMANA 24/2026 (del 08/06/2026 al 14/06/2026)",
   "region": "Los Ríos"
  }
 }

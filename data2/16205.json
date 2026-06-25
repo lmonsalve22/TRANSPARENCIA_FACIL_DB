@@ -21,36 +21,36 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16205,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 2.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
-   "COMUNA": "Portezuelo"
-  },
-  {
-   "delito": "DAÑOS",
-   "CODCOM": 16205,
-   "2025": 13.0,
-   "2026": 13.0,
    "variacion": 0.0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Portezuelo"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 16205,
+   "2025": 14.0,
+   "2026": 13.0,
+   "variacion": -7.0,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Portezuelo"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16205,
-   "2025": 16.0,
-   "2026": 8.0,
-   "variacion": -50.0,
+   "2025": 17.0,
+   "2026": 10.0,
+   "variacion": -41.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Portezuelo"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 16205,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 2.0,
-   "variacion": -60.0,
+   "variacion": -67.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Portezuelo"
   },
@@ -139,8 +139,8 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16205,
    "2025": 1.0,
-   "2026": 2.0,
-   "variacion": 100.0,
+   "2026": 3.0,
+   "variacion": 200.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Portezuelo"
   },
@@ -882,7 +882,7 @@
    "CODCOM": 16205,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Portezuelo"
   },
   {
@@ -2450,7 +2450,7 @@
    "CODCOM": 16205,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Portezuelo"
   },
   {
@@ -2929,7 +2929,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 31.0,
    "2025": 25.0,
-   "2026": 8.0,
+   "2026": 10.0,
    "COMUNA": "Portezuelo"
   },
   {
@@ -3046,7 +3046,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 1.0,
    "2025": 2.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Portezuelo"
   },
   {
@@ -3078,7 +3078,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
+  "semana_id": "SEMANA 24/2026 (del 08/06/2026 al 14/06/2026)",
   "region": "Ñuble"
  }
 }

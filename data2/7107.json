@@ -13,26 +13,26 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7107,
    "2025": 24.0,
-   "2026": 16.0,
-   "variacion": -33.0,
+   "2026": 17.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pencahue"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7107,
-   "2025": 46.0,
+   "2025": 48.0,
    "2026": 70.0,
-   "variacion": 52.0,
+   "variacion": 46.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pencahue"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7107,
-   "2025": 38.0,
-   "2026": 26.0,
-   "variacion": -32.0,
+   "2025": 39.0,
+   "2026": 27.0,
+   "variacion": -31.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Pencahue"
   },
@@ -40,9 +40,18 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7107,
    "2025": 31.0,
-   "2026": 16.0,
-   "variacion": -48.0,
+   "2026": 18.0,
+   "variacion": -42.0,
    "situación": "Disminución de Casos",
+   "COMUNA": "Pencahue"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 7107,
+   "2025": 0.0,
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Pencahue"
   },
   {
@@ -57,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 7107,
-   "2025": 5.0,
+   "2025": 6.0,
    "2026": 12.0,
-   "variacion": 140.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pencahue"
   },
@@ -156,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7107,
-   "2025": 15.0,
+   "2025": 17.0,
    "2026": 19.0,
-   "variacion": 27.0,
+   "variacion": 12.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Pencahue"
   },
@@ -458,7 +467,7 @@
    "CODCOM": 7107,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Pencahue"
   },
   {
@@ -746,7 +755,7 @@
    "CODCOM": 7107,
    "anio": 2026,
    "mes": 6,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Pencahue"
   },
   {
@@ -890,7 +899,15 @@
    "CODCOM": 7107,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 2.0,
+   "COMUNA": "Pencahue"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 7107,
+   "anio": 2026,
+   "mes": 6,
+   "casos": 1.0,
    "COMUNA": "Pencahue"
   },
   {
@@ -2918,7 +2935,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 36.0,
    "2025": 51.0,
-   "2026": 16.0,
+   "2026": 17.0,
    "COMUNA": "Pencahue"
   },
   {
@@ -2936,7 +2953,7 @@
    "delito": "DAÑOS",
    "2024": 70.0,
    "2025": 75.0,
-   "2026": 26.0,
+   "2026": 27.0,
    "COMUNA": "Pencahue"
   },
   {
@@ -2945,7 +2962,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 56.0,
    "2025": 46.0,
-   "2026": 16.0,
+   "2026": 18.0,
    "COMUNA": "Pencahue"
   },
   {
@@ -2954,7 +2971,7 @@
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "2024": 0.0,
    "2025": 0.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Pencahue"
   },
   {
@@ -3094,7 +3111,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
+  "semana_id": "SEMANA 24/2026 (del 08/06/2026 al 14/06/2026)",
   "region": "Maule"
  }
 }

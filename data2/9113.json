@@ -12,27 +12,27 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9113,
-   "2025": 20.0,
+   "2025": 21.0,
    "2026": 29.0,
-   "variacion": 45.0,
+   "variacion": 38.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Perquenco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9113,
-   "2025": 87.0,
-   "2026": 137.0,
-   "variacion": 57.0,
+   "2025": 93.0,
+   "2026": 141.0,
+   "variacion": 52.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Perquenco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9113,
-   "2025": 35.0,
-   "2026": 17.0,
-   "variacion": -51.0,
+   "2025": 36.0,
+   "2026": 21.0,
+   "variacion": -42.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Perquenco"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9113,
-   "2025": 8.0,
+   "2025": 11.0,
    "2026": 16.0,
-   "variacion": 100.0,
+   "variacion": 45.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Perquenco"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9113,
-   "2025": 6.0,
+   "2025": 7.0,
    "2026": 37.0,
-   "variacion": 517.0,
+   "variacion": 429.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Perquenco"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9113,
-   "2025": 11.0,
-   "2026": 8.0,
-   "variacion": -27.0,
+   "2025": 13.0,
+   "2026": 9.0,
+   "variacion": -31.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Perquenco"
   },
@@ -103,17 +103,17 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9113,
    "2025": 7.0,
-   "2026": 3.0,
-   "variacion": -57.0,
+   "2026": 5.0,
+   "variacion": -29.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Perquenco"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9113,
-   "2025": 19.0,
+   "2025": 20.0,
    "2026": 11.0,
-   "variacion": -42.0,
+   "variacion": -45.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Perquenco"
   },
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9113,
-   "2025": 3.0,
+   "2025": 5.0,
    "2026": 5.0,
-   "variacion": 67.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Perquenco"
   },
   {
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9113,
-   "2025": 2.0,
-   "2026": 1.0,
-   "variacion": -50.0,
+   "2025": 3.0,
+   "2026": 2.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Perquenco"
   }
@@ -620,7 +620,7 @@
    "CODCOM": 9113,
    "anio": 2026,
    "mes": 6,
-   "casos": 2.0,
+   "casos": 6.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -764,7 +764,7 @@
    "CODCOM": 9113,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 4.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -1628,7 +1628,7 @@
    "CODCOM": 9113,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -1916,7 +1916,7 @@
    "CODCOM": 9113,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -3172,7 +3172,7 @@
    "CODCOM": 9113,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Perquenco"
   }
  ],
@@ -3201,7 +3201,7 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 214.0,
    "2025": 247.0,
-   "2026": 137.0,
+   "2026": 141.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -3210,7 +3210,7 @@
    "delito": "DAÑOS",
    "2024": 71.0,
    "2025": 50.0,
-   "2026": 17.0,
+   "2026": 21.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -3264,7 +3264,7 @@
    "delito": "LESIONES LEVES",
    "2024": 24.0,
    "2025": 25.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -3282,7 +3282,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 18.0,
    "2025": 10.0,
-   "2026": 3.0,
+   "2026": 5.0,
    "COMUNA": "Perquenco"
   },
   {
@@ -3363,12 +3363,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 10.0,
    "2025": 6.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Perquenco"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
+  "semana_id": "SEMANA 24/2026 (del 08/06/2026 al 14/06/2026)",
   "region": "La Araucanía"
  }
 }

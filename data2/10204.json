@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 10204,
-   "2025": 14.0,
-   "2026": 12.0,
-   "variacion": -14.0,
+   "2025": 16.0,
+   "2026": 14.0,
+   "variacion": -12.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curaco de Vélez"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10204,
-   "2025": 12.0,
+   "2025": 13.0,
    "2026": 8.0,
-   "variacion": -33.0,
+   "variacion": -38.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curaco de Vélez"
   },
@@ -58,17 +58,17 @@
    "delito": "HURTOS",
    "CODCOM": 10204,
    "2025": 2.0,
-   "2026": 1.0,
-   "variacion": -50.0,
-   "situación": "Disminución de Casos",
+   "2026": 2.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Curaco de Vélez"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10204,
    "2025": 3.0,
-   "2026": 1.0,
-   "variacion": -67.0,
+   "2026": 2.0,
+   "variacion": -33.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curaco de Vélez"
   },
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10204,
-   "2025": 0.0,
+   "2025": 1.0,
    "2026": 1.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -755,7 +755,7 @@
    "CODCOM": 10204,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -1059,7 +1059,7 @@
    "CODCOM": 10204,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -1203,7 +1203,7 @@
    "CODCOM": 10204,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -2873,7 +2873,7 @@
    "delito": "DAÑOS",
    "2024": 31.0,
    "2025": 23.0,
-   "2026": 12.0,
+   "2026": 14.0,
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -2900,7 +2900,7 @@
    "delito": "HURTOS",
    "2024": 5.0,
    "2025": 4.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -2909,7 +2909,7 @@
    "delito": "INCIVILIDADES",
    "2024": 8.0,
    "2025": 4.0,
-   "2026": 1.0,
+   "2026": 2.0,
    "COMUNA": "Curaco de Vélez"
   },
   {
@@ -3031,7 +3031,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
+  "semana_id": "SEMANA 24/2026 (del 08/06/2026 al 14/06/2026)",
   "region": "Los Lagos"
  }
 }

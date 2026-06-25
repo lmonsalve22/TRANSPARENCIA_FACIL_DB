@@ -57,9 +57,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5104,
-   "2025": 10.0,
-   "2026": 14.0,
-   "variacion": 40.0,
+   "2025": 14.0,
+   "2026": 15.0,
+   "variacion": 7.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Juan Fernández"
   },
@@ -75,10 +75,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5104,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 2.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Juan Fernández"
   },
   {
@@ -1152,7 +1152,7 @@
    "CODCOM": 5104,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Juan Fernández"
   },
   {
@@ -2594,7 +2594,7 @@
    "delito": "INCIVILIDADES",
    "2024": 10.0,
    "2025": 25.0,
-   "2026": 14.0,
+   "2026": 15.0,
    "COMUNA": "Juan Fernández"
   },
   {
@@ -2716,7 +2716,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
+  "semana_id": "SEMANA 24/2026 (del 08/06/2026 al 14/06/2026)",
   "region": "Valparaíso"
  }
 }

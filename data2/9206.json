@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9206,
-   "2025": 28.0,
+   "2025": 31.0,
    "2026": 27.0,
-   "variacion": -4.0,
+   "variacion": -13.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Sauces"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 9206,
-   "2025": 34.0,
+   "2025": 35.0,
    "2026": 32.0,
-   "variacion": -6.0,
+   "variacion": -9.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Sauces"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9206,
-   "2025": 12.0,
-   "2026": 4.0,
-   "variacion": -67.0,
+   "2025": 14.0,
+   "2026": 5.0,
+   "variacion": -64.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Sauces"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 9206,
    "2025": 7.0,
-   "2026": 12.0,
-   "variacion": 71.0,
+   "2026": 15.0,
+   "variacion": 114.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Los Sauces"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9206,
    "2025": 3.0,
-   "2026": 4.0,
-   "variacion": 33.0,
+   "2026": 6.0,
+   "variacion": 100.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Los Sauces"
   },
@@ -112,9 +112,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 9206,
    "2025": 3.0,
-   "2026": 2.0,
-   "variacion": -33.0,
-   "situación": "Disminución de Casos",
+   "2026": 4.0,
+   "variacion": 33.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Los Sauces"
   },
   {
@@ -1156,7 +1156,7 @@
    "CODCOM": 9206,
    "anio": 2026,
    "mes": 6,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -1588,7 +1588,7 @@
    "CODCOM": 9206,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 3.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -1876,7 +1876,7 @@
    "CODCOM": 9206,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -2020,7 +2020,7 @@
    "CODCOM": 9206,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -3229,7 +3229,7 @@
    "delito": "HURTOS",
    "2024": 23.0,
    "2025": 30.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -3256,7 +3256,7 @@
    "delito": "LESIONES LEVES",
    "2024": 29.0,
    "2025": 29.0,
-   "2026": 12.0,
+   "2026": 15.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -3274,7 +3274,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 8.0,
    "2025": 11.0,
-   "2026": 4.0,
+   "2026": 6.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -3283,7 +3283,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 2.0,
    "2025": 3.0,
-   "2026": 2.0,
+   "2026": 4.0,
    "COMUNA": "Los Sauces"
   },
   {
@@ -3360,7 +3360,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
+  "semana_id": "SEMANA 24/2026 (del 08/06/2026 al 14/06/2026)",
   "region": "La Araucanía"
  }
 }

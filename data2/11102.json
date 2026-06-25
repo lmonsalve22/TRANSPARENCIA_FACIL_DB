@@ -39,10 +39,10 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11102,
-   "2025": 1.0,
+   "2025": 3.0,
    "2026": 2.0,
-   "variacion": 100.0,
-   "situación": "Aumento de Casos",
+   "variacion": -33.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Lago Verde"
   },
   {
@@ -57,7 +57,7 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 11102,
-   "2025": 1.0,
+   "2025": 2.0,
    "2026": 0.0,
    "variacion": -100.0,
    "situación": "Disminución de Casos",
@@ -103,9 +103,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 11102,
    "2025": 0.0,
-   "2026": 0.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 1.0,
+   "variacion": 100.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Lago Verde"
   },
   {
@@ -1865,7 +1865,7 @@
    "CODCOM": 11102,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Lago Verde"
   },
   {
@@ -2744,7 +2744,7 @@
    "delito": "LEY DE DROGAS",
    "2024": 0.0,
    "2025": 0.0,
-   "2026": 0.0,
+   "2026": 1.0,
    "COMUNA": "Lago Verde"
   },
   {
@@ -2821,7 +2821,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
+  "semana_id": "SEMANA 24/2026 (del 08/06/2026 al 14/06/2026)",
   "region": "Aysén"
  }
 }

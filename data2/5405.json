@@ -12,27 +12,27 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5405,
-   "2025": 24.0,
+   "2025": 25.0,
    "2026": 32.0,
-   "variacion": 33.0,
+   "variacion": 28.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Zapallar"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5405,
-   "2025": 54.0,
+   "2025": 55.0,
    "2026": 42.0,
-   "variacion": -22.0,
+   "variacion": -24.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Zapallar"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5405,
-   "2025": 55.0,
-   "2026": 52.0,
-   "variacion": -5.0,
+   "2025": 58.0,
+   "2026": 53.0,
+   "variacion": -9.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Zapallar"
   },
@@ -103,9 +103,9 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5405,
    "2025": 3.0,
-   "2026": 3.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 4.0,
+   "variacion": 33.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Zapallar"
   },
   {
@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5405,
-   "2025": 33.0,
+   "2025": 34.0,
    "2026": 34.0,
-   "variacion": 3.0,
-   "situación": "Aumento de Casos",
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Zapallar"
   },
   {
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5405,
-   "2025": 7.0,
+   "2025": 8.0,
    "2026": 4.0,
-   "variacion": -43.0,
+   "variacion": -50.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Zapallar"
   }
@@ -764,7 +764,7 @@
    "CODCOM": 5405,
    "anio": 2026,
    "mes": 6,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Zapallar"
   },
   {
@@ -1908,7 +1908,7 @@
    "CODCOM": 5405,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Zapallar"
   },
   {
@@ -3242,7 +3242,7 @@
    "delito": "DAÑOS",
    "2024": 109.0,
    "2025": 107.0,
-   "2026": 52.0,
+   "2026": 53.0,
    "COMUNA": "Zapallar"
   },
   {
@@ -3314,7 +3314,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 11.0,
    "2025": 7.0,
-   "2026": 3.0,
+   "2026": 4.0,
    "COMUNA": "Zapallar"
   },
   {
@@ -3400,7 +3400,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
+  "semana_id": "SEMANA 24/2026 (del 08/06/2026 al 14/06/2026)",
   "region": "Valparaíso"
  }
 }

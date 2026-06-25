@@ -21,28 +21,28 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9104,
-   "2025": 26.0,
+   "2025": 27.0,
    "2026": 73.0,
-   "variacion": 181.0,
+   "variacion": 170.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Curarrehue"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9104,
-   "2025": 33.0,
-   "2026": 21.0,
-   "variacion": -36.0,
+   "2025": 35.0,
+   "2026": 22.0,
+   "variacion": -37.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curarrehue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9104,
-   "2025": 45.0,
+   "2025": 46.0,
    "2026": 45.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -2.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Curarrehue"
   },
   {
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9104,
-   "2025": 14.0,
+   "2025": 15.0,
    "2026": 7.0,
-   "variacion": -50.0,
+   "variacion": -53.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curarrehue"
   },
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 9104,
    "2025": 15.0,
-   "2026": 15.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "2026": 17.0,
+   "variacion": 13.0,
+   "situación": "Aumento de Casos",
    "COMUNA": "Curarrehue"
   },
   {
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 9104,
    "2025": 12.0,
-   "2026": 8.0,
-   "variacion": -33.0,
+   "2026": 9.0,
+   "variacion": -25.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curarrehue"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9104,
    "2025": 4.0,
-   "2026": 24.0,
-   "variacion": 500.0,
+   "2026": 26.0,
+   "variacion": 550.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Curarrehue"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9104,
    "2025": 5.0,
-   "2026": 2.0,
-   "variacion": -60.0,
+   "2026": 3.0,
+   "variacion": -40.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Curarrehue"
   }
@@ -764,7 +764,7 @@
    "CODCOM": 9104,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Curarrehue"
   },
   {
@@ -1332,7 +1332,7 @@
    "CODCOM": 9104,
    "anio": 2026,
    "mes": 6,
-   "casos": 2.0,
+   "casos": 4.0,
    "COMUNA": "Curarrehue"
   },
   {
@@ -1620,7 +1620,7 @@
    "CODCOM": 9104,
    "anio": 2026,
    "mes": 6,
-   "casos": 1.0,
+   "casos": 2.0,
    "COMUNA": "Curarrehue"
   },
   {
@@ -1908,7 +1908,7 @@
    "CODCOM": 9104,
    "anio": 2026,
    "mes": 6,
-   "casos": 1.0,
+   "casos": 3.0,
    "COMUNA": "Curarrehue"
   },
   {
@@ -3204,7 +3204,7 @@
    "CODCOM": 9104,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Curarrehue"
   }
  ],
@@ -3242,7 +3242,7 @@
    "delito": "DAÑOS",
    "2024": 82.0,
    "2025": 61.0,
-   "2026": 21.0,
+   "2026": 22.0,
    "COMUNA": "Curarrehue"
   },
   {
@@ -3278,7 +3278,7 @@
    "delito": "INCIVILIDADES",
    "2024": 34.0,
    "2025": 33.0,
-   "2026": 15.0,
+   "2026": 17.0,
    "COMUNA": "Curarrehue"
   },
   {
@@ -3296,7 +3296,7 @@
    "delito": "LESIONES LEVES",
    "2024": 29.0,
    "2025": 24.0,
-   "2026": 8.0,
+   "2026": 9.0,
    "COMUNA": "Curarrehue"
   },
   {
@@ -3314,7 +3314,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 9.0,
    "2025": 17.0,
-   "2026": 24.0,
+   "2026": 26.0,
    "COMUNA": "Curarrehue"
   },
   {
@@ -3395,12 +3395,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 17.0,
    "2025": 9.0,
-   "2026": 2.0,
+   "2026": 3.0,
    "COMUNA": "Curarrehue"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
+  "semana_id": "SEMANA 24/2026 (del 08/06/2026 al 14/06/2026)",
   "region": "La Araucanía"
  }
 }

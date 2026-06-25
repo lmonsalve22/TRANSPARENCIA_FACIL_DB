@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8204,
-   "2025": 20.0,
+   "2025": 22.0,
    "2026": 20.0,
-   "variacion": 0.0,
-   "situación": "Sin variación de Casos",
+   "variacion": -9.0,
+   "situación": "Disminución de Casos",
    "COMUNA": "Contulmo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8204,
-   "2025": 12.0,
+   "2025": 13.0,
    "2026": 14.0,
-   "variacion": 17.0,
+   "variacion": 8.0,
    "situación": "Aumento de Casos",
    "COMUNA": "Contulmo"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8204,
-   "2025": 18.0,
-   "2026": 12.0,
-   "variacion": -33.0,
+   "2025": 19.0,
+   "2026": 14.0,
+   "variacion": -26.0,
    "situación": "Disminución de Casos",
    "COMUNA": "Contulmo"
   },
@@ -58,9 +58,9 @@
    "delito": "HURTOS",
    "CODCOM": 8204,
    "2025": 5.0,
-   "2026": 4.0,
-   "variacion": -20.0,
-   "situación": "Disminución de Casos",
+   "2026": 5.0,
+   "variacion": 0.0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Contulmo"
   },
   {
@@ -900,7 +900,7 @@
    "CODCOM": 8204,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 2.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -1180,7 +1180,7 @@
    "CODCOM": 8204,
    "anio": 2026,
    "mes": 6,
-   "casos": 0.0,
+   "casos": 1.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -3219,7 +3219,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 29.0,
    "2025": 30.0,
-   "2026": 12.0,
+   "2026": 14.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -3237,7 +3237,7 @@
    "delito": "HURTOS",
    "2024": 26.0,
    "2025": 14.0,
-   "2026": 4.0,
+   "2026": 5.0,
    "COMUNA": "Contulmo"
   },
   {
@@ -3368,7 +3368,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 23/2026 (del 01/06/2026 al 07/06/2026)",
+  "semana_id": "SEMANA 24/2026 (del 08/06/2026 al 14/06/2026)",
   "region": "Biobío"
  }
 }
